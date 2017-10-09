@@ -12,38 +12,38 @@ ms.workload: na
 ms.search.keywords: relationship, prospect
 ms.date: 06/06/2017
 ms.author: jswymer
-ms.translationtype: Human Translation
+ms.translationtype: HT
 ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
 ms.openlocfilehash: 3137ed6aeaa235e2f2b4db7fdfb7dd7b8570c886
 ms.contentlocale: en-au
-ms.lasthandoff: 09/11/2017
+ms.lasthandoff: 09/22/2017
 
 ---
-# <a name="how-to-create-sales-opportunities"></a><span data-ttu-id="32a60-103">How to: Create Sales Opportunities</span><span class="sxs-lookup"><span data-stu-id="32a60-103">How to: Create Sales Opportunities</span></span>
-<span data-ttu-id="32a60-104">You can create opportunities for the sales opportunities you have on your contacts.</span><span class="sxs-lookup"><span data-stu-id="32a60-104">You can create opportunities for the sales opportunities you have on your contacts.</span></span> <span data-ttu-id="32a60-105">All opportunities must be assigned to a salesperson or purchaser and must have a contact.</span><span class="sxs-lookup"><span data-stu-id="32a60-105">All opportunities must be assigned to a salesperson or purchaser and must have a contact.</span></span>
+# <a name="how-to-create-sales-opportunities"></a><span data-ttu-id="9a1e8-103">How to: Create Sales Opportunities</span><span class="sxs-lookup"><span data-stu-id="9a1e8-103">How to: Create Sales Opportunities</span></span>
+<span data-ttu-id="9a1e8-104">You can create opportunities for the sales opportunities you have on your contacts.</span><span class="sxs-lookup"><span data-stu-id="9a1e8-104">You can create opportunities for the sales opportunities you have on your contacts.</span></span> <span data-ttu-id="9a1e8-105">All opportunities must be assigned to a salesperson or purchaser and must have a contact.</span><span class="sxs-lookup"><span data-stu-id="9a1e8-105">All opportunities must be assigned to a salesperson or purchaser and must have a contact.</span></span>
 
-<span data-ttu-id="32a60-106">You can create opportunities from the **Opportunity List** window.</span><span class="sxs-lookup"><span data-stu-id="32a60-106">You can create opportunities from the **Opportunity List** window.</span></span> <span data-ttu-id="32a60-107">But you typically will create opportunities from the specific contact or salespeople.</span><span class="sxs-lookup"><span data-stu-id="32a60-107">But you typically will create opportunities from the specific contact or salespeople.</span></span>
+<span data-ttu-id="9a1e8-106">You can create opportunities from the **Opportunity List** window.</span><span class="sxs-lookup"><span data-stu-id="9a1e8-106">You can create opportunities from the **Opportunity List** window.</span></span> <span data-ttu-id="9a1e8-107">But you typically will create opportunities from the specific contact or salespeople.</span><span class="sxs-lookup"><span data-stu-id="9a1e8-107">But you typically will create opportunities from the specific contact or salespeople.</span></span>
 
-<span data-ttu-id="32a60-108">Before you can create opportunities, you must set up opportunity sales cycles.</span><span class="sxs-lookup"><span data-stu-id="32a60-108">Before you can create opportunities, you must set up opportunity sales cycles.</span></span> <span data-ttu-id="32a60-109">For more information see [How to: Set Up Opportunity Sales Cycles and Stages](marketing-how-setup-opportunity-sales-cycles-stages.md).</span><span class="sxs-lookup"><span data-stu-id="32a60-109">For more information see [How to: Set Up Opportunity Sales Cycles and Stages](marketing-how-setup-opportunity-sales-cycles-stages.md).</span></span>
+<span data-ttu-id="9a1e8-108">Before you can create opportunities, you must set up opportunity sales cycles.</span><span class="sxs-lookup"><span data-stu-id="9a1e8-108">Before you can create opportunities, you must set up opportunity sales cycles.</span></span> <span data-ttu-id="9a1e8-109">For more information see [How to: Set Up Opportunity Sales Cycles and Stages](marketing-how-setup-opportunity-sales-cycles-stages.md).</span><span class="sxs-lookup"><span data-stu-id="9a1e8-109">For more information see [How to: Set Up Opportunity Sales Cycles and Stages](marketing-how-setup-opportunity-sales-cycles-stages.md).</span></span>
 
-## <a name="to-create-an-opportunity-from-a-salesperson"></a><span data-ttu-id="32a60-110">To create an opportunity from a salesperson</span><span class="sxs-lookup"><span data-stu-id="32a60-110">To create an opportunity from a salesperson</span></span>
-1. <span data-ttu-id="32a60-111">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Salespeople**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="32a60-111">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Salespeople**, and then choose the related link.</span></span>
-2. <span data-ttu-id="32a60-112">Select the salesperson from the list for whom you want to create an opportunity.</span><span class="sxs-lookup"><span data-stu-id="32a60-112">Select the salesperson from the list for whom you want to create an opportunity.</span></span>
-3. <span data-ttu-id="32a60-113">Choose the **Opportunities** action, and then choose **List**.</span><span class="sxs-lookup"><span data-stu-id="32a60-113">Choose the **Opportunities** action, and then choose **List**.</span></span>
-4. <span data-ttu-id="32a60-114">Choose **New**, and then fill in the fields as relevant.</span><span class="sxs-lookup"><span data-stu-id="32a60-114">Choose **New**, and then fill in the fields as relevant.</span></span> [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
+## <a name="to-create-an-opportunity-from-a-salesperson"></a><span data-ttu-id="9a1e8-110">To create an opportunity from a salesperson</span><span class="sxs-lookup"><span data-stu-id="9a1e8-110">To create an opportunity from a salesperson</span></span>
+1. <span data-ttu-id="9a1e8-111">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Salespeople**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="9a1e8-111">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Salespeople**, and then choose the related link.</span></span>
+2. <span data-ttu-id="9a1e8-112">Select the salesperson from the list for whom you want to create an opportunity.</span><span class="sxs-lookup"><span data-stu-id="9a1e8-112">Select the salesperson from the list for whom you want to create an opportunity.</span></span>
+3. <span data-ttu-id="9a1e8-113">Choose the **Opportunities** action, and then choose **List**.</span><span class="sxs-lookup"><span data-stu-id="9a1e8-113">Choose the **Opportunities** action, and then choose **List**.</span></span>
+4. <span data-ttu-id="9a1e8-114">Choose **New**, and then fill in the fields as relevant.</span><span class="sxs-lookup"><span data-stu-id="9a1e8-114">Choose **New**, and then fill in the fields as relevant.</span></span> [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
 
 
 
-## <a name="to-create-an-opportunity-from-a-contact"></a><span data-ttu-id="32a60-115">To create an opportunity from a contact</span><span class="sxs-lookup"><span data-stu-id="32a60-115">To create an opportunity from a contact</span></span>
-1. <span data-ttu-id="32a60-116">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Contacts**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="32a60-116">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Contacts**, and then choose the related link.</span></span>
-2. <span data-ttu-id="32a60-117">Select the contact from the list for whom you want to create an opportunity.</span><span class="sxs-lookup"><span data-stu-id="32a60-117">Select the contact from the list for whom you want to create an opportunity.</span></span>
-3. <span data-ttu-id="32a60-118">Do one of the following:</span><span class="sxs-lookup"><span data-stu-id="32a60-118">Do one of the following:</span></span>
-   * <span data-ttu-id="32a60-119">Choose the **Create Opportunity** action.</span><span class="sxs-lookup"><span data-stu-id="32a60-119">Choose the **Create Opportunity** action.</span></span>
-   * <span data-ttu-id="32a60-120">Choose the  **Opportunities** action, and then choose **New**.</span><span class="sxs-lookup"><span data-stu-id="32a60-120">Choose the  **Opportunities** action, and then choose **New**.</span></span>
-4. <span data-ttu-id="32a60-121">Fill in the relevant fields.</span><span class="sxs-lookup"><span data-stu-id="32a60-121">Fill in the relevant fields.</span></span>
+## <a name="to-create-an-opportunity-from-a-contact"></a><span data-ttu-id="9a1e8-115">To create an opportunity from a contact</span><span class="sxs-lookup"><span data-stu-id="9a1e8-115">To create an opportunity from a contact</span></span>
+1. <span data-ttu-id="9a1e8-116">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Contacts**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="9a1e8-116">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Contacts**, and then choose the related link.</span></span>
+2. <span data-ttu-id="9a1e8-117">Select the contact from the list for whom you want to create an opportunity.</span><span class="sxs-lookup"><span data-stu-id="9a1e8-117">Select the contact from the list for whom you want to create an opportunity.</span></span>
+3. <span data-ttu-id="9a1e8-118">Do one of the following:</span><span class="sxs-lookup"><span data-stu-id="9a1e8-118">Do one of the following:</span></span>
+   * <span data-ttu-id="9a1e8-119">Choose the **Create Opportunity** action.</span><span class="sxs-lookup"><span data-stu-id="9a1e8-119">Choose the **Create Opportunity** action.</span></span>
+   * <span data-ttu-id="9a1e8-120">Choose the  **Opportunities** action, and then choose **New**.</span><span class="sxs-lookup"><span data-stu-id="9a1e8-120">Choose the  **Opportunities** action, and then choose **New**.</span></span>
+4. <span data-ttu-id="9a1e8-121">Fill in the relevant fields.</span><span class="sxs-lookup"><span data-stu-id="9a1e8-121">Fill in the relevant fields.</span></span>
 
-## <a name="see-also"></a><span data-ttu-id="32a60-122">See Also</span><span class="sxs-lookup"><span data-stu-id="32a60-122">See Also</span></span>
-[<span data-ttu-id="32a60-123">Sales</span><span class="sxs-lookup"><span data-stu-id="32a60-123">Sales</span></span>](sales-manage-sales.md)  
-[<span data-ttu-id="32a60-124">Creating and Managing Contacts</span><span class="sxs-lookup"><span data-stu-id="32a60-124">Creating and Managing Contacts</span></span>](marketing-contacts.md)  
-[<span data-ttu-id="32a60-125">Working with Financials</span><span class="sxs-lookup"><span data-stu-id="32a60-125">Working with Financials</span></span>](ui-work-product.md)
+## <a name="see-also"></a><span data-ttu-id="9a1e8-122">See Also</span><span class="sxs-lookup"><span data-stu-id="9a1e8-122">See Also</span></span>
+[<span data-ttu-id="9a1e8-123">Sales</span><span class="sxs-lookup"><span data-stu-id="9a1e8-123">Sales</span></span>](sales-manage-sales.md)  
+[<span data-ttu-id="9a1e8-124">Creating and Managing Contacts</span><span class="sxs-lookup"><span data-stu-id="9a1e8-124">Creating and Managing Contacts</span></span>](marketing-contacts.md)  
+[<span data-ttu-id="9a1e8-125">Working with Financials</span><span class="sxs-lookup"><span data-stu-id="9a1e8-125">Working with Financials</span></span>](ui-work-product.md)
 
