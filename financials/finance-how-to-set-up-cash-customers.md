@@ -13,32 +13,32 @@ ms.search.keywords:
 ms.date: 08/11/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
-ms.openlocfilehash: 6826c574bf63de70d76a29b45968c68c0b2e2d1f
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: a72e6ff0a710f2d555c805e4fa28896683a819e9
 ms.contentlocale: en-au
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 01/30/2018
 
 ---
-# <a name="how-to-set-up-cash-customers"></a><span data-ttu-id="380d2-103">How to: Set Up Cash Customers</span><span class="sxs-lookup"><span data-stu-id="380d2-103">How to: Set Up Cash Customers</span></span>
-<span data-ttu-id="380d2-104">You cannot create an invoice without a customer number.</span><span class="sxs-lookup"><span data-stu-id="380d2-104">You cannot create an invoice without a customer number.</span></span> <span data-ttu-id="380d2-105">This is true, even if you make a cash sale and do not have anything to record in a customer account.</span><span class="sxs-lookup"><span data-stu-id="380d2-105">This is true, even if you make a cash sale and do not have anything to record in a customer account.</span></span>  
+# <a name="set-up-cash-customers"></a><span data-ttu-id="7e8cf-103">Set Up Cash Customers</span><span class="sxs-lookup"><span data-stu-id="7e8cf-103">Set Up Cash Customers</span></span>
+<span data-ttu-id="7e8cf-104">You cannot create an invoice without a customer number.</span><span class="sxs-lookup"><span data-stu-id="7e8cf-104">You cannot create an invoice without a customer number.</span></span> <span data-ttu-id="7e8cf-105">This is true, even if you make a cash sale and do not have anything to record in a customer account.</span><span class="sxs-lookup"><span data-stu-id="7e8cf-105">This is true, even if you make a cash sale and do not have anything to record in a customer account.</span></span>  
 
-## <a name="to-set-up-a-cash-customer"></a><span data-ttu-id="380d2-106">To set up a cash customer</span><span class="sxs-lookup"><span data-stu-id="380d2-106">To set up a cash customer</span></span>  
-1.  <span data-ttu-id="380d2-107">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Customer**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="380d2-107">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Customer**, and then choose the related link.</span></span>  
-2.  <span data-ttu-id="380d2-108">Create a new **Customer** card.</span><span class="sxs-lookup"><span data-stu-id="380d2-108">Create a new **Customer** card.</span></span> <span data-ttu-id="380d2-109">For more information, see [How to: Register New Customers](sales-how-register-new-customers.md).</span><span class="sxs-lookup"><span data-stu-id="380d2-109">For more information, see [How to: Register New Customers](sales-how-register-new-customers.md).</span></span>
-3.  <span data-ttu-id="380d2-110">In the **No.**</span><span class="sxs-lookup"><span data-stu-id="380d2-110">In the **No.**</span></span> <span data-ttu-id="380d2-111">field, enter **Cash**, for example.</span><span class="sxs-lookup"><span data-stu-id="380d2-111">field, enter **Cash**, for example.</span></span>  
-4.  <span data-ttu-id="380d2-112">In the **Name** field, enter **Cash Sale**, for example.</span><span class="sxs-lookup"><span data-stu-id="380d2-112">In the **Name** field, enter **Cash Sale**, for example.</span></span>  
-5.  <span data-ttu-id="380d2-113">On the **Invoicing** FastTab, fill in the **Customer Posting Group** and the **Gen. Bus. Posting Group** fields.</span><span class="sxs-lookup"><span data-stu-id="380d2-113">On the **Invoicing** FastTab, fill in the **Customer Posting Group** and the **Gen. Bus. Posting Group** fields.</span></span>  
+## <a name="to-set-up-a-cash-customer"></a><span data-ttu-id="7e8cf-106">To set up a cash customer</span><span class="sxs-lookup"><span data-stu-id="7e8cf-106">To set up a cash customer</span></span>  
+1.  <span data-ttu-id="7e8cf-107">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Customer**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="7e8cf-107">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Customer**, and then choose the related link.</span></span>  
+2.  <span data-ttu-id="7e8cf-108">Create a new **Customer** card.</span><span class="sxs-lookup"><span data-stu-id="7e8cf-108">Create a new **Customer** card.</span></span> <span data-ttu-id="7e8cf-109">For more information, see [Register New Customers](sales-how-register-new-customers.md).</span><span class="sxs-lookup"><span data-stu-id="7e8cf-109">For more information, see [Register New Customers](sales-how-register-new-customers.md).</span></span>
+3.  <span data-ttu-id="7e8cf-110">In the **No.**</span><span class="sxs-lookup"><span data-stu-id="7e8cf-110">In the **No.**</span></span> <span data-ttu-id="7e8cf-111">field, enter **Cash**, for example.</span><span class="sxs-lookup"><span data-stu-id="7e8cf-111">field, enter **Cash**, for example.</span></span>  
+4.  <span data-ttu-id="7e8cf-112">In the **Name** field, enter **Cash Sale**, for example.</span><span class="sxs-lookup"><span data-stu-id="7e8cf-112">In the **Name** field, enter **Cash Sale**, for example.</span></span>  
+5.  <span data-ttu-id="7e8cf-113">On the **Invoicing** FastTab, fill in the **Customer Posting Group** and the **Gen. Bus. Posting Group** fields.</span><span class="sxs-lookup"><span data-stu-id="7e8cf-113">On the **Invoicing** FastTab, fill in the **Customer Posting Group** and the **Gen. Bus. Posting Group** fields.</span></span>  
 
- <span data-ttu-id="380d2-114">Now you have set up a customer that contains sufficient information for invoicing.</span><span class="sxs-lookup"><span data-stu-id="380d2-114">Now you have set up a customer that contains sufficient information for invoicing.</span></span>  
+ <span data-ttu-id="7e8cf-114">Now you have set up a customer that contains sufficient information for invoicing.</span><span class="sxs-lookup"><span data-stu-id="7e8cf-114">Now you have set up a customer that contains sufficient information for invoicing.</span></span>  
 
 > [!NOTE]  
->  <span data-ttu-id="380d2-115">You may have chosen a posting group that is also used for domestic credit sales.</span><span class="sxs-lookup"><span data-stu-id="380d2-115">You may have chosen a posting group that is also used for domestic credit sales.</span></span> <span data-ttu-id="380d2-116">If you want to maintain separate data on cash sales, for example, with a special sales or receivables account, you can set up an extra posting group for this purpose.</span><span class="sxs-lookup"><span data-stu-id="380d2-116">If you want to maintain separate data on cash sales, for example, with a special sales or receivables account, you can set up an extra posting group for this purpose.</span></span>  
+>  <span data-ttu-id="7e8cf-115">You may have chosen a posting group that is also used for domestic credit sales.</span><span class="sxs-lookup"><span data-stu-id="7e8cf-115">You may have chosen a posting group that is also used for domestic credit sales.</span></span> <span data-ttu-id="7e8cf-116">If you want to maintain separate data on cash sales, for example, with a special sales or receivables account, you can set up an extra posting group for this purpose.</span><span class="sxs-lookup"><span data-stu-id="7e8cf-116">If you want to maintain separate data on cash sales, for example, with a special sales or receivables account, you can set up an extra posting group for this purpose.</span></span>  
 >   
->  <span data-ttu-id="380d2-117">You must enter a number for a receivables account for the posting group, even though the balance in this account will always be 0 after you post an invoice.</span><span class="sxs-lookup"><span data-stu-id="380d2-117">You must enter a number for a receivables account for the posting group, even though the balance in this account will always be 0 after you post an invoice.</span></span>  
+>  <span data-ttu-id="7e8cf-117">You must enter a number for a receivables account for the posting group, even though the balance in this account will always be 0 after you post an invoice.</span><span class="sxs-lookup"><span data-stu-id="7e8cf-117">You must enter a number for a receivables account for the posting group, even though the balance in this account will always be 0 after you post an invoice.</span></span>  
 
-## <a name="see-also"></a><span data-ttu-id="380d2-118">See Also</span><span class="sxs-lookup"><span data-stu-id="380d2-118">See Also</span></span>
-[<span data-ttu-id="380d2-119">Managing Receivables</span><span class="sxs-lookup"><span data-stu-id="380d2-119">Managing Receivables</span></span>](receivables-manage-receivables.md)  
-<span data-ttu-id="380d2-120">[How to: Register New Customers](sales-how-register-new-customers.md)  </span><span class="sxs-lookup"><span data-stu-id="380d2-120">[How to: Register New Customers](sales-how-register-new-customers.md)  </span></span>  
-[<span data-ttu-id="380d2-121">Finance</span><span class="sxs-lookup"><span data-stu-id="380d2-121">Finance</span></span>](finance.md)  
+## <a name="see-also"></a><span data-ttu-id="7e8cf-118">See Also</span><span class="sxs-lookup"><span data-stu-id="7e8cf-118">See Also</span></span>
+[<span data-ttu-id="7e8cf-119">Managing Receivables</span><span class="sxs-lookup"><span data-stu-id="7e8cf-119">Managing Receivables</span></span>](receivables-manage-receivables.md)  
+<span data-ttu-id="7e8cf-120">[Register New Customers](sales-how-register-new-customers.md)  </span><span class="sxs-lookup"><span data-stu-id="7e8cf-120">[Register New Customers](sales-how-register-new-customers.md)  </span></span>  
+[<span data-ttu-id="7e8cf-121">Finance</span><span class="sxs-lookup"><span data-stu-id="7e8cf-121">Finance</span></span>](finance.md)  
 
 
