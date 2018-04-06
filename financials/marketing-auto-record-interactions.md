@@ -16,22 +16,22 @@ ms.translationtype: HT
 ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
 ms.openlocfilehash: 8226961d467dee7b03c22632c6dab008ceecad44
 ms.contentlocale: en-au
-ms.lasthandoff: 12/14/2017
+ms.lasthandoff: 03/22/2018
 
 ---
-# <a name="recording-interactions-with-contacts-automatically"></a><span data-ttu-id="bb652-103">Recording Interactions with Contacts Automatically</span><span class="sxs-lookup"><span data-stu-id="bb652-103">Recording Interactions with Contacts Automatically</span></span>
-<span data-ttu-id="bb652-104">You can set up the application to automatically record interactions for sales, purchase and service documents, cover sheets, e-mails, phone calls, such as:</span><span class="sxs-lookup"><span data-stu-id="bb652-104">You can set up the application to automatically record interactions for sales, purchase and service documents, cover sheets, e-mails, phone calls, such as:</span></span>
+# <a name="recording-interactions-with-contacts-automatically"></a><span data-ttu-id="4ad65-103">Recording Interactions with Contacts Automatically</span><span class="sxs-lookup"><span data-stu-id="4ad65-103">Recording Interactions with Contacts Automatically</span></span>
+<span data-ttu-id="4ad65-104">You can set up the application to automatically record interactions for sales, purchase and service documents, cover sheets, e-mails, phone calls, such as:</span><span class="sxs-lookup"><span data-stu-id="4ad65-104">You can set up the application to automatically record interactions for sales, purchase and service documents, cover sheets, e-mails, phone calls, such as:</span></span>
 
-* <span data-ttu-id="bb652-105">Print sales or purchase quotes, orders, invoices, credit memos, cover sheets.</span><span class="sxs-lookup"><span data-stu-id="bb652-105">Print sales or purchase quotes, orders, invoices, credit memos, cover sheets.</span></span>
-* <span data-ttu-id="bb652-106">Create sales service orders.</span><span class="sxs-lookup"><span data-stu-id="bb652-106">Create sales service orders.</span></span>
-* <span data-ttu-id="bb652-107">Post sales service orders.</span><span class="sxs-lookup"><span data-stu-id="bb652-107">Post sales service orders.</span></span>
-* <span data-ttu-id="bb652-108">Send e-mails to your contacts.</span><span class="sxs-lookup"><span data-stu-id="bb652-108">Send e-mails to your contacts.</span></span>
-* <span data-ttu-id="bb652-109">Call your contacts, if you have a TAPI-compliant telephone and the correct installation.</span><span class="sxs-lookup"><span data-stu-id="bb652-109">Call your contacts, if you have a TAPI-compliant telephone and the correct installation.</span></span>
+* <span data-ttu-id="4ad65-105">Print sales or purchase quotes, orders, invoices, credit memos, cover sheets.</span><span class="sxs-lookup"><span data-stu-id="4ad65-105">Print sales or purchase quotes, orders, invoices, credit memos, cover sheets.</span></span>
+* <span data-ttu-id="4ad65-106">Create sales service orders.</span><span class="sxs-lookup"><span data-stu-id="4ad65-106">Create sales service orders.</span></span>
+* <span data-ttu-id="4ad65-107">Post sales service orders.</span><span class="sxs-lookup"><span data-stu-id="4ad65-107">Post sales service orders.</span></span>
+* <span data-ttu-id="4ad65-108">Send e-mails to your contacts.</span><span class="sxs-lookup"><span data-stu-id="4ad65-108">Send e-mails to your contacts.</span></span>
+* <span data-ttu-id="4ad65-109">Call your contacts, if you have a TAPI-compliant telephone and the correct installation.</span><span class="sxs-lookup"><span data-stu-id="4ad65-109">Call your contacts, if you have a TAPI-compliant telephone and the correct installation.</span></span>
 
-<span data-ttu-id="bb652-110">To set up the automatic recording of these interactions, you specify interaction templates for these documents and actions by using the **Interaction Template Setup** window.</span><span class="sxs-lookup"><span data-stu-id="bb652-110">To set up the automatic recording of these interactions, you specify interaction templates for these documents and actions by using the **Interaction Template Setup** window.</span></span>  
-<span data-ttu-id="bb652-111">To open the **Interaction Template Setup** window, choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Interaction Template Setup**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="bb652-111">To open the **Interaction Template Setup** window, choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Interaction Template Setup**, and then choose the related link.</span></span>
+<span data-ttu-id="4ad65-110">To set up the automatic recording of these interactions, you specify interaction templates for these documents and actions by using the **Interaction Template Setup** window.</span><span class="sxs-lookup"><span data-stu-id="4ad65-110">To set up the automatic recording of these interactions, you specify interaction templates for these documents and actions by using the **Interaction Template Setup** window.</span></span>  
+<span data-ttu-id="4ad65-111">To open the **Interaction Template Setup** window, choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Interaction Template Setup**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="4ad65-111">To open the **Interaction Template Setup** window, choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Interaction Template Setup**, and then choose the related link.</span></span>
 
-## <a name="see-also"></a><span data-ttu-id="bb652-112">See Also</span><span class="sxs-lookup"><span data-stu-id="bb652-112">See Also</span></span>
-[<span data-ttu-id="bb652-113">Recording Interactions With Contacts</span><span class="sxs-lookup"><span data-stu-id="bb652-113">Recording Interactions With Contacts</span></span>](marketing-interactions.md)  
-<span data-ttu-id="bb652-114">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="bb652-114">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>  
+## <a name="see-also"></a><span data-ttu-id="4ad65-112">See Also</span><span class="sxs-lookup"><span data-stu-id="4ad65-112">See Also</span></span>
+[<span data-ttu-id="4ad65-113">Recording Interactions With Contacts</span><span class="sxs-lookup"><span data-stu-id="4ad65-113">Recording Interactions With Contacts</span></span>](marketing-interactions.md)  
+<span data-ttu-id="4ad65-114">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="4ad65-114">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>  
 
