@@ -10,13 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: 
-ms.date: 07/01/2017
+ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 046a42582dc66368fded90a4bb45add71a95d979
-ms.openlocfilehash: a76e04b6e523bd848ed22f17f852247f735af4e6
+ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.openlocfilehash: 4e684def2cba553395ad0ac1ab7c4df001095938
 ms.contentlocale: en-au
-ms.lasthandoff: 07/02/2018
+ms.lasthandoff: 09/28/2018
 
 ---
 # <a name="calculating-distribution-amounts"></a><span data-ttu-id="82a7d-103">Calculating Distribution Amounts</span><span class="sxs-lookup"><span data-stu-id="82a7d-103">Calculating Distribution Amounts</span></span>

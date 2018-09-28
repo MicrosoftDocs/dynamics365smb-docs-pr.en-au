@@ -10,13 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: 
-ms.date: 07/01/2017
+ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 046a42582dc66368fded90a4bb45add71a95d979
-ms.openlocfilehash: e0212433e9b781baac37bd340b29457234cdc2e3
+ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.openlocfilehash: 6e31e7c1c1354b955485956e1dd727f1f12de6c5
 ms.contentlocale: en-au
-ms.lasthandoff: 07/02/2018
+ms.lasthandoff: 09/28/2018
 
 ---
 # <a name="view-posted-tax-credit-memos"></a><span data-ttu-id="b6560-103">View Posted Tax CR/Adj Notes</span><span class="sxs-lookup"><span data-stu-id="b6560-103">View Posted Tax Credit Memos</span></span>

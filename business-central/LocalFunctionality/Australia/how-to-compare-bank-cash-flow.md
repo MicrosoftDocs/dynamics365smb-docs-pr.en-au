@@ -10,13 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: 
-ms.date: 07/01/2017
+ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 046a42582dc66368fded90a4bb45add71a95d979
-ms.openlocfilehash: 0a2b781e0fe502efdd69badc5397234b60887837
+ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.openlocfilehash: 5058d068f62a4755722ff2c59d82eba5765c7337
 ms.contentlocale: en-au
-ms.lasthandoff: 07/02/2018
+ms.lasthandoff: 09/28/2018
 
 ---
 # <a name="compare-bank-cash-flow"></a><span data-ttu-id="b12c4-103">Compare Bank Cash Flow</span><span class="sxs-lookup"><span data-stu-id="b12c4-103">Compare Bank Cash Flow</span></span>

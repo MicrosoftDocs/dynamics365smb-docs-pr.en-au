@@ -10,13 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: 
-ms.date: 07/01/2017
+ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 046a42582dc66368fded90a4bb45add71a95d979
-ms.openlocfilehash: b0d91f0c6eb1033c3c45af996dd9f10b29bead6a
+ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.openlocfilehash: 6be8676864d225f973eda5d54d295b3236abf091
 ms.contentlocale: en-au
-ms.lasthandoff: 07/02/2018
+ms.lasthandoff: 09/28/2018
 
 ---
 # <a name="withholding-tax"></a><span data-ttu-id="573e5-104">Withholding Tax</span><span class="sxs-lookup"><span data-stu-id="573e5-104">Withholding Tax</span></span>

@@ -10,13 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: 
-ms.date: 07/01/2017
+ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 046a42582dc66368fded90a4bb45add71a95d979
-ms.openlocfilehash: 8b3b43012fa5d94e8b8f0b4d3f0255fba7c1747c
+ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.openlocfilehash: 7cec8ba74f90ed3cdb602b2201ad74065d3ac5cf
 ms.contentlocale: en-au
-ms.lasthandoff: 07/02/2018
+ms.lasthandoff: 09/28/2018
 
 ---
 # <a name="addresses"></a><span data-ttu-id="f14e5-103">Addresses</span><span class="sxs-lookup"><span data-stu-id="f14e5-103">Addresses</span></span>

@@ -10,13 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: 
-ms.date: 06/20/2018
+ms.date: 10/01/2018
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 046a42582dc66368fded90a4bb45add71a95d979
-ms.openlocfilehash: c52c4a9f2fd1d332c8743c3048e83a32dea03551
+ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.openlocfilehash: f12d975dbae8204ca4fa74014d02be50410926ef
 ms.contentlocale: en-au
-ms.lasthandoff: 07/02/2018
+ms.lasthandoff: 09/28/2018
 
 ---
 # <a name="set-up-business-units-for-business-activity-statements"></a><span data-ttu-id="7463c-103">Set Up Business Units for Business Activity Statements</span><span class="sxs-lookup"><span data-stu-id="7463c-103">Set Up Business Units for Business Activity Statements</span></span>

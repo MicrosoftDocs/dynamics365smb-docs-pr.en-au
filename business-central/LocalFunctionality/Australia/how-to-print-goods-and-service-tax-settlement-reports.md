@@ -10,13 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: 
-ms.date: 06/20/2018
+ms.date: 10/01/2018
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 046a42582dc66368fded90a4bb45add71a95d979
-ms.openlocfilehash: 8a89135c129d6cd286b69412cdb625ac2f3b5794
+ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.openlocfilehash: 2707d52a56512d4c4e69db65baf98f1bcab95a29
 ms.contentlocale: en-au
-ms.lasthandoff: 07/02/2018
+ms.lasthandoff: 09/28/2018
 
 ---
 # <a name="print-goods-and-service-tax-settlement-reports"></a><span data-ttu-id="0482d-103">Print Goods and Service Tax Settlement Reports</span><span class="sxs-lookup"><span data-stu-id="0482d-103">Print Goods and Service Tax Settlement Reports</span></span>
