@@ -4,7 +4,7 @@ description: You can use the **Posted Sales Tax CR/Adj Note** window and **Poste
 services: project-madeira
 documentationcenter: 
 author: SorenGP
-ms.service: dynamics365-financials
+ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
-ms.openlocfilehash: 6e31e7c1c1354b955485956e1dd727f1f12de6c5
+ms.sourcegitcommit: 78cb55d0c53db5b0a8252ffae6316a537be25459
+ms.openlocfilehash: 6e3e88c8756d0905af921e9203fa3193678b5356
 ms.contentlocale: en-au
-ms.lasthandoff: 09/28/2018
+ms.lasthandoff: 10/15/2018
 
 ---
 # <a name="view-posted-tax-credit-memos"></a><span data-ttu-id="b6560-103">View Posted Tax CR/Adj Notes</span><span class="sxs-lookup"><span data-stu-id="b6560-103">View Posted Tax Credit Memos</span></span>

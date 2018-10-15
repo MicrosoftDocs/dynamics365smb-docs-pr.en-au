@@ -4,7 +4,7 @@ description: You can use the **Bank Detail Cashflow Compare** report to compare 
 services: project-madeira
 documentationcenter: 
 author: SorenGP
-ms.service: dynamics365-financials
+ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
-ms.openlocfilehash: 5058d068f62a4755722ff2c59d82eba5765c7337
+ms.sourcegitcommit: 78cb55d0c53db5b0a8252ffae6316a537be25459
+ms.openlocfilehash: 7f72e2fdff0f2cb4d4008123976ca31b878f7609
 ms.contentlocale: en-au
-ms.lasthandoff: 09/28/2018
+ms.lasthandoff: 10/15/2018
 
 ---
 # <a name="compare-bank-cash-flow"></a><span data-ttu-id="b12c4-103">Compare Bank Cash Flow</span><span class="sxs-lookup"><span data-stu-id="b12c4-103">Compare Bank Cash Flow</span></span>

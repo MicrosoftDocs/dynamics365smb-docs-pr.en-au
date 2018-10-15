@@ -4,7 +4,7 @@ description: You can view entries that have been posted with withholding tax (WH
 services: project-madeira
 documentationcenter: 
 author: SorenGP
-ms.service: dynamics365-financials
+ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
-ms.openlocfilehash: 38d303719e53ff5274419425c43a1ea78c6ed4aa
+ms.sourcegitcommit: 78cb55d0c53db5b0a8252ffae6316a537be25459
+ms.openlocfilehash: 65db19145966b4689e9eb96b3206c925864b3535
 ms.contentlocale: en-au
-ms.lasthandoff: 09/28/2018
+ms.lasthandoff: 10/15/2018
 
 ---
 # <a name="view-withholding-tax-entries"></a><span data-ttu-id="62950-103">View Withholding Tax Entries</span><span class="sxs-lookup"><span data-stu-id="62950-103">View Withholding Tax Entries</span></span>

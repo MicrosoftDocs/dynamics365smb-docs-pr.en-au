@@ -4,7 +4,7 @@ description: In [!INCLUDE[d365fin](../../includes/d365fin_md.md)], you can use t
 services: project-madeira
 documentationcenter: 
 author: SorenGP
-ms.service: dynamics365-financials
+ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
-ms.openlocfilehash: b3f1826000f0ee205f963744472739865519cf1a
+ms.sourcegitcommit: 78cb55d0c53db5b0a8252ffae6316a537be25459
+ms.openlocfilehash: 3c8c4a5ed547ad9ed210e45c8d40c080270972c8
 ms.contentlocale: en-au
-ms.lasthandoff: 09/28/2018
+ms.lasthandoff: 10/15/2018
 
 ---
 # <a name="view-posted-tax-invoices"></a><span data-ttu-id="e02e5-103">View Posted Tax Invoices</span><span class="sxs-lookup"><span data-stu-id="e02e5-103">View Posted Tax Invoices</span></span>
