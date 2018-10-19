@@ -4,19 +4,19 @@ description: Withholding tax (WHT) is the tax withheld by a company when it make
 services: project-madeira
 documentationcenter: 
 author: SorenGP
-ms.service: dynamics365-financials
+ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: 
-ms.date: 07/01/2017
+ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 046a42582dc66368fded90a4bb45add71a95d979
-ms.openlocfilehash: 87bf8a5aa877b4216d5bf12e55edf2387f98589a
+ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.openlocfilehash: 85ccb9311e5719c102646b30983169b958cc8378
 ms.contentlocale: en-au
-ms.lasthandoff: 07/02/2018
+ms.lasthandoff: 09/28/2018
 
 ---
 # <a name="set-up-withholding-tax"></a>Set Up Withholding Tax
@@ -77,5 +77,5 @@ The following procedure describes how to set up product posting groups for WHT, 
  [View Withholding Tax Entries](how-to-view-withholding-tax-entries.md)   
  [Calculate and Post Withholding Tax Settlements](how-to-calculate-and-post-withholding-tax-settlements.md)   
  [Withholding Tax](withholding-tax.md)   
- [Australian Taxation Office (ATO)](http://www.ato.gov.au/)
+ [Australian Taxation Office (ATO)](https://www.ato.gov.au/)
 
