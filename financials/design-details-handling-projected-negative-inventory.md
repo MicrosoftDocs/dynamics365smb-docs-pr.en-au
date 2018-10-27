@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
 ms.openlocfilehash: 3436e2a00858a1dbfcbb0a44cb9db32bd7665593
 ms.contentlocale: en-au
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="design-details-handling-projected-negative-inventory"></a><span data-ttu-id="2ff29-106">Design Details: Handling Projected Negative Inventory</span><span class="sxs-lookup"><span data-stu-id="2ff29-106">Design Details: Handling Projected Negative Inventory</span></span>

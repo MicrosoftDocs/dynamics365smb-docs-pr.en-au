@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
 ms.openlocfilehash: e5044183beeeaab5eb1269b17e60391a43a33f0c
 ms.contentlocale: en-au
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="design-details-posting-engine-structure"></a><span data-ttu-id="bb6e0-104">Design Details: Posting Engine Structure</span><span class="sxs-lookup"><span data-stu-id="bb6e0-104">Design Details: Posting Engine Structure</span></span>

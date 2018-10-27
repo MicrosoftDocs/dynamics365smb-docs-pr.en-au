@@ -13,10 +13,10 @@ ms.search.keywords: payment process, reconcile payment, expenses, cash receipts
 ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
 ms.openlocfilehash: 4fd9fc95be5b6abb180dc523266b74674fe7d721
 ms.contentlocale: en-au
-ms.lasthandoff: 09/28/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="review-or-apply-payments-manually-after-automatic-application"></a><span data-ttu-id="93746-103">Review or Apply Payments Manually After Automatic Application</span><span class="sxs-lookup"><span data-stu-id="93746-103">Review or Apply Payments Manually After Automatic Application</span></span>

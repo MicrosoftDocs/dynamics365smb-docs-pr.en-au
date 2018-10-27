@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 09/08/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
 ms.openlocfilehash: a9dfb17b0cbddb3d6b65e8d807dd92990c2ccdc1
 ms.contentlocale: en-au
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="setup-best-practices-planning-parameters"></a><span data-ttu-id="ce192-104">Setup Best Practices: Planning Parameters</span><span class="sxs-lookup"><span data-stu-id="ce192-104">Setup Best Practices: Planning Parameters</span></span>

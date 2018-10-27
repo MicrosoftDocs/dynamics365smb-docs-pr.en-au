@@ -11,10 +11,10 @@ ms.search.keywords: contacts, profiles
 ms.author: edupont
 ms.date: 10/01/2018
 ms.translationtype: HT
-ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
 ms.openlocfilehash: 6a69a5de1ac0d6e2d238415204ec95fad9af7b9b
 ms.contentlocale: en-au
-ms.lasthandoff: 09/28/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 
@@ -104,28 +104,28 @@ ms.lasthandoff: 09/28/2018
 <td><p><span data-ttu-id="ee6c4-145">Question</span><span class="sxs-lookup"><span data-stu-id="ee6c4-145">Question</span></span></p></td>
 <td><p><span data-ttu-id="ee6c4-146">ABC Classification</span><span class="sxs-lookup"><span data-stu-id="ee6c4-146">ABC Classification</span></span></p></td>
 <td><p><span data-ttu-id="ee6c4-147">Click to insert a check mark</span><span class="sxs-lookup"><span data-stu-id="ee6c4-147">Click to insert a check mark</span></span></p></td>
-<td><p> </p></td>
-<td><p> </p></td>
+<td><p> </p></td>
+<td><p> </p></td>
 </tr>
 <tr class="even">
 <td><p><span data-ttu-id="ee6c4-148">Answer</span><span class="sxs-lookup"><span data-stu-id="ee6c4-148">Answer</span></span></p></td>
 <td><p><span data-ttu-id="ee6c4-149">A</span><span class="sxs-lookup"><span data-stu-id="ee6c4-149">A</span></span></p></td>
-<td><p> </p></td>
+<td><p> </p></td>
 <td><p><span data-ttu-id="ee6c4-150">500,000</span><span class="sxs-lookup"><span data-stu-id="ee6c4-150">500,000</span></span></p></td>
-<td><p> </p></td>
+<td><p> </p></td>
 </tr>
 <tr class="odd">
 <td><p><span data-ttu-id="ee6c4-151">Answer</span><span class="sxs-lookup"><span data-stu-id="ee6c4-151">Answer</span></span></p></td>
 <td><p><span data-ttu-id="ee6c4-152">B</span><span class="sxs-lookup"><span data-stu-id="ee6c4-152">B</span></span></p></td>
-<td><p> </p></td>
+<td><p> </p></td>
 <td><p><span data-ttu-id="ee6c4-153">100,000</span><span class="sxs-lookup"><span data-stu-id="ee6c4-153">100,000</span></span></p></td>
 <td><p><span data-ttu-id="ee6c4-154">499,999</span><span class="sxs-lookup"><span data-stu-id="ee6c4-154">499,999</span></span></p></td>
 </tr>
 <tr class="even">
 <td><p><span data-ttu-id="ee6c4-155">Answer</span><span class="sxs-lookup"><span data-stu-id="ee6c4-155">Answer</span></span></p></td>
 <td><p><span data-ttu-id="ee6c4-156">C</span><span class="sxs-lookup"><span data-stu-id="ee6c4-156">C</span></span></p></td>
-<td><p> </p></td>
-<td><p> </p></td>
+<td><p> </p></td>
+<td><p> </p></td>
 <td><p><span data-ttu-id="ee6c4-157">99,999</span><span class="sxs-lookup"><span data-stu-id="ee6c4-157">99,999</span></span></p></td>
 </tr>
 </tbody>

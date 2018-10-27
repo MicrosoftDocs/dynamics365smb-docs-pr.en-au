@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
 ms.openlocfilehash: a9d313a4fee3dedf74cc2f0c635516397e26d8ef
 ms.contentlocale: en-au
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="design-details-accounts-in-the-general-ledger"></a><span data-ttu-id="5639b-103">Design Details: Accounts in the General Ledger</span><span class="sxs-lookup"><span data-stu-id="5639b-103">Design Details: Accounts in the General Ledger</span></span>

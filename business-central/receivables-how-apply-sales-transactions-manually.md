@@ -11,10 +11,10 @@ ms.search.keywords: payment process, cash receipt
 ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
 ms.openlocfilehash: ca7052fd5353ec93f6544aa7a9056fb492b638e2
 ms.contentlocale: en-au
-ms.lasthandoff: 09/28/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="reconcile-customer-payments-manually"></a><span data-ttu-id="81d9e-103">Reconcile Customer Payments Manually</span><span class="sxs-lookup"><span data-stu-id="81d9e-103">Reconcile Customer Payments Manually</span></span>

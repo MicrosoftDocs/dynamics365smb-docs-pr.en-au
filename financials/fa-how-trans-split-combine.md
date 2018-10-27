@@ -12,10 +12,10 @@ ms.workload: na
 ms.date: 06/02/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
 ms.openlocfilehash: 392ba8da5a67a5cca4678e1817288b165d122864
 ms.contentlocale: en-au
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="transfer-split-or-combine-fixed-assets"></a><span data-ttu-id="45199-103">Transfer, Split, or Combine Fixed Assets</span><span class="sxs-lookup"><span data-stu-id="45199-103">Transfer, Split, or Combine Fixed Assets</span></span>

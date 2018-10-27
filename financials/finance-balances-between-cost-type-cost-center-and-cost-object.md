@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
 ms.openlocfilehash: 3c33d5f5cdc4ac131d7c85221d16f60b2f9c6c00
 ms.contentlocale: en-au
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="balances-between-cost-type-cost-center-and-cost-object"></a><span data-ttu-id="15935-105">Balances Between Cost Type, Cost Centre, and Cost Object</span><span class="sxs-lookup"><span data-stu-id="15935-105">Balances Between Cost Type, Cost Center, and Cost Object</span></span>

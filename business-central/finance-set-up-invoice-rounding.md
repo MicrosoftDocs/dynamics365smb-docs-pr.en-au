@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 10/01/2018
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
 ms.openlocfilehash: d21a1b2f199c5d53e3879bf3a0866f39e904b873
 ms.contentlocale: en-au
-ms.lasthandoff: 09/28/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="set-up-invoice-rounding"></a><span data-ttu-id="b0b11-104">Set Up Invoice Rounding</span><span class="sxs-lookup"><span data-stu-id="b0b11-104">Set Up Invoice Rounding</span></span>

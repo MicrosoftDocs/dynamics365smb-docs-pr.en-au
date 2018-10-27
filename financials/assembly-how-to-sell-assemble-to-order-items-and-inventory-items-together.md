@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 08/15/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
 ms.openlocfilehash: 2e9076dd26e84e56962bbdc70d722449d8506b7b
 ms.contentlocale: en-au
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="sell-assemble-to-order-items-and-inventory-items-together"></a><span data-ttu-id="24fe9-104">Sell Assemble-to-Order Items and Inventory Items Together</span><span class="sxs-lookup"><span data-stu-id="24fe9-104">Sell Assemble-to-Order Items and Inventory Items Together</span></span>

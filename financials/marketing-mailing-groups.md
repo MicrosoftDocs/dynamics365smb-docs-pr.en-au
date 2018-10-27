@@ -13,10 +13,10 @@ ms.search.keywords: marketing, campaign, promo, prospect
 ms.date: 06/06/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
 ms.openlocfilehash: 7402899cb7fe369503eee1b451dc652180e96264
 ms.contentlocale: en-au
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="set-up-mailing-groups-for-contacts"></a><span data-ttu-id="bd937-103">Set Up Mailing Groups for Contacts</span><span class="sxs-lookup"><span data-stu-id="bd937-103">Set Up Mailing Groups for Contacts</span></span>

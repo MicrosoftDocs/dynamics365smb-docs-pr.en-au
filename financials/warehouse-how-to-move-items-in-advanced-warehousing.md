@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 08/232017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
 ms.openlocfilehash: 4caa041c6b3acef5d0cbf6c037f0ec535cd3176e
 ms.contentlocale: en-au
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="move-items-in-advanced-warehouse-configurations"></a><span data-ttu-id="53bf9-103">Move Items in Advanced Warehouse Configurations</span><span class="sxs-lookup"><span data-stu-id="53bf9-103">Move Items in Advanced Warehouse Configurations</span></span>

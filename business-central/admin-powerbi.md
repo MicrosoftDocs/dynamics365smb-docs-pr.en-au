@@ -11,10 +11,10 @@ ms.search.keywords: account schedule, analysis, reporting, financial report, bus
 ms.date: 10/01/2018
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
 ms.openlocfilehash: eae7e97ec122b91a479ad956176a0b34b269bcb6
 ms.contentlocale: en-au
-ms.lasthandoff: 09/28/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="enabling-your-business-data-for-power-bi"></a><span data-ttu-id="9aea5-103">Enabling Your Business Data for Power BI</span><span class="sxs-lookup"><span data-stu-id="9aea5-103">Enabling Your Business Data for Power BI</span></span>

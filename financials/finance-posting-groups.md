@@ -13,10 +13,10 @@ ms.search.keywords: posting setup, initialize
 ms.date: 06/02/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
 ms.openlocfilehash: add78070e838dcf8b0eb24dcc8b642d621a400b9
 ms.contentlocale: en-au
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="setting-up-posting-groups"></a><span data-ttu-id="091f1-103">Setting Up Posting Groups</span><span class="sxs-lookup"><span data-stu-id="091f1-103">Setting Up Posting Groups</span></span>

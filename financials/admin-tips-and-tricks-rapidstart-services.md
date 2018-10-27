@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 03/05/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
 ms.openlocfilehash: e43859a6095f0087c12d0f9c071c0504d3781ad2
 ms.contentlocale: en-au
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="tips-and-tricks-rapidstart-services"></a><span data-ttu-id="00b6c-103">Tips and Tricks: RapidStart Services</span><span class="sxs-lookup"><span data-stu-id="00b6c-103">Tips and Tricks: RapidStart Services</span></span>

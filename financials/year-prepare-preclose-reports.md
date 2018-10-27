@@ -12,10 +12,10 @@ ms.workload: na
 ms.date: 06/02/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
 ms.openlocfilehash: ead7f45583b8edbdc00b6d41ae335d4b8adb14cf
 ms.contentlocale: en-au
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="using-pre-closing-reports"></a><span data-ttu-id="2bc38-103">Using Pre-Closing Reports</span><span class="sxs-lookup"><span data-stu-id="2bc38-103">Using Pre-Closing Reports</span></span>

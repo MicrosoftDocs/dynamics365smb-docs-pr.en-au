@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
 ms.openlocfilehash: 7d4b2c86174386faa86ab6c09faa463d26d3d2ac
 ms.contentlocale: en-au
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="convert-existing-locations-to-warehouse-locations"></a><span data-ttu-id="4ccf5-103">Convert Existing Locations to Warehouse Locations</span><span class="sxs-lookup"><span data-stu-id="4ccf5-103">Convert Existing Locations to Warehouse Locations</span></span>

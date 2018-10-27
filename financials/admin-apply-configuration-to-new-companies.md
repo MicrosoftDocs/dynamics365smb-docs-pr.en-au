@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 03/08/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
 ms.openlocfilehash: 56a3e4ad6b77bd539fe6ad7a75bd81c951f608f8
 ms.contentlocale: en-au
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="apply-configurations-to-new-companies"></a><span data-ttu-id="89dcb-104">Apply Configurations to New Companies</span><span class="sxs-lookup"><span data-stu-id="89dcb-104">Apply Configurations to New Companies</span></span>

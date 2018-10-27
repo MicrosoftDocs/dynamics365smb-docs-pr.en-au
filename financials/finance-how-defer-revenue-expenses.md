@@ -13,10 +13,10 @@ ms.search.keywords: postpone
 ms.date: 01/25/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
 ms.openlocfilehash: 7b7b4ce9d2f464d6e2793a21fa5b321846ba9498
 ms.contentlocale: en-au
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="defer-revenues-and-expenses"></a><span data-ttu-id="4b871-103">Defer Revenues and Expenses</span><span class="sxs-lookup"><span data-stu-id="4b871-103">Defer Revenues and Expenses</span></span>

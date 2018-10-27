@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 03/06/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
 ms.openlocfilehash: e0973c719381cb286a57335888e521d359fe232a
 ms.contentlocale: en-au
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="configure-a-company-with-the-rapidstart-wizard"></a><span data-ttu-id="3336b-103">Configure a Company with the RapidStart Wizard</span><span class="sxs-lookup"><span data-stu-id="3336b-103">Configure a Company with the RapidStart Wizard</span></span>

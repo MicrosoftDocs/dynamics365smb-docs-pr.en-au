@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 08/16/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
 ms.openlocfilehash: b38e86fa63e179c1bd4ac78c29d7728716755e0c
 ms.contentlocale: en-au
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="about-cost-accounting"></a><span data-ttu-id="9ee28-103">About Cost Accounting</span><span class="sxs-lookup"><span data-stu-id="9ee28-103">About Cost Accounting</span></span>

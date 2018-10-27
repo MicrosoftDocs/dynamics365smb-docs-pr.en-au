@@ -13,10 +13,10 @@ ms.search.keywords: design, priority, prioritize, order, sku, demand, supply
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
 ms.openlocfilehash: 7af645f5a9dd7f34619d05cb2d4f0f7f8ad1921d
 ms.contentlocale: en-au
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="design-details-prioritizing-orders"></a><span data-ttu-id="e997b-103">Design Details: Prioritising Orders</span><span class="sxs-lookup"><span data-stu-id="e997b-103">Design Details: Prioritizing Orders</span></span>

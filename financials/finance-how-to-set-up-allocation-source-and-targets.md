@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
 ms.openlocfilehash: d4dcf5f95d5fc44d4b8fb72b55d905c876989a56
 ms.contentlocale: en-au
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="set-up-allocation-source-and-targets"></a><span data-ttu-id="82a18-105">Set Up Allocation Source and Targets</span><span class="sxs-lookup"><span data-stu-id="82a18-105">Set Up Allocation Source and Targets</span></span>

@@ -13,10 +13,10 @@ ms.search.keywords: service, number sequences, setup, warnings, fee, contracts, 
 ms.date: 10/01/2018
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
 ms.openlocfilehash: 31817c277df03a774145ac308d2cc1cf128bfce0
 ms.contentlocale: en-au
-ms.lasthandoff: 09/28/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="configure-service-processes"></a><span data-ttu-id="5f856-103">Configure Service Processes</span><span class="sxs-lookup"><span data-stu-id="5f856-103">Configure Service Processes</span></span>

@@ -13,10 +13,10 @@ ms.search.keywords: planning, frozen, design serial, lot
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
 ms.openlocfilehash: 5545fe1c2c8833eb1c97765f261777cbb1781098
 ms.contentlocale: en-au
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="design-details-dealing-with-orders-before-the-planning-starting-date"></a><span data-ttu-id="6ae17-103">Design Details: Dealing with Orders Before the Planning Starting Date</span><span class="sxs-lookup"><span data-stu-id="6ae17-103">Design Details: Dealing with Orders Before the Planning Starting Date</span></span>

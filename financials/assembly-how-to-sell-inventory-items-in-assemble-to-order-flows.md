@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 08/15/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
 ms.openlocfilehash: 8d7c726cda285100a64a11beffdc7e0f492b93a9
 ms.contentlocale: en-au
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="sell-inventory-items-in-assemble-to-order-flows"></a><span data-ttu-id="4445c-104">Sell Inventory Items in Assemble-to-Order Flows</span><span class="sxs-lookup"><span data-stu-id="4445c-104">Sell Inventory Items in Assemble-to-Order Flows</span></span>

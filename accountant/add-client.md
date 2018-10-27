@@ -11,10 +11,10 @@ ms.search.keywords: accountant, accounting, financial report
 ms.date: 05/15/2018
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 4bc9199b879c23115082b07a81d6da5a0b46e60d
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
 ms.openlocfilehash: 00e0d0a131b586d3aee39b3d08064defff81814a
 ms.contentlocale: en-au
-ms.lasthandoff: 05/31/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="add-clients-to-your-dashboard-in-include-d365acclongincludesd365acclongmdmd"></a><span data-ttu-id="4778a-103">Add clients to your dashboard in [!INCLUDE [d365acc_long](includes/d365acc_long_md.md)]</span><span class="sxs-lookup"><span data-stu-id="4778a-103">Add clients to your dashboard in [!INCLUDE [d365acc_long](includes/d365acc_long_md.md)]</span></span>

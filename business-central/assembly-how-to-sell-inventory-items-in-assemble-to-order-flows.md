@@ -13,10 +13,10 @@ ms.search.keywords: kit, kitting
 ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
 ms.openlocfilehash: fe8964f46bd76d23e3f1457ad5627888ec3da012
 ms.contentlocale: en-au
-ms.lasthandoff: 09/28/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="sell-inventory-items-in-assemble-to-order-flows"></a><span data-ttu-id="cc879-104">Sell Inventory Items in Assemble-to-Order Flows</span><span class="sxs-lookup"><span data-stu-id="cc879-104">Sell Inventory Items in Assemble-to-Order Flows</span></span>

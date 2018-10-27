@@ -13,10 +13,10 @@ ms.search.keywords: electronic document, e-invoice, incoming document, OCR, ecom
 ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
 ms.openlocfilehash: d5d7e672488139dfba2d3056d1d44941594c2a12
 ms.contentlocale: en-au
-ms.lasthandoff: 09/28/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="create-incoming-document-records-directly-from-documents-and-entries"></a><span data-ttu-id="1a069-103">Create Incoming Document Records Directly from Documents and Entries</span><span class="sxs-lookup"><span data-stu-id="1a069-103">Create Incoming Document Records Directly from Documents and Entries</span></span>

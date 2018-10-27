@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 03/06/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
 ms.openlocfilehash: adbb30592a7d83ff97d21dbe08aee87357e3427b
 ms.contentlocale: en-au
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="copy-data-to-new-companies"></a><span data-ttu-id="1f9ba-104">Copy Data to New Companies</span><span class="sxs-lookup"><span data-stu-id="1f9ba-104">Copy Data to New Companies</span></span>

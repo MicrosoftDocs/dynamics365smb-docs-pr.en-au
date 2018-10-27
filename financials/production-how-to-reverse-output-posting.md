@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 09/06/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
 ms.openlocfilehash: 73d90f585b86785b9bdb1355a52a682612488182
 ms.contentlocale: en-au
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="reverse-output-posting"></a><span data-ttu-id="de79a-104">Reverse Output Posting</span><span class="sxs-lookup"><span data-stu-id="de79a-104">Reverse Output Posting</span></span>
