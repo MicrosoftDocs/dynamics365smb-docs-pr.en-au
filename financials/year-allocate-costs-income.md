@@ -12,10 +12,10 @@ ms.workload: na
 ms.date: 06/07/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
 ms.openlocfilehash: 3f2a1f762f9380f3cd272e78c4c2f269e9960f38
 ms.contentlocale: en-au
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="allocate-costs-and-income"></a>Allocate Costs and Income

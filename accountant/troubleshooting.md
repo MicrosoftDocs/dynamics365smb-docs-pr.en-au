@@ -11,10 +11,10 @@ ms.search.keywords: accountant, accounting, troubleshoot
 ms.date: 10/23/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: acef03f32124c5983846bc6ed0c4d332c9c8b347
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
 ms.openlocfilehash: e4f739e13123054527bf3116aec2c8c4133537e6
 ms.contentlocale: en-au
-ms.lasthandoff: 04/16/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="troubleshooting-include-d365acclongincludesd365acclongmdmd"></a>Troubleshooting [!INCLUDE [d365acc_long](includes/d365acc_long_md.md)]

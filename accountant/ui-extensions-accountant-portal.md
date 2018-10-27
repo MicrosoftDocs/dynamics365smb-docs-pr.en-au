@@ -11,10 +11,10 @@ ms. search.keywords: app, add-in, manifest, customize, accountant
 ms.date: 10/23/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 4bc9199b879c23115082b07a81d6da5a0b46e60d
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
 ms.openlocfilehash: b885c47a3fd4499b670a89844277a7e34f809f6f
 ms.contentlocale: en-au
-ms.lasthandoff: 05/31/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="accountant-portal-for-dynamics-365-business-central"></a>Accountant Portal for Dynamics 365 Business Central

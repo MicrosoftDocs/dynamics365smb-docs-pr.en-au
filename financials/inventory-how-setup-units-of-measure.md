@@ -13,10 +13,10 @@ ms.search.keywords: UOM
 ms.date: 01/12/2018
 ms.author: SorenGP
 ms.translationtype: HT
-ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
 ms.openlocfilehash: f6fad390b5b8d209212f20cfca5dfdd5fafd11cc
 ms.contentlocale: en-au
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="set-up-item-units-of-measure"></a>Set Up Item Units of Measure
