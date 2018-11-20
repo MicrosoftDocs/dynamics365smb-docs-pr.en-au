@@ -12,6 +12,7 @@ ms.workload: na
 ms.search.keywords: design, supply, inventory, planning
 ms.date: 10/01/2018
 ms.author: sgroespe
+redirect_url: design-details-handling-reordering-policies
 ms.translationtype: HT
 ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
 ms.openlocfilehash: 336b5c300cf3640d7356313d2d627f6b4008c7b4
