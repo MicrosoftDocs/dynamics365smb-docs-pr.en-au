@@ -12,11 +12,12 @@ ms.workload: na
 ms.search.keywords: 
 ms.date: 10/01/2018
 ms.author: sgroespe
+redirect_url: design-details-handling-reordering-policies
 ms.translationtype: HT
-ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
-ms.openlocfilehash: c258c13a08e9556caddf55a0d14962ad85cd8ca7
+ms.sourcegitcommit: 67400e424305cc705db5c1bd52a8e4de17ecc5a9
+ms.openlocfilehash: 2edbbb5caa74216ece64f093f6323446f04fa1d7
 ms.contentlocale: en-au
-ms.lasthandoff: 10/27/2018
+ms.lasthandoff: 11/20/2018
 
 ---
 # <a name="design-details-the-role-of-the-time-bucket"></a><span data-ttu-id="2b805-103">Design Details: The Role of the Time Bucket</span><span class="sxs-lookup"><span data-stu-id="2b805-103">Design Details: The Role of the Time Bucket</span></span>

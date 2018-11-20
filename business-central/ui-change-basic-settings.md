@@ -1,8 +1,6 @@
 ---
 title: Viewing and Editing Basic Settings | Microsoft Docs
 description: Learn how to change some basic settings, for example, the Role Centre, company, or the work date.
-services: project-madeira
-documentationcenter: 
 author: SusanneWindfeldPedersen
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -10,13 +8,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: change Role Center, notification, change company, change work date
-ms.date: 10/01/2018
+ms.date: 11/19/2018
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
-ms.openlocfilehash: b66a33d652d4229a32ed4672774e5b2bc2ed8833
+ms.sourcegitcommit: 67400e424305cc705db5c1bd52a8e4de17ecc5a9
+ms.openlocfilehash: b56895e17032279863154ee2e33903d701d82f93
 ms.contentlocale: en-au
-ms.lasthandoff: 10/27/2018
+ms.lasthandoff: 11/20/2018
 
 ---
 # <a name="changing-basic-settings"></a><span data-ttu-id="7634a-103">Changing Basic Settings</span><span class="sxs-lookup"><span data-stu-id="7634a-103">Changing Basic Settings</span></span>

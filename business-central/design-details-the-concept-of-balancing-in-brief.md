@@ -12,11 +12,12 @@ ms.workload: na
 ms.search.keywords: 
 ms.date: 10/01/2018
 ms.author: sgroespe
+redirect_url: design-details-balancing-demand-and-supply
 ms.translationtype: HT
-ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
-ms.openlocfilehash: c6c7adb07337643360baa9cacf4eff659e7557c3
+ms.sourcegitcommit: 67400e424305cc705db5c1bd52a8e4de17ecc5a9
+ms.openlocfilehash: ccf9857752fffd873e171880274a5a039c69bdec
 ms.contentlocale: en-au
-ms.lasthandoff: 10/27/2018
+ms.lasthandoff: 11/20/2018
 
 ---
 # <a name="design-details-the-concept-of-balancing-in-brief"></a><span data-ttu-id="01d67-105">Design Details: The Concept of Balancing in Brief</span><span class="sxs-lookup"><span data-stu-id="01d67-105">Design Details: The Concept of Balancing in Brief</span></span>

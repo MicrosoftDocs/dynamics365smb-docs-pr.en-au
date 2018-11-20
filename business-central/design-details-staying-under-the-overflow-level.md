@@ -12,11 +12,12 @@ ms.workload: na
 ms.search.keywords: 
 ms.date: 10/01/2018
 ms.author: sgroespe
+redirect_url: design-details-handling-reordering-policies
 ms.translationtype: HT
-ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
-ms.openlocfilehash: e532893b1823ef84256403fb7bf5ef9fabd59f2e
+ms.sourcegitcommit: 67400e424305cc705db5c1bd52a8e4de17ecc5a9
+ms.openlocfilehash: cc7e9c05464469833824c488d9de44a0afb95915
 ms.contentlocale: en-au
-ms.lasthandoff: 10/27/2018
+ms.lasthandoff: 11/20/2018
 
 ---
 # <a name="design-details-staying-under-the-overflow-level"></a><span data-ttu-id="88ab2-104">Design Details: Staying under the Overflow Level</span><span class="sxs-lookup"><span data-stu-id="88ab2-104">Design Details: Staying under the Overflow Level</span></span>
