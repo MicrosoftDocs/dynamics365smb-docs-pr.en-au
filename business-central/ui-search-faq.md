@@ -11,10 +11,10 @@ ms.search.keywords: find
 ms.date: 10/01/2018
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
+ms.sourcegitcommit: 74cd6b136cf5785237640b124472cd26aeff97de
 ms.openlocfilehash: 70ab7fb07cda5ce9d86b3f39dd14321829e85a52
 ms.contentlocale: en-au
-ms.lasthandoff: 10/27/2018
+ms.lasthandoff: 11/29/2018
 
 ---
 # <a name="tell-me-faq"></a><span data-ttu-id="50cb0-103">Tell Me FAQ</span><span class="sxs-lookup"><span data-stu-id="50cb0-103">Tell Me FAQ</span></span>
