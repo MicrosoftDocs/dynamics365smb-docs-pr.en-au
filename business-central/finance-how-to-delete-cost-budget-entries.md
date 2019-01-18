@@ -13,32 +13,32 @@ ms.search.keywords:
 ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
-ms.openlocfilehash: cdd7f7cfb2645d780df47bfb75ec7392c1739843
+ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
+ms.openlocfilehash: f578247ef835b3c7803adb123e18eec62b0864b9
 ms.contentlocale: en-au
-ms.lasthandoff: 10/27/2018
+ms.lasthandoff: 11/26/2018
 
 ---
-# <a name="delete-cost-budget-entries"></a><span data-ttu-id="09691-103">Delete Cost Budget Entries</span><span class="sxs-lookup"><span data-stu-id="09691-103">Delete Cost Budget Entries</span></span>
-<span data-ttu-id="09691-104">You use the **Delete Cost Budget Entries** batch job to cancel cost budget entries from the cost budget register.</span><span class="sxs-lookup"><span data-stu-id="09691-104">You use the **Delete Cost Budget Entries** batch job to cancel cost budget entries from the cost budget register.</span></span>  
+# <a name="delete-cost-budget-entries"></a><span data-ttu-id="4db32-103">Delete Cost Budget Entries</span><span class="sxs-lookup"><span data-stu-id="4db32-103">Delete Cost Budget Entries</span></span>
+<span data-ttu-id="4db32-104">You use the **Delete Cost Budget Entries** batch job to cancel cost budget entries from the cost budget register.</span><span class="sxs-lookup"><span data-stu-id="4db32-104">You use the **Delete Cost Budget Entries** batch job to cancel cost budget entries from the cost budget register.</span></span>  
 
-<span data-ttu-id="09691-105">To prevent any gaps in the cost budget entries and cost register entries, you cannot delete a single entry or a batch of entries in the middle of the list of register entries.</span><span class="sxs-lookup"><span data-stu-id="09691-105">To prevent any gaps in the cost budget entries and cost register entries, you cannot delete a single entry or a batch of entries in the middle of the list of register entries.</span></span>  
+<span data-ttu-id="4db32-105">To prevent any gaps in the cost budget entries and cost register entries, you cannot delete a single entry or a batch of entries in the middle of the list of register entries.</span><span class="sxs-lookup"><span data-stu-id="4db32-105">To prevent any gaps in the cost budget entries and cost register entries, you cannot delete a single entry or a batch of entries in the middle of the list of register entries.</span></span>  
 
-### <a name="to-delete-a-cost-budget-entry"></a><span data-ttu-id="09691-106">To delete a cost budget entry</span><span class="sxs-lookup"><span data-stu-id="09691-106">To delete a cost budget entry</span></span>  
+### <a name="to-delete-a-cost-budget-entry"></a><span data-ttu-id="4db32-106">To delete a cost budget entry</span><span class="sxs-lookup"><span data-stu-id="4db32-106">To delete a cost budget entry</span></span>  
 
-1.  <span data-ttu-id="09691-107">Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Delete Cost Budget Entries**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="09691-107">Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Delete Cost Budget Entries**, and then choose the related link.</span></span>  
+1.  <span data-ttu-id="4db32-107">Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Delete Cost Budget Entries**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="4db32-107">Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Delete Cost Budget Entries**, and then choose the related link.</span></span>  
 
-    <span data-ttu-id="09691-108">The **To Register No.**</span><span class="sxs-lookup"><span data-stu-id="09691-108">The **To Register No.**</span></span> <span data-ttu-id="09691-109">field contains the last register entry number and cannot be changed.</span><span class="sxs-lookup"><span data-stu-id="09691-109">field contains the last register entry number and cannot be changed.</span></span>  
+    <span data-ttu-id="4db32-108">The **To Register No.**</span><span class="sxs-lookup"><span data-stu-id="4db32-108">The **To Register No.**</span></span> <span data-ttu-id="4db32-109">field contains the last register entry number and cannot be changed.</span><span class="sxs-lookup"><span data-stu-id="4db32-109">field contains the last register entry number and cannot be changed.</span></span>  
 
-    <span data-ttu-id="09691-110">You can use the **From Register No.**</span><span class="sxs-lookup"><span data-stu-id="09691-110">You can use the **From Register No.**</span></span> <span data-ttu-id="09691-111">field to select a register entry number from which the deletion should begin.</span><span class="sxs-lookup"><span data-stu-id="09691-111">field to select a register entry number from which the deletion should begin.</span></span>  
-2.  <span data-ttu-id="09691-112">Choose the **OK** button to delete the selected cost budget entries.</span><span class="sxs-lookup"><span data-stu-id="09691-112">Choose the **OK** button to delete the selected cost budget entries.</span></span>  
+    <span data-ttu-id="4db32-110">You can use the **From Register No.**</span><span class="sxs-lookup"><span data-stu-id="4db32-110">You can use the **From Register No.**</span></span> <span data-ttu-id="4db32-111">field to select a register entry number from which the deletion should begin.</span><span class="sxs-lookup"><span data-stu-id="4db32-111">field to select a register entry number from which the deletion should begin.</span></span>  
+2.  <span data-ttu-id="4db32-112">Choose the **OK** button to delete the selected cost budget entries.</span><span class="sxs-lookup"><span data-stu-id="4db32-112">Choose the **OK** button to delete the selected cost budget entries.</span></span>  
 
 > [!NOTE]  
->  <span data-ttu-id="09691-113">To avoid an accidental deletion of cost budget entries, you can close register entries by marking the lines as **Closed** in the **Closed** field in the **Cost Budget Registers** window.</span><span class="sxs-lookup"><span data-stu-id="09691-113">To avoid an accidental deletion of cost budget entries, you can close register entries by marking the lines as **Closed** in the **Closed** field in the **Cost Budget Registers** window.</span></span>  
+>  <span data-ttu-id="4db32-113">To avoid an accidental deletion of cost budget entries, you can close register entries by marking the lines as **Closed** in the **Closed** field on the **Cost Budget Registers** page.</span><span class="sxs-lookup"><span data-stu-id="4db32-113">To avoid an accidental deletion of cost budget entries, you can close register entries by marking the lines as **Closed** in the **Closed** field on the **Cost Budget Registers** page.</span></span>  
 
-## <a name="see-also"></a><span data-ttu-id="09691-114">See Also</span><span class="sxs-lookup"><span data-stu-id="09691-114">See Also</span></span>  
-<span data-ttu-id="09691-115">[Accounting for Costs](finance-manage-cost-accounting.md)
-[Creating Cost Budgets](finance-create-cost-budgets.md)</span><span class="sxs-lookup"><span data-stu-id="09691-115">[Accounting for Costs](finance-manage-cost-accounting.md)
+## <a name="see-also"></a><span data-ttu-id="4db32-114">See Also</span><span class="sxs-lookup"><span data-stu-id="4db32-114">See Also</span></span>  
+<span data-ttu-id="4db32-115">[Accounting for Costs](finance-manage-cost-accounting.md)
+[Creating Cost Budgets](finance-create-cost-budgets.md)</span><span class="sxs-lookup"><span data-stu-id="4db32-115">[Accounting for Costs](finance-manage-cost-accounting.md)
 [Creating Cost Budgets](finance-create-cost-budgets.md)</span></span>  
-<span data-ttu-id="09691-116">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="09691-116">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>
+<span data-ttu-id="4db32-116">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="4db32-116">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>
 

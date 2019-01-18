@@ -13,20 +13,20 @@ ms.search.keywords: posting, interface, design
 ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
 ms.openlocfilehash: 236cbcc45ccca23905dcb79a491236c80b2bdebf
 ms.contentlocale: en-au
-ms.lasthandoff: 09/28/2018
+ms.lasthandoff: 10/27/2018
 
 ---
-# <a name="design-details-posting-interface-structure"></a><span data-ttu-id="e176a-103">Design Details: Posting Interface Structure</span><span class="sxs-lookup"><span data-stu-id="e176a-103">Design Details: Posting Interface Structure</span></span>
-<span data-ttu-id="e176a-104">In the [!INCLUDE[d365fin](includes/d365fin_md.md)] posting interface structure, there are several global procedures that use the same structure:</span><span class="sxs-lookup"><span data-stu-id="e176a-104">In the [!INCLUDE[d365fin](includes/d365fin_md.md)] posting interface structure, there are several global procedures that use the same structure:</span></span>  
+# <a name="design-details-posting-interface-structure"></a><span data-ttu-id="08ceb-103">Design Details: Posting Interface Structure</span><span class="sxs-lookup"><span data-stu-id="08ceb-103">Design Details: Posting Interface Structure</span></span>
+<span data-ttu-id="08ceb-104">In the [!INCLUDE[d365fin](includes/d365fin_md.md)] posting interface structure, there are several global procedures that use the same structure:</span><span class="sxs-lookup"><span data-stu-id="08ceb-104">In the [!INCLUDE[d365fin](includes/d365fin_md.md)] posting interface structure, there are several global procedures that use the same structure:</span></span>  
   
-* <span data-ttu-id="e176a-105">RunWithCheck and RunWithoutCheck call procedure Code – generic posting interface for Gen. Jnl Line.</span><span class="sxs-lookup"><span data-stu-id="e176a-105">RunWithCheck and RunWithoutCheck call procedure Code – generic posting interface for Gen. Jnl Line.</span></span>  
-* <span data-ttu-id="e176a-106">CustPostApplyCustLedgEntry – post customer application, called from codeunit 226 CustEntry-Apply Posted Entries.</span><span class="sxs-lookup"><span data-stu-id="e176a-106">CustPostApplyCustLedgEntry – post customer application, called from codeunit 226 CustEntry-Apply Posted Entries.</span></span>  
-* <span data-ttu-id="e176a-107">VendPostApplyVendLedgEntry – post vendor application, called from codeunit 227 VendEntry-Apply Posted Entries.</span><span class="sxs-lookup"><span data-stu-id="e176a-107">VendPostApplyVendLedgEntry – post vendor application, called from codeunit 227 VendEntry-Apply Posted Entries.</span></span>  
-* <span data-ttu-id="e176a-108">UnapplyCustLedgEntry – post unapply of customer application, called from codeunit 226 CustEntry-Apply Posted Entries</span><span class="sxs-lookup"><span data-stu-id="e176a-108">UnapplyCustLedgEntry – post unapply of customer application, called from codeunit 226 CustEntry-Apply Posted Entries</span></span>  
-* <span data-ttu-id="e176a-109">UnapplyVendLedgEntry – post unapply of vendor application, called from codeunit 227 VendEntry-Apply Posted Entries</span><span class="sxs-lookup"><span data-stu-id="e176a-109">UnapplyVendLedgEntry – post unapply of vendor application, called from codeunit 227 VendEntry-Apply Posted Entries</span></span>  
+* <span data-ttu-id="08ceb-105">RunWithCheck and RunWithoutCheck call procedure Code – generic posting interface for Gen. Jnl Line.</span><span class="sxs-lookup"><span data-stu-id="08ceb-105">RunWithCheck and RunWithoutCheck call procedure Code – generic posting interface for Gen. Jnl Line.</span></span>  
+* <span data-ttu-id="08ceb-106">CustPostApplyCustLedgEntry – post customer application, called from codeunit 226 CustEntry-Apply Posted Entries.</span><span class="sxs-lookup"><span data-stu-id="08ceb-106">CustPostApplyCustLedgEntry – post customer application, called from codeunit 226 CustEntry-Apply Posted Entries.</span></span>  
+* <span data-ttu-id="08ceb-107">VendPostApplyVendLedgEntry – post vendor application, called from codeunit 227 VendEntry-Apply Posted Entries.</span><span class="sxs-lookup"><span data-stu-id="08ceb-107">VendPostApplyVendLedgEntry – post vendor application, called from codeunit 227 VendEntry-Apply Posted Entries.</span></span>  
+* <span data-ttu-id="08ceb-108">UnapplyCustLedgEntry – post unapply of customer application, called from codeunit 226 CustEntry-Apply Posted Entries</span><span class="sxs-lookup"><span data-stu-id="08ceb-108">UnapplyCustLedgEntry – post unapply of customer application, called from codeunit 226 CustEntry-Apply Posted Entries</span></span>  
+* <span data-ttu-id="08ceb-109">UnapplyVendLedgEntry – post unapply of vendor application, called from codeunit 227 VendEntry-Apply Posted Entries</span><span class="sxs-lookup"><span data-stu-id="08ceb-109">UnapplyVendLedgEntry – post unapply of vendor application, called from codeunit 227 VendEntry-Apply Posted Entries</span></span>  
   
-## <a name="see-also"></a><span data-ttu-id="e176a-110">See Also</span><span class="sxs-lookup"><span data-stu-id="e176a-110">See Also</span></span>  
-[<span data-ttu-id="e176a-111">Design Details: Posting Engine Structure</span><span class="sxs-lookup"><span data-stu-id="e176a-111">Design Details: Posting Engine Structure</span></span>](design-details-posting-engine-structure.md)
+## <a name="see-also"></a><span data-ttu-id="08ceb-110">See Also</span><span class="sxs-lookup"><span data-stu-id="08ceb-110">See Also</span></span>  
+[<span data-ttu-id="08ceb-111">Design Details: Posting Engine Structure</span><span class="sxs-lookup"><span data-stu-id="08ceb-111">Design Details: Posting Engine Structure</span></span>](design-details-posting-engine-structure.md)

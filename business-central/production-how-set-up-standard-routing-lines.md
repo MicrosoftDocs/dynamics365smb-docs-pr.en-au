@@ -13,34 +13,34 @@ ms.search.keywords:
 ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
-ms.openlocfilehash: e597f0847a5d1991e26b1fed4596815889f950d0
+ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
+ms.openlocfilehash: 7d4f7293a040ad25ce8325552bc6f05f94dd0710
 ms.contentlocale: en-au
-ms.lasthandoff: 10/27/2018
+ms.lasthandoff: 11/26/2018
 
 ---
-# <a name="set-up-standard-routing-lines"></a><span data-ttu-id="b9f66-103">Set Up Standard Routing Lines</span><span class="sxs-lookup"><span data-stu-id="b9f66-103">Set Up Standard Routing Lines</span></span>
-<span data-ttu-id="b9f66-104">The use of standard tasks simplifies the creation and maintenance of routings.</span><span class="sxs-lookup"><span data-stu-id="b9f66-104">The use of standard tasks simplifies the creation and maintenance of routings.</span></span> <span data-ttu-id="b9f66-105">They allow you to quickly attach extra information to recurring operations.</span><span class="sxs-lookup"><span data-stu-id="b9f66-105">They allow you to quickly attach extra information to recurring operations.</span></span>
+# <a name="set-up-standard-routing-lines"></a><span data-ttu-id="73d35-103">Set Up Standard Routing Lines</span><span class="sxs-lookup"><span data-stu-id="73d35-103">Set Up Standard Routing Lines</span></span>
+<span data-ttu-id="73d35-104">The use of standard tasks simplifies the creation and maintenance of routings.</span><span class="sxs-lookup"><span data-stu-id="73d35-104">The use of standard tasks simplifies the creation and maintenance of routings.</span></span> <span data-ttu-id="73d35-105">They allow you to quickly attach extra information to recurring operations.</span><span class="sxs-lookup"><span data-stu-id="73d35-105">They allow you to quickly attach extra information to recurring operations.</span></span>
 
-## <a name="to-set-up-a-standard-task"></a><span data-ttu-id="b9f66-106">To set up a standard task</span><span class="sxs-lookup"><span data-stu-id="b9f66-106">To set up a standard task</span></span>
-1. <span data-ttu-id="b9f66-107">Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Standard Tasks**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="b9f66-107">Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Standard Tasks**, and then choose the related link.</span></span>
-2. <span data-ttu-id="b9f66-108">Choose the **New** action.</span><span class="sxs-lookup"><span data-stu-id="b9f66-108">Choose the **New** action.</span></span>
-3. <span data-ttu-id="b9f66-109">Fill in the fields as necessary.</span><span class="sxs-lookup"><span data-stu-id="b9f66-109">Fill in the fields as necessary.</span></span> [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
-4. <span data-ttu-id="b9f66-110">Choose the **Tools**, **Personnel**, **Description**, or **Tools** action.</span><span class="sxs-lookup"><span data-stu-id="b9f66-110">Choose the **Tools**, **Personnel**, **Description**, or **Tools** action.</span></span>
-5. <span data-ttu-id="b9f66-111">In the window that opens, describe the standard task in question.</span><span class="sxs-lookup"><span data-stu-id="b9f66-111">In the window that opens, describe the standard task in question.</span></span>
+## <a name="to-set-up-a-standard-task"></a><span data-ttu-id="73d35-106">To set up a standard task</span><span class="sxs-lookup"><span data-stu-id="73d35-106">To set up a standard task</span></span>
+1. <span data-ttu-id="73d35-107">Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Standard Tasks**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="73d35-107">Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Standard Tasks**, and then choose the related link.</span></span>
+2. <span data-ttu-id="73d35-108">Choose the **New** action.</span><span class="sxs-lookup"><span data-stu-id="73d35-108">Choose the **New** action.</span></span>
+3. <span data-ttu-id="73d35-109">Fill in the fields as necessary.</span><span class="sxs-lookup"><span data-stu-id="73d35-109">Fill in the fields as necessary.</span></span> [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
+4. <span data-ttu-id="73d35-110">Choose the **Tools**, **Personnel**, **Description**, or **Tools** action.</span><span class="sxs-lookup"><span data-stu-id="73d35-110">Choose the **Tools**, **Personnel**, **Description**, or **Tools** action.</span></span>
+5. <span data-ttu-id="73d35-111">on the page that opens, describe the standard task in question.</span><span class="sxs-lookup"><span data-stu-id="73d35-111">on the page that opens, describe the standard task in question.</span></span>
 
-## <a name="to-add-a-standard-task-to-an-operation"></a><span data-ttu-id="b9f66-112">To add a standard task to an operation</span><span class="sxs-lookup"><span data-stu-id="b9f66-112">To add a standard task to an operation</span></span>
-1. <span data-ttu-id="b9f66-113">Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Routings**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="b9f66-113">Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Routings**, and then choose the related link.</span></span>
-2. <span data-ttu-id="b9f66-114">Open the relevant routing.</span><span class="sxs-lookup"><span data-stu-id="b9f66-114">Open the relevant routing.</span></span>
-3. <span data-ttu-id="b9f66-115">Select a relevant routing line, choose the **Operations** action, and then choose the **Tools**, **Personnel**, **Description**, or **Tools** action.</span><span class="sxs-lookup"><span data-stu-id="b9f66-115">Select a relevant routing line, choose the **Operations** action, and then choose the **Tools**, **Personnel**, **Description**, or **Tools** action.</span></span>
+## <a name="to-add-a-standard-task-to-an-operation"></a><span data-ttu-id="73d35-112">To add a standard task to an operation</span><span class="sxs-lookup"><span data-stu-id="73d35-112">To add a standard task to an operation</span></span>
+1. <span data-ttu-id="73d35-113">Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Routings**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="73d35-113">Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Routings**, and then choose the related link.</span></span>
+2. <span data-ttu-id="73d35-114">Open the relevant routing.</span><span class="sxs-lookup"><span data-stu-id="73d35-114">Open the relevant routing.</span></span>
+3. <span data-ttu-id="73d35-115">Select a relevant routing line, choose the **Operations** action, and then choose the **Tools**, **Personnel**, **Description**, or **Tools** action.</span><span class="sxs-lookup"><span data-stu-id="73d35-115">Select a relevant routing line, choose the **Operations** action, and then choose the **Tools**, **Personnel**, **Description**, or **Tools** action.</span></span>
 
-## <a name="see-also"></a><span data-ttu-id="b9f66-116">See Also</span><span class="sxs-lookup"><span data-stu-id="b9f66-116">See Also</span></span>  
-[<span data-ttu-id="b9f66-117">Create Routings</span><span class="sxs-lookup"><span data-stu-id="b9f66-117">Create Routings</span></span>](production-how-to-create-routings.md)  
-<span data-ttu-id="b9f66-118">[Create Production BOMs](production-how-to-create-production-boms.md)   </span><span class="sxs-lookup"><span data-stu-id="b9f66-118">[Create Production BOMs](production-how-to-create-production-boms.md)   </span></span>  
-<span data-ttu-id="b9f66-119">[Setting Up Manufacturing](production-configure-production-processes.md) </span><span class="sxs-lookup"><span data-stu-id="b9f66-119">[Setting Up Manufacturing](production-configure-production-processes.md) </span></span>  
-<span data-ttu-id="b9f66-120">[Manufacturing](production-manage-manufacturing.md)  </span><span class="sxs-lookup"><span data-stu-id="b9f66-120">[Manufacturing](production-manage-manufacturing.md)  </span></span>  
-<span data-ttu-id="b9f66-121">[Planning](production-planning.md) </span><span class="sxs-lookup"><span data-stu-id="b9f66-121">[Planning](production-planning.md) </span></span>  
-[<span data-ttu-id="b9f66-122">Inventory</span><span class="sxs-lookup"><span data-stu-id="b9f66-122">Inventory</span></span>](inventory-manage-inventory.md)  
-[<span data-ttu-id="b9f66-123">Purchasing</span><span class="sxs-lookup"><span data-stu-id="b9f66-123">Purchasing</span></span>](purchasing-manage-purchasing.md)  
-<span data-ttu-id="b9f66-124">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="b9f66-124">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>  
+## <a name="see-also"></a><span data-ttu-id="73d35-116">See Also</span><span class="sxs-lookup"><span data-stu-id="73d35-116">See Also</span></span>  
+[<span data-ttu-id="73d35-117">Create Routings</span><span class="sxs-lookup"><span data-stu-id="73d35-117">Create Routings</span></span>](production-how-to-create-routings.md)  
+<span data-ttu-id="73d35-118">[Create Production BOMs](production-how-to-create-production-boms.md)   </span><span class="sxs-lookup"><span data-stu-id="73d35-118">[Create Production BOMs](production-how-to-create-production-boms.md)   </span></span>  
+<span data-ttu-id="73d35-119">[Setting Up Manufacturing](production-configure-production-processes.md) </span><span class="sxs-lookup"><span data-stu-id="73d35-119">[Setting Up Manufacturing](production-configure-production-processes.md) </span></span>  
+<span data-ttu-id="73d35-120">[Manufacturing](production-manage-manufacturing.md)  </span><span class="sxs-lookup"><span data-stu-id="73d35-120">[Manufacturing](production-manage-manufacturing.md)  </span></span>  
+<span data-ttu-id="73d35-121">[Planning](production-planning.md) </span><span class="sxs-lookup"><span data-stu-id="73d35-121">[Planning](production-planning.md) </span></span>  
+[<span data-ttu-id="73d35-122">Inventory</span><span class="sxs-lookup"><span data-stu-id="73d35-122">Inventory</span></span>](inventory-manage-inventory.md)  
+[<span data-ttu-id="73d35-123">Purchasing</span><span class="sxs-lookup"><span data-stu-id="73d35-123">Purchasing</span></span>](purchasing-manage-purchasing.md)  
+<span data-ttu-id="73d35-124">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="73d35-124">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>  
 
