@@ -12,10 +12,10 @@ ms.search.keywords: SMTP, mail, Office 365
 ms.date: 10/01/2018
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: e7dcdc0935a8793ae226dfc2f9709b5b8f487a62
-ms.openlocfilehash: adeb5f554014e64921cccb9dc926552a2321d333
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
+ms.openlocfilehash: 49ed0eea3af363b368693b9df34bb6284ccc47ce
 ms.contentlocale: en-au
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="using-business-central-without-outlook"></a>Using Business Central without Outlook

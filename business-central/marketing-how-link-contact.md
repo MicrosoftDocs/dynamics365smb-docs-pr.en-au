@@ -12,11 +12,12 @@ ms.workload: na
 ms.search.keywords: relationship, prospect
 ms.date: 10/01/2018
 ms.author: jswymer
+redirect_url: marketing-create-contact-companies
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 2613e32873c91fe24c4734456338bb1f7e18849d
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
+ms.openlocfilehash: c7ebb7b8119b68f04023de5298e1150d6b028a90
 ms.contentlocale: en-au
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="link-contacts-with-customers-vendors-and-bank-accounts"></a>Link Contacts With Customers, Vendors, and Bank Accounts

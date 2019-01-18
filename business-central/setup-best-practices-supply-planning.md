@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 8858758c6b4b680e13d54f0222201c67a03dafa3
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
+ms.openlocfilehash: 9b3b6dc26c7af1d2104c5509ba98ba75927cbcad
 ms.contentlocale: en-au
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="setup-best-practices-supply-planning"></a>Setup Best Practices: Supply Planning

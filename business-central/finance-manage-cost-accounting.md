@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 4f74d8cb6c2c42b3b928a59655bf3ced62d59258
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
+ms.openlocfilehash: 09dd038f69e8b42dbf5c81b7c74f4401d8690d6d
 ms.contentlocale: en-au
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="accounting-for-costs"></a>Accounting for Costs

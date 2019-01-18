@@ -13,10 +13,10 @@ ms.search.keywords: accounting, auditing, bookkeeping
 ms.date: 10/01/2018
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: ad1b888d475c0523c5a905e804a3f89ab4531b28
-ms.openlocfilehash: e4cda1f4770117065d1650a0c51dbd46fdf8baac
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
+ms.openlocfilehash: 4ac052f6a757c60dbe1a87f511c37910616f6206
 ms.contentlocale: en-au
-ms.lasthandoff: 05/17/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="finance"></a>Finance

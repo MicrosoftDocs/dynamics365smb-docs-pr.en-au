@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 046a42582dc66368fded90a4bb45add71a95d979
-ms.openlocfilehash: 736f6d9393da6b7de29fdbe6a92e279c031765ab
+ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
+ms.openlocfilehash: b56883a41a9920995a051d3c89e8f59433b5621e
 ms.contentlocale: en-au
-ms.lasthandoff: 07/02/2018
+ms.lasthandoff: 11/26/2018
 
 ---
 # <a name="print-income-statements"></a>Print Income Statements
@@ -26,7 +26,7 @@ This is a legal report that is required for auditing accounts. This report displ
 
 ## <a name="to-print-the-income-statement-report"></a>To print the income statement report  
 1. Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Income Statement**, and then choose the relevant link.  
-2. In the **Income Statement** window, on the **Options** FastTab, fill in the fields as described in the following table.  
+2. On the **Income Statement** page, on the **Options** FastTab, fill in the fields as described in the following table.  
 
     |Field|Description|  
     |---------------------------------|---------------------------------------|  

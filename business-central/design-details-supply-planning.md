@@ -11,10 +11,10 @@ ms.search.keywords: design, supply, planning, reordering, replenishment
 ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 2b506561b35cab1fafd4cac05a71de988761cac8
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
+ms.openlocfilehash: 92496f25d354dd766acd8d301546a5bf4f36c1e3
 ms.contentlocale: en-au
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="design-details-supply-planning"></a>Design Details: Supply Planning

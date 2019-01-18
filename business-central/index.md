@@ -10,10 +10,10 @@ ms.workload: na
 ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: e7dcdc0935a8793ae226dfc2f9709b5b8f487a62
-ms.openlocfilehash: c0ae00a8994f41b54356a50418eafdc090c701e7
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
+ms.openlocfilehash: e51414ef3aaa512a49372c39cce3c4b11b8ff449
 ms.contentlocale: en-au
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="welcome-to-included365finlongincludesd365finlongmdmd"></a>Welcome to [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]

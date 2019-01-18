@@ -1,26 +1,21 @@
 ---
 title: How to View Posted Tax CR/Adj Notes
-description: You can use the **Posted Sales Tax CR/Adj Note** window and **Posted Purch. Tax CR/Adj Note** window to view details of sales tax CR/Adj Notes and purchase tax CR/Adj Notes that have been posted.
-services: project-madeira
-documentationcenter: 
+description: You can use the Posted Sales Tax CR/Adj Note page and Posted Purch. Tax CR/Adj Note page to view details of sales tax CR/Adj Notes and purchase tax CR/Adj Notes that have been posted.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
 ms.search.keywords: 
 ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 046a42582dc66368fded90a4bb45add71a95d979
-ms.openlocfilehash: e0212433e9b781baac37bd340b29457234cdc2e3
+ms.sourcegitcommit: caf7cf5afe370af0c4294c794c0ff9bc8ff4c31c
+ms.openlocfilehash: cc1cb5d1277d9e53f7e2008062668f485e6972dd
 ms.contentlocale: en-au
-ms.lasthandoff: 07/02/2018
+ms.lasthandoff: 11/22/2018
 
 ---
 # <a name="view-posted-tax-credit-memos"></a>View Posted Tax CR/Adj Notes
-You can use the **Posted Sales Tax CR/Adj Note** window and **Posted Purch. Tax CR/Adj Note** window to view details of sales tax CR/Adj Notes and purchase tax CR/Adj Notes that have been posted.  
+You can use the **Posted Sales Tax CR/Adj Note** page and **Posted Purch. Tax CR/Adj Note** page to view details of sales tax CR/Adj Notes and purchase tax CR/Adj Notes that have been posted.  
 
 The following procedure describes how to view posted sales tax CR/Adj Notes, but the same steps also apply for viewing posted purchase tax CR/Adj Notes.  
 
@@ -41,5 +36,5 @@ The following procedure describes how to view posted sales tax CR/Adj Notes, but
 
 ## <a name="see-also"></a>See Also  
  [View Posted Tax Invoices](how-to-view-posted-tax-invoices.md)   
- [View Withholding Tax Entries](how-to-view-withholding-tax-entries.md) 
+ [View Withholding Tax Entries](how-to-view-withholding-tax-entries.md)
 

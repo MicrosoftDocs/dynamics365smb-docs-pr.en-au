@@ -13,10 +13,10 @@ ms.search.keywords: design, general ledger, post
 ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 2667b5d6d11172736a5dd6c3f7c810d42e3f2501
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
+ms.openlocfilehash: db90633823f12650f796735a9a83bec8edb60cb9
 ms.contentlocale: en-au
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="general-journal-post-line-overview"></a>General Journal Post Line Overview

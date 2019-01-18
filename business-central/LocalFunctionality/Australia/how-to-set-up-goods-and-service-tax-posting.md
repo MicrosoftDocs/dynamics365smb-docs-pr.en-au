@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 046a42582dc66368fded90a4bb45add71a95d979
-ms.openlocfilehash: 8449703eb58a115cca7740db39097f265e5fa6e2
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
+ms.openlocfilehash: b4f6df1125bd5f90f05aa183fbd9edeae9fb5277
 ms.contentlocale: en-au
-ms.lasthandoff: 07/02/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="set-up-goods-and-service-tax-posting"></a>Set Up Goods and Service Tax Posting

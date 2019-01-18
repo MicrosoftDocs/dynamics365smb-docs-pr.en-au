@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 046a42582dc66368fded90a4bb45add71a95d979
-ms.openlocfilehash: 28da923c1ee05eb5e67c5f24266139756228e22c
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
+ms.openlocfilehash: 8268805f9a2b36f63a95326ffa7c57a456749a3e
 ms.contentlocale: en-au
-ms.lasthandoff: 07/02/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="calculate-goods-and-services-tax-on-prepayments"></a>Calculate Goods and Services Tax on Prepayments

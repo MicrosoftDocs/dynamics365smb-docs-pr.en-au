@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
-ms.openlocfilehash: cdd7f7cfb2645d780df47bfb75ec7392c1739843
+ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
+ms.openlocfilehash: f578247ef835b3c7803adb123e18eec62b0864b9
 ms.contentlocale: en-au
-ms.lasthandoff: 10/27/2018
+ms.lasthandoff: 11/26/2018
 
 ---
 # <a name="delete-cost-budget-entries"></a>Delete Cost Budget Entries
@@ -34,7 +34,7 @@ To prevent any gaps in the cost budget entries and cost register entries, you ca
 2.  Choose the **OK** button to delete the selected cost budget entries.  
 
 > [!NOTE]  
->  To avoid an accidental deletion of cost budget entries, you can close register entries by marking the lines as **Closed** in the **Closed** field in the **Cost Budget Registers** window.  
+>  To avoid an accidental deletion of cost budget entries, you can close register entries by marking the lines as **Closed** in the **Closed** field on the **Cost Budget Registers** page.  
 
 ## <a name="see-also"></a>See Also  
 [Accounting for Costs](finance-manage-cost-accounting.md)

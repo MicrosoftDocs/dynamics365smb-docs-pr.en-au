@@ -1,6 +1,6 @@
 ---
 title: How to Enter Australian Business Numbers
-description: You can enter an Australian Business Number (ABN) in certain windows.
+description: You can enter an Australian Business Number (ABN) in certain pages.
 services: project-madeira
 documentationcenter: 
 author: SorenGP
@@ -13,14 +13,14 @@ ms.search.keywords:
 ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 046a42582dc66368fded90a4bb45add71a95d979
-ms.openlocfilehash: 7b5147e5d96cff5122c9d0930d89378614ae2703
+ms.sourcegitcommit: caf7cf5afe370af0c4294c794c0ff9bc8ff4c31c
+ms.openlocfilehash: 966e43ba1751da3c78faf24d35db23e947d67bfe
 ms.contentlocale: en-au
-ms.lasthandoff: 07/02/2018
+ms.lasthandoff: 11/22/2018
 
 ---
 # <a name="enter-australian-business-numbers"></a>Enter Australian Business Numbers
-You can enter an Australian Business Number (ABN) in the following windows:  
+You can enter an Australian Business Number (ABN) in the following pages:  
 
 - **Company Information**  
 - **Vendor Card**  

@@ -13,14 +13,14 @@ ms.search.keywords: vendor payment, creditor, debt, balance due, AP
 ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
-ms.openlocfilehash: 7d2ebaf1efe49c8a66e6d562ab7655d45e181044
+ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
+ms.openlocfilehash: 5e13b28e2cf75f061246dab56a9f4b3d4a16e1ce
 ms.contentlocale: en-au
-ms.lasthandoff: 10/27/2018
+ms.lasthandoff: 11/26/2018
 
 ---
 # <a name="suggest-vendor-payments"></a>Suggest Vendor Payments
-In the **Payment Journal** window, you can use the **Suggest Vendor Payments** batch job to suggest payment lines. Lines for payments that are due soon or payments where a payment discount is available are suggested based on your settings.
+On the **Payment Journal** page, you can use the **Suggest Vendor Payments** batch job to suggest payment lines. Lines for payments that are due soon or payments where a payment discount is available are suggested based on your settings.
 
 To benefit fully from payment suggestions, you must first prioritise your vendors. For more information, see [Prioritise Vendors](purchasing-how-prioritize-vendors.md).  
 

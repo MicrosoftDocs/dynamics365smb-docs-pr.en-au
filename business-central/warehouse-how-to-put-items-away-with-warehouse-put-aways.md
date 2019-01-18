@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
-ms.openlocfilehash: dea237fa837b34e565d9df6156ae6bbfb8508ee6
+ms.sourcegitcommit: caf7cf5afe370af0c4294c794c0ff9bc8ff4c31c
+ms.openlocfilehash: 53bf1355c9f7b1d5727e6e63f89a7d2db56cfc48
 ms.contentlocale: en-au
-ms.lasthandoff: 10/27/2018
+ms.lasthandoff: 11/22/2018
 
 ---
 # <a name="put-items-away-with-warehouse-put-aways"></a>Put Items Away with Warehouse Put-aways
@@ -72,7 +72,7 @@ The bin ranking is taken into consideration when more than one bin matches put-a
     If the **Document Status** field is blank, the receipt has not been put away at all. Otherwise, the field indicates the receipt is partially put-away or completely put-away.  
 
 4.  If the receipt is partially put away or not put away at all, choose the **Create Put-away** action.  
-5.  Fill in the batch job request window to create the put-away, and then choose the **OK** button.   
+5.  Fill in the batch job request page to create the put-away, and then choose the **OK** button.   
 
 ## <a name="see-also"></a>See Also  
 [Warehouse Management](warehouse-manage-warehouse.md)  

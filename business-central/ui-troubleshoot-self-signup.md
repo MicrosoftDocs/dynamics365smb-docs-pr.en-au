@@ -10,10 +10,10 @@ ms.workload: na
 ms.date: 10/01/2018
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: d7664360941313da6ea0b797ef00df2e9810ad62
-ms.openlocfilehash: de07dac85b9e24f50eb60570630feb6199089ec4
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
+ms.openlocfilehash: 30c39c263057c47512a1959d9d57b4daf2f23cce
 ms.contentlocale: en-au
-ms.lasthandoff: 07/09/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="troubleshooting-self-service-sign-up"></a>Troubleshooting Self-Service Sign-Up

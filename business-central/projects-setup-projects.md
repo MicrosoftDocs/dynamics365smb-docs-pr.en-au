@@ -13,10 +13,10 @@ ms.search.keywords: projects
 ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: d72d7cf8899928e1515b29b49b1642e299679e4a
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
+ms.openlocfilehash: 6089fa6ceb5198d280fa0c2240967c5728a2a3a9
 ms.contentlocale: en-au
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="setting-up-project-management"></a>Setting Up Project Management

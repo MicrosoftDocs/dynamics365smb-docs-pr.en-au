@@ -11,10 +11,10 @@ ms.search.keywords: feature overview
 ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: e7dcdc0935a8793ae226dfc2f9709b5b8f487a62
-ms.openlocfilehash: 1ad174966d8e56eff13d496a7174483fa9f572ee
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
+ms.openlocfilehash: ecbcc68b9d4f176c581f10040d41c3e2b3e8493e
 ms.contentlocale: en-au
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="business-functionality"></a>Business Functionality

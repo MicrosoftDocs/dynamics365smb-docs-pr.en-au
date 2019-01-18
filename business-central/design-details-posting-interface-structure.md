@@ -13,10 +13,10 @@ ms.search.keywords: posting, interface, design
 ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 4d5aede731958f6f07b361cf2b4f2351bb5ad06a
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
+ms.openlocfilehash: 236cbcc45ccca23905dcb79a491236c80b2bdebf
 ms.contentlocale: en-au
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="design-details-posting-interface-structure"></a>Design Details: Posting Interface Structure

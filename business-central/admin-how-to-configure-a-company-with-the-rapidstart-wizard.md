@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
-ms.openlocfilehash: 27b50b9471c8dccb7da8750bbd57e34774ff6115
+ms.sourcegitcommit: caf7cf5afe370af0c4294c794c0ff9bc8ff4c31c
+ms.openlocfilehash: 4dd595fabbf8e4cd2a3eef73a934922dfea92858
 ms.contentlocale: en-au
-ms.lasthandoff: 10/27/2018
+ms.lasthandoff: 11/22/2018
 
 ---
 # <a name="configure-a-company-with-the-rapidstart-wizard"></a>Configure a Company with the RapidStart Wizard
@@ -43,7 +43,7 @@ In the following procedure, you have provided the customer with the configuratio
 7. Choose the **OK** button.  
 8. To verify that the configuration information has been applied to the new company, Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Company Information**, and then choose the related link.
 
-The **Company Information** window contains information that you have specified.   
+The **Company Information** page contains information that you have specified.   
 
 You have now configured the company and applied data to it.  
 

@@ -10,15 +10,15 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 05d9630075ed533759f8225810e4e4a95c141b16
+ms.sourcegitcommit: caf7cf5afe370af0c4294c794c0ff9bc8ff4c31c
+ms.openlocfilehash: 9e3e08135055aaf849b2fd847388269be1475b3c
 ms.contentlocale: en-au
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 11/22/2018
 
 ---
 
 # <a name="classifying-data-sensitivity"></a>Classifying Data Sensitivity
-To classify the fields that hold sensitive or personal data, a Microsoft partner can set the ```DataClassification``` property on fields. This requires access to the database tables, either through the development environment or by running a Windows PowerShell script. For more information, see [Classifying Data](https://docs.microsoft.com/en-us/dynamics-nav/classifying-data).  
+To classify the fields that hold sensitive or personal data, a Microsoft partner can set the ```DataClassification``` property on fields. This requires access to the database tables, either through the development environment or by running a Pages PowerShell script. For more information, see [Classifying Data](https://docs.microsoft.com/en-us/dynamics-nav/classifying-data).  
 
 As a customer, you can add a second level of classification by specifying sensitivity levels for the data you store in standard and custom fields. Classifying data sensitivity helps ensure that you know where you keep personal data in your system, and makes it easier to respond to requests from data subjects. For example, if a contact or customer asks you to export their personal data. For more information, see [Responding to Requests About Personal Data](admin-responding-to-requests-about-personal-data.md).
 

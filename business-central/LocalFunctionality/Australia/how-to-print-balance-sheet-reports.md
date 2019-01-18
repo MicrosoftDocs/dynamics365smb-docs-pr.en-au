@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 046a42582dc66368fded90a4bb45add71a95d979
-ms.openlocfilehash: 79d2b579db0887e4718edb1cafcf9c3162687fc0
+ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
+ms.openlocfilehash: 589a202b35f72a57a470c3dd7d99e81f31debb2e
 ms.contentlocale: en-au
-ms.lasthandoff: 07/02/2018
+ms.lasthandoff: 11/26/2018
 
 ---
 # <a name="print-balance-sheet-reports"></a>Print Balance Sheet Reports
@@ -28,7 +28,7 @@ You can use the **Balance Sheet** report to view the company’s balance sheet.
   
 1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Balance Sheet**, and then choose the relevant link.  
   
-2.  In the **Balance Sheet** window, on the **Options** FastTab, fill in the fields as described in the following table.  
+2.  On the **Balance Sheet** page, on the **Options** FastTab, fill in the fields as described in the following table.  
   
     |Field|Description|  
     |---------------------------------|---------------------------------------|  

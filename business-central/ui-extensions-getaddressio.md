@@ -11,10 +11,10 @@ ms.search.keywords: GetAddress.io, postcodes, postal, address, extension
 ms.date: 10/01/2018
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
-ms.openlocfilehash: de76d937535fcad44538fcea557233263fa049fd
+ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
+ms.openlocfilehash: af4be20798af59f01c870885b7e167fcb94d6bab
 ms.contentlocale: en-au
-ms.lasthandoff: 10/27/2018
+ms.lasthandoff: 11/26/2018
 
 ---
 
@@ -26,8 +26,8 @@ The GetAddress.io UK Postcodes extension can save time and prevent mistakes when
 
     > [!NOTE]  
     >   The **Look up address from postcode** option is available only if the **Country/Region Code** field is either empty, or contains **GB**.
-2. In the **Postcode Search** window, in the **Postcode** field, enter or choose the postcode.  
-3. In the **Address Selection** window, choose the address.  
+2. On the **Postcode Search** page, in the **Postcode** field, enter or choose the postcode.  
+3. On the **Address Selection** page, choose the address.  
 
 > [!TIP]  
 >   If you know the street number, you can filter the addresses by entering some or all of the number in the **Delivery Point** field.

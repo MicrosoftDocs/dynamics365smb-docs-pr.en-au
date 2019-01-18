@@ -13,22 +13,22 @@ ms.search.keywords: email, PDF, electronic document
 ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
-ms.openlocfilehash: c18edefc22d96f2c4037f7f51cca488e04c35d92
+ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
+ms.openlocfilehash: f72c4eba9ad199c559f24d29b712b6636bec47e0
 ms.contentlocale: en-au
-ms.lasthandoff: 10/27/2018
+ms.lasthandoff: 11/26/2018
 
 ---
 # <a name="set-up-document-sending-profiles"></a>Set Up Document Sending Profiles
 You can set each customer up with a preferred method of sending sales documents, so that you do not have to select a sending option every time you choose the **Post and Send** action.
 
-In the **Document Sending Profiles** window, you set up different sending profiles that you can select from in the **Document Sending Profile** field on a customer card. You can select the **Default** check box to specify that the document sending profile is the default profile for all customers, except for customers where the **Document Sending Profile** field is filled with another sending profile.
+On the **Document Sending Profiles** page, you set up different sending profiles that you can select from in the **Document Sending Profile** field on a customer card. You can select the **Default** check box to specify that the document sending profile is the default profile for all customers, except for customers where the **Document Sending Profile** field is filled with another sending profile.
 
 When you choose the **Post and Send** action on a sales document, the **Post and Send Confirmation** dialogue box shows the sending profile used, either the one set up for the customer or the default for all customers. In the dialogue box, you can change the sending profile for the sales document. For more information, see [Invoice Sales](sales-how-invoice-sales.md).
 
 ## <a name="to-set-up-a-document-sending-profile"></a>To set up a document sending profile
 1. Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Document Sending Profiles**, and then choose the related link.
-2. In the **Document Sending Profiles** window, choose the **New** action.
+2. On the **Document Sending Profiles** page, choose the **New** action.
 3. Fill in the fields as necessary. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
 ## <a name="to-specify-a-sending-profile-on-a-customer-card"></a>To specify a sending profile on a customer card

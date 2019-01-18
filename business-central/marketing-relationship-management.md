@@ -13,10 +13,10 @@ ms.search.keywords: contact, prospect, client
 ms.date: 10/01/2018
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 0e4eb532a5e4cb54d45740343a62cbd69fd742eb
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
+ms.openlocfilehash: 156a1265e8a10138b44535945aa75319680d280a
 ms.contentlocale: en-au
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="managing-relationships"></a>Managing Relationships

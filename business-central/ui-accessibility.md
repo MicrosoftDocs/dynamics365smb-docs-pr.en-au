@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 10/01/2018
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
-ms.openlocfilehash: 65f34ae7fe1665bbe8336e6fe959ac109486531e
+ms.sourcegitcommit: caf7cf5afe370af0c4294c794c0ff9bc8ff4c31c
+ms.openlocfilehash: bdb9eab2c23d8f1eacafd77433f621275c3dfdf1
 ms.contentlocale: en-au
-ms.lasthandoff: 10/27/2018
+ms.lasthandoff: 11/22/2018
 
 ---
 # <a name="accessibility-and-keyboard-shortcuts-in-included365finincludesd365finmdmd"></a>Accessibility and Keyboard Shortcuts in [!INCLUDE[d365fin](includes/d365fin_md.md)]
@@ -51,7 +51,7 @@ This topic provides information about the features that make [!INCLUDE[d365fin](
 ##  <a name="Navigation"></a> Navigation  
  You can navigate between the tabs and actions in the ribbon, elements in the navigation bar, and other controls on [!INCLUDE[d365fin](includes/d365fin_md.md)] pages and reports using the keyboard. To move the focus from one tab, action, or control to another, press the Tab key to move forward. Press Shift+Tab to move backward.  
 
- By using the tab order, you can also switch between the main browser window and dialogue boxes that request confirmation, for example, or the login window.  
+ By using the tab order, you can also switch between the main browser page and dialogue boxes that request confirmation, for example, or the login page.  
 
 ##  <a name="Headings"></a> Headings  
  The HTML source for [!INCLUDE[d365fin](includes/d365fin_md.md)] content uses tags to help users of assistive technology to understand the structure and content of the page. For example, on list pages, the columns are defined in TH tags and the column headings are set with TITLE attribute inside the tag. Captions for elements, such as FastTabs, FactBoxes, and fields are included in heading tags (H1, H2, H3, and H4).  

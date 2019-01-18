@@ -1,26 +1,21 @@
 ---
 title: How to Calculate and Post Withholding Tax Settlements
-description: You can use the **Calc. and Post WHT Settlement** window to calculate and post the withholding tax (WHT).
-services: project-madeira
-documentationcenter: 
+description: You can use the Calc. and Post WHT Settlement page to calculate and post the withholding tax (WHT).
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
 ms.search.keywords: 
 ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 046a42582dc66368fded90a4bb45add71a95d979
-ms.openlocfilehash: 7892f0bb4a6cd579f656d1c7a934ccaa2a307d65
+ms.sourcegitcommit: caf7cf5afe370af0c4294c794c0ff9bc8ff4c31c
+ms.openlocfilehash: 76e046af7e36e1cb091f24cbe9e3d23a5231cb3b
 ms.contentlocale: en-au
-ms.lasthandoff: 07/02/2018
+ms.lasthandoff: 11/22/2018
 
 ---
 # <a name="calculate-and-post-withholding-tax-settlements"></a>Calculate and Post Withholding Tax Settlements
-You can use the **Calc. and Post WHT Settlement** window to calculate and post the withholding tax (WHT).  
+You can use the **Calc. and Post WHT Settlement** page to calculate and post the withholding tax (WHT).  
 
 You can close WHT entries that are open or not settled and transfer the corresponding amount to the WHT settlement account.  
 

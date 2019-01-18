@@ -11,10 +11,10 @@ ms.search.keywords: contacts, profiles
 ms.author: edupont
 ms.date: 10/01/2018
 ms.translationtype: HT
-ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
-ms.openlocfilehash: 6a69a5de1ac0d6e2d238415204ec95fad9af7b9b
+ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
+ms.openlocfilehash: edd2cae058d31e8f65d43ef14a5a96a294adf8d1
 ms.contentlocale: en-au
-ms.lasthandoff: 10/27/2018
+ms.lasthandoff: 11/26/2018
 
 ---
 
@@ -42,7 +42,7 @@ After you have created a questionnaire, you must create contact ratings to class
 > If you enter a question that is automatically answered, choose <STRONG>Line</STRONG>, and then choose <STRONG>Question Details</STRONG>, to enter the criteria to automatically answer the question.
 
 ## <a name="the-automatic-classification-of-contacts"></a>The Automatic Classification of Contacts
-You can automatically classify your contacts according to customer, vendor, and contact information, by setting up automatically answered profile questions in the **Profile Questionnaire Setup** window.  
+You can automatically classify your contacts according to customer, vendor, and contact information, by setting up automatically answered profile questions on the **Profile Questionnaire Setup** page.  
 
 > [!NOTE]
 > Only contacts that are recorded as customers can be assigned a classification based on customer data and only contacts that are recorded as vendors can be assigned a classification based on vendor data. The automatic classification is not updated automatically. Consequently, you may want to update the profile questionnaires, after you have updated the customer, vendor or contact data they are based on.  
@@ -79,7 +79,7 @@ You can classify your contacts according to how much they bought from you:
 </tbody>
 </table>
 
-To do this, fill in the **Profile Questionnaire Setup** window as follows:
+To do this, fill on the **Profile Questionnaire Setup** page as follows:
 
 
 <table>
@@ -131,7 +131,7 @@ To do this, fill in the **Profile Questionnaire Setup** window as follows:
 </tbody>
 </table>
 
-Then fill in the **Profile Question Details** window as follows:
+Then fill on the **Profile Question Details** page as follows:
 <table>
 <colgroup>
 <col style="width: 50%" />

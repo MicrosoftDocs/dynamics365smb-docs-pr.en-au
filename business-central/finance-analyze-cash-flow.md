@@ -13,10 +13,10 @@ ms.search.keywords: money flow, expense and income, liquidity, cash receipts min
 ms.date: 10/01/2018
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
-ms.openlocfilehash: 0a5c7d31c87938eb398607c2bb1d622b9cb69b41
+ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
+ms.openlocfilehash: 686f678c7459c608f0ef0dccb7bf959bf843e5e6
 ms.contentlocale: en-au
-ms.lasthandoff: 10/27/2018
+ms.lasthandoff: 11/26/2018
 
 ---
 # <a name="analyzing-cash-flow-in-your-company"></a>Analysing Cash Flow in Your Company
@@ -47,7 +47,7 @@ If you want to examine the forecast, in addition to forecast entries, you can al
 ## <a name="to-view-a-cash-flow-worksheet"></a>To view a cash flow worksheet
 1. Search for **Cash Flow Forecasts**, and then choose the related link.  
 2. Choose a cash flow forecast, and then choose the **Cash Flow Worksheet** action.  
-3. In the **Cash Flow Worksheet** window, choose the **Suggest Worksheet Lines** action.  
+3. On the **Cash Flow Worksheet** page, choose the **Suggest Worksheet Lines** action.  
 
 ## <a name="see-also"></a>See Also
 [Setting Up Finance](finance-setup-finance.md)  

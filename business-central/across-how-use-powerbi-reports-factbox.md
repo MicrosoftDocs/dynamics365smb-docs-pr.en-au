@@ -13,10 +13,10 @@ ms.search.keywords: business intelligence, KPI, Odata, Power App, SOAP, analysis
 ms.date: 10/01/2018
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: e3917573a912a4e51416c4e926443c87513728fe
-ms.openlocfilehash: 595e6fb7cc8239ea33cf57aadfd8b0f3419323e5
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
+ms.openlocfilehash: 2be3a29ad88c46f8b96b9f4bed34602da35fbcb7
 ms.contentlocale: en-au
-ms.lasthandoff: 06/01/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="viewing-list-data-in-power-bi-reports-in-business-central"></a>Viewing List Data in Power BI Reports in Business Central 

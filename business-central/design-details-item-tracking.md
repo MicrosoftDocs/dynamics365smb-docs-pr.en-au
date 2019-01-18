@@ -10,13 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: 
-ms.date: 10/01/2018
+ms.date: 11/12/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: bdf0ab2dc31a9060bb50088e57eece26ee671985
+ms.sourcegitcommit: caf7cf5afe370af0c4294c794c0ff9bc8ff4c31c
+ms.openlocfilehash: 1dce0ea658a2083c3d896fe6324751f63aabce06
 ms.contentlocale: en-au
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 11/22/2018
 
 ---
 # <a name="design-details-item-tracking"></a>Design Details: Item Tracking
@@ -25,12 +25,12 @@ As the flow of goods in today’s supply chain becomes more and more complex, th
 An item tracking system should provide a company with easy handling of serial and lot numbers, considering each unique piece of merchandise: when and where received, where stored, when and where sold. [!INCLUDE[d365fin](includes/d365fin_md.md)] has gradually expanded its coverage of this business requirement and today provides application-wide functionality and a solid core on which to develop extensions.  
 
 ## <a name="in-this-section"></a>In This Section  
-* [Design Details: Item Tracking Design](design-details-item-tracking-design.md)  
-* [Design Details: Item Tracking Posting Structure](design-details-item-tracking-posting-structure.md)  
-* [Design Details: Active versus Historic Item Tracking Entries](design-details-active-versus-historic-item-tracking-entries.md)  
-* [Design Details: Item Tracking Lines Window](design-details-item-tracking-lines-window.md)  
-* [Design Details: Item Tracking Availability](design-details-item-tracking-availability.md)  
-* [Design Details: Item Tracking and Planning](design-details-item-tracking-and-planning.md)  
-* [Design Details: Item Tracking and Reservations](design-details-item-tracking-and-reservations.md)  
-* [Design Details: Item Tracking in the Warehouse](design-details-item-tracking-in-the-warehouse.md)
+[Design Details: Item Tracking Design](design-details-item-tracking-design.md)  
+[Design Details: Item Tracking Posting Structure](design-details-item-tracking-posting-structure.md)  
+[Design Details: Active versus Historic Item Tracking Entries](design-details-active-versus-historic-item-tracking-entries.md)  
+[Design Details: Item Tracking Lines Page](design-details-item-tracking-lines-window.md)  
+[Design Details: Item Tracking Availability](design-details-item-tracking-availability.md)  
+[Design Details: Item Tracking and Planning](design-details-item-tracking-and-planning.md)  
+[Design Details: Item Tracking and Reservations](design-details-item-tracking-and-reservations.md)  
+[Design Details: Item Tracking in the Warehouse](design-details-item-tracking-in-the-warehouse.md)
 

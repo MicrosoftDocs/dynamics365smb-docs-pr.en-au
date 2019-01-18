@@ -13,10 +13,10 @@ ms.search.keywords: relationship, prospect
 ms.date: 10/01/2018
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
-ms.openlocfilehash: b2c0c5ecf8d99d0d49abdc4056289be00219b07a
+ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
+ms.openlocfilehash: 59db444b6ce498d987d4aeb4361e119001acd2a3
 ms.contentlocale: en-au
-ms.lasthandoff: 10/27/2018
+ms.lasthandoff: 11/26/2018
 
 ---
 # <a name="create-segments"></a>Create Segments
@@ -27,7 +27,7 @@ You can create segments to select a group of contacts, for example, if you want 
 2. Choose the **New** action.
 3. In the **General** section, in the **No.** field, enter a number for the segment.
 
-    Alternatively, if you have set up number series for segments in the **Marketing Setup** window, you can press Enter to select the next available segment number.
+    Alternatively, if you have set up number series for segments on the **Marketing Setup** page, you can press Enter to select the next available segment number.
 4. Fill in the other fields on the header.
 
 You can now add contacts to the segment. For more information, see [Add Contacts to Segments](marketing-add-contact-segment.md).

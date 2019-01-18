@@ -13,10 +13,10 @@ ms.search.keywords: Yodlee, feed, stream, data exchange, AMC, link
 ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 9506abc4296b9c414e942c220f6fb40f0884ea32
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
+ms.openlocfilehash: 092d8d3f114eac890c97eca520de7b9adbc37108
 ms.contentlocale: en-au
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="setting-up-banking"></a>Setting Up Banking

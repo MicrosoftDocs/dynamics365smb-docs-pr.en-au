@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 09e52a35909c21eaaf9d2eab37b19dc947a2a8dd
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
+ms.openlocfilehash: 6f28cf8e465a6c9f29ddf7bd1ac5db54896802cd
 ms.contentlocale: en-au
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="codeunit-12-changes-changes-in-general-journal-post-procedures"></a>Codeunit 12 Changes: Changes in General Journal Post Procedures

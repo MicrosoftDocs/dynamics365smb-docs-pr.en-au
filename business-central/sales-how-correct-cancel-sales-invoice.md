@@ -11,10 +11,10 @@ ms.search.keywords: undo, credit memo, return
 ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
-ms.openlocfilehash: 96430c92bf4fecbe98b53d09c06c82a5828b7326
+ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
+ms.openlocfilehash: a74dcd8e2d0409ca7385ea8a47a78dd9a74561b6
 ms.contentlocale: en-au
-ms.lasthandoff: 10/27/2018
+ms.lasthandoff: 11/26/2018
 
 ---
 # <a name="correct-or-cancel-unpaid-sales-invoices"></a>Correct or Cancel Unpaid Sales Invoices
@@ -23,7 +23,7 @@ You can correct or cancel a posted sales invoice. This is useful if you make a m
 > [!NOTE]  
 >   After a posted sales invoice has been partially or fully paid, you cannot correct or cancel it from the posted sales invoice itself. Instead, you must manually create a sales CR/Adj note to void the sale and reimburse the customer, optionally managed with a sales return order. For more information, see [Process Sales Returns or Cancellations](sales-how-process-sales-returns-cancellations.md).
 
-In the **Posted Sales Invoice** window, you can choose the **Correct** action or the **Cancel** action to perform the actions that are described in the following table.
+On the **Posted Sales Invoice** page, you can choose the **Correct** action or the **Cancel** action to perform the actions that are described in the following table.
 
 | Action | Description |
 | --- | --- |
@@ -38,7 +38,7 @@ When you correct or cancel a posted sales invoice, the corrective sales CR/Adj n
 
     > [!NOTE]  
     >   If the **Canceled** check box is selected, then you cannot correct the posted sales invoice because it has already been corrected or canceled.
-3. In the **Posted Sales Invoice** window, choose the **Correct** action.  
+3. On the **Posted Sales Invoice** page, choose the **Correct** action.  
 4. A new sales invoice with the same information is created where you can make the correction. The **Cancelled** field on the initial posted sales invoice is changed to **Yes**.
 
     A sales CR/Adj note is automatically created and posted to void the initial posted sales invoice.
@@ -50,7 +50,7 @@ When you correct or cancel a posted sales invoice, the corrective sales CR/Adj n
 
     > [!NOTE]  
     >   If the **Canceled** check box is selected, then you cannot cancel the posted sales invoice because it has already been canceled or corrected.
-3. In the **Posted Sales Invoice** window, choose the **Cancel** action.
+3. On the **Posted Sales Invoice** page, choose the **Cancel** action.
 
     A sales CR/Adj note is automatically created and posted to void the initial posted sales invoice. The **Cancelled** field on the initial posted sales invoice is changed to **Yes**.
 4. Choose **Show Corrective CR/Adj Note** to view the posted sales CR/Adj note that voids the initial posted sales invoice.

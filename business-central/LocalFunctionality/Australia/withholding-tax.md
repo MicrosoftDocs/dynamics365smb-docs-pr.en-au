@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 046a42582dc66368fded90a4bb45add71a95d979
-ms.openlocfilehash: b0d91f0c6eb1033c3c45af996dd9f10b29bead6a
+ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
+ms.openlocfilehash: b53521b58833b132faf35b030473c7d107945f0e
 ms.contentlocale: en-au
-ms.lasthandoff: 07/02/2018
+ms.lasthandoff: 11/26/2018
 
 ---
 # <a name="withholding-tax"></a>Withholding Tax
@@ -28,7 +28,7 @@ The Australian government requires taxes to be withheld from payment to vendors 
 
 -   The vendor is a non-resident supplier and the payment is to be made to this non-resident entity in the form of interest, royalty, or dividend payments. Currently, there is no minimum threshold amount. Withholding rates may vary due to payment, or international tax treaties existing between Australia and the vendor's country.  
 
-Fields within **WHT Business Posting Groups** and **WHT Product Posting Groups** must be set up in the **WHT Posting Setup** window so that the correct WHT calculations are made for each vendor.  
+Fields within **WHT Business Posting Groups** and **WHT Product Posting Groups** must be set up on the **WHT Posting Setup** page so that the correct WHT calculations are made for each vendor.  
 
 -   **WHT Calculation Rule** – This field controls how calculation applies to the **WHT Minimum Invoice Amount**, or the invoice threshold amount. The following options exist:  
 
@@ -50,7 +50,7 @@ In Australia, WHT is not calculated if the individual invoice amount is less tha
 
 - **Purch. WHT Adjustment Account No.** – Select an account number for **Purchase CR/Adj Note** adjustments.  
 
-- **Revenue Types** – Drill down to the **WHT Revenue Types** window. These values determine how the combination of **WHT Business Posting Group** and **WHT Product Posting Group** are displayed in reports. You must enter a value in order for this combination to appear in the WHT reports.  
+- **Revenue Types** – Drill down to the **WHT Revenue Types** page. These values determine how the combination of **WHT Business Posting Group** and **WHT Product Posting Group** are displayed in reports. You must enter a value in order for this combination to appear in the WHT reports.  
 
 ## <a name="wht-for-suppliers-without-an-abn"></a>WHT for Suppliers Without an ABN  
 Ensure that there is a valid combination of **General Business** and **General Product Posting Groups** with the correct threshold. For example, in Australia today the minimum threshold is $75 with a rate of 46.50%.  

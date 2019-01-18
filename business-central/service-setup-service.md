@@ -13,10 +13,10 @@ ms.search.keywords: service, service items, repairs, maintenance, fix
 ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: e7dcdc0935a8793ae226dfc2f9709b5b8f487a62
-ms.openlocfilehash: 772022a8224ff81e332783d95e6cd27500a306fa
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
+ms.openlocfilehash: c4b8287c8e1c056bd45a30376e96aca1f8f4ddcc
 ms.contentlocale: en-au
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 

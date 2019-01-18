@@ -11,16 +11,16 @@ ms.workload: na
 ms.date: 10/01/2018
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
-ms.openlocfilehash: bb055a2520af17d5b1b9aa2239ade210016bd2ac
+ms.sourcegitcommit: caf7cf5afe370af0c4294c794c0ff9bc8ff4c31c
+ms.openlocfilehash: 1924ed56ebf31debbccbc6f94724a6ca93eeb7a6
 ms.contentlocale: en-au
-ms.lasthandoff: 10/27/2018
+ms.lasthandoff: 11/22/2018
 
 ---
 # <a name="working-with-included365finincludesd365finmdmd"></a>Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]
 When performing business tasks, you interact with data in different ways, such as creating records and entering data, sorting and filtering data, writing notes, and outputting data to other applications.
 
-For example, you can adjust the size and position of any window, expand the width of columns and increase the height of column headers, and change the sorting of data in columns. And if you want to use the horizontal scroll bar to view all columns on a list page or on document lines, you will see that there is a vertical freeze pane to restrict some columns from scrolling.
+For example, you can adjust the size and position of any page, expand the width of columns and increase the height of column headers, and change the sorting of data in columns. And if you want to use the horizontal scroll bar to view all columns on a list page or on document lines, you will see that there is a vertical freeze pane to restrict some columns from scrolling.
 
 The following table lists some of the general functionality with links to topics that describe them.
 

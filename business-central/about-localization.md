@@ -11,10 +11,10 @@ ms.search.keywords: availability, localization
 ms.date: 10/01/2018
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: d7664360941313da6ea0b797ef00df2e9810ad62
-ms.openlocfilehash: ffe2c700ed409a0881c94ddfd0157cf32141c60f
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
+ms.openlocfilehash: 6271cc49358c4f31edfdfdda60e87655a53eea50
 ms.contentlocale: en-au
-ms.lasthandoff: 07/09/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="local-functionality-in-included365finlongincludesd365finlongmdmd"></a>Local Functionality in [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]

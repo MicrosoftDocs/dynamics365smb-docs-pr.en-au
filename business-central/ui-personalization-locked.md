@@ -11,10 +11,10 @@ ms.search.keywords: customize, personalize, personalization, hide columns, remov
 ms.date: 10/01/2018
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 7c346455a9e27d7274b116754f1d594484b95d67
-ms.openlocfilehash: 6b225548e95abacc688a97f1c3f8b5e8472a8f8f
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
+ms.openlocfilehash: 9923ed478bbe59089363f5d0a494a9e45829e7c2
 ms.contentlocale: en-au
-ms.lasthandoff: 04/18/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="why-a-page-is-locked-from-personalizing"></a>Why a Page is Locked From Personalising

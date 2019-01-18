@@ -13,10 +13,10 @@ ms.search.keywords: video, library, how to
 ms.date: 10/01/2018
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: e7dcdc0935a8793ae226dfc2f9709b5b8f487a62
-ms.openlocfilehash: b9f8ba9113cdac79dfd8b20d99c194e834578a8e
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
+ms.openlocfilehash: 71e92f587ac5697b96aca937e6a6d4b00dc41902
 ms.contentlocale: en-au
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="visit-our-video-library"></a>Visit Our Video Library

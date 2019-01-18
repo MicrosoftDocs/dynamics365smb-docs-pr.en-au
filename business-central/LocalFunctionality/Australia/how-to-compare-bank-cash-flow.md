@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 046a42582dc66368fded90a4bb45add71a95d979
-ms.openlocfilehash: 0a2b781e0fe502efdd69badc5397234b60887837
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
+ms.openlocfilehash: 7f72e2fdff0f2cb4d4008123976ca31b878f7609
 ms.contentlocale: en-au
-ms.lasthandoff: 07/02/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="compare-bank-cash-flow"></a>Compare Bank Cash Flow

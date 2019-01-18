@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
-ms.openlocfilehash: 97b3d094e8df7696a52e02c93f9c9a72f3997198
+ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
+ms.openlocfilehash: b19b86b3d5168ee6fa053141af4022f5040743cb
 ms.contentlocale: en-au
-ms.lasthandoff: 10/27/2018
+ms.lasthandoff: 11/26/2018
 
 ---
 # <a name="correct-prepayments"></a>Correct Prepayments
@@ -27,7 +27,7 @@ The following procedure shows how to issue a prepayment CR/Adj note to cancel al
 1. Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Sales Orders**, and then choose the related link.  
 2. Open the relevant sales order.
 3. Choose the **Prepayment** action, and then choose the **Post Prepayment Credit Adjustment Note** action or the **Post and Print Prepmt. CR/Adj Note. Memo** action.  
-4. In the **Sales CR/Adj Note** window, proceed to correct the relevant entries, as for any sales CR/Adj note. For more information, see [Process Sales Returns or Cancellations](sales-how-process-sales-returns-cancellations.md).     
+4. On the **Sales CR/Adj Note** page, proceed to correct the relevant entries, as for any sales CR/Adj Note. For more information, see [Process Sales Returns or Cancellations](sales-how-process-sales-returns-cancellations.md).     
 
     > [!NOTE]  
     > To Reduce the amount in the **Line Amount** field, you must first increase the prepayment percentage on the line so that the value in the **Prepmt. Line Amount** field is not decreased below the value in the **Prepmt. Amt. Inv.** field.

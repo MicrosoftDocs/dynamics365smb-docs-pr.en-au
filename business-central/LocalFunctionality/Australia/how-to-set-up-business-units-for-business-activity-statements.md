@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 10/01/2018
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 046a42582dc66368fded90a4bb45add71a95d979
-ms.openlocfilehash: c52c4a9f2fd1d332c8743c3048e83a32dea03551
+ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
+ms.openlocfilehash: c96a971521de86b0aa9fddaf8359194801f90b22
 ms.contentlocale: en-au
-ms.lasthandoff: 07/02/2018
+ms.lasthandoff: 11/26/2018
 
 ---
 # <a name="set-up-business-units-for-business-activity-statements"></a>Set Up Business Units for Business Activity Statements
@@ -24,13 +24,13 @@ In [!INCLUDE[d365fin](../../includes/d365fin_md.md)], you can consolidate the fi
 
 You must set up a consolidation company to perform the consolidation. In this company, the total amounts for all accounts in the group, from both the parent company and subsidiaries are added together. You must also indicate the general ledger accounts in the consolidated company to which the total should be transferred.  
 
-You can use the **BAS Business Units** window to set up the following:  
+You can use the **BAS Business Units** page to set up the following:  
 
 - Parent company  
 - Subsidiaries  
 - Affiliates  
 
-You must set up information in the **General Ledger Setup** window before you can set up business units.  
+You must set up information on the **General Ledger Setup** page before you can set up business units.  
 
 ## <a name="to-set-up-general-ledger-for-a-business-activity-statement"></a>To set up general ledger for a business activity statement  
 1. Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **General Ledger Setup**, and then choose the related link.  

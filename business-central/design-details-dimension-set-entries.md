@@ -13,10 +13,10 @@ ms.search.keywords: design, dimensions, codeunit
 ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 66de44003ac66bad52a7b7e57d582659047bdbdf
+ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
+ms.openlocfilehash: 5563241784aaf8bfa1a29f8568411be657647cf7
 ms.contentlocale: en-au
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="design-details-dimension-set-entries"></a>Design Details: Dimension Set Entries
