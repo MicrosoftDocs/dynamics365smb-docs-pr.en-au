@@ -11,10 +11,10 @@ ms.search.keywords: design, inventory, costing
 ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
-ms.openlocfilehash: 04f41fa7b075692fef8243e24cff1ef3a5ebaf65
+ms.sourcegitcommit: add32e82465610830b68a979e238103bfa10d438
+ms.openlocfilehash: 830c14eb96557f8852d0a4758922503fe0179b58
 ms.contentlocale: en-au
-ms.lasthandoff: 10/27/2018
+ms.lasthandoff: 11/29/2018
 
 ---
 # <a name="design-details-inventory-costing"></a>Design Details: Inventory Costing
@@ -38,6 +38,7 @@ Inventory costing, also referred to as cost management, is concerned with record
 [Design Details: Production Order Posting](design-details-production-order-posting.md)  
 [Design Details: Assembly Order Posting](design-details-assembly-order-posting.md)  
 [Design Details: Reconciliation with the General Ledger](design-details-reconciliation-with-the-general-ledger.md)  
-[Design Details: Accounts in the General Ledger](design-details-accounts-in-the-general-ledger.md)  
+[Design Details: Accounts in the General Ledger](design-details-accounts-in-the-general-ledger.md)
+[Design Details: Inventory Valuation](design-details-inventory-valuation.md)  
 [Design Details: Revaluation](design-details-revaluation.md)
 

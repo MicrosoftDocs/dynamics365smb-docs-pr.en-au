@@ -1,6 +1,6 @@
 ---
 title: How to Compare Bank Cash Flow
-description: You can use the **Bank Detail Cashflow Compare** report to compare the flow of cash in a particular bank for a specified period.
+description: You can use the Bank Detail Cashflow Compare report to compare the flow of cash in a particular bank for a specified period.
 services: project-madeira
 documentationcenter: 
 author: SorenGP
@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
-ms.openlocfilehash: 7f72e2fdff0f2cb4d4008123976ca31b878f7609
+ms.sourcegitcommit: 1acac32a417f794801da50c866db2643ea0a4c2d
+ms.openlocfilehash: e84a1b6b753e2a5ad44d0c9d8ff9f1dc035d7457
 ms.contentlocale: en-au
-ms.lasthandoff: 10/27/2018
+ms.lasthandoff: 01/22/2019
 
 ---
 # <a name="compare-bank-cash-flow"></a>Compare Bank Cash Flow

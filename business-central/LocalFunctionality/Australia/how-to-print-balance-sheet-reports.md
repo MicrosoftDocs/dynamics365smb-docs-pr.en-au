@@ -1,6 +1,6 @@
 ---
 title: How to Print Balance Sheet Reports
-description: "You can use the **Balance Sheet** report to view the company’s balance sheet."
+description: "You can use the Balance Sheet report to view the company’s balance sheet."
 services: project-madeira
 documentationcenter: 
 author: SorenGP
@@ -13,30 +13,31 @@ ms.search.keywords:
 ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
-ms.openlocfilehash: 589a202b35f72a57a470c3dd7d99e81f31debb2e
+ms.sourcegitcommit: 1acac32a417f794801da50c866db2643ea0a4c2d
+ms.openlocfilehash: ae3e864ea23f1c63f9c81756a4af95386036f58c
 ms.contentlocale: en-au
-ms.lasthandoff: 11/26/2018
+ms.lasthandoff: 01/22/2019
 
 ---
 # <a name="print-balance-sheet-reports"></a>Print Balance Sheet Reports
 You can use the **Balance Sheet** report to view the company’s balance sheet.  
-  
+
  This is a legal report that is required for auditing accounts. You can use this report to view assets and liabilities.  
-  
+
 ### <a name="to-print-a-balance-sheet-report"></a>To print a balance sheet report  
-  
+
 1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Balance Sheet**, and then choose the relevant link.  
-  
+
 2.  On the **Balance Sheet** page, on the **Options** FastTab, fill in the fields as described in the following table.  
-  
+
     |Field|Description|  
     |---------------------------------|---------------------------------------|  
     |**Amounts in whole**|Specifies the nearest unit to which the amounts must be rounded.|  
-  
+
 3.  Choose the **Print** button to print the report or choose the **Preview** button to view it on the screen.  
-  
+
 ## <a name="see-also"></a>See Also  
  [Print Income Statements](how-to-print-income-statements.md)   
  [Print Goods and Service Tax Settlement Reports](how-to-print-goods-and-service-tax-settlement-reports.md)   
  [Compare Bank Cash Flow](how-to-compare-bank-cash-flow.md)
+

@@ -1,6 +1,6 @@
 ---
 title: How to Adjust Settlement Exchange Rates for GST Entries
-description: You can use the **Adjust Settlement Exch. Rates** batch job to settle GST entries according to the government exchange rate as defined in the **Currency Exchange Rate** table.
+description: You can use the Adjust Settlement Exch. Rates batch job to settle GST entries according to the government exchange rate as defined in the **Currency Exchange Rate** table.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -8,10 +8,10 @@ ms.search.keywords:
 ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 67400e424305cc705db5c1bd52a8e4de17ecc5a9
-ms.openlocfilehash: 2388dbdff5d9c40a917960209df9f3b9aa25fa4e
+ms.sourcegitcommit: 1acac32a417f794801da50c866db2643ea0a4c2d
+ms.openlocfilehash: c1859bc692138bd614afab2defbebeb364f2ac61
 ms.contentlocale: en-au
-ms.lasthandoff: 11/20/2018
+ms.lasthandoff: 01/22/2019
 
 ---
 # <a name="adjust-settlement-exchange-rates-for-vat-entries"></a>Adjust Settlement Exchange Rates for GST Entries
