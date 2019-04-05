@@ -2,44 +2,43 @@
 title: How to Set Up Revenue Types for Withholding Tax
 description: Revenue types are used to categorise withholding tax (WHT) entries and are used for WHT certificates.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: caf7cf5afe370af0c4294c794c0ff9bc8ff4c31c
 ms.openlocfilehash: 77cd1673771593e8f4ee69111fef946c241963bc
-ms.contentlocale: en-au
-ms.lasthandoff: 11/22/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: en-AU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "826297"
 ---
-# <a name="set-up-revenue-types-for-withholding-tax"></a><span data-ttu-id="e86e7-103">Set Up Revenue Types for Withholding Tax</span><span class="sxs-lookup"><span data-stu-id="e86e7-103">Set Up Revenue Types for Withholding Tax</span></span>
-<span data-ttu-id="e86e7-104">Revenue types are used to categorise withholding tax (WHT) entries and are used for WHT certificates.</span><span class="sxs-lookup"><span data-stu-id="e86e7-104">Revenue types are used to categorize withholding tax (WHT) entries and are used for WHT certificates.</span></span>  
+# <a name="set-up-revenue-types-for-withholding-tax"></a><span data-ttu-id="14622-103">Set Up Revenue Types for Withholding Tax</span><span class="sxs-lookup"><span data-stu-id="14622-103">Set Up Revenue Types for Withholding Tax</span></span>
+<span data-ttu-id="14622-104">Revenue types are used to categorise withholding tax (WHT) entries and are used for WHT certificates.</span><span class="sxs-lookup"><span data-stu-id="14622-104">Revenue types are used to categorize withholding tax (WHT) entries and are used for WHT certificates.</span></span>  
 
-<span data-ttu-id="e86e7-105">You can use the **WHT Revenue Types** page to set up the revenue types for withholding tax.</span><span class="sxs-lookup"><span data-stu-id="e86e7-105">You can use the **WHT Revenue Types** page to set up the revenue types for withholding tax.</span></span>  
+<span data-ttu-id="14622-105">You can use the **WHT Revenue Types** page to set up the revenue types for withholding tax.</span><span class="sxs-lookup"><span data-stu-id="14622-105">You can use the **WHT Revenue Types** page to set up the revenue types for withholding tax.</span></span>  
 
-## <a name="to-set-up-revenue-types-for-withholding-tax"></a><span data-ttu-id="e86e7-106">To set up revenue types for withholding tax</span><span class="sxs-lookup"><span data-stu-id="e86e7-106">To set up revenue types for withholding tax</span></span>  
+## <a name="to-set-up-revenue-types-for-withholding-tax"></a><span data-ttu-id="14622-106">To set up revenue types for withholding tax</span><span class="sxs-lookup"><span data-stu-id="14622-106">To set up revenue types for withholding tax</span></span>  
 
-1.  <span data-ttu-id="e86e7-107">Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **WHT Revenue Types**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="e86e7-107">Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **WHT Revenue Types**, and then choose the related link.</span></span>  
-2.  <span data-ttu-id="e86e7-108">Fill in the fields as described in the following table.</span><span class="sxs-lookup"><span data-stu-id="e86e7-108">Fill in the fields as described in the following table.</span></span>  
+1.  <span data-ttu-id="14622-107">Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **WHT Revenue Types**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="14622-107">Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **WHT Revenue Types**, and then choose the related link.</span></span>  
+2.  <span data-ttu-id="14622-108">Fill in the fields as described in the following table.</span><span class="sxs-lookup"><span data-stu-id="14622-108">Fill in the fields as described in the following table.</span></span>  
 
-    |<span data-ttu-id="e86e7-109">Field</span><span class="sxs-lookup"><span data-stu-id="e86e7-109">Field</span></span>|<span data-ttu-id="e86e7-110">Description</span><span class="sxs-lookup"><span data-stu-id="e86e7-110">Description</span></span>|  
+    |<span data-ttu-id="14622-109">Field</span><span class="sxs-lookup"><span data-stu-id="14622-109">Field</span></span>|<span data-ttu-id="14622-110">Description</span><span class="sxs-lookup"><span data-stu-id="14622-110">Description</span></span>|  
     |---------------------------------|---------------------------------------|  
-    |<span data-ttu-id="e86e7-111">**Code**</span><span class="sxs-lookup"><span data-stu-id="e86e7-111">**Code**</span></span>|<span data-ttu-id="e86e7-112">Specifies the unique code for the revenue type.</span><span class="sxs-lookup"><span data-stu-id="e86e7-112">Specifies the unique code for the revenue type.</span></span> <span data-ttu-id="e86e7-113">You can enter a maximum of 10 alphanumeric characters.</span><span class="sxs-lookup"><span data-stu-id="e86e7-113">You can enter a maximum of 10 alphanumeric characters.</span></span>|  
-    |<span data-ttu-id="e86e7-114">**Description**</span><span class="sxs-lookup"><span data-stu-id="e86e7-114">**Description**</span></span>|<span data-ttu-id="e86e7-115">Specifies the description for the WHT revenue type.</span><span class="sxs-lookup"><span data-stu-id="e86e7-115">Specifies the description for the WHT revenue type.</span></span>|  
-    |<span data-ttu-id="e86e7-116">**Sequence**</span><span class="sxs-lookup"><span data-stu-id="e86e7-116">**Sequence**</span></span>|<span data-ttu-id="e86e7-117">Specifies the sequence in which you want to group the revenue types.</span><span class="sxs-lookup"><span data-stu-id="e86e7-117">Specifies the sequence in which you want to group the revenue types.</span></span> <span data-ttu-id="e86e7-118">For example, a revenue type with sequence 0 will be displayed before sequence 1.</span><span class="sxs-lookup"><span data-stu-id="e86e7-118">For example, a revenue type with sequence 0 will be displayed before sequence 1.</span></span>|  
+    |<span data-ttu-id="14622-111">**Code**</span><span class="sxs-lookup"><span data-stu-id="14622-111">**Code**</span></span>|<span data-ttu-id="14622-112">Specifies the unique code for the revenue type.</span><span class="sxs-lookup"><span data-stu-id="14622-112">Specifies the unique code for the revenue type.</span></span> <span data-ttu-id="14622-113">You can enter a maximum of 10 alphanumeric characters.</span><span class="sxs-lookup"><span data-stu-id="14622-113">You can enter a maximum of 10 alphanumeric characters.</span></span>|  
+    |<span data-ttu-id="14622-114">**Description**</span><span class="sxs-lookup"><span data-stu-id="14622-114">**Description**</span></span>|<span data-ttu-id="14622-115">Specifies the description for the WHT revenue type.</span><span class="sxs-lookup"><span data-stu-id="14622-115">Specifies the description for the WHT revenue type.</span></span>|  
+    |<span data-ttu-id="14622-116">**Sequence**</span><span class="sxs-lookup"><span data-stu-id="14622-116">**Sequence**</span></span>|<span data-ttu-id="14622-117">Specifies the sequence in which you want to group the revenue types.</span><span class="sxs-lookup"><span data-stu-id="14622-117">Specifies the sequence in which you want to group the revenue types.</span></span> <span data-ttu-id="14622-118">For example, a revenue type with sequence 0 will be displayed before sequence 1.</span><span class="sxs-lookup"><span data-stu-id="14622-118">For example, a revenue type with sequence 0 will be displayed before sequence 1.</span></span>|  
 
-3.  <span data-ttu-id="e86e7-119">Choose the **OK** button.</span><span class="sxs-lookup"><span data-stu-id="e86e7-119">Choose the **OK** button.</span></span>  
+3.  <span data-ttu-id="14622-119">Choose the **OK** button.</span><span class="sxs-lookup"><span data-stu-id="14622-119">Choose the **OK** button.</span></span>  
 
-## <a name="see-also"></a><span data-ttu-id="e86e7-120">See Also</span><span class="sxs-lookup"><span data-stu-id="e86e7-120">See Also</span></span>  
- <span data-ttu-id="e86e7-121">[Withholding Tax](withholding-tax.md) </span><span class="sxs-lookup"><span data-stu-id="e86e7-121">[Withholding Tax](withholding-tax.md) </span></span>  
- <span data-ttu-id="e86e7-122">[Set Up Withholding Tax](how-to-set-up-withholding-tax.md) </span><span class="sxs-lookup"><span data-stu-id="e86e7-122">[Set Up Withholding Tax](how-to-set-up-withholding-tax.md) </span></span>  
- <span data-ttu-id="e86e7-123">[View Withholding Tax Entries](how-to-view-withholding-tax-entries.md) </span><span class="sxs-lookup"><span data-stu-id="e86e7-123">[View Withholding Tax Entries](how-to-view-withholding-tax-entries.md) </span></span>  
- [<span data-ttu-id="e86e7-124">Calculate and Post Withholding Tax Settlements</span><span class="sxs-lookup"><span data-stu-id="e86e7-124">Calculate and Post Withholding Tax Settlements</span></span>](how-to-calculate-and-post-withholding-tax-settlements.md)
-
+## <a name="see-also"></a><span data-ttu-id="14622-120">See Also</span><span class="sxs-lookup"><span data-stu-id="14622-120">See Also</span></span>  
+ <span data-ttu-id="14622-121">[Withholding Tax](withholding-tax.md) </span><span class="sxs-lookup"><span data-stu-id="14622-121">[Withholding Tax](withholding-tax.md) </span></span>  
+ <span data-ttu-id="14622-122">[Set Up Withholding Tax](how-to-set-up-withholding-tax.md) </span><span class="sxs-lookup"><span data-stu-id="14622-122">[Set Up Withholding Tax](how-to-set-up-withholding-tax.md) </span></span>  
+ <span data-ttu-id="14622-123">[View Withholding Tax Entries](how-to-view-withholding-tax-entries.md) </span><span class="sxs-lookup"><span data-stu-id="14622-123">[View Withholding Tax Entries](how-to-view-withholding-tax-entries.md) </span></span>  
+ [<span data-ttu-id="14622-124">Calculate and Post Withholding Tax Settlements</span><span class="sxs-lookup"><span data-stu-id="14622-124">Calculate and Post Withholding Tax Settlements</span></span>](how-to-calculate-and-post-withholding-tax-settlements.md)
