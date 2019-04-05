@@ -7,15 +7,15 @@ ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
 ms.openlocfilehash: 80112e892c72283254d3894e6ce4102cc9350e0b
-ms.contentlocale: en-au
-ms.lasthandoff: 10/27/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: en-AU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "810984"
 ---
 # <a name="field-mapping-when-exporting-payment-files-using-bank-data-conversion-service"></a>Field Mapping When Exporting Payment Files Using Bank Data Conversion Service
 When you export payment files using the Bank Data Conversion Service feature, the data that you export is exposed to the provider of the bank data conversion service. The service provider is responsible for the privacy of this data. For more information about how the Bank Data Conversion Service feature works, see [About the Data Exchange Framework](across-about-the-data-exchange-framework.md).  
@@ -72,4 +72,3 @@ The following table lists the fields in [!INCLUDE[d365fin](includes/d365fin_md.m
 [Exchanging Data Electronically](across-data-exchange.md)
 [Set Up the Bank Data Conversion Service](bank-how-setup-bank-data-conversion-service.md)   
 [Make Payments with Bank Data Conversion Service or SEPA Credit Transfer](finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer.md)   
-

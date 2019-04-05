@@ -2,7 +2,7 @@
 title: Design Details - Closing Demand and Supply | Microsoft Docs
 description: This topic provides a suggestion for what to do after you perform supply balancing procedures.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -13,12 +13,12 @@ ms.search.keywords: design, planning, example, closing, supply
 ms.date: 10/01/2018
 ms.author: sgroespe
 redirect_url: design-details-balancing-demand-and-supply
-ms.translationtype: HT
-ms.sourcegitcommit: 67400e424305cc705db5c1bd52a8e4de17ecc5a9
 ms.openlocfilehash: 73ddbe9746d7681d11e61f10037bf26f792acffa
-ms.contentlocale: en-au
-ms.lasthandoff: 11/20/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: en-AU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "810961"
 ---
 # <a name="design-details-closing-demand-and-supply"></a>Design Details: Closing Demand and Supply
 When the supply balancing procedures have been performed, there are three possible end situations:  
@@ -44,4 +44,3 @@ This concludes the descriptions of how demand and supply is loaded, prioritised,
 [Design Details: Balancing Demand and Supply](design-details-balancing-demand-and-supply.md)   
 [Design Details: Central Concepts of the Planning System](design-details-central-concepts-of-the-planning-system.md)   
 [Design Details: Supply Planning](design-details-supply-planning.md)
-

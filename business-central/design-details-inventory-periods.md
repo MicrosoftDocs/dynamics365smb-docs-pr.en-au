@@ -2,22 +2,22 @@
 title: Design Details - Inventory Periods | Microsoft Docs
 description: Backdated transactions or cost adjustments often affect balances and stock valuations for accounting periods that may be considered closed. This can have adverse effects on accurate reporting, especially within global corporations. The Inventory Periods feature can be used to avoid such problems by opening or closing inventory periods to limit posting in a set period of time.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
 ms.openlocfilehash: 57f0fa4f62a4c8f52eb1e3e6def8907190f3db8e
-ms.contentlocale: en-au
-ms.lasthandoff: 10/27/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: en-AU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "810870"
 ---
 # <a name="design-details-inventory-periods"></a>Design Details: Inventory Periods
 Backdated transactions or cost adjustments often affect balances and stock valuations for accounting periods that may be considered closed. This can have adverse effects on accurate reporting, especially within global corporations. The Inventory Periods feature can be used to avoid such problems by opening or closing inventory periods to limit posting in a set period of time.  
@@ -35,4 +35,3 @@ Backdated transactions or cost adjustments often affect balances and stock valua
 ## <a name="see-also"></a>See Also  
  [Design Details: Inventory Costing](design-details-inventory-costing.md) [Managing Inventory Costs](finance-manage-inventory-costs.md) [Finance](finance.md)  
  [Working with Business Central](ui-work-product.md)
-

@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: trade, sell
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
 ms.openlocfilehash: 6c8c3f39d782a33896e531c4bfdf95b589458f99
-ms.contentlocale: en-au
-ms.lasthandoff: 10/27/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: en-AU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "810810"
 ---
 # <a name="sales"></a>Sales
 You create a sales invoice or sales order to record your agreement with a customer to sell certain products on certain delivery and payment terms.
@@ -62,4 +62,3 @@ The following table describes a sequence of tasks, with links to the topics that
 [General Business Functionality](ui-across-business-areas.md)
 
 ## [!INCLUDE[d365fin](includes/free_trial_md.md)]  
-

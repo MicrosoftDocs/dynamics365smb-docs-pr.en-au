@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: find
 ms.date: 10/01/2018
 ms.author: bholtorf
-ms.translationtype: HT
-ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
 ms.openlocfilehash: d260f7cf5db0bbd7c70320d0bd1d33ee29650616
-ms.contentlocale: en-au
-ms.lasthandoff: 10/27/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: en-AU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "810746"
 ---
 # <a name="using-tell-me-to-find-features-and-information"></a>Using Tell Me to Find Features and Information  
 This topic describes various ways that Tell Me can help you quickly find an action, page, report, or learn how to do something in [!INCLUDE[d365fin](includes/d365fin_md.md)] if you are unsure.  

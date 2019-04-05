@@ -2,22 +2,22 @@
 title: Service Price Management | Microsoft Docs
 description: This topic describes how to apply the best price to service orders, set up personalised service price agreements for customers, improve service employees' efficiency, and accelerate the invoicing process.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: bholtorf
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 10/01/2018
 ms.author: bholtorf
-ms.translationtype: HT
-ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
 ms.openlocfilehash: eb3d9b075f7209634cdc8b6f88a24409f18811e7
-ms.contentlocale: en-au
-ms.lasthandoff: 10/27/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: en-AU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "810844"
 ---
 # <a name="service-price-management"></a>Service Price Management
 The service price management functionality lets you apply the best price to service orders, set up personalised service price agreements for customers, improve service employees' efficiency, and accelerate the invoicing process.  
@@ -69,4 +69,3 @@ The following table describes the calculations.
 ## <a name="see-also"></a>See Also  
 [Set Up Pricing and Additional Costs for Services](service-how-setup-service-costs-pricing.md)  
 [Setting Up Service Management](service-setup-service.md)  
-

@@ -1,7 +1,7 @@
 ---
 title: How to Track Packages | Microsoft Docs
 description: Use the shipping agents tracking service to see the progress of a delivery.
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -11,12 +11,12 @@ ms.workload: na
 ms.search.keywords: rfq
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
 ms.openlocfilehash: 7fa51c4c5bc5370df07e6277c7c7e6403d71f5e2
-ms.contentlocale: en-au
-ms.lasthandoff: 10/27/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: en-AU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "810865"
 ---
 # <a name="track-packages"></a>Track Packages
 A number of shipping agents provide services on the Internet that allow you to track parcels you have handed over to the agent. If you use one or more of these shipping agents, you can set up certain basic information and use the automatic tracking feature from posted shipments. For more information, see [Set Up Shipping Agents](sales-how-to-set-up-shipping-agents.md).  
@@ -35,4 +35,3 @@ Your default browser opens the shipping agent's tracking page.
 [Setting Up Sales](sales-setup-sales.md)  
 [Send Documents by Email](ui-how-send-documents-email.md)  
 [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-
