@@ -11,14 +11,13 @@ ms.workload: na
 ms. search.keywords: app, add-in, manifest, customize, import, implement
 ms.date: 10/17/2018
 ms.author: edupont
-ms.translationtype: HT
-ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
 ms.openlocfilehash: 1d4bea462879d49f02c6fa6d8b4a83365d5149a3
-ms.contentlocale: en-au
-ms.lasthandoff: 10/27/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: en-AU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "810443"
 ---
-
 # <a name="business-central-intelligent-cloud-extensions"></a>Business Central Intelligent Cloud Extensions
 
 If you are using one of the supported on-premises products, you can configure your intelligent cloud environment based on a product-specific extension. Once your intelligent cloud environment is configured, you will be able to replicate data from your on-premises solution to your [!INCLUDE[prodshort](includes/prodshort.md)] cloud tenant. This will enable you to take full advantage of what the cloud has to offer your business such as, enhanced insights into your business, artificial intelligence, multiple device access, and anytime, anywhere access.  
@@ -33,4 +32,3 @@ If you are using Dynamics GP, get the **Intelligent Cloud Base Extension** exten
 
 [Your Access to the Intelligent Cloud](about-intelligent-cloud.md)  
 [Intelligent Cloud Base Extension](ui-extensions-intelligent-cloud.md)  
-

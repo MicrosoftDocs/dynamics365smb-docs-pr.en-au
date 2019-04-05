@@ -2,7 +2,7 @@
 title: Set Up Pricing and Costs for Services | Microsoft Docs
 description: Learn how to set up prices and additional costs for services.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,14 +12,13 @@ ms.workload: na
 ms.search.keywords: service, cost, service order
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
 ms.openlocfilehash: 39d917ffcfb342aaea04b3668e032d548ef17ec9
-ms.contentlocale: en-au
-ms.lasthandoff: 10/27/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: en-AU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "810516"
 ---
-
 # <a name="set-up-pricing-and-additional-costs-for-services"></a>Set Up Pricing and Additional Costs for Services
 You can use the [!INCLUDE[d365fin](includes/d365fin_md.md)] pricing features to set up and customise your application so that you apply and adjust pricing on service items, repairs, and orders. These pricing decisions are then easily transmitted to the invoicing process.  
   
@@ -68,4 +67,3 @@ When you work with service items and service orders, you may need to register ad
 ## <a name="see-also"></a>See Also
 [Setting Up Service Management](service-setup-service.md)  
 [Service Management](service-service.md)  
-

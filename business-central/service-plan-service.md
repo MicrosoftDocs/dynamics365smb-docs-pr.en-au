@@ -2,7 +2,7 @@
 title: Planning Service Processes | Microsoft Docs
 description: Outlines tasks to set up rules and values to define your service policies and processes.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: bholtorf
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: service, work hours, configure, price, pricing
 ms.date: 10/01/2018
 ms.author: bholtorf
-ms.translationtype: HT
-ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
 ms.openlocfilehash: 2d7fd2c9d1387575254a7014c8a6f18c61c568d3
-ms.contentlocale: en-au
-ms.lasthandoff: 10/27/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: en-AU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "810314"
 ---
 # <a name="planning-services"></a>Planning Services
 With [!INCLUDE[d365fin](includes/d365fin_md.md)], you can set up the standard tasks that you need to fulfil your customer service requirements. To do this, you must determine what service items and offerings your service organisation supports, and at what price.   
@@ -41,4 +41,3 @@ The following table describes a sequence of tasks, with links to the topics that
 [Set Up Service Items and Service Item Components](service-how-setup-service-items.md)  
 [Set Up Statuses for Service Orders and Repairs](service-order-repair-status.md)  
 [Setting Up Service Management](service-setup-service.md)  
-

@@ -2,22 +2,22 @@
 title: Design Details - Codeunit 408 Dimension Management | Microsoft Docs
 description: Codeunit 408 Dimension Management is a function library that handles common tasks that are related to dimensions, such as copying from one table to another or from one document to another.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
 ms.openlocfilehash: 95d4afc18b0be620df2f4b2067a093237c7c4df2
-ms.contentlocale: en-au
-ms.lasthandoff: 10/27/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: en-AU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "809805"
 ---
 # <a name="design-details-codeunit-408-dimension-management"></a>Design Details: Codeunit 408 Dimension Management
 Codeunit 408 Dimension Management is a function library that handles common tasks that are related to dimensions, such as copying from one table to another or from one document to another. This topic lists the functions that are modified in Microsoft Dynamics NAV 2013 R2 and specifies what has to be done to the functions. Many functions are deleted because there is no need for copying between dimension tables.  
@@ -193,4 +193,3 @@ Codeunit 408 Dimension Management is a function library that handles common task
  [Design Details: Searching for Dimension Combinations](design-details-searching-for-dimension-combinations.md)   
  [Design Details: Table Structure](design-details-table-structure.md)   
  [Design Details: Code Examples of Changed Patterns in Modifications](design-details-code-examples-of-changed-patterns-in-modifications.md)
-
