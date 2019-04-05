@@ -1,23 +1,23 @@
 ---
 title: How to Print Income Statements
-description: "Describes how to view the company’s annual income statement."
+description: Describes how to view the company’s annual income statement.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: b56883a41a9920995a051d3c89e8f59433b5621e
-ms.contentlocale: en-au
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: en-AU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "826295"
 ---
 # <a name="print-income-statements"></a>Print Income Statements
 You can use the **Income Statement** report to view the company’s annual income statement.  
@@ -40,4 +40,3 @@ This is a legal report that is required for auditing accounts. This report displ
 [View Withholding Tax Entries](how-to-view-withholding-tax-entries.md)   
 [Compare Bank Cash Flow](how-to-compare-bank-cash-flow.md)   [Print Balance Sheet Reports](how-to-print-balance-sheet-reports.md)   
 [Print Goods and Service Tax Settlement Reports](how-to-print-goods-and-service-tax-settlement-reports.md) 
-

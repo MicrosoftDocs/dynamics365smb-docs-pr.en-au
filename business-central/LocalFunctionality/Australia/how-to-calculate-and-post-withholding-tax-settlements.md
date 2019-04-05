@@ -4,15 +4,15 @@ description: You can use the Calc. and Post WHT Settlement page to calculate and
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: caf7cf5afe370af0c4294c794c0ff9bc8ff4c31c
 ms.openlocfilehash: 76e046af7e36e1cb091f24cbe9e3d23a5231cb3b
-ms.contentlocale: en-au
-ms.lasthandoff: 11/22/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: en-AU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "826255"
 ---
 # <a name="calculate-and-post-withholding-tax-settlements"></a>Calculate and Post Withholding Tax Settlements
 You can use the **Calc. and Post WHT Settlement** page to calculate and post the withholding tax (WHT).  
@@ -49,4 +49,3 @@ The sum of all withheld amounts is reported as a truncated whole number to the A
  [Set Up Withholding Tax](how-to-set-up-withholding-tax.md)   
  [Set Up Revenue Types for Withholding Tax](how-to-set-up-revenue-types-for-withholding-tax.md)   
  [View Withholding Tax Entries](how-to-view-withholding-tax-entries.md)
-

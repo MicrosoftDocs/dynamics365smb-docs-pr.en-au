@@ -2,22 +2,22 @@
 title: How to Enter Australian Business Numbers
 description: You can enter an Australian Business Number (ABN) in certain pages.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: caf7cf5afe370af0c4294c794c0ff9bc8ff4c31c
 ms.openlocfilehash: 966e43ba1751da3c78faf24d35db23e947d67bfe
-ms.contentlocale: en-au
-ms.lasthandoff: 11/22/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: en-AU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "826264"
 ---
 # <a name="enter-australian-business-numbers"></a>Enter Australian Business Numbers
 You can enter an Australian Business Number (ABN) in the following pages:  
@@ -39,4 +39,3 @@ An algorithm provided by the local tax office ensures that the number is in a va
 ## <a name="see-also"></a>See Also  
  [Australian Business Numbers and Adjustment Notes](australian-business-numbers-and-adjustment-notes.md)   
  [Australia Local Functionality](australia-local-functionality.md)
-

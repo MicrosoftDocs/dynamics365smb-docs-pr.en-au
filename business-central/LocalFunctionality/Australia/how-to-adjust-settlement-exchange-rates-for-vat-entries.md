@@ -4,15 +4,15 @@ description: You can use the Adjust Settlement Exch. Rates batch job to settle G
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: 1acac32a417f794801da50c866db2643ea0a4c2d
 ms.openlocfilehash: c1859bc692138bd614afab2defbebeb364f2ac61
-ms.contentlocale: en-au
-ms.lasthandoff: 01/22/2019
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: en-AU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "826293"
 ---
 # <a name="adjust-settlement-exchange-rates-for-vat-entries"></a>Adjust Settlement Exchange Rates for GST Entries
 You can use the **Adjust Settlement Exch. Rates** batch job to settle GST entries according to the government exchange rate as defined in the **Currency Exchange Rate** table.  
@@ -34,4 +34,3 @@ You can use the **Adjust Settlement Exch. Rates** batch job to settle GST entrie
 3.  Choose the **OK** button.  
 
 The GST entries are adjusted and you can view them in the **GST Register** report.
-

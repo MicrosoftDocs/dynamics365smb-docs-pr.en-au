@@ -7,17 +7,16 @@ ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 10/01/2018
 ms.author: jswymer
+ms.openlocfilehash: f1bd2fb92f787d52c5bbab8c2210b9d424c1ffd5
+ms.sourcegitcommit: d09f5ee0e164c7716f4ccb2ed71e2f9732a1f4f9
 ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
-ms.openlocfilehash: 5d74aa32c192378c3ffc03e56da2ebb4676f3d87
-ms.contentlocale: en-au
-ms.lasthandoff: 11/26/2018
-
+ms.contentlocale: en-AU
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "852501"
 ---
-
 # <a name="entering-data"></a>Entering Data
 There are many general functions that help you enter data  in a quick and easy way. The general functions for entering data are described in this article.  
 
@@ -258,6 +257,5 @@ You can enter dates and times in all the fields that are specifically assigned t
 <!--OnPrem > [!CAUTION]  
 >  If the location uses a base calendar, then the date formula that you enter in, for example, the **Shipping Time** field is interpreted according to the calendar working days. For example, a 1W means seven working days. For more information, see Base Calendar Card.-->  
 ## <a name="see-also"></a>See Also  
- [Searching, Filtering, and Sorting Data](ui-enter-criteria-filters.md)  
+ [Sorting, Searching, and Filtering Lists](ui-enter-criteria-filters.md)  
  [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-

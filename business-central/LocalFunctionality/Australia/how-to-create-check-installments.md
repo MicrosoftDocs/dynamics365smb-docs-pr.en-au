@@ -2,22 +2,22 @@
 title: How to Create Cheque Instalments
 description: Describes how to create cheque instalments for post-dated cheques, define the number of instalments that a payment will be divided into, the percent of interest, and the period in which the cheques will be created.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: bholtorf
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 10/01/2018
 ms.author: bholtorf
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: a5bd68ca3a0968bd169b245e91027c4a46f871eb
-ms.contentlocale: en-au
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: en-AU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "826270"
 ---
 # <a name="create-check-installments"></a>Create Cheque Instalments
 You can create cheque Instalments for post-dated cheques. You can define the number of instalments that a payment will be divided into, the percent of interest, and the period in which the cheques will be created.  
