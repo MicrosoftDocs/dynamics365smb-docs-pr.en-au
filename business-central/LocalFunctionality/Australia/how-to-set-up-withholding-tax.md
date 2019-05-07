@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2018
+ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: b05f3aa722a2e39f106c610f5cfeb95ca60b203c
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: 07bdeaf51ca30917e804842256e08b5bf5623a8b
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "826285"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "914110"
 ---
 # <a name="set-up-withholding-tax"></a>Set Up Withholding Tax
 Withholding tax (WHT) is the tax withheld by a company when it makes a payment to a vendor, in which the full amount owed to the vendor is reduced by the tax withheld. The withheld tax is then remitted to the Australian Taxation Office (ATO) when the next Business Activity Statement (BAS) is submitted.  

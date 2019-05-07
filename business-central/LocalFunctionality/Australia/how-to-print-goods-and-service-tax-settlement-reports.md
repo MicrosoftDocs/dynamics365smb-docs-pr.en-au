@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2018
+ms.date: 04/01/2019
 ms.author: bholtorf
-ms.openlocfilehash: f62412a2f95fb154a77c3e8cbbd4986de928be9a
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: 2ae1a3b68482b5bcbe5743d87bb0ed3250919fd4
+ms.sourcegitcommit: addfb47612cc2e4e98dfd7e338b6f41cde405d5c
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "826263"
+ms.lasthandoff: 04/16/2019
+ms.locfileid: "939219"
 ---
 # <a name="print-goods-and-service-tax-settlement-reports"></a>Print Goods and Service Tax Settlement Reports
 You must submit a periodic report of goods and services tax (GST) settlement. You can create this settlement from the **BAS Calc. Schedule List** page.  

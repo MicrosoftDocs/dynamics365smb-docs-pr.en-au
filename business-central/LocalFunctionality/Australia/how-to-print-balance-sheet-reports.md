@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2018
+ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: ae3e864ea23f1c63f9c81756a4af95386036f58c
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: 81b99ae41bd24651ae90329307484c5582396a80
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "826257"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "912306"
 ---
 # <a name="print-balance-sheet-reports"></a>Print Balance Sheet Reports
 You can use the **Balance Sheet** report to view the company’s balance sheet.  

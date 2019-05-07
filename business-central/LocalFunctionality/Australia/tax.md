@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2018
+ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: c27b71d4592bfe66fa688da78666f43eb7c7d0d4
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: b125dd7438e5dab6d4befd58a783bfbef9122338
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "826279"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "921574"
 ---
 # <a name="tax"></a>Tax
 For information about tax in Australia, see the following topics:  

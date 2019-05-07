@@ -1,51 +1,61 @@
 ---
 title: Australia Local Functionality
 description: The following topics describe the local functionality in the Australian version of Business Central.
-author: SorenGP
+author: sorenfriisalexandersen
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/11/2018
-ms.author: sgroespe
-ms.openlocfilehash: 37843b1efe8c933462ddb1d1f82b6f7bce7984da
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.date: 04/01/2019
+ms.author: soalex
+ms.openlocfilehash: 11f1ea85f4cfc76ecc6be9543478287c2dbce975
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "826275"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "916215"
 ---
 # <a name="australia-local-functionality"></a>Australia Local Functionality
 The following topics describe local functionality that is unique to the Australian version of [!INCLUDE[d365fin](../../includes/d365fin_md.md)].  
 
-## <a name="in-this-section"></a>In This Section  
-[Addresses](addresses.md)  
-[Adjust Settlement Exchange Rates for GST Entries](how-to-adjust-settlement-exchange-rates-for-vat-entries.md)  
-[Calculate and Post Withholding Tax Settlements](how-to-calculate-and-post-withholding-tax-settlements.md)  
-[Calculate Goods and Services Tax on Prepayments](how-to-calculate-goods-and-services-tax-on-prepayments.md)  
-[Calculating Distribution Amounts](calculating-distribution-amounts.md)  
-[Compare Bank Cash Flow](how-to-compare-bank-cash-flow.md)  
-[Create Cheque Instalments](how-to-create-check-installments.md)  
-[Determine Sales Price by Cost Plus Percentage](how-to-determine-sales-price-by-cost-plus-percentage.md)  
-[Electronic Funds Transfer (EFT)](electronic-funds-transfer-eft-.md)  
-[Enter Australian Business Numbers](australian-business-numbers-and-adjustment-notes.md)  
-[Print Balance Sheet Reports](how-to-print-balance-sheet-reports.md)    
-[Print Bank Account Reconciliation Reports](how-to-print-bank-account-reconciliation-reports.md)  
-[Print Deposit Slip Reports](how-to-print-deposit-slip-reports.md)  
-[Print Goods and Service Tax Settlement Reports](how-to-print-goods-and-service-tax-settlement-reports.md)  
-[Print Income Statements](how-to-print-income-statements.md)  
-[Set Up Business Units for Business Activity Statements](how-to-set-up-business-units-for-business-activity-statements.md)  
-[Set Up Goods and Service Tax Posting](how-to-set-up-goods-and-service-tax-posting.md)  
-[Set Up Revenue Types for Withholding Tax](how-to-set-up-revenue-types-for-withholding-tax.md)  
-[Set Up Vendors Without ABN for Calculating the Withholding Tax](how-to-set-up-vendors-without-abn-for-calculating-the-withholding-tax.md)  
-[Set Up Withholding Tax](how-to-set-up-withholding-tax.md)  
-[Tax](tax.md)  
-[Withholding Tax](withholding-tax.md)  
+## <a name="feature-availability"></a>Feature Availability
+
+* GST & Tax
+    * [Tax](tax.md) **Available Now**
+    * [Withholding Tax](withholding-tax.md) **Available Now**
+    * [Set Up Withholding Tax](how-to-set-up-withholding-tax.md) **Available Now**
+    * [Set Up Revenue Types for Withholding Tax](how-to-set-up-revenue-types-for-withholding-tax.md) **Available Now**
+    * [Set Up Vendors Without ABN for Calculating the Withholding Tax](how-to-set-up-vendors-without-abn-for-calculating-the-withholding-tax.md) **Available Now**
+    * [Calculate and Post Withholding Tax Settlements](how-to-calculate-and-post-withholding-tax-settlements.md) **Available Now**
+    * [View Withholding Tax Entries](how-to-view-withholding-tax-entries.md) **Available Now**
+    * [View Posted Tax Invoices](how-to-view-posted-tax-invoices.md) **Available Now**
+    * [View Posted US Tax CR/Adj Notes](how-to-view-posted-tax-credit-memos.md) **Available Now**
+    * [Set Up Goods and Service Tax Posting](how-to-set-up-goods-and-service-tax-posting.md) **Available Now**
+    * [Calculate Goods and Services Tax on Prepayments](how-to-calculate-goods-and-services-tax-on-prepayments.md) **Available Now**
+    * [Adjust Settlement Exchange Rates for GST Entries](how-to-adjust-settlement-exchange-rates-for-vat-entries.md) **Available Now**
+    * [Print Goods and Service Tax Settlement Reports](how-to-print-goods-and-service-tax-settlement-reports.md) **Available Now**
+
+* Banking & Payments
+    * [Compare Bank Cash Flow](how-to-compare-bank-cash-flow.md) **Available Now**
+    * [Create Cheque Instalments](how-to-create-check-installments.md) **Available Now**
+    * [Electronic Funds Transfer (EFT)](electronic-funds-transfer-eft-.md) **Available Now**
+    * [Print Bank Account Reconciliation Reports](how-to-print-bank-account-reconciliation-reports.md) **Available Now**
+    * [Print Deposit Slip Reports](how-to-print-deposit-slip-reports.md) **Available Now**
+
+* Core Finance
+    * [Set Up Business Units for Business Activity Statements](how-to-set-up-business-units-for-business-activity-statements.md) **Available Now**
+    * [Print Balance Sheet Reports](how-to-print-balance-sheet-reports.md) **Available Now**
+    * [Print Income Statements](how-to-print-income-statements.md) **Available Now**
+    * [Calculating Distribution Amounts](calculating-distribution-amounts.md) **Available Now**
+
+* General
+    * [Addresses](addresses.md) **Available Now**
+    * [Determine Sales Price by Cost Plus Percentage](how-to-determine-sales-price-by-cost-plus-percentage.md) **Available Now**
+    * [Enter Australian Business Numbers](australian-business-numbers-and-adjustment-notes.md) **Available Now**
 
 ## <a name="see-also"></a>See Also
 [Working with [!INCLUDE[d365fin](../../includes/d365fin_md.md)]](../../ui-work-product.md)  
 
-## [!INCLUDE[d365fin](../../includes/free_trial_md.md)]  
-## [!INCLUDE[d365fin](../../includes/training_link_md.md)]
+## [!INCLUDE[d365fin](../../includes/free_trial_md.md)]

@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2018
+ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 77cd1673771593e8f4ee69111fef946c241963bc
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: 490b132c7d88ccf5c7cead6bfbd27203de3ed0ba
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "826297"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "941225"
 ---
 # <a name="set-up-revenue-types-for-withholding-tax"></a>Set Up Revenue Types for Withholding Tax
 Revenue types are used to categorise withholding tax (WHT) entries and are used for WHT certificates.  

@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2018
+ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 6b731f28dfb956395309dd3956487bac2234850f
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: 11ac24210cc2c74ffe55d412fab1bce3c329af19
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "826273"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "915863"
 ---
 # <a name="set-up-vendors-without-abn-for-calculating-the-withholding-tax"></a>Set Up Vendors Without ABN for Calculating the Withholding Tax
 Withholding Tax (WHT) is calculated for local vendors who do not have an Australian Business Number (ABN), as required by tax law.  

@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2018
+ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 75c427e69b2b4b85d558da6b8ff598fb92d28ad7
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: 9892b7e40e2c754e0d43d671ad836d0a7755de40
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "826277"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "920695"
 ---
 # <a name="print-bank-account-reconciliation-reports"></a>Print Bank Account Reconciliation Reports
 The **Bank Account Reconciliation** report displays open bank ledger entries as unpresented cheques or unrecorded deposits.  

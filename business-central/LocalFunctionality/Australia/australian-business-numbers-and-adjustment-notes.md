@@ -5,14 +5,14 @@ author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 10/01/2018
+ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 8941ef38b8fc22fb12e03ffa3482ed94a35b5971
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: 3acb8bd3964a79833b7bb780802d16b42811d7ab
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "826267"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "926552"
 ---
 # <a name="australian-business-numbers-and-adjustment-notes"></a>Australian Business Numbers and Adjustment Notes
 An Australian Business Number (ABN) is a single identifier for all business dealings with the tax office, and for dealings with other government departments and agencies.  

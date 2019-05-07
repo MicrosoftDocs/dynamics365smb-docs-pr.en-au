@@ -11,14 +11,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2018
+ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 055681977ef14fec502a1e178413267220bac1da
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: 6c6aa7c4f1b6d43092b189803e4b32db000da31a
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "826259"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "926671"
 ---
 # <a name="addresses"></a>Addresses
 A single postcode can include multiple cities in the same region.  
