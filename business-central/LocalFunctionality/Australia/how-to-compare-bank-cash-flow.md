@@ -10,42 +10,42 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2018
+ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: e84a1b6b753e2a5ad44d0c9d8ff9f1dc035d7457
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: c4631635e071b3349f620dec11976cd26303d709
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "826287"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "935966"
 ---
-# <a name="compare-bank-cash-flow"></a><span data-ttu-id="841e3-103">Compare Bank Cash Flow</span><span class="sxs-lookup"><span data-stu-id="841e3-103">Compare Bank Cash Flow</span></span>
-<span data-ttu-id="841e3-104">You can use the **Bank Detail Cashflow Compare** report to compare the flow of cash in a particular bank for a specified period.</span><span class="sxs-lookup"><span data-stu-id="841e3-104">You can use the **Bank Detail Cashflow Compare** report to compare the flow of cash in a particular bank for a specified period.</span></span>  
+# <a name="compare-bank-cash-flow"></a><span data-ttu-id="b7e52-103">Compare Bank Cash Flow</span><span class="sxs-lookup"><span data-stu-id="b7e52-103">Compare Bank Cash Flow</span></span>
+<span data-ttu-id="b7e52-104">You can use the **Bank Detail Cashflow Compare** report to compare the flow of cash in a particular bank for a specified period.</span><span class="sxs-lookup"><span data-stu-id="b7e52-104">You can use the **Bank Detail Cashflow Compare** report to compare the flow of cash in a particular bank for a specified period.</span></span>  
 
- <span data-ttu-id="841e3-105">The report displays the following details:</span><span class="sxs-lookup"><span data-stu-id="841e3-105">The report displays the following details:</span></span>  
+ <span data-ttu-id="b7e52-105">The report displays the following details:</span><span class="sxs-lookup"><span data-stu-id="b7e52-105">The report displays the following details:</span></span>  
 
--   <span data-ttu-id="841e3-106">Posting date</span><span class="sxs-lookup"><span data-stu-id="841e3-106">Posting date</span></span>  
--   <span data-ttu-id="841e3-107">Document type</span><span class="sxs-lookup"><span data-stu-id="841e3-107">Document type</span></span>  
--   <span data-ttu-id="841e3-108">Document number</span><span class="sxs-lookup"><span data-stu-id="841e3-108">Document number</span></span>  
--   <span data-ttu-id="841e3-109">Debit amount</span><span class="sxs-lookup"><span data-stu-id="841e3-109">Debit amount</span></span>  
--   <span data-ttu-id="841e3-110">Credit amount</span><span class="sxs-lookup"><span data-stu-id="841e3-110">Credit amount</span></span>  
--   <span data-ttu-id="841e3-111">Remaining amount</span><span class="sxs-lookup"><span data-stu-id="841e3-111">Remaining amount</span></span>  
+-   <span data-ttu-id="b7e52-106">Posting date</span><span class="sxs-lookup"><span data-stu-id="b7e52-106">Posting date</span></span>  
+-   <span data-ttu-id="b7e52-107">Document type</span><span class="sxs-lookup"><span data-stu-id="b7e52-107">Document type</span></span>  
+-   <span data-ttu-id="b7e52-108">Document number</span><span class="sxs-lookup"><span data-stu-id="b7e52-108">Document number</span></span>  
+-   <span data-ttu-id="b7e52-109">Debit amount</span><span class="sxs-lookup"><span data-stu-id="b7e52-109">Debit amount</span></span>  
+-   <span data-ttu-id="b7e52-110">Credit amount</span><span class="sxs-lookup"><span data-stu-id="b7e52-110">Credit amount</span></span>  
+-   <span data-ttu-id="b7e52-111">Remaining amount</span><span class="sxs-lookup"><span data-stu-id="b7e52-111">Remaining amount</span></span>  
 
-<span data-ttu-id="841e3-112">The debit and credit amounts are displayed in the local currency.</span><span class="sxs-lookup"><span data-stu-id="841e3-112">The debit and credit amounts are displayed in the local currency.</span></span> <span data-ttu-id="841e3-113">You can also view the starting balance and ending balance for each bank.</span><span class="sxs-lookup"><span data-stu-id="841e3-113">You can also view the starting balance and ending balance for each bank.</span></span>  
+<span data-ttu-id="b7e52-112">The debit and credit amounts are displayed in the local currency.</span><span class="sxs-lookup"><span data-stu-id="b7e52-112">The debit and credit amounts are displayed in the local currency.</span></span> <span data-ttu-id="b7e52-113">You can also view the starting balance and ending balance for each bank.</span><span class="sxs-lookup"><span data-stu-id="b7e52-113">You can also view the starting balance and ending balance for each bank.</span></span>  
 
-## <a name="to-compare-bank-cash-flow"></a><span data-ttu-id="841e3-114">To compare bank cash flow</span><span class="sxs-lookup"><span data-stu-id="841e3-114">To compare bank cash flow</span></span>  
+## <a name="to-compare-bank-cash-flow"></a><span data-ttu-id="b7e52-114">To compare bank cash flow</span><span class="sxs-lookup"><span data-stu-id="b7e52-114">To compare bank cash flow</span></span>  
 
-1.  <span data-ttu-id="841e3-115">Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Bank Detail Cashflow Compare**, and then choose the relevant link.</span><span class="sxs-lookup"><span data-stu-id="841e3-115">Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Bank Detail Cashflow Compare**, and then choose the relevant link.</span></span>  
-2.  <span data-ttu-id="841e3-116">On the **Options** FastTab, fill in the fields as described in the following table.</span><span class="sxs-lookup"><span data-stu-id="841e3-116">On the **Options** FastTab, fill in the fields as described in the following table.</span></span>  
+1.  <span data-ttu-id="b7e52-115">Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Bank Detail Cashflow Compare**, and then choose the relevant link.</span><span class="sxs-lookup"><span data-stu-id="b7e52-115">Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Bank Detail Cashflow Compare**, and then choose the relevant link.</span></span>  
+2.  <span data-ttu-id="b7e52-116">On the **Options** FastTab, fill in the fields as described in the following table.</span><span class="sxs-lookup"><span data-stu-id="b7e52-116">On the **Options** FastTab, fill in the fields as described in the following table.</span></span>  
 
-    |<span data-ttu-id="841e3-117">Field</span><span class="sxs-lookup"><span data-stu-id="841e3-117">Field</span></span>|<span data-ttu-id="841e3-118">Description</span><span class="sxs-lookup"><span data-stu-id="841e3-118">Description</span></span>|  
+    |<span data-ttu-id="b7e52-117">Field</span><span class="sxs-lookup"><span data-stu-id="b7e52-117">Field</span></span>|<span data-ttu-id="b7e52-118">Description</span><span class="sxs-lookup"><span data-stu-id="b7e52-118">Description</span></span>|  
     |---------------------------------|---------------------------------------|  
-    |<span data-ttu-id="841e3-119">**Compare Start Date**</span><span class="sxs-lookup"><span data-stu-id="841e3-119">**Compare Start Date**</span></span>|<span data-ttu-id="841e3-120">Specifies the start date for the comparison.</span><span class="sxs-lookup"><span data-stu-id="841e3-120">Specifies the start date for the comparison.</span></span>|  
-    |<span data-ttu-id="841e3-121">**Compare End Date**</span><span class="sxs-lookup"><span data-stu-id="841e3-121">**Compare End Date**</span></span>|<span data-ttu-id="841e3-122">Specifies the end date for comparison.</span><span class="sxs-lookup"><span data-stu-id="841e3-122">Specifies the end date for comparison.</span></span>|  
-    |<span data-ttu-id="841e3-123">**New Page per Bank Account**</span><span class="sxs-lookup"><span data-stu-id="841e3-123">**New Page per Bank Account**</span></span>|<span data-ttu-id="841e3-124">Specifies if the details of each bank account will be printed on a separate page.</span><span class="sxs-lookup"><span data-stu-id="841e3-124">Specifies if the details of each bank account will be printed on a separate page.</span></span>|  
+    |<span data-ttu-id="b7e52-119">**Compare Start Date**</span><span class="sxs-lookup"><span data-stu-id="b7e52-119">**Compare Start Date**</span></span>|<span data-ttu-id="b7e52-120">Specifies the start date for the comparison.</span><span class="sxs-lookup"><span data-stu-id="b7e52-120">Specifies the start date for the comparison.</span></span>|  
+    |<span data-ttu-id="b7e52-121">**Compare End Date**</span><span class="sxs-lookup"><span data-stu-id="b7e52-121">**Compare End Date**</span></span>|<span data-ttu-id="b7e52-122">Specifies the end date for comparison.</span><span class="sxs-lookup"><span data-stu-id="b7e52-122">Specifies the end date for comparison.</span></span>|  
+    |<span data-ttu-id="b7e52-123">**New Page per Bank Account**</span><span class="sxs-lookup"><span data-stu-id="b7e52-123">**New Page per Bank Account**</span></span>|<span data-ttu-id="b7e52-124">Specifies if the details of each bank account will be printed on a separate page.</span><span class="sxs-lookup"><span data-stu-id="b7e52-124">Specifies if the details of each bank account will be printed on a separate page.</span></span>|  
 
-3.  <span data-ttu-id="841e3-125">Choose the **Print** button to print the report or choose the **Preview** button to view it on the screen.</span><span class="sxs-lookup"><span data-stu-id="841e3-125">Choose the **Print** button to print the report or choose the **Preview** button to view it on the screen.</span></span>  
+3.  <span data-ttu-id="b7e52-125">Choose the **Print** button to print the report or choose the **Preview** button to view it on the screen.</span><span class="sxs-lookup"><span data-stu-id="b7e52-125">Choose the **Print** button to print the report or choose the **Preview** button to view it on the screen.</span></span>  
 
-## <a name="see-also"></a><span data-ttu-id="841e3-126">See Also</span><span class="sxs-lookup"><span data-stu-id="841e3-126">See Also</span></span>  
- <span data-ttu-id="841e3-127">[Create Cheque Instalments](how-to-create-check-installments.md) </span><span class="sxs-lookup"><span data-stu-id="841e3-127">[Create Check Installments](how-to-create-check-installments.md) </span></span>  
- [<span data-ttu-id="841e3-128">Australia Local Functionality</span><span class="sxs-lookup"><span data-stu-id="841e3-128">Australia Local Functionality</span></span>](australia-local-functionality.md)
+## <a name="see-also"></a><span data-ttu-id="b7e52-126">See Also</span><span class="sxs-lookup"><span data-stu-id="b7e52-126">See Also</span></span>  
+ <span data-ttu-id="b7e52-127">[Create Cheque Instalments](how-to-create-check-installments.md) </span><span class="sxs-lookup"><span data-stu-id="b7e52-127">[Create Check Installments](how-to-create-check-installments.md) </span></span>  
+ [<span data-ttu-id="b7e52-128">Australia Local Functionality</span><span class="sxs-lookup"><span data-stu-id="b7e52-128">Australia Local Functionality</span></span>](australia-local-functionality.md)
