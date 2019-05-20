@@ -24,11 +24,11 @@ translation.priority.ht:
 - nl-nl
 - ru-ru
 - sv-se
+ms.openlocfilehash: da38396d06ca99fc3562c91ce07d0ad735e984f7
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
-ms.sourcegitcommit: cce3a3a8331d8f1ac6665d9b9a9908b172cfecaa
-ms.openlocfilehash: 714ef38fca8135bbd02a08eaf6cfbe7a5e258ef7
-ms.contentlocale: en-au
-ms.lasthandoff: 10/27/2018
-
+ms.contentlocale: en-AU
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1238127"
 ---
 Microsoft Dynamics NAV 2015
