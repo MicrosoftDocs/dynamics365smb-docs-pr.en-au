@@ -13,26 +13,26 @@ ms.search.keywords: year closing, close accounting period, close fiscal year, ba
 ms.date: 04/01/2019
 ms.author: jswymer
 ms.openlocfilehash: 878079fd02a2d54ae6b878fa54c7006dee779c15
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "914912"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1249683"
 ---
-# <a name="post-the-year-end-closing-entry"></a><span data-ttu-id="b1b31-103">Post the Year-End Closing Entry</span><span class="sxs-lookup"><span data-stu-id="b1b31-103">Post the Year-End Closing Entry</span></span>
-<span data-ttu-id="b1b31-104">After you use the **Close Income Statement** batch job to generate the year-end closing entry or entries, you must open the journal you specified in the batch job, and then review and post the entries.</span><span class="sxs-lookup"><span data-stu-id="b1b31-104">After you use the **Close Income Statement** batch job to generate the year-end closing entry or entries, you must open the journal you specified in the batch job, and then review and post the entries.</span></span>
+# <a name="post-the-year-end-closing-entry"></a><span data-ttu-id="dfd5f-103">Post the Year-End Closing Entry</span><span class="sxs-lookup"><span data-stu-id="dfd5f-103">Post the Year-End Closing Entry</span></span>
+<span data-ttu-id="dfd5f-104">After you use the **Close Income Statement** batch job to generate the year-end closing entry or entries, you must open the journal you specified in the batch job, and then review and post the entries.</span><span class="sxs-lookup"><span data-stu-id="dfd5f-104">After you use the **Close Income Statement** batch job to generate the year-end closing entry or entries, you must open the journal you specified in the batch job, and then review and post the entries.</span></span>
 
-## <a name="to-post-the-year-end-closing-entry"></a><span data-ttu-id="b1b31-105">To post the year end closing entry</span><span class="sxs-lookup"><span data-stu-id="b1b31-105">To post the year end closing entry</span></span>
-1. <span data-ttu-id="b1b31-106">Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **General Journal**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="b1b31-106">Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **General Journal**, and then choose the related link.</span></span>
-2. <span data-ttu-id="b1b31-107">On the **General Journal** page, in the **Batch Name** field, select the batch that contains the closing entries.</span><span class="sxs-lookup"><span data-stu-id="b1b31-107">On the **General Journal** page, in the **Batch Name** field, select the batch that contains the closing entries.</span></span>
-3. <span data-ttu-id="b1b31-108">Review the entries.</span><span class="sxs-lookup"><span data-stu-id="b1b31-108">Review the entries.</span></span>
-4. <span data-ttu-id="b1b31-109">To post the journal, choose the **Post** action.</span><span class="sxs-lookup"><span data-stu-id="b1b31-109">To post the journal, choose the **Post** action.</span></span>
+## <a name="to-post-the-year-end-closing-entry"></a><span data-ttu-id="dfd5f-105">To post the year end closing entry</span><span class="sxs-lookup"><span data-stu-id="dfd5f-105">To post the year end closing entry</span></span>
+1. <span data-ttu-id="dfd5f-106">Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **General Journal**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="dfd5f-106">Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **General Journal**, and then choose the related link.</span></span>
+2. <span data-ttu-id="dfd5f-107">On the **General Journal** page, in the **Batch Name** field, select the batch that contains the closing entries.</span><span class="sxs-lookup"><span data-stu-id="dfd5f-107">On the **General Journal** page, in the **Batch Name** field, select the batch that contains the closing entries.</span></span>
+3. <span data-ttu-id="dfd5f-108">Review the entries.</span><span class="sxs-lookup"><span data-stu-id="dfd5f-108">Review the entries.</span></span>
+4. <span data-ttu-id="dfd5f-109">To post the journal, choose the **Post** action.</span><span class="sxs-lookup"><span data-stu-id="dfd5f-109">To post the journal, choose the **Post** action.</span></span>
 
 > [!NOTE]  
->   <span data-ttu-id="b1b31-110">If an error is detected, an error message is displayed.</span><span class="sxs-lookup"><span data-stu-id="b1b31-110">If an error is detected, an error message is displayed.</span></span> <span data-ttu-id="b1b31-111">If the posting is successful, the posted entries are removed from the journal.</span><span class="sxs-lookup"><span data-stu-id="b1b31-111">If the posting is successful, the posted entries are removed from the journal.</span></span> <span data-ttu-id="b1b31-112">After posting is complete, an entry is posted to each income statement account so that its balance becomes zero and the year's result is transferred to the balance sheet.</span><span class="sxs-lookup"><span data-stu-id="b1b31-112">After posting is complete, an entry is posted to each income statement account so that its balance becomes zero and the year's result is transferred to the balance sheet.</span></span>
+>   <span data-ttu-id="dfd5f-110">If an error is detected, an error message is displayed.</span><span class="sxs-lookup"><span data-stu-id="dfd5f-110">If an error is detected, an error message is displayed.</span></span> <span data-ttu-id="dfd5f-111">If the posting is successful, the posted entries are removed from the journal.</span><span class="sxs-lookup"><span data-stu-id="dfd5f-111">If the posting is successful, the posted entries are removed from the journal.</span></span> <span data-ttu-id="dfd5f-112">After posting is complete, an entry is posted to each income statement account so that its balance becomes zero and the year's result is transferred to the balance sheet.</span><span class="sxs-lookup"><span data-stu-id="dfd5f-112">After posting is complete, an entry is posted to each income statement account so that its balance becomes zero and the year's result is transferred to the balance sheet.</span></span>
 
-## <a name="see-also"></a><span data-ttu-id="b1b31-113">See Also</span><span class="sxs-lookup"><span data-stu-id="b1b31-113">See Also</span></span>
-[<span data-ttu-id="b1b31-114">Close Accounting Periods</span><span class="sxs-lookup"><span data-stu-id="b1b31-114">Close Accounting Periods</span></span>](year-close-account-periods.md)  
-[<span data-ttu-id="b1b31-115">Closing Books</span><span class="sxs-lookup"><span data-stu-id="b1b31-115">Closing Books</span></span>](year-close-books.md)  
-[<span data-ttu-id="b1b31-116">Close Income Statement</span><span class="sxs-lookup"><span data-stu-id="b1b31-116">Close Income Statement</span></span>](year-close-income-statement.md)  
-<span data-ttu-id="b1b31-117">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="b1b31-117">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>
+## <a name="see-also"></a><span data-ttu-id="dfd5f-113">See Also</span><span class="sxs-lookup"><span data-stu-id="dfd5f-113">See Also</span></span>
+[<span data-ttu-id="dfd5f-114">Close Accounting Periods</span><span class="sxs-lookup"><span data-stu-id="dfd5f-114">Close Accounting Periods</span></span>](year-close-account-periods.md)  
+[<span data-ttu-id="dfd5f-115">Closing Books</span><span class="sxs-lookup"><span data-stu-id="dfd5f-115">Closing Books</span></span>](year-close-books.md)  
+[<span data-ttu-id="dfd5f-116">Close Income Statement</span><span class="sxs-lookup"><span data-stu-id="dfd5f-116">Close Income Statement</span></span>](year-close-income-statement.md)  
+<span data-ttu-id="dfd5f-117">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="dfd5f-117">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>
