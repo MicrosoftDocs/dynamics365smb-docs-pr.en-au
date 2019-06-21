@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: sales, crm, integration, sync, synchronize
 ms.date: 04/01/2019
 ms.author: bholtorf
-ms.openlocfilehash: e52010384de83d95011cb29a88cad17a5eba817c
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: a2adf188f616f3a9cbb0e0d3135ee79d238c453b
+ms.sourcegitcommit: 92c7b6c5f0a5d8becbef106ab85258906765bc3e
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1247148"
+ms.lasthandoff: 05/13/2019
+ms.locfileid: "1540231"
 ---
 # <a name="synchronizing-data-in-business-central-and-dynamics-365-for-sales"></a>Synchronising Data in Business Central and Dynamics 365 for Sales
 When you integrate [!INCLUDE[crm_md](includes/crm_md.md)] with [!INCLUDE[d365fin](includes/d365fin_md.md)], you can decide whether to synchronise data in selected fields of [!INCLUDE[d365fin](includes/d365fin_md.md)] records (such as customers, contacts, and sales people) with equivalent records in [!INCLUDE[d365fin](includes/d365fin_md.md)] (such as accounts, contacts, and users). Depending on the type of record, you can synchronise data from [!INCLUDE[crm_md](includes/crm_md.md)] to [!INCLUDE[d365fin](includes/d365fin_md.md)], or vice versa. For more information, see [Integrating with Dynamics 365 for Sales](admin-prepare-dynamics-365-for-sales-for-integration.md).  
@@ -38,7 +38,7 @@ When synchronisation is set up you can couple [!INCLUDE[d365fin](includes/d365fi
 |Scheduled synchronisation|Synchronise all changes to data for all table mappings.<br /><br /> You can synchronise [!INCLUDE[d365fin](includes/d365fin_md.md)] with [!INCLUDE[crm_md](includes/crm_md.md)] on scheduled intervals by setting up jobs in the job queue.|[Schedule a Synchronisation](admin-scheduled-synchronization-using-the-synchronization-job-queue-entries.md)|  
 
 ## <a name="standard-sales-entity-mapping-for-synchronization"></a>Standard Sales Entity Mapping for Synchronisation
-Entities in [!INCLUDE[crm_md](includes/crm_md.md)], such as accounts, are integrated with equivalent types of entities in [!INCLUDE[d365fin](includes/d365fin_md.md)], such as customers. To work with [!INCLUDE[crm_md](includes/crm_md.md)] data you set up links, called couplings, between entities in [!INCLUDE[d365fin](includes/d365fin_md.md)] and [!INCLUDE[crm_md](includes/crm_md.md)].
+Entities in [!INCLUDE[crm_md](includes/crm_md.md)], such as accounts, are integrated with equivalent types of entities in [!INCLUDE[d365fin](includes/d365fin_md.md)],such as customers. To work with [!INCLUDE[crm_md](includes/crm_md.md)] data you set up links, called couplings, between entities in [!INCLUDE[d365fin](includes/d365fin_md.md)] and [!INCLUDE[crm_md](includes/crm_md.md)].
 
 The following table lists the standard mapping between entities in [!INCLUDE[d365fin](includes/d365fin_md.md)] and [!INCLUDE[crm_md](includes/crm_md.md)] that [!INCLUDE[d365fin](includes/d365fin_md.md)] provides.
 
