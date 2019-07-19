@@ -12,19 +12,20 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2019
 ms.author: bholtorf
-ms.openlocfilehash: 2ae1a3b68482b5bcbe5743d87bb0ed3250919fd4
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 26c02857d4ccae0655f67f3869cfcca41b166a91
+ms.sourcegitcommit: 5b6dd8d881c0eb65ece6936a94dfda3185574335
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1237816"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "1710987"
 ---
 # <a name="print-goods-and-service-tax-settlement-reports"></a>Print Goods and Service Tax Settlement Reports
 You must submit a periodic report of goods and services tax (GST) settlement. You can create this settlement from the **BAS Calc. Schedule List** page.  
 
+
 ### <a name="to-print-a-goods-and-service-tax-settlement"></a>To print a goods and service tax settlement  
 1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Calculate GST Statement**, and then choose the related link.  
-2. On the **Options** FastTab, fill in the fields as described in the following table.  
+2. Fill in the fields as described in the following table.  
 
     |Field|Description|  
     |---------------------------------|---------------------------------------|  
@@ -35,9 +36,9 @@ You must submit a periodic report of goods and services tax (GST) settlement. Yo
     |**Document No.**|The document number of the settlement entries.|  
     |**Description**|The settlement description.|  
     |**Post**|Select to post the withholding tax settlement entries.|  
-    |**Inter Company**|Select if the posting is inter company.|  
+    |**Inter Company**|Select if the posting is intercompany.|  
 
-3. On the **BAS Calculation Sheet** FastTab, select the appropriate filters.  
+3. Select the appropriate filters.  
 4. Choose the **Print** button to print the report, or choose the **Preview** button to view it on the screen.  
 
 ## <a name="see-also"></a>See Also  

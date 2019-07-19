@@ -1,6 +1,6 @@
 ---
 title: How to Create Cheque Instalments
-description: Describes how to create cheque instalments for post-dated cheques, define the number of instalments that a payment will be divided into, the percent of interest, and the period in which the cheques will be created.
+description: Describes how to create cheque instalments for postdated cheques, define the number of instalments that a payment will be divided into, the percent of interest, and the period in which the cheques will be created.
 services: project-madeira
 documentationcenter: ''
 author: bholtorf
@@ -12,26 +12,26 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2019
 ms.author: bholtorf
-ms.openlocfilehash: 5c3dda348ac9b7c0bea0450f80b2c5135e7df625
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: e77c95acd05ab12ed7d8920b0205c6912a6a6a5e
+ms.sourcegitcommit: 5b6dd8d881c0eb65ece6936a94dfda3185574335
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1237813"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "1710981"
 ---
 # <a name="create-check-installments"></a>Create Cheque Instalments
-You can create cheque Instalments for post-dated cheques. You can define the number of instalments that a payment will be divided into, the percent of interest, and the period in which the cheques will be created.  
+You can create cheque instalments for postdated cheques. You can define the number of instalments that a payment will be divided into, the percent of interest, and the period in which the cheques will be created.  
 
 ## <a name="to-create-a-check-installment"></a>To create a cheque instalment  
 
 1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Post Dated cheques-Purchases**, and then choose the relevant link.  
-2.  Choose the relevant cheque, and then, on the **Home** tab, choose **Edit**.  
-3.  On the **Post Dated Cheques-Purchase** page, on the **Home** tab, choose **Create Cheque Instalments**.  
-4.  On the **Options** FastTab, fill in the fields as described in the following table.  
+2.  Select the relevant cheque, and then choose the **Edit** action.  
+3.  On the **Post Dated Cheques-Purchase** page, choose the **Create Cheque Instalments** action.  
+4.  Fill in the fields as described in the following table.  
 
 5.  |Field|Description|  
     |---------------------------------|---------------------------------------|  
-    |**No. of instalments**|Specifies the number of instalments into which the post-dated cheque will be divided.|  
+    |**No. of Instalments**|Specifies the number of instalments into which the postdated cheque will be divided.|  
     |**Interest %**|Specifies the percent of interest.|  
     |**Period Length**|Specifies the period for which the instalments will be created. For example, if you want to divide the cheque into monthly instalments, enter **1M**.|  
     |**Start Document No.**|Specifies the starting number of the document. Based on the number of instalments specified, the consecutive numbers are allocated to the documents created.|  

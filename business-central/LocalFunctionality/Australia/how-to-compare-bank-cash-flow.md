@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: c4631635e071b3349f620dec11976cd26303d709
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 0fb3f81e7e1d960d86ab75219a8b4da6d11a1259
+ms.sourcegitcommit: 5b6dd8d881c0eb65ece6936a94dfda3185574335
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1237821"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "1710979"
 ---
 # <a name="compare-bank-cash-flow"></a>Compare Bank Cash Flow
 You can use the **Bank Detail Cashflow Compare** report to compare the flow of cash in a particular bank for a specified period.  
@@ -36,7 +36,7 @@ The debit and credit amounts are displayed in the local currency. You can also v
 ## <a name="to-compare-bank-cash-flow"></a>To compare bank cash flow  
 
 1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Bank Detail Cashflow Compare**, and then choose the relevant link.  
-2.  On the **Options** FastTab, fill in the fields as described in the following table.  
+2.  Fill in the fields as described in the following table.  
 
     |Field|Description|  
     |---------------------------------|---------------------------------------|  
@@ -44,7 +44,7 @@ The debit and credit amounts are displayed in the local currency. You can also v
     |**Compare End Date**|Specifies the end date for comparison.|  
     |**New Page per Bank Account**|Specifies if the details of each bank account will be printed on a separate page.|  
 
-3.  Choose the **Print** button to print the report or choose the **Preview** button to view it on the screen.  
+3.  Choose the **Print** button to print the report, or choose the **Preview** button to view it on the screen.  
 
 ## <a name="see-also"></a>See Also  
  [Create Cheque Instalments](how-to-create-check-installments.md)   

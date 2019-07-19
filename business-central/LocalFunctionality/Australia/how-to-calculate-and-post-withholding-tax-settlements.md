@@ -7,12 +7,12 @@ ms.topic: article
 ms.search.keywords: ''
 ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: f3bbd7160dbd3c05b7558df69dc9440389e25fb3
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 4e994dbcf84cbe1d92b7a8e6980324641f5ea722
+ms.sourcegitcommit: 5b6dd8d881c0eb65ece6936a94dfda3185574335
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1237822"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "1710988"
 ---
 # <a name="calculate-and-post-withholding-tax-settlements"></a>Calculate and Post Withholding Tax Settlements
 You can use the **Calc. and Post WHT Settlement** page to calculate and post the withholding tax (WHT).  
@@ -27,7 +27,7 @@ The sum of all withheld amounts is reported as a truncated whole number to the A
 ## <a name="to-calculate-and-post-withholding-tax-settlements"></a>To calculate and post withholding tax settlements  
 
 1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Calc. and Post WHT Settlement**, and then choose the related link.  
-2.  On the **Options** FastTab, fill in the fields as described in the following table.  
+2.  Fill in the fields as described in the following table.  
 
     |Field|Description|  
     |---------------------------------|---------------------------------------|  
@@ -42,7 +42,7 @@ The sum of all withheld amounts is reported as a truncated whole number to the A
     |**Show WHT Entries**|Select to view the withholding tax entries for the specified period.|  
     |**Post**|Select to post the WHT settlement entries.|  
 
-3.  Choose the **Print** button to print the report or choose the **Preview** button to view it on the screen.  
+3.  Choose the **Print** button to print the report, or choose the **Preview** button to view it on the screen.  
 
 ## <a name="see-also"></a>See Also  
  [Withholding Tax](withholding-tax.md)   

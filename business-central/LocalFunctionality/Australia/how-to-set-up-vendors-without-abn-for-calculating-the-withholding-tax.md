@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 11ac24210cc2c74ffe55d412fab1bce3c329af19
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: e76b84ba0a5ae22b7732f64ae1d631da45c0645c
+ms.sourcegitcommit: 5b6dd8d881c0eb65ece6936a94dfda3185574335
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1237808"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "1710978"
 ---
 # <a name="set-up-vendors-without-abn-for-calculating-the-withholding-tax"></a>Set Up Vendors Without ABN for Calculating the Withholding Tax
 Withholding Tax (WHT) is calculated for local vendors who do not have an Australian Business Number (ABN), as required by tax law.  
@@ -26,7 +26,7 @@ Withholding Tax (WHT) is calculated for local vendors who do not have an Austral
 
 1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Vendors**, and then choose the related link.  
 2.  Choose the required vendor, and then choose the **Edit** action.  
-3.  On the **Vendor Card** page, on the **Registration** FastTab, make sure the **ABN** field and the **Foreign Vend** field must be empty.  
+3.  On the **Vendor Card** page, make sure the **ABN** field and the **Foreign Vend** field are empty.  
 4.  Choose the **OK** button.  
 
     > [!NOTE]  

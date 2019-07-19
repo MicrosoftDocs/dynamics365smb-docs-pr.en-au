@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 07bdeaf51ca30917e804842256e08b5bf5623a8b
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 93272888e6c5029cdc99e798c70070e1ea48824b
+ms.sourcegitcommit: 5b6dd8d881c0eb65ece6936a94dfda3185574335
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1237792"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "1710976"
 ---
 # <a name="set-up-withholding-tax"></a>Set Up Withholding Tax
 Withholding tax (WHT) is the tax withheld by a company when it makes a payment to a vendor, in which the full amount owed to the vendor is reduced by the tax withheld. The withheld tax is then remitted to the Australian Taxation Office (ATO) when the next Business Activity Statement (BAS) is submitted.  
@@ -66,8 +66,8 @@ The following procedure describes how to set up product posting groups for WHT, 
     |**Bal. Payable Account No.**|Specifies the account number or bank name for purchase WHT transactions. This is based on the type selected in the **Bal. Payable Account Type** field.|  
     |**WHT Report Line No. Series**|Specifies the number series for the WHT report line.|  
     |**Revenue Type**|Specifies the revenue type. For more information, see [Set Up Revenue Types for Withholding Tax](how-to-set-up-revenue-types-for-withholding-tax.md).|  
-    |**Purch. WHT Adj. Account No.**|Specifies the account number which to post purchase CR/Adj Note adjustments.|  
-    |**Sales WHT Adj. Account No.**|Specifies the account number to post sales CR/Adj Note adjustments.|  
+    |**Purch. WHT Adj. Account No.**|Specifies the account number on which to post purchase CR/Adj Note adjustments.|  
+    |**Sales WHT Adj. Account No.**|Specifies the account number on which to post sales CR/Adj Note adjustments.|  
     |**Sequence**|Specifies the sequence in which the withholding tax posting setup information must be displayed in reports.|  
 
 3.  Choose the **OK** button.  

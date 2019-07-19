@@ -1,5 +1,5 @@
 ---
-title: How to Set Up Goods and Service Tax Posting
+title: How to Set Up Goods and Services Tax Posting
 description: Describes the steps to start applying goods and services tax (GST) to goods and services.
 services: project-madeira
 documentationcenter: ''
@@ -12,17 +12,17 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: bb41c83ee8c2a106c22be426247c9c84607fcc89
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 1f0202e26c79c1c717a80734dbae44fdd59a327d
+ms.sourcegitcommit: 5b6dd8d881c0eb65ece6936a94dfda3185574335
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1237820"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "1710982"
 ---
-# <a name="set-up-goods-and-service-tax-posting"></a>Set Up Goods and Service Tax Posting
+# <a name="set-up-goods-and-services-tax-posting"></a>Set Up Goods and Services Tax Posting
 Goods and services tax (GST) is the tax that is applied on most goods and services. The GST that is paid and received during a period is reported in the Business Activity Statement (BAS) that has to be submitted to the Australian Taxation Office (ATO).  
 
-To set up posting details for GST, you must define the posting groups, rate of GST, and the accounts to which GST is to be posted. You can set up this information for a particular combination business posting groups and product posting groups.  
+To set up posting details for GST, you must define the posting groups, rate of GST, and the accounts to which GST is to be posted. You can set up this information for a particular combination of business posting groups and product posting groups.  
 
 You must set up GST posting before you generate the BAS report.  
 

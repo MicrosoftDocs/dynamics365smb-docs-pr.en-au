@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 84da43cdea7144951e0803edd5277afe3dd6dc81
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 57d6cbb3d638675af1a17fca60880eab003f9a05
+ms.sourcegitcommit: 5b6dd8d881c0eb65ece6936a94dfda3185574335
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1237651"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "1710977"
 ---
 # <a name="withholding-tax"></a>Withholding Tax
 Withholding Tax (WHT) is tax withheld by a company when making a payment to a vendor, in which the full amount owed to that vendor is reduced by the tax withheld. The withheld tax is then remitted to the Australian Taxation Office (ATO) during the next Business Activity Statement (BAS) submission.  
@@ -26,7 +26,7 @@ The Australian government requires taxes to be withheld from payment to vendors 
 
 -   The vendor is a local supplier who has not supplied an Australian Business Number (ABN) before the payment is processed, and the individual transaction amount is greater than the specified threshold amount.  
 
--   The vendor is a non-resident supplier and the payment is to be made to this non-resident entity in the form of interest, royalty, or dividend payments. Currently, there is no minimum threshold amount. Withholding rates may vary due to payment, or international tax treaties existing between Australia and the vendor's country.  
+-   The vendor is a nonresident supplier, and the payment is to be made to this nonresident entity in the form of interest, royalty, or dividend payments. Currently, there is no minimum threshold amount. Withholding rates can vary due to payment or international tax treaties existing between Australia and the vendor's country.  
 
 Fields within **WHT Business Posting Groups** and **WHT Product Posting Groups** must be set up on the **WHT Posting Setup** page so that the correct WHT calculations are made for each vendor.  
 
@@ -42,7 +42,7 @@ In Australia, WHT is not calculated if the individual invoice amount is less tha
 
 - **WHT Minimum Invoice Amount** – Enter the invoice threshold amount.  
 
-- **WHT %** – Enter the relevant WHT rate for the particular combination of **WHT Business Posting Group** and **WHT Product Posting Group**. If you do not wish to calculate any withholding amount, enter 0.00.  
+- **WHT %** – Enter the relevant WHT rate for the particular combination of **WHT Business Posting Group** and **WHT Product Posting Group**. If you do not want to calculate any withholding amount, enter 0.00.  
 
 - **Realised WHT Type** – Select **Payment** to calculate only the withholding amount at the time of payment. The other options of **Invoice** and **Earliest** do not apply to Australia.  
 

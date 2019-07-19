@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 28017872e776082bc56e2f1f25b8d1ce4b8cc4da
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: c4210382f4c933ebc4ca3ed200d1712b57281aaf
+ms.sourcegitcommit: 5b6dd8d881c0eb65ece6936a94dfda3185574335
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1237812"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "1710985"
 ---
 # <a name="print-income-statements"></a>Print Income Statements
 You can use the **Income Statement** report to view the company’s annual income statement.  
@@ -26,14 +26,14 @@ This is a legal report that is required for auditing accounts. This report displ
 
 ## <a name="to-print-the-income-statement-report"></a>To print the income statement report  
 1. Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Income Statement**, and then choose the relevant link.  
-2. On the **Income Statement** page, on the **Options** FastTab, fill in the fields as described in the following table.  
+2. On the **Income Statement** page, fill in the fields as described in the following table.  
 
     |Field|Description|  
     |---------------------------------|---------------------------------------|  
     |**Amounts in whole**|Specifies the nearest unit to which the amount must be rounded.|  
     |**Show Amounts in Add. Reporting Currency**|Specifies if the amounts will be displayed in the additional reporting currency.|  
 
-3. Choose the **Print** button to print the report or choose the **Preview** button to view it on the screen.  
+3. Choose the **Print** button to print the report, or choose the **Preview** button to view it on the screen.  
 
 ## <a name="see-also"></a>See Also  
 [Calculate and Post Withholding Tax Settlements](how-to-calculate-and-post-withholding-tax-settlements.md)  

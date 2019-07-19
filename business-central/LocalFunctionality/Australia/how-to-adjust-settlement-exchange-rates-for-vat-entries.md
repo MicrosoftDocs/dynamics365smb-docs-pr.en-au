@@ -7,12 +7,12 @@ ms.topic: article
 ms.search.keywords: ''
 ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 3096382318805587c77734dd6550934242dcdc86
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: fc9756a3019d7974dfe3e21951a2243bd3661647
+ms.sourcegitcommit: 5b6dd8d881c0eb65ece6936a94dfda3185574335
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1237824"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "1710922"
 ---
 # <a name="adjust-settlement-exchange-rates-for-vat-entries"></a>Adjust Settlement Exchange Rates for GST Entries
 You can use the **Adjust Settlement Exch. Rates** batch job to settle GST entries according to the government exchange rate as defined in the **Currency Exchange Rate** table.  
@@ -20,7 +20,7 @@ You can use the **Adjust Settlement Exch. Rates** batch job to settle GST entrie
 ## <a name="to-adjust-settlement-exchange-rates-for-vat"></a>To adjust settlement exchange rates for GST  
 
 1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Adjust Settlement Exch. Rates**, and then choose the related link.  
-2.  On the **Options** FastTab, fill in the fields as described in the following table.  
+2.  Fill in the fields as described in the following table.  
 
     |Field|Description|  
     |---------------------------------|---------------------------------------|  
@@ -33,4 +33,4 @@ You can use the **Adjust Settlement Exch. Rates** batch job to settle GST entrie
 
 3.  Choose the **OK** button.  
 
-The GST entries are adjusted and you can view them in the **GST Register** report.
+The GST entries are adjusted, and you can view them in the **GST Register** report.
