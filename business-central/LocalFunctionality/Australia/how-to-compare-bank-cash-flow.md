@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 0fb3f81e7e1d960d86ab75219a8b4da6d11a1259
-ms.sourcegitcommit: 5b6dd8d881c0eb65ece6936a94dfda3185574335
+ms.openlocfilehash: f6565680b899c79c568f6bd9bc18e599d73779bb
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "1710979"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2300315"
 ---
 # <a name="compare-bank-cash-flow"></a>Compare Bank Cash Flow
 You can use the **Bank Detail Cashflow Compare** report to compare the flow of cash in a particular bank for a specified period.  

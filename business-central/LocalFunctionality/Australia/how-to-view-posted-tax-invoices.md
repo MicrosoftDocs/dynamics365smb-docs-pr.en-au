@@ -6,14 +6,14 @@ ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.search.keywords: ''
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: b9ac48b0bbc5bff9bddc0ff83111d83564d75024
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 575f18603f984bdc305e3041c6234e373a8b8d7c
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1237849"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2300301"
 ---
 # <a name="view-posted-tax-invoices"></a>View Posted Tax Invoices
 In [!INCLUDE[d365fin](../../includes/d365fin_md.md)], you can use the **Posted Sales Tax Invoice** page and the **Posted Purchase Tax Invoice** page to view the details of posted sales tax invoices and posted purchase tax invoices.  

@@ -1,22 +1,24 @@
 ---
 title: Addresses in Australia
 description: A single postcode can include multiple cities in the same region.
+services: project-madeira
+ms.custom: en-CA, fr-CA
 documentationcenter: ''
 author: SorenGP
-ms.prod: dynamics-nav-2018
+ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 07/01/2017
+ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 6c6aa7c4f1b6d43092b189803e4b32db000da31a
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 23607727d8ebd8e35d5a5c3821629c2154c631e9
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1237748"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2300323"
 ---
 # <a name="addresses"></a>Addresses
 A single postcode can include multiple cities in the same region.  

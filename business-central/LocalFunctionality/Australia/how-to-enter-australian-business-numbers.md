@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 9ff788a2b28ade0a10b3821312352e8d114aa558
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: ba1148124fa3055354baaaba5e15cb2687d39f7f
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1237817"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2300312"
 ---
 # <a name="enter-australian-business-numbers"></a>Enter Australian Business Numbers
 You can enter an Australian Business Number (ABN) in the following pages:  

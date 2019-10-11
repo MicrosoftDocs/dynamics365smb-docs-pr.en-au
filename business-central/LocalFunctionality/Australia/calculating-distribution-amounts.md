@@ -5,14 +5,14 @@ author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 06/25/2019
+ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: a715e99f54bfc89ca5bcc8a0d32b5fc04d429eb5
-ms.sourcegitcommit: 5b6dd8d881c0eb65ece6936a94dfda3185574335
+ms.openlocfilehash: 1b98c7af64b049e37280d12e462b21fa0dd24d00
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "1710926"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2300320"
 ---
 # <a name="calculating-distribution-amounts"></a>Calculating Distribution Amounts
 You can reallocate the amount in one general ledger account to other general ledger accounts so that the balances of your accounts remain proportionate to one another.  
