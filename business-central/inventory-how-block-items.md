@@ -10,49 +10,49 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 8c98e4b893783c795a49e05ab04dc70b03161c6a
-ms.sourcegitcommit: bf5f89dfaf5ad9f8f9902941cf3dac3e9f3553e5
+ms.openlocfilehash: 87cfa1830e461eac2a03a10e917712dba56eaf98
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "1594266"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2308628"
 ---
-# <a name="block-items-from-sales-or-purchasing"></a><span data-ttu-id="2f48e-103">Block Items from Sales or Purchasing</span><span class="sxs-lookup"><span data-stu-id="2f48e-103">Block Items from Sales or Purchasing</span></span>
-<span data-ttu-id="2f48e-104">You can block an item from being entered on sales or purchase lines, and you can block it from being posted in any transaction.</span><span class="sxs-lookup"><span data-stu-id="2f48e-104">You can block an item from being entered on sales or purchase lines, and you can block it from being posted in any transaction.</span></span>  
+# <a name="block-items-from-sales-or-purchasing"></a><span data-ttu-id="ae27a-103">Block Items from Sales or Purchasing</span><span class="sxs-lookup"><span data-stu-id="ae27a-103">Block Items from Sales or Purchasing</span></span>
+<span data-ttu-id="ae27a-104">You can block an item from being entered on sales or purchase lines, and you can block it from being posted in any transaction.</span><span class="sxs-lookup"><span data-stu-id="ae27a-104">You can block an item from being entered on sales or purchase lines, and you can block it from being posted in any transaction.</span></span>  
 
-<span data-ttu-id="2f48e-105">The following table illustrates what occurs when items are blocked.</span><span class="sxs-lookup"><span data-stu-id="2f48e-105">The following table illustrates what occurs when items are blocked.</span></span>  
+<span data-ttu-id="ae27a-105">The following table illustrates what occurs when items are blocked.</span><span class="sxs-lookup"><span data-stu-id="ae27a-105">The following table illustrates what occurs when items are blocked.</span></span>  
 
-|<span data-ttu-id="2f48e-106">Option</span><span class="sxs-lookup"><span data-stu-id="2f48e-106">Option</span></span>|<span data-ttu-id="2f48e-107">Description</span><span class="sxs-lookup"><span data-stu-id="2f48e-107">Description</span></span>|  
+|<span data-ttu-id="ae27a-106">Option</span><span class="sxs-lookup"><span data-stu-id="ae27a-106">Option</span></span>|<span data-ttu-id="ae27a-107">Description</span><span class="sxs-lookup"><span data-stu-id="ae27a-107">Description</span></span>|  
 |--------------------|------------|  
-|<span data-ttu-id="2f48e-108">**Sales Blocked**</span><span class="sxs-lookup"><span data-stu-id="2f48e-108">**Sales Blocked**</span></span>|<span data-ttu-id="2f48e-109">You cannot enter the item in a sales document or in a sales item journal.</span><span class="sxs-lookup"><span data-stu-id="2f48e-109">You cannot enter the item in a sales document or in a sales item journal.</span></span>|  
-|<span data-ttu-id="2f48e-110">**Purchasing Blocked**</span><span class="sxs-lookup"><span data-stu-id="2f48e-110">**Purchasing Blocked**</span></span>|<span data-ttu-id="2f48e-111">You cannot enter the item in a purchase document, in a purchase item journal, or in purchase planning processes.</span><span class="sxs-lookup"><span data-stu-id="2f48e-111">You cannot enter the item in a purchase document, in a purchase item journal, or in purchase planning processes.</span></span>|  
-|<span data-ttu-id="2f48e-112">**Blocked**</span><span class="sxs-lookup"><span data-stu-id="2f48e-112">**Blocked**</span></span>|<span data-ttu-id="2f48e-113">You cannot use the item for any item transaction.</span><span class="sxs-lookup"><span data-stu-id="2f48e-113">You cannot use the item for any item transaction.</span></span>|  
+|<span data-ttu-id="ae27a-108">**Sales Blocked**</span><span class="sxs-lookup"><span data-stu-id="ae27a-108">**Sales Blocked**</span></span>|<span data-ttu-id="ae27a-109">You cannot enter the item in a sales document or in a sales item journal.</span><span class="sxs-lookup"><span data-stu-id="ae27a-109">You cannot enter the item in a sales document or in a sales item journal.</span></span>|  
+|<span data-ttu-id="ae27a-110">**Purchasing Blocked**</span><span class="sxs-lookup"><span data-stu-id="ae27a-110">**Purchasing Blocked**</span></span>|<span data-ttu-id="ae27a-111">You cannot enter the item in a purchase document, in a purchase item journal, or in purchase planning processes.</span><span class="sxs-lookup"><span data-stu-id="ae27a-111">You cannot enter the item in a purchase document, in a purchase item journal, or in purchase planning processes.</span></span>|  
+|<span data-ttu-id="ae27a-112">**Blocked**</span><span class="sxs-lookup"><span data-stu-id="ae27a-112">**Blocked**</span></span>|<span data-ttu-id="ae27a-113">You cannot use the item for any item transaction.</span><span class="sxs-lookup"><span data-stu-id="ae27a-113">You cannot use the item for any item transaction.</span></span>|  
 
 > [!NOTE]
-> <span data-ttu-id="2f48e-114">Blocked items can be returned.</span><span class="sxs-lookup"><span data-stu-id="2f48e-114">Blocked items can be returned.</span></span> <span data-ttu-id="2f48e-115">This means that none of the above settings apply when the item is used on return orders and credit memos.</span><span class="sxs-lookup"><span data-stu-id="2f48e-115">This means that none of the above settings apply when the item is used on return orders and credit memos.</span></span>
+> <span data-ttu-id="ae27a-114">Blocked items can be returned.</span><span class="sxs-lookup"><span data-stu-id="ae27a-114">Blocked items can be returned.</span></span> <span data-ttu-id="ae27a-115">This means that none of the above settings apply when the item is used on return orders and credit memos.</span><span class="sxs-lookup"><span data-stu-id="ae27a-115">This means that none of the above settings apply when the item is used on return orders and credit memos.</span></span>
 
-## <a name="to-block-an-item-from-being-entered-on-sales-lines"></a><span data-ttu-id="2f48e-116">To block an item from being entered on sales lines</span><span class="sxs-lookup"><span data-stu-id="2f48e-116">To block an item from being entered on sales lines</span></span>  
+## <a name="to-block-an-item-from-being-entered-on-sales-lines"></a><span data-ttu-id="ae27a-116">To block an item from being entered on sales lines</span><span class="sxs-lookup"><span data-stu-id="ae27a-116">To block an item from being entered on sales lines</span></span>  
 
-1.  <span data-ttu-id="2f48e-117">Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Items**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="2f48e-117">Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Items**, and then choose the related link.</span></span>  
-2.  <span data-ttu-id="2f48e-118">Select the item that you want to block, and then select the **Sales Blocked** check box.</span><span class="sxs-lookup"><span data-stu-id="2f48e-118">Select the item that you want to block, and then select the **Sales Blocked** check box.</span></span>  
+1.  <span data-ttu-id="ae27a-117">Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Items**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="ae27a-117">Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Items**, and then choose the related link.</span></span>  
+2.  <span data-ttu-id="ae27a-118">Select the item that you want to block, and then select the **Sales Blocked** check box.</span><span class="sxs-lookup"><span data-stu-id="ae27a-118">Select the item that you want to block, and then select the **Sales Blocked** check box.</span></span>  
 
-<span data-ttu-id="2f48e-119">If you try to enter the item on a sales document or journal line, you will now get an error message that the item is blocked.</span><span class="sxs-lookup"><span data-stu-id="2f48e-119">If you try to enter the item on a sales document or journal line, you will now get an error message that the item is blocked.</span></span>
+<span data-ttu-id="ae27a-119">If you try to enter the item on a sales document or journal line, you will now get an error message that the item is blocked.</span><span class="sxs-lookup"><span data-stu-id="ae27a-119">If you try to enter the item on a sales document or journal line, you will now get an error message that the item is blocked.</span></span>
 
-## <a name="to-block-an-item-from-being-entered-on-purchase-lines"></a><span data-ttu-id="2f48e-120">To block an item from being entered on purchase lines</span><span class="sxs-lookup"><span data-stu-id="2f48e-120">To block an item from being entered on purchase lines</span></span>  
+## <a name="to-block-an-item-from-being-entered-on-purchase-lines"></a><span data-ttu-id="ae27a-120">To block an item from being entered on purchase lines</span><span class="sxs-lookup"><span data-stu-id="ae27a-120">To block an item from being entered on purchase lines</span></span>  
 
-1.  <span data-ttu-id="2f48e-121">Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Items**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="2f48e-121">Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Items**, and then choose the related link.</span></span>  
-2.  <span data-ttu-id="2f48e-122">Select the item that you want to block, and then select the **Purchasing Blocked** check box.</span><span class="sxs-lookup"><span data-stu-id="2f48e-122">Select the item that you want to block, and then select the **Purchasing Blocked** check box.</span></span>  
+1.  <span data-ttu-id="ae27a-121">Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Items**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="ae27a-121">Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Items**, and then choose the related link.</span></span>  
+2.  <span data-ttu-id="ae27a-122">Select the item that you want to block, and then select the **Purchasing Blocked** check box.</span><span class="sxs-lookup"><span data-stu-id="ae27a-122">Select the item that you want to block, and then select the **Purchasing Blocked** check box.</span></span>  
 
-<span data-ttu-id="2f48e-123">If you try to enter the item on a purchase document or journal line, you will now get an error message that the item is blocked.</span><span class="sxs-lookup"><span data-stu-id="2f48e-123">If you try to enter the item on a purchase document or journal line, you will now get an error message that the item is blocked.</span></span>
+<span data-ttu-id="ae27a-123">If you try to enter the item on a purchase document or journal line, you will now get an error message that the item is blocked.</span><span class="sxs-lookup"><span data-stu-id="ae27a-123">If you try to enter the item on a purchase document or journal line, you will now get an error message that the item is blocked.</span></span>
 
-## <a name="to-block-an-item-from-being-posted"></a><span data-ttu-id="2f48e-124">To block an item from being posted</span><span class="sxs-lookup"><span data-stu-id="2f48e-124">To block an item from being posted</span></span>
-1. <span data-ttu-id="2f48e-125">Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Items**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="2f48e-125">Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Items**, and then choose the related link.</span></span>
-2. <span data-ttu-id="2f48e-126">Select the item that you want to block, and then select the **Blocked** check box.</span><span class="sxs-lookup"><span data-stu-id="2f48e-126">Select the item that you want to block, and then select the **Blocked** check box.</span></span>
+## <a name="to-block-an-item-from-being-posted"></a><span data-ttu-id="ae27a-124">To block an item from being posted</span><span class="sxs-lookup"><span data-stu-id="ae27a-124">To block an item from being posted</span></span>
+1. <span data-ttu-id="ae27a-125">Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Items**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="ae27a-125">Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Items**, and then choose the related link.</span></span>
+2. <span data-ttu-id="ae27a-126">Select the item that you want to block, and then select the **Blocked** check box.</span><span class="sxs-lookup"><span data-stu-id="ae27a-126">Select the item that you want to block, and then select the **Blocked** check box.</span></span>
 
-<span data-ttu-id="2f48e-127">If you try to post any type of transaction for the item, you will now get an error message that the item is blocked.</span><span class="sxs-lookup"><span data-stu-id="2f48e-127">If you try to post any type of transaction for the item, you will now get an error message that the item is blocked.</span></span>
+<span data-ttu-id="ae27a-127">If you try to post any type of transaction for the item, you will now get an error message that the item is blocked.</span><span class="sxs-lookup"><span data-stu-id="ae27a-127">If you try to post any type of transaction for the item, you will now get an error message that the item is blocked.</span></span>
 
-## <a name="see-also"></a><span data-ttu-id="2f48e-128">See Also</span><span class="sxs-lookup"><span data-stu-id="2f48e-128">See Also</span></span>  
-[<span data-ttu-id="2f48e-129">Register New Items</span><span class="sxs-lookup"><span data-stu-id="2f48e-129">Register New Items</span></span>](inventory-how-register-new-items.md)  
-[<span data-ttu-id="2f48e-130">Inventory</span><span class="sxs-lookup"><span data-stu-id="2f48e-130">Inventory</span></span>](inventory-manage-inventory.md)  
+## <a name="see-also"></a><span data-ttu-id="ae27a-128">See Also</span><span class="sxs-lookup"><span data-stu-id="ae27a-128">See Also</span></span>  
+[<span data-ttu-id="ae27a-129">Register New Items</span><span class="sxs-lookup"><span data-stu-id="ae27a-129">Register New Items</span></span>](inventory-how-register-new-items.md)  
+[<span data-ttu-id="ae27a-130">Inventory</span><span class="sxs-lookup"><span data-stu-id="ae27a-130">Inventory</span></span>](inventory-manage-inventory.md)  
