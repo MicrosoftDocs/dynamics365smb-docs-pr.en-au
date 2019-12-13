@@ -1,8 +1,6 @@
 ---
 title: How to Print Balance Sheet Reports
 description: You can use the Balance Sheet report to view the company’s balance sheet.
-services: project-madeira
-documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 6e4d75c8188c9e3aacdb17c8e3b71e4448ed9a2b
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: d5d67699bf8db93cdbdac959d3133d41b4bf5625
+ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2300311"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "2878739"
 ---
 # <a name="print-balance-sheet-reports"></a>Print Balance Sheet Reports
 You can use the **Balance Sheet** report to view the company’s balance sheet.  

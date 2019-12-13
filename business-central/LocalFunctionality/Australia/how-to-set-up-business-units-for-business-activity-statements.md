@@ -1,8 +1,6 @@
 ---
 title: How to Set Up Business Units for Business Activity Statements
 description: Describes how to consolidate the financial statements of various companies into one financial statement.
-services: project-madeira
-documentationcenter: ''
 author: bholtorf
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.author: bholtorf
-ms.openlocfilehash: b5727a013156edf6c2a8d60a6cfc773d4af3e632
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 941aa60d4cb21ef348e4cae0e9fc17f68d979539
+ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2300305"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "2878738"
 ---
 # <a name="set-up-business-units-for-business-activity-statements"></a>Set Up Business Units for Business Activity Statements
 In [!INCLUDE[d365fin](../../includes/d365fin_md.md)], you can consolidate the financial statements of various companies into one financial statement.  
