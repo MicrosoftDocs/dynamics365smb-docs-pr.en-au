@@ -10,17 +10,17 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.author: bholtorf
-ms.openlocfilehash: fd517101454aa7e70332bc1284770517e8d2d882
-ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
+ms.openlocfilehash: 0e3af434d34b1c9dd243f3a7cb7a37f84523eacb
+ms.sourcegitcommit: d0dc5e5c46b932899e2a9c7183959d0ff37738d6
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "2878731"
+ms.lasthandoff: 02/20/2020
+ms.locfileid: "3076402"
 ---
 # <a name="electronic-funds-transfer-eft"></a>Electronic Funds Transfer (EFT)
 You can pay vendors using the electronic funds transfer (EFT) system in Australia.  
 
-## <a name="setting-up-electronic-funds-transfer-in-included365finincludesd365fin_mdmd"></a>Setting up Electronic Funds Transfer in [!INCLUDE[d365fin](../../includes/d365fin_md.md)]  
+## <a name="setting-up-electronic-funds-transfer-in-d365fin"></a>Setting up Electronic Funds Transfer in [!INCLUDE[d365fin](../../includes/d365fin_md.md)]  
 [!INCLUDE[d365fin](../../includes/d365fin_md.md)] can export EFT files that you can then upload to your bank’s website for additional processing. To submit EFT files, you must set up the following information:  
 
 * You must add EFT information to the bank account or bank accounts that you will use to pay vendors electronically. The EFT-specific fields are on the **Bank Account** page.  
@@ -32,5 +32,5 @@ When you have set up bank accounts and vendors, you can create EFT files that ar
 > Electronic Funds Transfer (EFT) uses posted and nonposted payments as the basis to calculate withholding tax amounts for applied invoices. Payments that are not applied to an invoice can only be exported to an EFT file if the **Skip WHT** check box is selected. During export of the EFT file, the payment journal lines are not deleted and cannot be deleted as long as they have a reference to an EFT register. To remove the link between the EFT register and payment journal lines, choose the **Cancel Export** action either on the **EFT Register** page or the **Payment Journal** page.       
 
 ## <a name="see-also"></a>See Also  
-[Export Payments to a Bank File](../../payables-how-export-payments-bank-file.md)  
+[Export Payments to a Bank File](../../finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer.md#exporting-payments-to-a-bank-file)  
 [Australia Local Functionality](australia-local-functionality.md)
