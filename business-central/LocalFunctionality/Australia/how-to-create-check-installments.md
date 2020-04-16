@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.author: bholtorf
-ms.openlocfilehash: 323180a1f5c0c848f219206f61bbadc2ea37a94a
-ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
+ms.openlocfilehash: eb63638fae326a07ab4135302c18599d4e5809c8
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "2878742"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3180796"
 ---
 # <a name="create-check-installments"></a>Create Cheque Instalments
 You can create cheque instalments for postdated cheques. You can define the number of instalments that a payment will be divided into, the percent of interest, and the period in which the cheques will be created.  

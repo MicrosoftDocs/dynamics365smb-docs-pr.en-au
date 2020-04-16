@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.author: bholtorf
-ms.openlocfilehash: 0e3af434d34b1c9dd243f3a7cb7a37f84523eacb
-ms.sourcegitcommit: d0dc5e5c46b932899e2a9c7183959d0ff37738d6
+ms.openlocfilehash: b72358cfca8221024df6c07dc1481c0d4d24a96f
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "3076402"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3180803"
 ---
 # <a name="electronic-funds-transfer-eft"></a>Electronic Funds Transfer (EFT)
 You can pay vendors using the electronic funds transfer (EFT) system in Australia.  

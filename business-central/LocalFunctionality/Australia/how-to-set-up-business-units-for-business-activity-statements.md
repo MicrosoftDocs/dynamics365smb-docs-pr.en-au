@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.author: bholtorf
-ms.openlocfilehash: 941aa60d4cb21ef348e4cae0e9fc17f68d979539
-ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
+ms.openlocfilehash: 37977617ac6a684297930c37b428d4a974923732
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "2878738"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3180790"
 ---
 # <a name="set-up-business-units-for-business-activity-statements"></a>Set Up Business Units for Business Activity Statements
 In [!INCLUDE[d365fin](../../includes/d365fin_md.md)], you can consolidate the financial statements of various companies into one financial statement.  

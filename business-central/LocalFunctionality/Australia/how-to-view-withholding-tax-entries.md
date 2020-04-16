@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: eec2ea03bfa02b34a2d0b17b81d12f3194c035b4
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 9a1c2d0a57b4c2719ab457c4d5d2f98d55a12686
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2300298"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3180782"
 ---
 # <a name="view-withholding-tax-entries"></a>View Withholding Tax Entries
 You can view entries that have been posted with withholding tax (WHT) for a specified general ledger register.  

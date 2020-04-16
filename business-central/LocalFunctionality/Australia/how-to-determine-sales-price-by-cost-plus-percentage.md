@@ -11,14 +11,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: ebc0c193035ac145bde0655d9579ca4c804249be
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: e9f1953f5baee888ea55d2f356d5d498ae619491
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2300314"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3180794"
 ---
 # <a name="determine-sales-price-by-cost-plus-percentage"></a>Determine Sales Price by Cost Plus Percentage
 Use the cost plus percentage function to set a sales price based on the cost of an item. The cost of the item can be calculated along with cost plus calculation. The discount will be based on this calculation. This functionality eliminates the need for the use of spreadsheets in determining percentage discounts as they correspond to cost plus percentage.  

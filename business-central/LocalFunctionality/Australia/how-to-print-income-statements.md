@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: 83eecc6394dad3be8887d10029f018a4e6449506
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 06c4f352cddf9942c4bc8e2b36cd5d731e17e442
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2300306"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3180786"
 ---
 # <a name="print-income-statements"></a>Print Income Statements
 You can use the **Income Statement** report to view the company’s annual income statement.  
