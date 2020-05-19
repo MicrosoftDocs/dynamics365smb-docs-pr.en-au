@@ -1,53 +1,66 @@
 ---
 title: How to Set Up Withholding Tax
 description: Withholding tax (WHT) is the tax withheld by a company when it makes a payment to a vendor, in which the full amount owed to the vendor is reduced by the tax withheld. The withheld tax is then remitted to the Australian Taxation Office (ATO) when the next Business Activity Statement (BAS) is submitted.
-services: project-madeira
-documentationcenter: ''
-author: SorenGP
+author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: 6b7dd8811c2d244399121824f884a0327b58609d
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.date: 05/12/2020
+ms.author: edupont
+ms.openlocfilehash: bd0659322b855815737eeec6113f29cf81d0e6cf
+ms.sourcegitcommit: b9264b4ed650feca18776892ec23f2aa7ec43e20
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3180789"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "3372562"
 ---
 # <a name="set-up-withholding-tax"></a>Set Up Withholding Tax
+
 Withholding tax (WHT) is the tax withheld by a company when it makes a payment to a vendor, in which the full amount owed to the vendor is reduced by the tax withheld. The withheld tax is then remitted to the Australian Taxation Office (ATO) when the next Business Activity Statement (BAS) is submitted.  
 
-If a supplier without an Australian Business Number (ABN) provides an invoice, a withholding tax amount must be withheld if the total amount of the invoice is more than the threshold amount.  
+If a supplier without an Australian Business Number (ABN) provides an invoice, a withholding tax amount must be withheld if the total amount of the invoice is more than the threshold amount. To use withholding tax, you must first enable WHT in the **General Ledger Setup** page and set up product posting groups and business posting groups for WHT.  
+
+## <a name="to-enable-withholding-tax"></a>To enable withholding tax
+
+1. Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **General Ledger Setup**, and then choose the related link.  
+
+2. On the **Local Functionalities** FastTab, choose the **Enable WHT** field.  
+
+3. Optionally, choose the **Round Amount for WHT Calc** field.
+
+    If you choose this field, all WHT amounts will be rounded down to the nearest number. For example, if the WHT amount on an invoice is calculated to be 33.90, and the **Round Amount for WHT Calc** field is chosen in the General Ledger Setup, then the WHT amount will round to 33.
+
+## <a name="set-up-wht-posting-groups"></a>Set up WHT posting groups
 
 To use withholding tax, you must set up the business posting groups and product posting groups for withholding tax so that the correct WHT calculations are made for each vendor.  
 
 > [!NOTE]  
->  As a prerequisite, you need to set up source codes for WHT settlement on the **Source Code Setup** page.  
+> As a prerequisite, you must have set up source codes for WHT settlement on the **Source Code Setup** page. For more information, see [Setting Up Source Codes and Reason Codes for Audit Trails](../../finance-setup-trail-codes.md).  
 
 The following procedure describes how to set up product posting groups for WHT, but the same steps also apply to setting up business posting groups for WHT.  
 
-## <a name="to-set-up-a-product-posting-group-for-withholding-tax"></a>To set up a product posting group for withholding tax  
+### <a name="to-set-up-a-product-posting-group-for-withholding-tax"></a>To set up a product posting group for withholding tax  
 
-1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **WHT Product Posting Group**, and then choose the related link.  
-2.  Fill in the fields as described in the following table.  
+1. Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **WHT Product Posting Group**, and then choose the related link.  
+2. Fill in the fields as described in the following table.  
 
     |Field|Description|  
     |---------------------------------|---------------------------------------|  
     |**Code**|Specify the code for the product posting group. You can enter a maximum of 10 alphanumeric characters.|  
     |**Description**|Specify the description for the product posting group. You can enter a maximum of 50 alphanumeric characters.|  
 
-3.  Choose the **OK** button.  
+3. Choose the **OK** button.  
 
-## <a name="to-set-up-posting-for-withholding-tax"></a>To set up posting for withholding tax  
+Finally, you must set up how these posting groups must be used when documents are posted.  
 
-1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **WHT Posting Setup**, and then choose the related link.  
+### <a name="to-set-up-posting-for-withholding-tax"></a>To set up posting for withholding tax  
 
-2.  Fill in the fields as described in the following table.  
+1. Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **WHT Posting Setup**, and then choose the related link.  
+
+2. Fill in the fields as described in the following table.  
 
     |Field|Description|  
     |---------------------------------|---------------------------------------|  
@@ -70,11 +83,12 @@ The following procedure describes how to set up product posting groups for WHT, 
     |**Sales WHT Adj. Account No.**|Specifies the account number on which to post sales CR/Adj Note adjustments.|  
     |**Sequence**|Specifies the sequence in which the withholding tax posting setup information must be displayed in reports.|  
 
-3.  Choose the **OK** button.  
+3. Choose the **OK** button.  
 
-## <a name="see-also"></a>See Also  
- [Set Up Revenue Types for Withholding Tax](how-to-set-up-revenue-types-for-withholding-tax.md)   
- [View Withholding Tax Entries](how-to-view-withholding-tax-entries.md)   
- [Calculate and Post Withholding Tax Settlements](how-to-calculate-and-post-withholding-tax-settlements.md)   
- [Withholding Tax](withholding-tax.md)   
- [Australian Taxation Office (ATO)](https://www.ato.gov.au/)
+## <a name="see-also"></a>See Also
+
+[Set Up Revenue Types for Withholding Tax](how-to-set-up-revenue-types-for-withholding-tax.md)  
+[View Withholding Tax Entries](how-to-view-withholding-tax-entries.md)  
+[Calculate and Post Withholding Tax Settlements](how-to-calculate-and-post-withholding-tax-settlements.md)  
+[Withholding Tax](withholding-tax.md)  
+[Australian Taxation Office (ATO)](https://www.ato.gov.au/)  
