@@ -11,27 +11,28 @@ ms.workload: na
 ms.search.keywords: rfq
 ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: 4dfb4a530ebcbfd9bcede5e6280fa33360b952a6
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: 41584b676db045bdf7317ced9b519f0784b41453
+ms.sourcegitcommit: 8a4e66f7fc8f9ef8bdf34595e0d3983df4749376
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3192635"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "3262102"
 ---
-# <a name="track-packages"></a><span data-ttu-id="45824-103">Track Packages</span><span class="sxs-lookup"><span data-stu-id="45824-103">Track Packages</span></span>
-<span data-ttu-id="45824-104">A number of shipping agents provide services on the Internet that allow you to track parcels you have handed over to the agent.</span><span class="sxs-lookup"><span data-stu-id="45824-104">A number of shipping agents provide services on the Internet that allow you to track parcels you have handed over to the agent.</span></span> <span data-ttu-id="45824-105">If you use one or more of these shipping agents, you can set up certain basic information and use the automatic tracking feature from posted shipments.</span><span class="sxs-lookup"><span data-stu-id="45824-105">If you use one or more of these shipping agents, you can set up certain basic information and use the automatic tracking feature from posted shipments.</span></span> <span data-ttu-id="45824-106">For more information, see [Set Up Shipping Agents](sales-how-to-set-up-shipping-agents.md).</span><span class="sxs-lookup"><span data-stu-id="45824-106">For more information, see [Set Up Shipping Agents](sales-how-to-set-up-shipping-agents.md).</span></span>  
+# <a name="track-packages"></a><span data-ttu-id="9cdb0-103">Track Packages</span><span class="sxs-lookup"><span data-stu-id="9cdb0-103">Track Packages</span></span>
+<span data-ttu-id="9cdb0-104">A number of shipping agents provide services on the Internet that allow you to track parcels you have handed over to the agent.</span><span class="sxs-lookup"><span data-stu-id="9cdb0-104">A number of shipping agents provide services on the Internet that allow you to track parcels you have handed over to the agent.</span></span> <span data-ttu-id="9cdb0-105">If you use one or more of these shipping agents, you can set up certain basic information and use the automatic tracking feature from posted shipments.</span><span class="sxs-lookup"><span data-stu-id="9cdb0-105">If you use one or more of these shipping agents, you can set up certain basic information and use the automatic tracking feature from posted shipments.</span></span> <span data-ttu-id="9cdb0-106">For more information, see [Set Up Shipping Agents](sales-how-to-set-up-shipping-agents.md).</span><span class="sxs-lookup"><span data-stu-id="9cdb0-106">For more information, see [Set Up Shipping Agents](sales-how-to-set-up-shipping-agents.md).</span></span>  
 
-## <a name="to-track-a-package"></a><span data-ttu-id="45824-107">To track a package</span><span class="sxs-lookup"><span data-stu-id="45824-107">To track a package</span></span>
-1. <span data-ttu-id="45824-108">Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Posted Sales Shipment**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="45824-108">Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Posted Sales Shipment**, and then choose the related link.</span></span>
-2. <span data-ttu-id="45824-109">Open the relevant shipment.</span><span class="sxs-lookup"><span data-stu-id="45824-109">Open the relevant shipment.</span></span>
-3. <span data-ttu-id="45824-110">In the **Package Tracking No.**</span><span class="sxs-lookup"><span data-stu-id="45824-110">In the **Package Tracking No.**</span></span> <span data-ttu-id="45824-111">field, enter the package number you have received from the shipping agent.</span><span class="sxs-lookup"><span data-stu-id="45824-111">field, enter the package number you have received from the shipping agent.</span></span>
-4. <span data-ttu-id="45824-112">Choose the **Track Package** action.</span><span class="sxs-lookup"><span data-stu-id="45824-112">Choose the **Track Package** action.</span></span>
+## <a name="to-track-a-package"></a><span data-ttu-id="9cdb0-107">To track a package</span><span class="sxs-lookup"><span data-stu-id="9cdb0-107">To track a package</span></span>
+1. <span data-ttu-id="9cdb0-108">Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Posted Sales Shipment**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="9cdb0-108">Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Posted Sales Shipment**, and then choose the related link.</span></span>
+2. <span data-ttu-id="9cdb0-109">Open the relevant shipment.</span><span class="sxs-lookup"><span data-stu-id="9cdb0-109">Open the relevant shipment.</span></span>
+3. <span data-ttu-id="9cdb0-110">Choose the **Update Document** action.</span><span class="sxs-lookup"><span data-stu-id="9cdb0-110">Choose the **Update Document** action.</span></span>
+4. <span data-ttu-id="9cdb0-111">In the **Package Tracking No.**</span><span class="sxs-lookup"><span data-stu-id="9cdb0-111">In the **Package Tracking No.**</span></span> <span data-ttu-id="9cdb0-112">field, enter the package number you have received from the shipping agent.</span><span class="sxs-lookup"><span data-stu-id="9cdb0-112">field, enter the package number you have received from the shipping agent.</span></span> <span data-ttu-id="9cdb0-113">Update **Shipping Agent** if needed and close the page.</span><span class="sxs-lookup"><span data-stu-id="9cdb0-113">Update **Shipping Agent** if needed and close the page.</span></span>
+5. <span data-ttu-id="9cdb0-114">Choose the **Track Package** action.</span><span class="sxs-lookup"><span data-stu-id="9cdb0-114">Choose the **Track Package** action.</span></span>
 
-<span data-ttu-id="45824-113">Your default browser opens the shipping agent's tracking page.</span><span class="sxs-lookup"><span data-stu-id="45824-113">Your default browser opens the shipping agent's tracking page.</span></span>
+<span data-ttu-id="9cdb0-115">Your default browser opens the shipping agent's tracking page.</span><span class="sxs-lookup"><span data-stu-id="9cdb0-115">Your default browser opens the shipping agent's tracking page.</span></span>
 
-## <a name="see-also"></a><span data-ttu-id="45824-114">See Also</span><span class="sxs-lookup"><span data-stu-id="45824-114">See Also</span></span>
-[<span data-ttu-id="45824-115">Set Up Shipping Agents</span><span class="sxs-lookup"><span data-stu-id="45824-115">Set Up Shipping Agents</span></span>](sales-how-to-set-up-shipping-agents.md)  
-[<span data-ttu-id="45824-116">Sales</span><span class="sxs-lookup"><span data-stu-id="45824-116">Sales</span></span>](sales-manage-sales.md)  
-[<span data-ttu-id="45824-117">Setting Up Sales</span><span class="sxs-lookup"><span data-stu-id="45824-117">Setting Up Sales</span></span>](sales-setup-sales.md)  
-[<span data-ttu-id="45824-118">Send Documents by Email</span><span class="sxs-lookup"><span data-stu-id="45824-118">Send Documents by Email</span></span>](ui-how-send-documents-email.md)  
-<span data-ttu-id="45824-119">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="45824-119">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>
+## <a name="see-also"></a><span data-ttu-id="9cdb0-116">See Also</span><span class="sxs-lookup"><span data-stu-id="9cdb0-116">See Also</span></span>
+[<span data-ttu-id="9cdb0-117">Set Up Shipping Agents</span><span class="sxs-lookup"><span data-stu-id="9cdb0-117">Set Up Shipping Agents</span></span>](sales-how-to-set-up-shipping-agents.md)  
+[<span data-ttu-id="9cdb0-118">Sales</span><span class="sxs-lookup"><span data-stu-id="9cdb0-118">Sales</span></span>](sales-manage-sales.md)  
+[<span data-ttu-id="9cdb0-119">Setting Up Sales</span><span class="sxs-lookup"><span data-stu-id="9cdb0-119">Setting Up Sales</span></span>](sales-setup-sales.md)  
+[<span data-ttu-id="9cdb0-120">Send Documents by Email</span><span class="sxs-lookup"><span data-stu-id="9cdb0-120">Send Documents by Email</span></span>](ui-how-send-documents-email.md)  
+<span data-ttu-id="9cdb0-121">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="9cdb0-121">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>
