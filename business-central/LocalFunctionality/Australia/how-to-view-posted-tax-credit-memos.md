@@ -7,12 +7,12 @@ ms.topic: article
 ms.search.keywords: ''
 ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: 63e81de3741f427eaff580c52a3d16f68638fa78
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: 4d041f61a8f6711794b9602aa8486501ba2fa951
+ms.sourcegitcommit: 007b331b6974983ee614db0406f00777da359ecb
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3180784"
+ms.lasthandoff: 08/10/2020
+ms.locfileid: "3676607"
 ---
 # <a name="view-posted-tax-credit-memos"></a>View Posted Tax CR/Adj Notes
 You can use the **Posted Sales Tax CR/Adj Note** page and **Posted Purch. Tax CR/Adj Note** page to view details of sales tax CR/Adj Notes and purchase tax CR/Adj Notes that have been posted.  
@@ -21,7 +21,7 @@ The following procedure describes how to view posted sales tax CR/Adj Notes, but
 
 ## <a name="to-view-a-posted-sales-tax-credit-memo"></a>To view a posted sales tax CR/Adj Note  
 
-1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Posted GST CR/Adj Note**, and then choose the related link.  
+1.  Choose the ![Lightbulb that opens the Tell Me feature](../../media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Posted GST CR/Adj Note**, and then choose the related link.  
 2.  View the FastTabs as described in the following table.  
 
     |FastTab|Description|  

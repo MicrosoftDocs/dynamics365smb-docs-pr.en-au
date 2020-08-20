@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: c4201552aabce12dc4f0a0e669cee78f60f802be
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: 2b47a63053f3a32e21274015f06500c898ed850f
+ms.sourcegitcommit: 007b331b6974983ee614db0406f00777da359ecb
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3180785"
+ms.lasthandoff: 08/10/2020
+ms.locfileid: "3676609"
 ---
 # <a name="set-up-goods-and-services-tax-posting"></a>Set Up Goods and Services Tax Posting
 Goods and services tax (GST) is the tax that is applied on most goods and services. The GST that is paid and received during a period is reported in the Business Activity Statement (BAS) that has to be submitted to the Australian Taxation Office (ATO).  
@@ -27,7 +27,7 @@ To set up posting details for GST, you must define the posting groups, rate of G
 You must set up GST posting before you generate the BAS report.  
 
 ## <a name="to-set-up-goods-and-sales-tax-posting"></a>To set up goods and sales tax posting  
-1. Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **GST Posting Setup**, and then choose the related link.  
+1. Choose the ![Lightbulb that opens the Tell Me feature](../../media/ui-search/search_small.png "Tell me what you want to do") icon, enter **GST Posting Setup**, and then choose the related link.  
 2. Fill in the fields as described in the following table.  
 
     |Field|Description|  

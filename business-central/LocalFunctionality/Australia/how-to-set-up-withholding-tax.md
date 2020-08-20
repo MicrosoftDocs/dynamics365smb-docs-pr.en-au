@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 05/12/2020
 ms.author: edupont
-ms.openlocfilehash: bd0659322b855815737eeec6113f29cf81d0e6cf
-ms.sourcegitcommit: b9264b4ed650feca18776892ec23f2aa7ec43e20
+ms.openlocfilehash: 36899d81da53d6c119f1f2decf646d34139aa466
+ms.sourcegitcommit: 007b331b6974983ee614db0406f00777da359ecb
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "3372562"
+ms.lasthandoff: 08/10/2020
+ms.locfileid: "3676808"
 ---
 # <a name="set-up-withholding-tax"></a>Set Up Withholding Tax
 
@@ -25,7 +25,7 @@ If a supplier without an Australian Business Number (ABN) provides an invoice, a
 
 ## <a name="to-enable-withholding-tax"></a>To enable withholding tax
 
-1. Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **General Ledger Setup**, and then choose the related link.  
+1. Choose the ![Lightbulb that opens the Tell Me feature](../../media/ui-search/search_small.png "Tell me what you want to do") icon, enter **General Ledger Setup**, and then choose the related link.  
 
 2. On the **Local Functionalities** FastTab, choose the **Enable WHT** field.  
 
@@ -44,7 +44,7 @@ The following procedure describes how to set up product posting groups for WHT, 
 
 ### <a name="to-set-up-a-product-posting-group-for-withholding-tax"></a>To set up a product posting group for withholding tax  
 
-1. Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **WHT Product Posting Group**, and then choose the related link.  
+1. Choose the ![Lightbulb that opens the Tell Me feature](../../media/ui-search/search_small.png "Tell me what you want to do") icon, enter **WHT Product Posting Group**, and then choose the related link.  
 2. Fill in the fields as described in the following table.  
 
     |Field|Description|  
@@ -58,7 +58,7 @@ Finally, you must set up how these posting groups must be used when documents ar
 
 ### <a name="to-set-up-posting-for-withholding-tax"></a>To set up posting for withholding tax  
 
-1. Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **WHT Posting Setup**, and then choose the related link.  
+1. Choose the ![Lightbulb that opens the Tell Me feature](../../media/ui-search/search_small.png "Tell me what you want to do") icon, enter **WHT Posting Setup**, and then choose the related link.  
 
 2. Fill in the fields as described in the following table.  
 

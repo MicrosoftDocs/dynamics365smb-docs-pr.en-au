@@ -7,12 +7,12 @@ ms.topic: article
 ms.search.keywords: ''
 ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: e4a51b4f1f471e5bb3c318b55903ec23c1cb2e90
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: 959cc3ec051e88e812cfc70eb82aa08b76d4f206
+ms.sourcegitcommit: 007b331b6974983ee614db0406f00777da359ecb
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3180800"
+ms.lasthandoff: 08/10/2020
+ms.locfileid: "3676911"
 ---
 # <a name="calculate-and-post-withholding-tax-settlements"></a>Calculate and Post Withholding Tax Settlements
 You can use the **Calc. and Post WHT Settlement** page to calculate and post the withholding tax (WHT).  
@@ -26,7 +26,7 @@ The sum of all withheld amounts is reported as a truncated whole number to the A
 
 ## <a name="to-calculate-and-post-withholding-tax-settlements"></a>To calculate and post withholding tax settlements  
 
-1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Calc. and Post WHT Settlement**, and then choose the related link.  
+1.  Choose the ![Lightbulb that opens the Tell Me feature](../../media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Calc. and Post WHT Settlement**, and then choose the related link.  
 2.  Fill in the fields as described in the following table.  
 
     |Field|Description|  

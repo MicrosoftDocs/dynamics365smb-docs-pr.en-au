@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: 06c4f352cddf9942c4bc8e2b36cd5d731e17e442
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: daee1643fdc02de13944bed0659f8641e2bee852
+ms.sourcegitcommit: 007b331b6974983ee614db0406f00777da359ecb
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3180786"
+ms.lasthandoff: 08/10/2020
+ms.locfileid: "3676614"
 ---
 # <a name="print-income-statements"></a>Print Income Statements
 You can use the **Income Statement** report to view the company’s annual income statement.  
@@ -25,7 +25,7 @@ You can use the **Income Statement** report to view the company’s annual incom
 This is a legal report that is required for auditing accounts. This report displays the details of revenues and expenses for the current year and the previous year.  
 
 ## <a name="to-print-the-income-statement-report"></a>To print the income statement report  
-1. Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Income Statement**, and then choose the relevant link.  
+1. Choose the ![Lightbulb that opens the Tell Me feature](../../media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Income Statement**, and then choose the relevant link.  
 2. On the **Income Statement** page, fill in the fields as described in the following table.  
 
     |Field|Description|  
