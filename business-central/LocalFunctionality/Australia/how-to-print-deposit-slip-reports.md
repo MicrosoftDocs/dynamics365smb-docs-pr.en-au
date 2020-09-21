@@ -9,13 +9,13 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: 6a22c7721af206dd4a294a38f9d5b8c7ac8eddcd
-ms.sourcegitcommit: 007b331b6974983ee614db0406f00777da359ecb
+ms.author: edupont
+ms.openlocfilehash: db2a36155de2be5a0cfbbe7d5813170b5cddb5d2
+ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 08/10/2020
-ms.locfileid: "3676546"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "3778734"
 ---
 # <a name="print-deposit-slip-reports"></a>Print Deposit Slip Reports
 The **Deposit Slip** report displays cash and cheque details in a format required by the bank.  

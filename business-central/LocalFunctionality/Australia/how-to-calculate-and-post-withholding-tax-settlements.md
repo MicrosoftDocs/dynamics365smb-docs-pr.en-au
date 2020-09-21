@@ -6,13 +6,13 @@ ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
 ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: 959cc3ec051e88e812cfc70eb82aa08b76d4f206
-ms.sourcegitcommit: 007b331b6974983ee614db0406f00777da359ecb
+ms.author: edupont
+ms.openlocfilehash: 76238c5e50966c5b075209947602181e52489cf5
+ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 08/10/2020
-ms.locfileid: "3676911"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "3778752"
 ---
 # <a name="calculate-and-post-withholding-tax-settlements"></a>Calculate and Post Withholding Tax Settlements
 You can use the **Calc. and Post WHT Settlement** page to calculate and post the withholding tax (WHT).  

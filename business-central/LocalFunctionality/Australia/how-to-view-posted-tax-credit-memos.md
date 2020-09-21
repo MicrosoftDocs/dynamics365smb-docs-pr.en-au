@@ -6,13 +6,13 @@ ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
 ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: 4d041f61a8f6711794b9602aa8486501ba2fa951
-ms.sourcegitcommit: 007b331b6974983ee614db0406f00777da359ecb
+ms.author: edupont
+ms.openlocfilehash: 4578638adb559676a78e9c2b25c6b7b746e1109e
+ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 08/10/2020
-ms.locfileid: "3676607"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "3778729"
 ---
 # <a name="view-posted-tax-credit-memos"></a>View Posted Tax CR/Adj Notes
 You can use the **Posted Sales Tax CR/Adj Note** page and **Posted Purch. Tax CR/Adj Note** page to view details of sales tax CR/Adj Notes and purchase tax CR/Adj Notes that have been posted.  

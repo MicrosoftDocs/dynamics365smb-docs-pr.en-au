@@ -10,13 +10,13 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
 ms.date: 07/23/2020
-ms.author: sgroespe
-ms.openlocfilehash: fab1fbee8476a80f2fde33dd7e165273d9693f67
-ms.sourcegitcommit: 7b5c927ea9a59329daf1b60633b8290b552d6531
+ms.author: edupont
+ms.openlocfilehash: 9e3517ec53e6c5e8acfa5adb780c89db4a3cdd24
+ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "3617756"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "3778756"
 ---
 # <a name="addresses-in-the-australian-version"></a>Addresses in the Australian Version
 
