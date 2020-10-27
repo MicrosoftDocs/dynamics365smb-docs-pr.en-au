@@ -1,28 +1,29 @@
 ---
-title: How to View Posted Tax Invoices
+title: View Posted Tax Invoices in the Australian version
 description: In the Australian version of Business Central, you can use the Posted Sales Tax Invoice page and the Posted Purchase Tax Invoice page to view the details of posted sales tax invoices and posted purchase tax invoices.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 6b72c50d55e1fbdc2f6bdf049342c79c1bbd93fc
-ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
+ms.openlocfilehash: 3d7fa07864cc369e0fffde1fc63a12ed051c79d0
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "3778736"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3914662"
 ---
-# <a name="view-posted-tax-invoices"></a>View Posted Tax Invoices
+# <a name="view-posted-tax-invoices-in-the-australian-version"></a>View Posted Tax Invoices in the Australian Version
+
 In [!INCLUDE[d365fin](../../includes/d365fin_md.md)], you can use the **Posted Sales Tax Invoice** page and the **Posted Purchase Tax Invoice** page to view the details of posted sales tax invoices and posted purchase tax invoices.  
 
 The following procedure describes how to view the posted sales tax invoice, but the same steps also apply to viewing posted purchase tax invoices.  
 
 ## <a name="to-view-a-posted-sales-tax-invoice"></a>To view a posted sales tax invoice  
 
-1.  Choose the ![Lightbulb that opens the Tell Me feature](../../media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Posted GST Invoice**, and then choose the related link.  
+1.  Choose the ![Lightbulb that opens the Tell Me feature](../../media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Posted GST Invoice** , and then choose the related link.  
 2.  View the FastTabs as described in the following table.  
 
     |FastTab|Description|  
