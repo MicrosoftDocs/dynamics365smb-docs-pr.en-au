@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 06/09/2020
+ms.date: 10/01/2020
 ms.author: soalex
-ms.openlocfilehash: d15a6d404cb008480bc7ec582d764553727c1851
-ms.sourcegitcommit: 0b5f8f68b1c9526288bfcce1a3bdc988d2910040
+ms.openlocfilehash: e79cfeed31a580a60e4581f261e1624ded5b7631
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "3454319"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3918204"
 ---
 # <a name="australia-local-functionality"></a>Australia Local Functionality
 The following topics describe local functionality that is unique to the Australian version of [!INCLUDE[d365fin](../../includes/d365fin_md.md)].  

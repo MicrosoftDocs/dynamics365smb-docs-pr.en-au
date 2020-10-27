@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 07/15/2020
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 826a46f228f811474982d169667295a5b32c11c8
-ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
+ms.openlocfilehash: 7239e51867a4e6003c5205dc5361e0f32e65e40e
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "3778742"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3918186"
 ---
 # <a name="enter-australian-business-numbers"></a>Enter Australian Business Numbers
 
@@ -31,7 +31,7 @@ An algorithm provided by the local tax office ensures that the number is in a va
 
 ## <a name="to-enter-australian-business-numbers"></a>To enter Australian business numbers  
 
-1. Choose the ![Lightbulb that opens the Tell Me feature](../../media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Company Information** or **Vendors**, and then choose the related link.  
+1. Choose the ![Lightbulb that opens the Tell Me feature](../../media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Company Information** or **Vendors** , and then choose the related link.  
 2. Select the required company or vendor.  
 3. Expand the **Registration** FastTab.  
 4. In the **ABN** field, enter the ABN.  

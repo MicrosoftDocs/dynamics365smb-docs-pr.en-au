@@ -9,14 +9,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 07/23/2020
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 9e3517ec53e6c5e8acfa5adb780c89db4a3cdd24
-ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
+ms.openlocfilehash: a993582f8ec0e8ac0c2491e4c77ddf210f5e042c
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "3778756"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3918206"
 ---
 # <a name="addresses-in-the-australian-version"></a>Addresses in the Australian Version
 
