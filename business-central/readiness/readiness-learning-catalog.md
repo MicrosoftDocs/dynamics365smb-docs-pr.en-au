@@ -2,130 +2,77 @@
 title: Business Central Learning Catalogue
 description: Business Central Learning Catalogue
 author: loreleishannonmsft
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.topic: article
 ms.author: margoc
-ms.openlocfilehash: a8a235e07b887653d2b1a68acb03c6b589bc358c
-ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
+ms.openlocfilehash: 174ec9f3c51332bec35f1fc7cf49501e8f4b5fc1
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "3778773"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3926755"
 ---
-# <a name="business-central-learning-catalog"></a><span data-ttu-id="d30ca-103">Business Central Learning Catalogue</span><span class="sxs-lookup"><span data-stu-id="d30ca-103">Business Central Learning Catalog</span></span>
-<span data-ttu-id="d30ca-104">Find the right online training, in person workshops, and events for your role as a Business Central user or partner.</span><span class="sxs-lookup"><span data-stu-id="d30ca-104">Find the right online training, in person workshops, and events for your role as a Business Central user or partner.</span></span>
+# <a name="business-central-learning-catalog"></a><span data-ttu-id="1cc22-103">Business Central Learning Catalogue</span><span class="sxs-lookup"><span data-stu-id="1cc22-103">Business Central Learning Catalog</span></span>
+
+<span data-ttu-id="1cc22-104">Find the right online training, in person workshops, and events for your role as a Business Central user or partner.</span><span class="sxs-lookup"><span data-stu-id="1cc22-104">Find the right online training, in person workshops, and events for your role as a Business Central user or partner.</span></span>
 
 :::row:::
+
     :::column:::
 
-    ### <a name="business-decision-maker"></a><span data-ttu-id="d30ca-105">Business decision maker</span><span class="sxs-lookup"><span data-stu-id="d30ca-105">Business decision maker</span></span>
+    ### <a name="business-decision-maker"></a><span data-ttu-id="1cc22-105">Business decision maker</span><span class="sxs-lookup"><span data-stu-id="1cc22-105">Business decision maker</span></span>
 
-    <span data-ttu-id="d30ca-106">Do you decide whether to invest in new technologies?</span><span class="sxs-lookup"><span data-stu-id="d30ca-106">Do you decide whether to invest in new technologies?</span></span> 
+    <span data-ttu-id="1cc22-106">Do you decide whether to invest in new technologies?</span><span class="sxs-lookup"><span data-stu-id="1cc22-106">Do you decide whether to invest in new technologies?</span></span> 
 
-    [<span data-ttu-id="d30ca-107">Business Decision Maker Learning Catalogue</span><span class="sxs-lookup"><span data-stu-id="d30ca-107">Business Decision Maker Learning Catalog</span></span>](readiness-learning-bus-decision-makers.md)
+    [<span data-ttu-id="1cc22-107">Learn the business value of Business Central (Free, self-paced online learning path)</span><span class="sxs-lookup"><span data-stu-id="1cc22-107">Learn the business value of Business Central (Free, self-paced online learning path)</span></span>](/learn/modules/dynamics-365-business-central/)
 
-    [<span data-ttu-id="d30ca-108">Business value</span><span class="sxs-lookup"><span data-stu-id="d30ca-108">Business value</span></span>](readiness-learning-bus-decision-makers.md#busvalue)
+    [<span data-ttu-id="1cc22-108">Get started (Free, self-paced online learning path)</span><span class="sxs-lookup"><span data-stu-id="1cc22-108">Get started (Free, self-paced online learning path)</span></span>](/learn/paths/get-started-dynamics-365-business-central/)
 
-    [<span data-ttu-id="d30ca-109">Get started</span><span class="sxs-lookup"><span data-stu-id="d30ca-109">Get started</span></span>](readiness-learning-bus-decision-makers.md#get-started)
+    [<span data-ttu-id="1cc22-109">Explore Dynamics 365 Business Central Capabilities</span><span class="sxs-lookup"><span data-stu-id="1cc22-109">Explore Dynamics 365 Business Central Capabilities</span></span>](https://dynamics.microsoft.com/business-central/capabilities/)
+
+    [<span data-ttu-id="1cc22-110">Business Central videos on YouTube</span><span class="sxs-lookup"><span data-stu-id="1cc22-110">Business Central videos on YouTube</span></span>](https://go.microsoft.com/fwlink/?linkid=851533)
 
     :::column-end:::
 
     :::column:::
 
-    ### <a name="business-user"></a><span data-ttu-id="d30ca-110">Business user</span><span class="sxs-lookup"><span data-stu-id="d30ca-110">Business user</span></span>
+    ### <a name="business-user"></a><span data-ttu-id="1cc22-111">Business user</span><span class="sxs-lookup"><span data-stu-id="1cc22-111">Business user</span></span>
 
-    <span data-ttu-id="d30ca-111">Did you just get a new application to use?</span><span class="sxs-lookup"><span data-stu-id="d30ca-111">Did you just get a new application to use?</span></span> 
+    <span data-ttu-id="1cc22-112">Did you just get a new application to use?</span><span class="sxs-lookup"><span data-stu-id="1cc22-112">Did you just get a new application to use?</span></span> 
 
-    [<span data-ttu-id="d30ca-112">Business User Learning Catalogue</span><span class="sxs-lookup"><span data-stu-id="d30ca-112">Business User Learning Catalog</span></span>](readiness-learning-bus-users.md)
+    [<span data-ttu-id="1cc22-113">Get started (Free, self-paced online learning path)</span><span class="sxs-lookup"><span data-stu-id="1cc22-113">Get started (Free, self-paced online learning path)</span></span>](/learn/paths/get-started-dynamics-365-business-central/)
 
-    [<span data-ttu-id="d30ca-113">Get started</span><span class="sxs-lookup"><span data-stu-id="d30ca-113">Get started</span></span>](readiness-learning-bus-users.md#get-started)
+    [<span data-ttu-id="1cc22-114">Business Central learning paths (Free, self-paced online learning paths)</span><span class="sxs-lookup"><span data-stu-id="1cc22-114">Business Central learning paths (Free, self-paced online learning paths)</span></span>](/learn/browse/?products=dynamics-business-central&roles=business-user&resource_type=learning%20path)
 
-    [<span data-ttu-id="d30ca-114">Financials</span><span class="sxs-lookup"><span data-stu-id="d30ca-114">Financials</span></span>](readiness-learning-bus-users.md#financials)
-
-    [<span data-ttu-id="d30ca-115">Trade</span><span class="sxs-lookup"><span data-stu-id="d30ca-115">Trade</span></span>](readiness-learning-bus-users.md#trade)
+    [<span data-ttu-id="1cc22-115">Business Central videos on YouTube</span><span class="sxs-lookup"><span data-stu-id="1cc22-115">Business Central videos on YouTube</span></span>](https://go.microsoft.com/fwlink/?linkid=851533)
 
     :::column-end:::
 
 :::row-end:::
 
 :::row:::
+
     :::column:::
 
-    ### <a name="developer"></a><span data-ttu-id="d30ca-116">Developer</span><span class="sxs-lookup"><span data-stu-id="d30ca-116">Developer</span></span>
+    ### <a name="developer"></a><span data-ttu-id="1cc22-116">Developer</span><span class="sxs-lookup"><span data-stu-id="1cc22-116">Developer</span></span>
 
-    <span data-ttu-id="d30ca-117">Do you need to write code to integrate with other data sources, extend core system functionality, or build a complex application?</span><span class="sxs-lookup"><span data-stu-id="d30ca-117">Do you need to write code to integrate with other data sources, extend core system functionality, or build a complex application?</span></span>
+    <span data-ttu-id="1cc22-117">Do you need to write code to integrate with other data sources, extend core system functionality, or build a complex application?</span><span class="sxs-lookup"><span data-stu-id="1cc22-117">Do you need to write code to integrate with other data sources, extend core system functionality, or build a complex application?</span></span>
 
-    [<span data-ttu-id="d30ca-118">Developer Learning Catalogue</span><span class="sxs-lookup"><span data-stu-id="d30ca-118">Developer Learning Catalog</span></span>](readiness-learning-developers.md)
+    [<span data-ttu-id="1cc22-118">Business Central learning paths (Free, self-paced online learning paths)</span><span class="sxs-lookup"><span data-stu-id="1cc22-118">Business Central learning paths (Free, self-paced online learning paths)</span></span>](/learn/browse/?products=dynamics-business-central&roles=developer&resource_type=learning%20path)
 
-    [<span data-ttu-id="d30ca-119">Getting started</span><span class="sxs-lookup"><span data-stu-id="d30ca-119">Getting started</span></span>](readiness-learning-developers.md#get-started)
-
-    [<span data-ttu-id="d30ca-120">What's new</span><span class="sxs-lookup"><span data-stu-id="d30ca-120">What's new</span></span>](readiness-learning-developers.md#whatsnew)
-
-    [<span data-ttu-id="d30ca-121">Core development</span><span class="sxs-lookup"><span data-stu-id="d30ca-121">Core development</span></span>](readiness-learning-developers.md#core-development)
-
-    [<span data-ttu-id="d30ca-122">Application lifestyle management</span><span class="sxs-lookup"><span data-stu-id="d30ca-122">Application lifestyle management</span></span>](readiness-learning-developers.md#applife)
-
-    [<span data-ttu-id="d30ca-123">Connect apps</span><span class="sxs-lookup"><span data-stu-id="d30ca-123">Connect apps</span></span>](readiness-learning-developers.md#connect-apps)
+    [<span data-ttu-id="1cc22-119">Developer documentation</span><span class="sxs-lookup"><span data-stu-id="1cc22-119">Developer documentation</span></span>](/dynamics365/business-central/dev-itpro/developer/devenv-dev-overview)
 
     :::column-end:::
 
     :::column:::
 
-    ### <a name="functional-consultant"></a><span data-ttu-id="d30ca-124">Functional Consultant</span><span class="sxs-lookup"><span data-stu-id="d30ca-124">Functional Consultant</span></span>
+    ### <a name="functional-consultant"></a><span data-ttu-id="1cc22-120">Functional Consultant</span><span class="sxs-lookup"><span data-stu-id="1cc22-120">Functional Consultant</span></span>
     
-    <span data-ttu-id="d30ca-125">Are you an implementation expert for a business domain?</span><span class="sxs-lookup"><span data-stu-id="d30ca-125">Are you an implementation expert for a business domain?</span></span> 
+    <span data-ttu-id="1cc22-121">Are you an implementation expert for a business domain?</span><span class="sxs-lookup"><span data-stu-id="1cc22-121">Are you an implementation expert for a business domain?</span></span> 
 
-    [<span data-ttu-id="d30ca-126">Functional Consultant Learning Catalogue</span><span class="sxs-lookup"><span data-stu-id="d30ca-126">Functional Consultant Learning Catalog</span></span>](readiness-learning-functional-consultants.md)
+    [<span data-ttu-id="1cc22-122">Business Central learning paths (Free, self-paced online learning paths)</span><span class="sxs-lookup"><span data-stu-id="1cc22-122">Business Central learning paths (Free, self-paced online learning paths)</span></span>](/learn/browse/?products=dynamics-business-central&roles=functional-consultant&resource_type=learning%20path)
 
-    [<span data-ttu-id="d30ca-127">Get started</span><span class="sxs-lookup"><span data-stu-id="d30ca-127">Get started</span></span>](readiness-learning-functional-consultants.md#get-started)
-
-    [<span data-ttu-id="d30ca-128">Deploy</span><span class="sxs-lookup"><span data-stu-id="d30ca-128">Deploy</span></span>](readiness-learning-functional-consultants.md#deploy)
-
-    [<span data-ttu-id="d30ca-129">Financials</span><span class="sxs-lookup"><span data-stu-id="d30ca-129">Financials</span></span>](readiness-learning-functional-consultants.md#financials)
-
-    [<span data-ttu-id="d30ca-130">Trade</span><span class="sxs-lookup"><span data-stu-id="d30ca-130">Trade</span></span>](readiness-learning-functional-consultants.md#trade)
-
-    [<span data-ttu-id="d30ca-131">Cloud</span><span class="sxs-lookup"><span data-stu-id="d30ca-131">Cloud</span></span>](readiness-learning-functional-consultants.md#cloud)
-
-    :::column-end:::
-
-:::row-end:::
-
-:::row:::
-
-    :::column:::
-
-    ### <a name="partner-pre-sales"></a><span data-ttu-id="d30ca-132">Partner Pre-sales</span><span class="sxs-lookup"><span data-stu-id="d30ca-132">Partner Pre-sales</span></span>
-
-    <span data-ttu-id="d30ca-133">Are you responsible for demonstrating key features to customers?</span><span class="sxs-lookup"><span data-stu-id="d30ca-133">Are you responsible for demonstrating key features to customers?</span></span> 
-
-    [<span data-ttu-id="d30ca-134">Pre-sales Learning Catalogue</span><span class="sxs-lookup"><span data-stu-id="d30ca-134">Pre-sales Learning Catalog</span></span>](readiness-learning-presales.md)
-
-    [<span data-ttu-id="d30ca-135">Get started</span><span class="sxs-lookup"><span data-stu-id="d30ca-135">Get started</span></span>](readiness-learning-presales.md#get-started)
-
-    [<span data-ttu-id="d30ca-136">Grow your business</span><span class="sxs-lookup"><span data-stu-id="d30ca-136">Grow your business</span></span>](readiness-learning-presales.md#grow)
-
-    [<span data-ttu-id="d30ca-137">Business value</span><span class="sxs-lookup"><span data-stu-id="d30ca-137">Business value</span></span>](readiness-learning-presales.md#busvalue)
-
-    [<span data-ttu-id="d30ca-138">What's new</span><span class="sxs-lookup"><span data-stu-id="d30ca-138">What's new</span></span>](readiness-learning-presales.md#whatsnew)
-
-    [<span data-ttu-id="d30ca-139">Demo</span><span class="sxs-lookup"><span data-stu-id="d30ca-139">Demo</span></span>](readiness-learning-presales.md#demo)
-
-    :::column-end:::
-
-    :::column:::
-
-    ### <a name="partner-sales"></a><span data-ttu-id="d30ca-140">Partner Sales</span><span class="sxs-lookup"><span data-stu-id="d30ca-140">Partner Sales</span></span>
-
-    <span data-ttu-id="d30ca-141">Are you responsible for helping your customers buy the right solution?</span><span class="sxs-lookup"><span data-stu-id="d30ca-141">Are you responsible for helping your customers buy the right solution?</span></span> 
-
-    [<span data-ttu-id="d30ca-142">Sales Learning Catalogue</span><span class="sxs-lookup"><span data-stu-id="d30ca-142">Sales Learning Catalog</span></span>](readiness-learning-sales.md)
-
-    [<span data-ttu-id="d30ca-143">Get started</span><span class="sxs-lookup"><span data-stu-id="d30ca-143">Get started</span></span>](readiness-learning-sales.md#get-started)
-
-    [<span data-ttu-id="d30ca-144">Grow your business</span><span class="sxs-lookup"><span data-stu-id="d30ca-144">Grow your business</span></span>](readiness-learning-sales.md#grow)
-
-    [<span data-ttu-id="d30ca-145">Business value</span><span class="sxs-lookup"><span data-stu-id="d30ca-145">Business value</span></span>](readiness-learning-sales.md#busvalue)
+    [<span data-ttu-id="1cc22-123">Business Central videos on YouTube</span><span class="sxs-lookup"><span data-stu-id="1cc22-123">Business Central videos on YouTube</span></span>](https://go.microsoft.com/fwlink/?linkid=851533)
 
     :::column-end:::
 

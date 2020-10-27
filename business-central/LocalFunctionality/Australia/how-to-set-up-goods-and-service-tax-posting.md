@@ -1,8 +1,6 @@
 ---
 title: How to Set Up Goods and Services Tax Posting
 description: Describes the steps to start applying goods and services tax (GST) to goods and services.
-services: project-madeira
-documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -10,40 +8,21 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: e2a4fa65af3970ba9d11e9d73dc3adc8064ec789
-ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
+ms.openlocfilehash: ab3d2f515ee16130b0cd3077c0bbd4ef555656c5
+ms.sourcegitcommit: 428f180604e5afcf94fa0e92a0615f58c88e13cd
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "3778724"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "3931311"
 ---
-# <a name="set-up-goods-and-services-tax-posting"></a><span data-ttu-id="cf947-103">Set Up Goods and Services Tax Posting</span><span class="sxs-lookup"><span data-stu-id="cf947-103">Set Up Goods and Services Tax Posting</span></span>
-<span data-ttu-id="cf947-104">Goods and services tax (GST) is the tax that is applied on most goods and services.</span><span class="sxs-lookup"><span data-stu-id="cf947-104">Goods and services tax (GST) is the tax that is applied on most goods and services.</span></span> <span data-ttu-id="cf947-105">The GST that is paid and received during a period is reported in the Business Activity Statement (BAS) that has to be submitted to the Australian Taxation Office (ATO).</span><span class="sxs-lookup"><span data-stu-id="cf947-105">The GST that is paid and received during a period is reported in the Business Activity Statement (BAS) that has to be submitted to the Australian Taxation Office (ATO).</span></span>  
+# <a name="set-up-goods-and-services-tax-posting"></a><span data-ttu-id="ac8a7-103">Set Up Goods and Services Tax Posting</span><span class="sxs-lookup"><span data-stu-id="ac8a7-103">Set Up Goods and Services Tax Posting</span></span>
+<span data-ttu-id="ac8a7-104">Goods and services tax (GST) is the tax that is applied on most goods and services.</span><span class="sxs-lookup"><span data-stu-id="ac8a7-104">Goods and services tax (GST) is the tax that is applied on most goods and services.</span></span> <span data-ttu-id="ac8a7-105">The GST that is paid and received during a period is reported in the Business Activity Statement (BAS) that has to be submitted to the Australian Taxation Office (ATO).</span><span class="sxs-lookup"><span data-stu-id="ac8a7-105">The GST that is paid and received during a period is reported in the Business Activity Statement (BAS) that has to be submitted to the Australian Taxation Office (ATO).</span></span>  
 
-<span data-ttu-id="cf947-106">To set up posting details for GST, you must define the posting groups, rate of GST, and the accounts to which GST is to be posted.</span><span class="sxs-lookup"><span data-stu-id="cf947-106">To set up posting details for GST, you must define the posting groups, rate of GST, and the accounts to which GST is to be posted.</span></span> <span data-ttu-id="cf947-107">You can set up this information for a particular combination of business posting groups and product posting groups.</span><span class="sxs-lookup"><span data-stu-id="cf947-107">You can set up this information for a particular combination of business posting groups and product posting groups.</span></span>  
+[!INCLUDE [gst-posting-setup](../includes/AUNZ/gst-posting-setup.md)]
 
-<span data-ttu-id="cf947-108">You must set up GST posting before you generate the BAS report.</span><span class="sxs-lookup"><span data-stu-id="cf947-108">You must set up GST posting before you generate the BAS report.</span></span>  
+## <a name="see-also"></a><span data-ttu-id="ac8a7-106">See Also</span><span class="sxs-lookup"><span data-stu-id="ac8a7-106">See Also</span></span>
 
-## <a name="to-set-up-goods-and-sales-tax-posting"></a><span data-ttu-id="cf947-109">To set up goods and sales tax posting</span><span class="sxs-lookup"><span data-stu-id="cf947-109">To set up goods and sales tax posting</span></span>  
-1. <span data-ttu-id="cf947-110">Choose the ![Lightbulb that opens the Tell Me feature](../../media/ui-search/search_small.png "Tell me what you want to do") icon, enter **GST Posting Setup**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="cf947-110">Choose the ![Lightbulb that opens the Tell Me feature](../../media/ui-search/search_small.png "Tell me what you want to do") icon, enter **VAT Posting Setup**, and then choose the related link.</span></span>  
-2. <span data-ttu-id="cf947-111">Fill in the fields as described in the following table.</span><span class="sxs-lookup"><span data-stu-id="cf947-111">Fill in the fields as described in the following table.</span></span>  
-
-    |<span data-ttu-id="cf947-112">Field</span><span class="sxs-lookup"><span data-stu-id="cf947-112">Field</span></span>|<span data-ttu-id="cf947-113">Description</span><span class="sxs-lookup"><span data-stu-id="cf947-113">Description</span></span>|  
-    |---------------------------------|---------------------------------------|  
-    |<span data-ttu-id="cf947-114">**GST Bus. Posting Group**</span><span class="sxs-lookup"><span data-stu-id="cf947-114">**VAT Bus. Posting Group**</span></span>|<span data-ttu-id="cf947-115">Specifies the GST business posting group code.</span><span class="sxs-lookup"><span data-stu-id="cf947-115">Specifies the VAT business posting group code.</span></span>|  
-    |<span data-ttu-id="cf947-116">**GST Prod. Posting Group**</span><span class="sxs-lookup"><span data-stu-id="cf947-116">**VAT Prod. Posting Group**</span></span>|<span data-ttu-id="cf947-117">Specifies the GST product posting group code.</span><span class="sxs-lookup"><span data-stu-id="cf947-117">Specifies the VAT product posting group code.</span></span>|  
-    |<span data-ttu-id="cf947-118">**GST Identifier**</span><span class="sxs-lookup"><span data-stu-id="cf947-118">**VAT Identifier**</span></span>|<span data-ttu-id="cf947-119">Specifies the code that is used to group similar GST setups with similar attributes.</span><span class="sxs-lookup"><span data-stu-id="cf947-119">Specifies the code that is used to group similar VAT setups with similar attributes.</span></span><br /><br /> <span data-ttu-id="cf947-120">For example, you can group a number of GST posting setups that have a common GST percentage.</span><span class="sxs-lookup"><span data-stu-id="cf947-120">For example, you can group a number of VAT posting setups that have a common VAT percentage.</span></span>|  
-    |<span data-ttu-id="cf947-121">**GST %**</span><span class="sxs-lookup"><span data-stu-id="cf947-121">**VAT %**</span></span>|<span data-ttu-id="cf947-122">Specifies the GST rate.</span><span class="sxs-lookup"><span data-stu-id="cf947-122">Specifies the VAT rate.</span></span>|  
-    |<span data-ttu-id="cf947-123">**GST Calculation Type**</span><span class="sxs-lookup"><span data-stu-id="cf947-123">**VAT Calculation Type**</span></span>|<span data-ttu-id="cf947-124">Specifies the method that is used to calculate the purchase or sale of items.</span><span class="sxs-lookup"><span data-stu-id="cf947-124">Specifies the method that is used to calculate the purchase or sale of items.</span></span>|  
-    |<span data-ttu-id="cf947-125">**GST Account**</span><span class="sxs-lookup"><span data-stu-id="cf947-125">**Sales VAT Account**</span></span>|<span data-ttu-id="cf947-126">Specifies the number of the general ledger account to which you want to post the sales GST.</span><span class="sxs-lookup"><span data-stu-id="cf947-126">Specifies the number of the general ledger account to which you want to post the sales VAT.</span></span><br /><br /> <span data-ttu-id="cf947-127">If you have selected the **Reverse Charge GST** option in the **GST Calculation Type** field, then do not enter a value in this field.</span><span class="sxs-lookup"><span data-stu-id="cf947-127">If you have selected the **Reverse Charge VAT** option in the **VAT Calculation Type** field, then do not enter a value in this field.</span></span>|  
-    |<span data-ttu-id="cf947-128">**Input Tax Credit Account**</span><span class="sxs-lookup"><span data-stu-id="cf947-128">**Purchase VAT Account**</span></span>|<span data-ttu-id="cf947-129">Specifies the number of the general ledger account to which you want to post the input tax credit.</span><span class="sxs-lookup"><span data-stu-id="cf947-129">Specifies the number of the general ledger account to which you want to post the purchase VAT.</span></span>|  
-    |<span data-ttu-id="cf947-130">**Reverse Chrg. GST Acc.**</span><span class="sxs-lookup"><span data-stu-id="cf947-130">**Reverse Chrg. VAT Acc.**</span></span>|<span data-ttu-id="cf947-131">Specifies the number of the general ledger account to which you want to post the reverse charge GST.</span><span class="sxs-lookup"><span data-stu-id="cf947-131">Specifies the number of the general ledger account to which you want to post the reverse charge VAT.</span></span><br /><br /> <span data-ttu-id="cf947-132">You can enter a value in this field only if you have selected the **Reverse Charge GST** option in the **GST Calculation Type** field.</span><span class="sxs-lookup"><span data-stu-id="cf947-132">You can enter a value in this field only if you have selected the **Reverse Charge VAT** option in the **VAT Calculation Type** field.</span></span>|  
-
-3.  <span data-ttu-id="cf947-133">Choose the **OK** button.</span><span class="sxs-lookup"><span data-stu-id="cf947-133">Choose the **OK** button.</span></span>  
-
-## <a name="see-also"></a><span data-ttu-id="cf947-134">See Also</span><span class="sxs-lookup"><span data-stu-id="cf947-134">See Also</span></span>  
-<span data-ttu-id="cf947-135">[Australian Local Functionality](australia-local-functionality.md)
-[Print Goods and Service Tax Settlement Reports](how-to-print-goods-and-service-tax-settlement-reports.md)</span><span class="sxs-lookup"><span data-stu-id="cf947-135">[Australian Local Functionality](australia-local-functionality.md)
-[Print Goods and Service Tax Settlement Reports](how-to-print-goods-and-service-tax-settlement-reports.md)</span></span>
+[<span data-ttu-id="ac8a7-107">Australian Local Functionality</span><span class="sxs-lookup"><span data-stu-id="ac8a7-107">Australian Local Functionality</span></span>](australia-local-functionality.md)  
+[<span data-ttu-id="ac8a7-108">Print Goods and Service Tax Settlement Reports</span><span class="sxs-lookup"><span data-stu-id="ac8a7-108">Print Goods and Service Tax Settlement Reports</span></span>](how-to-print-goods-and-service-tax-settlement-reports.md)  

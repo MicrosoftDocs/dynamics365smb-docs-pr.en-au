@@ -1,6 +1,6 @@
 ---
-title: How to Compare Bank Cash Flow
-description: You can use the Bank Detail Cashflow Compare report to compare the flow of cash in a particular bank for a specified period.
+title: Compare Bank Cash Flow in the Australian version
+description: You can use the Bank Detail Cashflow Compare report to compare the flow of cash in a particular bank for a specified period in the Australian version.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -8,42 +8,21 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 7ed9711678e4c93b5adfe3cdee76cce475904bf8
-ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
+ms.openlocfilehash: 2fa9b3d5e1dfc3662399762fff22f1adc3810852
+ms.sourcegitcommit: 428f180604e5afcf94fa0e92a0615f58c88e13cd
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "3778744"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "3931325"
 ---
-# <a name="compare-bank-cash-flow"></a><span data-ttu-id="f3189-103">Compare Bank Cash Flow</span><span class="sxs-lookup"><span data-stu-id="f3189-103">Compare Bank Cash Flow</span></span>
-<span data-ttu-id="f3189-104">You can use the **Bank Detail Cashflow Compare** report to compare the flow of cash in a particular bank for a specified period.</span><span class="sxs-lookup"><span data-stu-id="f3189-104">You can use the **Bank Detail Cashflow Compare** report to compare the flow of cash in a particular bank for a specified period.</span></span>  
+# <a name="compare-bank-cash-flow-in-the-australian-version"></a><span data-ttu-id="896b2-103">Compare Bank Cash Flow in the Australian Version</span><span class="sxs-lookup"><span data-stu-id="896b2-103">Compare Bank Cash Flow in the Australian Version</span></span>
 
- <span data-ttu-id="f3189-105">The report displays the following details:</span><span class="sxs-lookup"><span data-stu-id="f3189-105">The report displays the following details:</span></span>  
 
--   <span data-ttu-id="f3189-106">Posting date</span><span class="sxs-lookup"><span data-stu-id="f3189-106">Posting date</span></span>  
--   <span data-ttu-id="f3189-107">Document type</span><span class="sxs-lookup"><span data-stu-id="f3189-107">Document type</span></span>  
--   <span data-ttu-id="f3189-108">Document number</span><span class="sxs-lookup"><span data-stu-id="f3189-108">Document number</span></span>  
--   <span data-ttu-id="f3189-109">Debit amount</span><span class="sxs-lookup"><span data-stu-id="f3189-109">Debit amount</span></span>  
--   <span data-ttu-id="f3189-110">Credit amount</span><span class="sxs-lookup"><span data-stu-id="f3189-110">Credit amount</span></span>  
--   <span data-ttu-id="f3189-111">Remaining amount</span><span class="sxs-lookup"><span data-stu-id="f3189-111">Remaining amount</span></span>  
+[!INCLUDE [compare-bank-cash-flow](../includes/AUNZ/compare-bank-cash-flow.md)]
 
-<span data-ttu-id="f3189-112">The debit and credit amounts are displayed in the local currency.</span><span class="sxs-lookup"><span data-stu-id="f3189-112">The debit and credit amounts are displayed in the local currency.</span></span> <span data-ttu-id="f3189-113">You can also view the starting balance and ending balance for each bank.</span><span class="sxs-lookup"><span data-stu-id="f3189-113">You can also view the starting balance and ending balance for each bank.</span></span>  
+## <a name="see-also"></a><span data-ttu-id="896b2-104">See Also</span><span class="sxs-lookup"><span data-stu-id="896b2-104">See Also</span></span>
 
-## <a name="to-compare-bank-cash-flow"></a><span data-ttu-id="f3189-114">To compare bank cash flow</span><span class="sxs-lookup"><span data-stu-id="f3189-114">To compare bank cash flow</span></span>  
-
-1.  <span data-ttu-id="f3189-115">Choose the ![Lightbulb that opens the Tell Me feature](../../media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Bank Detail Cashflow Compare**, and then choose the relevant link.</span><span class="sxs-lookup"><span data-stu-id="f3189-115">Choose the ![Lightbulb that opens the Tell Me feature](../../media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Bank Detail Cashflow Compare**, and then choose the relevant link.</span></span>  
-2.  <span data-ttu-id="f3189-116">Fill in the fields as described in the following table.</span><span class="sxs-lookup"><span data-stu-id="f3189-116">Fill in the fields as described in the following table.</span></span>  
-
-    |<span data-ttu-id="f3189-117">Field</span><span class="sxs-lookup"><span data-stu-id="f3189-117">Field</span></span>|<span data-ttu-id="f3189-118">Description</span><span class="sxs-lookup"><span data-stu-id="f3189-118">Description</span></span>|  
-    |---------------------------------|---------------------------------------|  
-    |<span data-ttu-id="f3189-119">**Compare Start Date**</span><span class="sxs-lookup"><span data-stu-id="f3189-119">**Compare Start Date**</span></span>|<span data-ttu-id="f3189-120">Specifies the start date for the comparison.</span><span class="sxs-lookup"><span data-stu-id="f3189-120">Specifies the start date for the comparison.</span></span>|  
-    |<span data-ttu-id="f3189-121">**Compare End Date**</span><span class="sxs-lookup"><span data-stu-id="f3189-121">**Compare End Date**</span></span>|<span data-ttu-id="f3189-122">Specifies the end date for comparison.</span><span class="sxs-lookup"><span data-stu-id="f3189-122">Specifies the end date for comparison.</span></span>|  
-    |<span data-ttu-id="f3189-123">**New Page per Bank Account**</span><span class="sxs-lookup"><span data-stu-id="f3189-123">**New Page per Bank Account**</span></span>|<span data-ttu-id="f3189-124">Specifies if the details of each bank account will be printed on a separate page.</span><span class="sxs-lookup"><span data-stu-id="f3189-124">Specifies if the details of each bank account will be printed on a separate page.</span></span>|  
-
-3.  <span data-ttu-id="f3189-125">Choose the **Print** button to print the report, or choose the **Preview** button to view it on the screen.</span><span class="sxs-lookup"><span data-stu-id="f3189-125">Choose the **Print** button to print the report, or choose the **Preview** button to view it on the screen.</span></span>  
-
-## <a name="see-also"></a><span data-ttu-id="f3189-126">See Also</span><span class="sxs-lookup"><span data-stu-id="f3189-126">See Also</span></span>  
- <span data-ttu-id="f3189-127">[Create Cheque Instalments](how-to-create-check-installments.md) </span><span class="sxs-lookup"><span data-stu-id="f3189-127">[Create Check Installments](how-to-create-check-installments.md) </span></span>  
- [<span data-ttu-id="f3189-128">Australia Local Functionality</span><span class="sxs-lookup"><span data-stu-id="f3189-128">Australia Local Functionality</span></span>](australia-local-functionality.md)
+<span data-ttu-id="896b2-105">[Create Cheque Instalments](how-to-create-check-installments.md) </span><span class="sxs-lookup"><span data-stu-id="896b2-105">[Create Check Installments](how-to-create-check-installments.md) </span></span>  
+[<span data-ttu-id="896b2-106">Australia Local Functionality</span><span class="sxs-lookup"><span data-stu-id="896b2-106">Australia Local Functionality</span></span>](australia-local-functionality.md)

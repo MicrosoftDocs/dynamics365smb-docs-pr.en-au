@@ -1,6 +1,6 @@
 ---
-title: How to Print Bank Account Reconciliation Reports
-description: The Bank Account Reconciliation report displays open bank ledger entries as unpresented cheques or unrecorded deposits.
+title: Print Bank Account Reconciliation Reports in the Australian version
+description: The Bank Account Reconciliation report displays open bank ledger entries as unpresented cheques or unrecorded deposits in the Australian version.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -8,24 +8,19 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: cbe327339fb436c342956fdd3c8f1f5915abc8c8
-ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
+ms.openlocfilehash: 242aca286b9ca878dee87515ab6eae19b76e6ac5
+ms.sourcegitcommit: 428f180604e5afcf94fa0e92a0615f58c88e13cd
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "3778738"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "3931315"
 ---
-# <a name="print-bank-account-reconciliation-reports"></a><span data-ttu-id="3dcef-103">Print Bank Account Reconciliation Reports</span><span class="sxs-lookup"><span data-stu-id="3dcef-103">Print Bank Account Reconciliation Reports</span></span>
-<span data-ttu-id="3dcef-104">The **Bank Account Reconciliation** report displays open bank ledger entries as unpresented cheques or unrecorded deposits.</span><span class="sxs-lookup"><span data-stu-id="3dcef-104">The **Bank Account Reconciliation** report displays open bank ledger entries as unpresented checks or unrecorded deposits.</span></span>  
+# <a name="print-bank-account-reconciliation-reports-in-the-australian-version"></a><span data-ttu-id="bb48d-103">Print Bank Account Reconciliation Reports in the Australian Version</span><span class="sxs-lookup"><span data-stu-id="bb48d-103">Print Bank Account Reconciliation Reports in the Australian Version</span></span>
 
-## <a name="to-print-a-bank-account-reconciliation-report"></a><span data-ttu-id="3dcef-105">To print a bank account reconciliation report</span><span class="sxs-lookup"><span data-stu-id="3dcef-105">To print a bank account reconciliation report</span></span>  
+[!INCLUDE [print-balance-sheet-reports](../includes/AUNZ/print-balance-sheet-reports.md)]
 
-1.  <span data-ttu-id="3dcef-106">Choose the ![Lightbulb that opens the Tell Me feature](../../media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Reconciliation**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="3dcef-106">Choose the ![Lightbulb that opens the Tell Me feature](../../media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Reconciliation**, and then choose the related link.</span></span>  
-2.  <span data-ttu-id="3dcef-107">Select the **New Page per Bank Account** check box.</span><span class="sxs-lookup"><span data-stu-id="3dcef-107">Select the **New Page per Bank Account** check box.</span></span>  
-3.  <span data-ttu-id="3dcef-108">Select appropriate filters.</span><span class="sxs-lookup"><span data-stu-id="3dcef-108">Select appropriate filters.</span></span>  
-4.  <span data-ttu-id="3dcef-109">Choose the **Print** button to print the report, or choose the **Preview** button to view it on the screen.</span><span class="sxs-lookup"><span data-stu-id="3dcef-109">Choose the **Print** button to print the report, or choose the **Preview** button to view it on the screen.</span></span>  
+## <a name="see-also"></a><span data-ttu-id="bb48d-104">See Also</span><span class="sxs-lookup"><span data-stu-id="bb48d-104">See Also</span></span>
 
-## <a name="see-also"></a><span data-ttu-id="3dcef-110">See Also</span><span class="sxs-lookup"><span data-stu-id="3dcef-110">See Also</span></span>  
-[<span data-ttu-id="3dcef-111">Reconcile Bank Accounts</span><span class="sxs-lookup"><span data-stu-id="3dcef-111">Reconcile Bank Accounts</span></span>](../../bank-how-reconcile-bank-accounts-separately.md)
+[<span data-ttu-id="bb48d-105">Reconcile Bank Accounts</span><span class="sxs-lookup"><span data-stu-id="bb48d-105">Reconcile Bank Accounts</span></span>](../../bank-how-reconcile-bank-accounts-separately.md)
