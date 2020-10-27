@@ -1,8 +1,6 @@
 ---
-title: How to Set Up Revenue Types for Withholding Tax
-description: Revenue types are used to categorise withholding tax (WHT) entries and are used for WHT certificates.
-services: project-madeira
-documentationcenter: ''
+title: Set Up Revenue Types for Withholding Tax in the Australian version
+description: Revenue types are used to categorise withholding tax (WHT) entries and are used for WHT certificates in the Australian version.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -10,35 +8,22 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: e64093714a8f3b7e713a93b9c427de722edda4e5
-ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
+ms.openlocfilehash: fd6725355259a89c86089a4522eb49ab6ab7b7b1
+ms.sourcegitcommit: 428f180604e5afcf94fa0e92a0615f58c88e13cd
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "3778728"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "3931309"
 ---
-# <a name="set-up-revenue-types-for-withholding-tax"></a>Set Up Revenue Types for Withholding Tax
-Revenue types are used to categorise withholding tax (WHT) entries and are used for WHT certificates.  
+# <a name="set-up-revenue-types-for-withholding-tax-in-the-australian-version"></a>Set Up Revenue Types for Withholding Tax in the Australian Version
 
-You can use the **WHT Revenue Types** page to set up the revenue types for withholding tax.  
+[!INCLUDE [wht-revenue-types-setup](../includes/AUNZ/wht-revenue-types-setup.md)]
 
-## <a name="to-set-up-revenue-types-for-withholding-tax"></a>To set up revenue types for withholding tax  
+## <a name="see-also"></a>See Also
 
-1.  Choose the ![Lightbulb that opens the Tell Me feature](../../media/ui-search/search_small.png "Tell me what you want to do") icon, enter **WHT Revenue Types**, and then choose the related link.  
-2.  Fill in the fields as described in the following table.  
-
-    |Field|Description|  
-    |---------------------------------|---------------------------------------|  
-    |**Code**|Specifies the unique code for the revenue type. You can enter a maximum of 10 alphanumeric characters.|  
-    |**Description**|Specifies the description for the WHT revenue type.|  
-    |**Sequence**|Specifies the sequence in which you want to group the revenue types. For example, a revenue type with sequence 0 will be displayed before sequence 1.|  
-
-3.  Choose the **OK** button.  
-
-## <a name="see-also"></a>See Also  
- [Withholding Tax](withholding-tax.md)   
- [Set Up Withholding Tax](how-to-set-up-withholding-tax.md)   
- [View Withholding Tax Entries](how-to-view-withholding-tax-entries.md)   
- [Calculate and Post Withholding Tax Settlements](how-to-calculate-and-post-withholding-tax-settlements.md)
+[Withholding Tax](withholding-tax.md)   
+[Set Up Withholding Tax](how-to-set-up-withholding-tax.md)   
+[View Withholding Tax Entries](how-to-view-withholding-tax-entries.md)   
+[Calculate and Post Withholding Tax Settlements](how-to-calculate-and-post-withholding-tax-settlements.md)

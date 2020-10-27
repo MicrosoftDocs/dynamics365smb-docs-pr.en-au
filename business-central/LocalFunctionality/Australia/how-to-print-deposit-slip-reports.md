@@ -1,6 +1,6 @@
 ---
-title: How to Print Deposit Slip Reports
-description: The Deposit Slip report displays cash and cheque details in a format required by the bank.
+title: Print Deposit Slip Reports in the Australian version
+description: The Deposit Slip report displays cash and cheque details in a format required by the bank in the Australian version.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -8,26 +8,19 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: db2a36155de2be5a0cfbbe7d5813170b5cddb5d2
-ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
+ms.openlocfilehash: 331041b367825b425af9d2e75e77defa264812e1
+ms.sourcegitcommit: 428f180604e5afcf94fa0e92a0615f58c88e13cd
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "3778734"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "3931316"
 ---
-# <a name="print-deposit-slip-reports"></a>Print Deposit Slip Reports
-The **Deposit Slip** report displays cash and cheque details in a format required by the bank.  
+# <a name="print-deposit-slip-reports-in-the-australian-version"></a>Print Deposit Slip Reports in the Australian Version
 
-## <a name="to-print-a-deposit-slip-report"></a>To print a deposit slip report  
+[!INCLUDE [print-deposit-slip-reports](../includes/AUNZ/print-deposit-slip-reports.md)]
 
-1.  Choose the ![Lightbulb that opens the Tell Me feature](../../media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Cash Receipt Journals**, and then choose the related link.  
-2.  Select the **Bank** journal.  
-3.  Choose the **Edit Journal** action.  
-4.  On the **Cash Receipt Journal** page, choose the **Print Deposit Slip** action.  
-5.  Select the appropriate filters.  
-6.  Choose the **Print** button to print the report, or choose the **Preview** button to view it on the screen.  
+## <a name="see-also"></a>See Also
 
-## <a name="see-also"></a>See Also  
- [Australia Local Functionality](australia-local-functionality.md)
+[Australia Local Functionality](australia-local-functionality.md)
