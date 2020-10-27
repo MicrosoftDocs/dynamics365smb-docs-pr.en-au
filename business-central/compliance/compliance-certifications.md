@@ -9,40 +9,40 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 07/21/2020
+ms.date: 10/01/2020
 ms.author: soalex
-ms.openlocfilehash: 8593958c57f508597cfa082bdbee4d518cc51d1b
-ms.sourcegitcommit: bdb6d18d512aa76d8d4f477d73ccfb284b0047fc
+ms.openlocfilehash: 55ed4b00a4d4140a625f914e148a51d83170fbd7
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 07/21/2020
-ms.locfileid: "3611417"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3921030"
 ---
-# <a name="certifications"></a><span data-ttu-id="d8955-103">Certifications</span><span class="sxs-lookup"><span data-stu-id="d8955-103">Certifications</span></span>
+# <a name="certifications"></a><span data-ttu-id="598a2-103">Certifications</span><span class="sxs-lookup"><span data-stu-id="598a2-103">Certifications</span></span>
 
-<span data-ttu-id="d8955-104">This content contains information about certifications in relation to [!INCLUDE[d365fin](../includes/d365fin_md.md)].</span><span class="sxs-lookup"><span data-stu-id="d8955-104">This content contains information about certifications in relation to [!INCLUDE[d365fin](../includes/d365fin_md.md)].</span></span>  
+<span data-ttu-id="598a2-104">This content contains information about certifications in relation to [!INCLUDE[d365fin](../includes/d365fin_md.md)].</span><span class="sxs-lookup"><span data-stu-id="598a2-104">This content contains information about certifications in relation to [!INCLUDE[d365fin](../includes/d365fin_md.md)].</span></span>  
 
-## <a name="countryregion-specific-certifications-and-accreditations"></a><span data-ttu-id="d8955-105">Country/region-specific certifications and accreditations</span><span class="sxs-lookup"><span data-stu-id="d8955-105">Country/region-specific certifications and accreditations</span></span>
+## <a name="countryregion-specific-certifications-and-accreditations"></a><span data-ttu-id="598a2-105">Country/region-specific certifications and accreditations</span><span class="sxs-lookup"><span data-stu-id="598a2-105">Country/region-specific certifications and accreditations</span></span>
 
-<span data-ttu-id="d8955-106">In some countries or regions, accounting software must be certified to comply with local tax regulation and financial requirements.</span><span class="sxs-lookup"><span data-stu-id="d8955-106">In some countries or regions, accounting software must be certified to comply with local tax regulation and financial requirements.</span></span> <span data-ttu-id="d8955-107">Some countries exercize this as a yearly recurring requirement and others as a one-off requirement to comply with.</span><span class="sxs-lookup"><span data-stu-id="d8955-107">Some countries exercize this as a yearly recurring requirement and others as a one-off requirement to comply with.</span></span> <span data-ttu-id="d8955-108">Below is a list of the current countries/regions where Business Central has achieved certifications.</span><span class="sxs-lookup"><span data-stu-id="d8955-108">Below is a list of the current countries/regions where Business Central has achieved certifications.</span></span>
+<span data-ttu-id="598a2-106">In some countries or regions, accounting software must be certified to comply with local tax regulation and financial requirements.</span><span class="sxs-lookup"><span data-stu-id="598a2-106">In some countries or regions, accounting software must be certified to comply with local tax regulation and financial requirements.</span></span> <span data-ttu-id="598a2-107">Some countries exercize this as a yearly recurring requirement and others as a one-off requirement to comply with.</span><span class="sxs-lookup"><span data-stu-id="598a2-107">Some countries exercize this as a yearly recurring requirement and others as a one-off requirement to comply with.</span></span> <span data-ttu-id="598a2-108">Below is a list of the current countries/regions where Business Central has achieved certifications.</span><span class="sxs-lookup"><span data-stu-id="598a2-108">Below is a list of the current countries/regions where Business Central has achieved certifications.</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="d8955-109">Only some countries have this requirement.</span><span class="sxs-lookup"><span data-stu-id="d8955-109">Only some countries have this requirement.</span></span>
+> <span data-ttu-id="598a2-109">Only some countries have this requirement.</span><span class="sxs-lookup"><span data-stu-id="598a2-109">Only some countries have this requirement.</span></span>
 
-- <span data-ttu-id="d8955-110">France (Tax Audit Certification) [(link to certification in French)](https://certificates.infocert.org/certificates/CERTIF-07-181-R16.pdf)</span><span class="sxs-lookup"><span data-stu-id="d8955-110">France (Tax Audit Certification) [(link to certification in French)](https://certificates.infocert.org/certificates/CERTIF-07-181-R16.pdf)</span></span>  
-- <span data-ttu-id="d8955-111">Germany (also covers Austria and Switzerland) [(link to certification in German)](https://www.bdo.de/de-de/themen/softwarebescheinungen/bdo/microsoft-dynamics-365-business-central)</span><span class="sxs-lookup"><span data-stu-id="d8955-111">Germany (also covers Austria and Switzerland) [(link to certification in German)](https://www.bdo.de/de-de/themen/softwarebescheinungen/bdo/microsoft-dynamics-365-business-central)</span></span>  
+- <span data-ttu-id="598a2-110">France (Tax Audit Certification) [(link to certification in French)](https://certificates.infocert.org/certificates/CERTIF-07-181-R16.pdf)</span><span class="sxs-lookup"><span data-stu-id="598a2-110">France (Tax Audit Certification) [(link to certification in French)](https://certificates.infocert.org/certificates/CERTIF-07-181-R16.pdf)</span></span>  
+- <span data-ttu-id="598a2-111">Germany (also covers Austria and Switzerland) [(link to certification in German)](https://www.bdo.de/de-de/themen/softwarebescheinungen/bdo/microsoft-dynamics-365-business-central)</span><span class="sxs-lookup"><span data-stu-id="598a2-111">Germany (also covers Austria and Switzerland) [(link to certification in German)](https://www.bdo.de/de-de/themen/softwarebescheinungen/bdo/microsoft-dynamics-365-business-central)</span></span>  
 
 > [!NOTE]  
-> <span data-ttu-id="d8955-112">In countries/regions where Microsoft does not release a local version, it is usually up to the partners to achieve certification of the Business Central base product, including the partner's localisation and regulatory features on top.</span><span class="sxs-lookup"><span data-stu-id="d8955-112">In countries/regions where Microsoft does not release a local version, it is usually up to the partners to achieve certification of the Business Central base product, including the partner's localization and regulatory features on top.</span></span>
+> <span data-ttu-id="598a2-112">In countries/regions where Microsoft does not release a local version, it is usually up to the partners to achieve certification of the Business Central base product, including the partner's localisation and regulatory features on top.</span><span class="sxs-lookup"><span data-stu-id="598a2-112">In countries/regions where Microsoft does not release a local version, it is usually up to the partners to achieve certification of the Business Central base product, including the partner's localization and regulatory features on top.</span></span>
 
-## <a name="other-certifications"></a><span data-ttu-id="d8955-113">Other certifications</span><span class="sxs-lookup"><span data-stu-id="d8955-113">Other certifications</span></span>
+## <a name="other-certifications"></a><span data-ttu-id="598a2-113">Other certifications</span><span class="sxs-lookup"><span data-stu-id="598a2-113">Other certifications</span></span>
 
-<span data-ttu-id="d8955-114">Business Central as a cloud service also has achieved certifications, such as ISO 27001 and more.</span><span class="sxs-lookup"><span data-stu-id="d8955-114">Business Central as a cloud service also has achieved certifications, such as ISO 27001 and more.</span></span> <span data-ttu-id="d8955-115">For a complete list of these certifications, see [this page (PDF)](https://aka.ms/d365-compliance-list).</span><span class="sxs-lookup"><span data-stu-id="d8955-115">For a complete list of these certifications, see [this page (PDF)](https://aka.ms/d365-compliance-list).</span></span>
+<span data-ttu-id="598a2-114">Business Central as a cloud service also has achieved certifications, such as ISO 27001 and more.</span><span class="sxs-lookup"><span data-stu-id="598a2-114">Business Central as a cloud service also has achieved certifications, such as ISO 27001 and more.</span></span> <span data-ttu-id="598a2-115">For a complete list of these certifications, see [this page (PDF)](https://aka.ms/d365-compliance-list).</span><span class="sxs-lookup"><span data-stu-id="598a2-115">For a complete list of these certifications, see [this page (PDF)](https://aka.ms/d365-compliance-list).</span></span>
 
-## <a name="see-also"></a><span data-ttu-id="d8955-116">See Also</span><span class="sxs-lookup"><span data-stu-id="d8955-116">See Also</span></span>
+## <a name="see-also"></a><span data-ttu-id="598a2-116">See Also</span><span class="sxs-lookup"><span data-stu-id="598a2-116">See Also</span></span>
 
-[<span data-ttu-id="d8955-117">Compliance</span><span class="sxs-lookup"><span data-stu-id="d8955-117">Compliance</span></span>](compliance-overview.md)  
-[<span data-ttu-id="d8955-118">Application Compliance</span><span class="sxs-lookup"><span data-stu-id="d8955-118">Application Compliance</span></span>](compliance-application-compliance.md)  
-[<span data-ttu-id="d8955-119">Service Compliance</span><span class="sxs-lookup"><span data-stu-id="d8955-119">Service Compliance</span></span>](compliance-service-compliance.md)  
+[<span data-ttu-id="598a2-117">Compliance</span><span class="sxs-lookup"><span data-stu-id="598a2-117">Compliance</span></span>](compliance-overview.md)  
+[<span data-ttu-id="598a2-118">Application Compliance</span><span class="sxs-lookup"><span data-stu-id="598a2-118">Application Compliance</span></span>](compliance-application-compliance.md)  
+[<span data-ttu-id="598a2-119">Service Compliance</span><span class="sxs-lookup"><span data-stu-id="598a2-119">Service Compliance</span></span>](compliance-service-compliance.md)  
 
 ## [!INCLUDE[d365fin](../includes/free_trial_md.md)]  
