@@ -26,3 +26,6 @@ ms.locfileid: "3931325"
 
 [Create Cheque Instalments](how-to-create-check-installments.md)   
 [Australia Local Functionality](australia-local-functionality.md)
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

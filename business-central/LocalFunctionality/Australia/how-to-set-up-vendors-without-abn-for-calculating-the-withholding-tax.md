@@ -34,3 +34,6 @@ Withholding Tax (WHT) is calculated for local vendors who do not have an Austral
 ## <a name="see-also"></a>See Also  
  [Withholding Tax](withholding-tax.md)   
  [Set Up Withholding Tax](how-to-set-up-withholding-tax.md)
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

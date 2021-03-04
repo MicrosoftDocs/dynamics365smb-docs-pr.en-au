@@ -57,3 +57,6 @@ You must provide information on the **General Ledger Setup** page before you can
 ## <a name="see-also"></a>See Also  
 [Australian Local Functionality](australia-local-functionality.md)   
 
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

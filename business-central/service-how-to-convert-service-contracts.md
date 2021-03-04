@@ -68,3 +68,6 @@ The following procedure describes how to create a new CR/Adj Note using the **Ge
 [Finance](finance.md)  
 [Report GST to Tax Authorities](finance-how-report-vat.md)  
 [Work with GST on Sales and Purchases](finance-work-with-vat.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

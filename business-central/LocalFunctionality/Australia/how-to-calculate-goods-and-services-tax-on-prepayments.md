@@ -25,3 +25,6 @@ ms.locfileid: "3931359"
 
 [Invoicing Prepayments](../../finance-invoice-prepayments.md)   
 [Australia Local Functionality](australia-local-functionality.md)
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

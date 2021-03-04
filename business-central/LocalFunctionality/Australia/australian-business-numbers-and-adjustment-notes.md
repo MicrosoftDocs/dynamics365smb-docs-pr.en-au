@@ -48,3 +48,6 @@ Because CR/Adj Notes are used for adjustment notes, each CR/Adj Note should sati
 ## <a name="see-also"></a>See Also  
  [Enter Australian Business Numbers](how-to-enter-australian-business-numbers.md)   
  [Australia Local Functionality](australia-local-functionality.md)
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]
