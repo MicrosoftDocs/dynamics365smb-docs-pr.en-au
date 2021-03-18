@@ -3,39 +3,42 @@ title: How to Create Production Orders from Sales Orders | Microsoft Docs
 description: You can create production orders from sales orders in the Sales & Marketing department.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: aafd30be751440c9afd124f07ada43d57b799555
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: 5f261ae825a7a7ef32488f74a1cbd99c69455053
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4748976"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5379835"
 ---
-# <a name="create-production-orders-from-sales-orders"></a><span data-ttu-id="cdff0-103">Create Production Orders from Sales Orders</span><span class="sxs-lookup"><span data-stu-id="cdff0-103">Create Production Orders from Sales Orders</span></span>
-<span data-ttu-id="cdff0-104">You can create production orders for produced items directly from sales orders.</span><span class="sxs-lookup"><span data-stu-id="cdff0-104">You can create production orders for produced items directly from sales orders.</span></span>  
+# <a name="create-production-orders-from-sales-orders"></a><span data-ttu-id="bc7b1-103">Create Production Orders from Sales Orders</span><span class="sxs-lookup"><span data-stu-id="bc7b1-103">Create Production Orders from Sales Orders</span></span>
+<span data-ttu-id="bc7b1-104">You can create production orders for produced items directly from sales orders.</span><span class="sxs-lookup"><span data-stu-id="bc7b1-104">You can create production orders for produced items directly from sales orders.</span></span>  
 
-## <a name="to-create-a-production-order-from-a-sales-order"></a><span data-ttu-id="cdff0-105">To create a production order from a sales order</span><span class="sxs-lookup"><span data-stu-id="cdff0-105">To create a production order from a sales order</span></span>  
+## <a name="to-create-a-production-order-from-a-sales-order"></a><span data-ttu-id="bc7b1-105">To create a production order from a sales order</span><span class="sxs-lookup"><span data-stu-id="bc7b1-105">To create a production order from a sales order</span></span>  
 
-1.  <span data-ttu-id="cdff0-106">Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Sales Orders**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="cdff0-106">Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Sales Orders**, and then choose the related link.</span></span>  
-2.  <span data-ttu-id="cdff0-107">Select the sales order you want to create a production order for.</span><span class="sxs-lookup"><span data-stu-id="cdff0-107">Select the sales order you want to create a production order for.</span></span>  
-3.  <span data-ttu-id="cdff0-108">Choose the **Planning** action.</span><span class="sxs-lookup"><span data-stu-id="cdff0-108">Choose the **Planning** action.</span></span> <span data-ttu-id="cdff0-109">On the **Sales Order Planning** page, you can view the availability of the sales order item.</span><span class="sxs-lookup"><span data-stu-id="cdff0-109">On the **Sales Order Planning** page, you can view the availability of the sales order item.</span></span>  
-4.  <span data-ttu-id="cdff0-110">Choose the **Create Prod. Order** action.</span><span class="sxs-lookup"><span data-stu-id="cdff0-110">Choose the **Create Prod. Order** action.</span></span>  
-5.  <span data-ttu-id="cdff0-111">Select the status and order type.</span><span class="sxs-lookup"><span data-stu-id="cdff0-111">Select the status and order type.</span></span>  
-6.  <span data-ttu-id="cdff0-112">Choose the **Yes** button to create the production order.</span><span class="sxs-lookup"><span data-stu-id="cdff0-112">Choose the **Yes** button to create the production order.</span></span>
+1.  <span data-ttu-id="bc7b1-106">Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Sales Orders**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="bc7b1-106">Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Sales Orders**, and then choose the related link.</span></span>  
+2.  <span data-ttu-id="bc7b1-107">Select the sales order you want to create a production order for.</span><span class="sxs-lookup"><span data-stu-id="bc7b1-107">Select the sales order you want to create a production order for.</span></span>  
+3.  <span data-ttu-id="bc7b1-108">Choose the **Planning** action.</span><span class="sxs-lookup"><span data-stu-id="bc7b1-108">Choose the **Planning** action.</span></span> <span data-ttu-id="bc7b1-109">On the **Sales Order Planning** page, you can view the availability of the sales order item.</span><span class="sxs-lookup"><span data-stu-id="bc7b1-109">On the **Sales Order Planning** page, you can view the availability of the sales order item.</span></span>  
+4.  <span data-ttu-id="bc7b1-110">Choose the **Create Prod. Order** action.</span><span class="sxs-lookup"><span data-stu-id="bc7b1-110">Choose the **Create Prod. Order** action.</span></span>  
+5.  <span data-ttu-id="bc7b1-111">Select the status and order type.</span><span class="sxs-lookup"><span data-stu-id="bc7b1-111">Select the status and order type.</span></span>  
+6.  <span data-ttu-id="bc7b1-112">Choose the **Yes** button to create the production order.</span><span class="sxs-lookup"><span data-stu-id="bc7b1-112">Choose the **Yes** button to create the production order.</span></span>
 
-<span data-ttu-id="cdff0-113">You can also choose to make a project production order.</span><span class="sxs-lookup"><span data-stu-id="cdff0-113">You can also choose to make a project production order.</span></span> <span data-ttu-id="cdff0-114">For more information, see [Plan Project Orders](production-how-to-plan-project-orders.md).</span><span class="sxs-lookup"><span data-stu-id="cdff0-114">For more information, see [Plan Project Orders](production-how-to-plan-project-orders.md).</span></span>   
+<span data-ttu-id="bc7b1-113">You can also choose to make a project production order.</span><span class="sxs-lookup"><span data-stu-id="bc7b1-113">You can also choose to make a project production order.</span></span> <span data-ttu-id="bc7b1-114">For more information, see [Plan Project Orders](production-how-to-plan-project-orders.md).</span><span class="sxs-lookup"><span data-stu-id="bc7b1-114">For more information, see [Plan Project Orders](production-how-to-plan-project-orders.md).</span></span>   
 
-## <a name="see-also"></a><span data-ttu-id="cdff0-115">See Also</span><span class="sxs-lookup"><span data-stu-id="cdff0-115">See Also</span></span>  
-[<span data-ttu-id="cdff0-116">Setting Up Manufacturing</span><span class="sxs-lookup"><span data-stu-id="cdff0-116">Setting Up Manufacturing</span></span>](production-configure-production-processes.md)  
-<span data-ttu-id="cdff0-117">[Manufacturing](production-manage-manufacturing.md)  </span><span class="sxs-lookup"><span data-stu-id="cdff0-117">[Manufacturing](production-manage-manufacturing.md)  </span></span>  
-[<span data-ttu-id="cdff0-118">Inventory</span><span class="sxs-lookup"><span data-stu-id="cdff0-118">Inventory</span></span>](inventory-manage-inventory.md)  
-[<span data-ttu-id="cdff0-119">Purchasing</span><span class="sxs-lookup"><span data-stu-id="cdff0-119">Purchasing</span></span>](purchasing-manage-purchasing.md)  
-<span data-ttu-id="cdff0-120">[Design Details: Supply Planning](design-details-supply-planning.md) </span><span class="sxs-lookup"><span data-stu-id="cdff0-120">[Design Details: Supply Planning](design-details-supply-planning.md) </span></span>  
-[<span data-ttu-id="cdff0-121">Setup Best Practices: Supply Planning</span><span class="sxs-lookup"><span data-stu-id="cdff0-121">Setup Best Practices: Supply Planning</span></span>](setup-best-practices-supply-planning.md)  
-<span data-ttu-id="cdff0-122">[Working with [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="cdff0-122">[Working with [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)</span></span>
+## <a name="see-also"></a><span data-ttu-id="bc7b1-115">See Also</span><span class="sxs-lookup"><span data-stu-id="bc7b1-115">See Also</span></span>  
+[<span data-ttu-id="bc7b1-116">Setting Up Manufacturing</span><span class="sxs-lookup"><span data-stu-id="bc7b1-116">Setting Up Manufacturing</span></span>](production-configure-production-processes.md)  
+<span data-ttu-id="bc7b1-117">[Manufacturing](production-manage-manufacturing.md)  </span><span class="sxs-lookup"><span data-stu-id="bc7b1-117">[Manufacturing](production-manage-manufacturing.md)  </span></span>  
+[<span data-ttu-id="bc7b1-118">Inventory</span><span class="sxs-lookup"><span data-stu-id="bc7b1-118">Inventory</span></span>](inventory-manage-inventory.md)  
+[<span data-ttu-id="bc7b1-119">Purchasing</span><span class="sxs-lookup"><span data-stu-id="bc7b1-119">Purchasing</span></span>](purchasing-manage-purchasing.md)  
+<span data-ttu-id="bc7b1-120">[Design Details: Supply Planning](design-details-supply-planning.md) </span><span class="sxs-lookup"><span data-stu-id="bc7b1-120">[Design Details: Supply Planning](design-details-supply-planning.md) </span></span>  
+[<span data-ttu-id="bc7b1-121">Setup Best Practices: Supply Planning</span><span class="sxs-lookup"><span data-stu-id="bc7b1-121">Setup Best Practices: Supply Planning</span></span>](setup-best-practices-supply-planning.md)  
+<span data-ttu-id="bc7b1-122">[Working with [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="bc7b1-122">[Working with [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)</span></span>
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]
