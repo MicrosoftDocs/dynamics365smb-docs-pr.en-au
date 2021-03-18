@@ -3,17 +3,17 @@ title: View Posted Tax Invoices in the Australian version
 description: In the Australian version of Business Central, you can use the Posted Sales Tax Invoice page and the Posted Purchase Tax Invoice page to view the details of posted sales tax invoices and posted purchase tax invoices.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: e298349872c6b94540427b84bab74b0bc909723e
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: 0ce204ebbd11e5a5c2c8fc0da1bd8ad463ab09c6
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4747561"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5377238"
 ---
 # <a name="view-posted-tax-invoices-in-the-australian-version"></a>View Posted Tax Invoices in the Australian Version
 

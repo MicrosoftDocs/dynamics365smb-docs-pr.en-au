@@ -3,16 +3,16 @@ title: Australian Business Numbers and Adjustment Notes
 description: An Australian Business Number (ABN) is a single identifier for all business dealings with the tax office and for dealings with other government departments and agencies.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: c1089f43fb830f2d2f132a39b4f873809beaa2c6
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: d4594b8094ba47482079f914e34ca0044dacf014
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3915936"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5377264"
 ---
 # <a name="australian-business-numbers-and-adjustment-notes"></a>Australian Business Numbers and Adjustment Notes
 An Australian Business Number (ABN) is a single identifier for all business dealings with the tax office, and for dealings with other government departments and agencies.  
@@ -37,13 +37,13 @@ Adjustment notes—or CR/Adj Notes—should be connected to an invoice.
 
 Because CR/Adj Notes are used for adjustment notes, each CR/Adj Note should satisfy all of the legal requirements for an adjustment note. Each CR/Adj Note should have an original invoice number, date, and reason code assigned to it. The following fields are included in the adjustment note:  
 
-- **Adjustment Applies to** : The number of the document to which the adjustment note applies. If you use the **Copy Document** function, this field populates automatically. You must enter a reason code before the transaction can be posted. You can use this field to create an adjustment note for a paid or closed transaction.  
+- **Adjustment Applies to**: The number of the document to which the adjustment note applies. If you use the **Copy Document** function, this field populates automatically. You must enter a reason code before the transaction can be posted. You can use this field to create an adjustment note for a paid or closed transaction.  
 
-- **Adjustment Reference No** : The number of the adjustment note. For **Sales & Receivables** , the number assigned to the posted document populates automatically in this field.  
+- **Adjustment Reference No**: The number of the adjustment note. For **Sales & Receivables**, the number assigned to the posted document populates automatically in this field.  
 
-- **Adjustment Note Date** : Automatically populated from the document date.  
+- **Adjustment Note Date**: Automatically populated from the document date.  
 
-- **Adjustment** and **BAS Adjustment** : These entries populate automatically. Some CR/Adj Notes are Business Activity Statement (BAS) adjustments. Adjustment notes can only be applied against a single document.  
+- **Adjustment** and **BAS Adjustment**: These entries populate automatically. Some CR/Adj Notes are Business Activity Statement (BAS) adjustments. Adjustment notes can only be applied against a single document.  
 
 ## <a name="see-also"></a>See Also  
  [Enter Australian Business Numbers](how-to-enter-australian-business-numbers.md)   

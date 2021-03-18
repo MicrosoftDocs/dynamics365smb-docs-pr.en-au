@@ -3,16 +3,16 @@ title: Calculating Distribution Amounts in the Australian version
 description: You can reallocate the amount in one general ledger account to other general ledger accounts so that the balances of your accounts remain proportionate to one another in the Australian version.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: e1bd4c4b1ed249c52e658cce1a6dcc081398fe4b
-ms.sourcegitcommit: 428f180604e5afcf94fa0e92a0615f58c88e13cd
+ms.openlocfilehash: 7646f20dd1bd81a7f2914693d6b25b7cb8217e5c
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "3931372"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5377262"
 ---
 # <a name="calculating-distribution-amounts-in-the-australian-version"></a>Calculating Distribution Amounts in the Australian Version
 

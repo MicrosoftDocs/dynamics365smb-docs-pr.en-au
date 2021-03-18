@@ -3,16 +3,16 @@ title: Adjust Settlement Exchange Rates for GST Entries (Australia)
 description: Use a batch job to settle GST entries according to the government exchange rate in the Australian version of Business Central.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 6d789865140805ac7c860c94cb888678a2556fbc
-ms.sourcegitcommit: 428f180604e5afcf94fa0e92a0615f58c88e13cd
+ms.openlocfilehash: edfffba2b1e6616e59e39ffdd533a04385183851
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "3931370"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5377258"
 ---
 # <a name="adjust-settlement-exchange-rates-for-vat-entries-in-the-australian-version"></a>Adjust Settlement Exchange Rates for GST Entries in the Australian Version
 

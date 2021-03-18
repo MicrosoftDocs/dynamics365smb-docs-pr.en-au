@@ -3,19 +3,19 @@ title: Set Up Vendors Without ABN for Calculating WHT
 description: In Business Central, Withholding Tax (WHT) is calculated for local vendors who do not have an Australian Business Number (ABN), as required by tax law.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: d190a34f21e5ab9ba5bfd3d436b75b0f8068082b
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: dab4a44cb0c280f406b8063ff7d29405b5e0ca51
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3914668"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5377244"
 ---
 # <a name="set-up-vendors-without-abn-for-calculating-the-withholding-tax-in-the-australian-version"></a>Set Up Vendors Without ABN for Calculating the Withholding Tax in the Australian Version
 
@@ -23,7 +23,7 @@ Withholding Tax (WHT) is calculated for local vendors who do not have an Austral
 
 ## <a name="to-set-up-vendors-without-abn-for-calculating-the-withholding-tax"></a>To set up vendors without ABN for calculating the withholding tax  
 
-1.  Choose the ![Lightbulb that opens the Tell Me feature](../../media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Vendors** , and then choose the related link.  
+1.  Choose the ![Lightbulb that opens the Tell Me feature](../../media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Vendors**, and then choose the related link.  
 2.  Choose the required vendor, and then choose the **Edit** action.  
 3.  On the **Vendor Card** page, make sure the **ABN** field and the **Foreign Vend** field are empty.  
 4.  Choose the **OK** button.  

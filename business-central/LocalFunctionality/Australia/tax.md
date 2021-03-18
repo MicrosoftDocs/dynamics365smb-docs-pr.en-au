@@ -3,16 +3,16 @@ title: Australian Tax overview
 description: Tax functionality in Australia is described in several topics.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 56ec9703306abf8fc683f2552e9dad68467a6afc
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 9e0dca197c8d39418b0258eb222a1cb5b871d301
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3914660"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5377234"
 ---
 # <a name="tax-overview"></a>Tax Overview
 

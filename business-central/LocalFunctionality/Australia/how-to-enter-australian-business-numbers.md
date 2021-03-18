@@ -3,19 +3,19 @@ title: How to Enter Australian Business Numbers
 description: You can enter an Australian Business Number (ABN) in certain pages.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 7239e51867a4e6003c5205dc5361e0f32e65e40e
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: f69e52fbb7b9c22e8f3648532ea8f7531c3b4290
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3918186"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5379622"
 ---
 # <a name="enter-australian-business-numbers"></a>Enter Australian Business Numbers
 
@@ -31,7 +31,7 @@ An algorithm provided by the local tax office ensures that the number is in a va
 
 ## <a name="to-enter-australian-business-numbers"></a>To enter Australian business numbers  
 
-1. Choose the ![Lightbulb that opens the Tell Me feature](../../media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Company Information** or **Vendors** , and then choose the related link.  
+1. Choose the ![Lightbulb that opens the Tell Me feature](../../media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Company Information** or **Vendors**, and then choose the related link.  
 2. Select the required company or vendor.  
 3. Expand the **Registration** FastTab.  
 4. In the **ABN** field, enter the ABN.  
