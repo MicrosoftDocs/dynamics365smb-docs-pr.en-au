@@ -9,35 +9,35 @@ ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 794342d893b784c40f314b65e53a5d65a32489fa
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: 5d34178523d0020d35c4f24985871a05fed33e49
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5389607"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5783342"
 ---
-# <a name="posting-documents-and-journals"></a><span data-ttu-id="76a35-103">Posting Documents and Journals</span><span class="sxs-lookup"><span data-stu-id="76a35-103">Posting Documents and Journals</span></span>
-<span data-ttu-id="76a35-104">Posting represents the accounting action of recording business transactions in the various company ledgers.</span><span class="sxs-lookup"><span data-stu-id="76a35-104">Posting represents the accounting action of recording business transactions in the various company ledgers.</span></span>
+# <a name="posting-documents-and-journals"></a><span data-ttu-id="96a2b-103">Posting Documents and Journals</span><span class="sxs-lookup"><span data-stu-id="96a2b-103">Posting Documents and Journals</span></span>
+<span data-ttu-id="96a2b-104">Posting represents the accounting action of recording business transactions in the various company ledgers.</span><span class="sxs-lookup"><span data-stu-id="96a2b-104">Posting represents the accounting action of recording business transactions in the various company ledgers.</span></span>
 
-<span data-ttu-id="76a35-105">Practically every document and journal in [!INCLUDE[prod_short](includes/prod_short.md)] offers a **Posting** group from which you can choose between different posting actions, such as **Post**, **Preview Posting**, **Post and Send**, **Post and Email**.</span><span class="sxs-lookup"><span data-stu-id="76a35-105">Practically every document and journal in [!INCLUDE[prod_short](includes/prod_short.md)] offers a **Posting** group from which you can choose between different posting actions, such as **Post**, **Preview Posting**, **Post and Send**, **Post and Email**.</span></span>
+<span data-ttu-id="96a2b-105">Practically every document and journal in [!INCLUDE[prod_short](includes/prod_short.md)] offers a **Posting** group from which you can choose between different posting actions, such as **Post**, **Preview Posting**, **Post and Send**, **Post and Email**.</span><span class="sxs-lookup"><span data-stu-id="96a2b-105">Practically every document and journal in [!INCLUDE[prod_short](includes/prod_short.md)] offers a **Posting** group from which you can choose between different posting actions, such as **Post**, **Preview Posting**, **Post and Send**, **Post and Email**.</span></span>
 
-<span data-ttu-id="76a35-106">The following table describes related tasks, with links to the topics that describe them.</span><span class="sxs-lookup"><span data-stu-id="76a35-106">The following table describes related tasks, with links to the topics that describe them.</span></span>
+<span data-ttu-id="96a2b-106">The following table describes related tasks, with links to the topics that describe them.</span><span class="sxs-lookup"><span data-stu-id="96a2b-106">The following table describes related tasks, with links to the topics that describe them.</span></span>
 
-| <span data-ttu-id="76a35-107">To</span><span class="sxs-lookup"><span data-stu-id="76a35-107">To</span></span> | <span data-ttu-id="76a35-108">See</span><span class="sxs-lookup"><span data-stu-id="76a35-108">See</span></span> |
+| <span data-ttu-id="96a2b-107">To</span><span class="sxs-lookup"><span data-stu-id="96a2b-107">To</span></span> | <span data-ttu-id="96a2b-108">See</span><span class="sxs-lookup"><span data-stu-id="96a2b-108">See</span></span> |
 | --- | --- |
-| <span data-ttu-id="76a35-109">Learn about posting purchase documents.</span><span class="sxs-lookup"><span data-stu-id="76a35-109">Learn about posting purchase documents.</span></span> |[<span data-ttu-id="76a35-110">Posting Purchases</span><span class="sxs-lookup"><span data-stu-id="76a35-110">Posting Purchases</span></span>](ui-post-purchases.md) |
-| <span data-ttu-id="76a35-111">Learn about posting sales documents.</span><span class="sxs-lookup"><span data-stu-id="76a35-111">Learn about posting sales documents.</span></span> |[<span data-ttu-id="76a35-112">Posting Sales</span><span class="sxs-lookup"><span data-stu-id="76a35-112">Posting Sales</span></span>](ui-post-sales.md) |
-| <span data-ttu-id="76a35-113">Post multiple sales or purchase documents together, immediately or as scheduled.</span><span class="sxs-lookup"><span data-stu-id="76a35-113">Post multiple sales or purchase documents together, immediately or as scheduled.</span></span>|[<span data-ttu-id="76a35-114">Post Multiple Documents at the Same Time</span><span class="sxs-lookup"><span data-stu-id="76a35-114">Post Multiple Documents at the Same Time</span></span>](ui-batch-posting.md)|
-| <span data-ttu-id="76a35-115">Learn about posting general journals.</span><span class="sxs-lookup"><span data-stu-id="76a35-115">Learn about posting general journals.</span></span> |[<span data-ttu-id="76a35-116">Working with General Journals</span><span class="sxs-lookup"><span data-stu-id="76a35-116">Working with General Journals</span></span>](ui-work-general-journals.md) |
-| <span data-ttu-id="76a35-117">Preview, in a page, the entries that will be created when you post.</span><span class="sxs-lookup"><span data-stu-id="76a35-117">Preview, in a page, the entries that will be created when you post.</span></span> |[<span data-ttu-id="76a35-118">Preview Posting Results</span><span class="sxs-lookup"><span data-stu-id="76a35-118">Preview Posting Results</span></span>](ui-how-preview-post-results.md) |
-| <span data-ttu-id="76a35-119">Preview, in a report, the entries that will be created when you post.</span><span class="sxs-lookup"><span data-stu-id="76a35-119">Preview, in a report, the entries that will be created when you post.</span></span> |[<span data-ttu-id="76a35-120">View Test Reports Before Posting</span><span class="sxs-lookup"><span data-stu-id="76a35-120">View Test Reports Before Posting</span></span>](ui-how-view-test-reports-posting.md) |
+| <span data-ttu-id="96a2b-109">Learn about posting purchase documents.</span><span class="sxs-lookup"><span data-stu-id="96a2b-109">Learn about posting purchase documents.</span></span> |[<span data-ttu-id="96a2b-110">Posting Purchases</span><span class="sxs-lookup"><span data-stu-id="96a2b-110">Posting Purchases</span></span>](ui-post-purchases.md) |
+| <span data-ttu-id="96a2b-111">Learn about posting sales documents.</span><span class="sxs-lookup"><span data-stu-id="96a2b-111">Learn about posting sales documents.</span></span> |[<span data-ttu-id="96a2b-112">Posting Sales</span><span class="sxs-lookup"><span data-stu-id="96a2b-112">Posting Sales</span></span>](ui-post-sales.md) |
+| <span data-ttu-id="96a2b-113">Post multiple sales or purchase documents together, immediately or as scheduled.</span><span class="sxs-lookup"><span data-stu-id="96a2b-113">Post multiple sales or purchase documents together, immediately or as scheduled.</span></span>|[<span data-ttu-id="96a2b-114">Post Multiple Documents at the Same Time</span><span class="sxs-lookup"><span data-stu-id="96a2b-114">Post Multiple Documents at the Same Time</span></span>](ui-batch-posting.md)|
+| <span data-ttu-id="96a2b-115">Learn about posting general journals.</span><span class="sxs-lookup"><span data-stu-id="96a2b-115">Learn about posting general journals.</span></span> |[<span data-ttu-id="96a2b-116">Working with General Journals</span><span class="sxs-lookup"><span data-stu-id="96a2b-116">Working with General Journals</span></span>](ui-work-general-journals.md) |
+| <span data-ttu-id="96a2b-117">Preview, in a page, the entries that will be created when you post.</span><span class="sxs-lookup"><span data-stu-id="96a2b-117">Preview, in a page, the entries that will be created when you post.</span></span> |[<span data-ttu-id="96a2b-118">Preview Posting Results</span><span class="sxs-lookup"><span data-stu-id="96a2b-118">Preview Posting Results</span></span>](ui-how-preview-post-results.md) |
+| <span data-ttu-id="96a2b-119">Preview, in a report, the entries that will be created when you post.</span><span class="sxs-lookup"><span data-stu-id="96a2b-119">Preview, in a report, the entries that will be created when you post.</span></span> |[<span data-ttu-id="96a2b-120">View Test Reports Before Posting</span><span class="sxs-lookup"><span data-stu-id="96a2b-120">View Test Reports Before Posting</span></span>](ui-how-view-test-reports-posting.md) |
 
-## <a name="see-also"></a><span data-ttu-id="76a35-121">See Also</span><span class="sxs-lookup"><span data-stu-id="76a35-121">See Also</span></span>
-[<span data-ttu-id="76a35-122">Edit Posted Documents</span><span class="sxs-lookup"><span data-stu-id="76a35-122">Edit Posted Documents</span></span>](across-edit-posted-document.md)  
-[<span data-ttu-id="76a35-123">General Business Functionality</span><span class="sxs-lookup"><span data-stu-id="76a35-123">General Business Functionality</span></span>](ui-across-business-areas.md)  
-<span data-ttu-id="76a35-124">[Working with [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="76a35-124">[Working with [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)</span></span>
+## <a name="see-also"></a><span data-ttu-id="96a2b-121">See Also</span><span class="sxs-lookup"><span data-stu-id="96a2b-121">See Also</span></span>
+[<span data-ttu-id="96a2b-122">Edit Posted Documents</span><span class="sxs-lookup"><span data-stu-id="96a2b-122">Edit Posted Documents</span></span>](across-edit-posted-document.md)  
+[<span data-ttu-id="96a2b-123">General Business Functionality</span><span class="sxs-lookup"><span data-stu-id="96a2b-123">General Business Functionality</span></span>](ui-across-business-areas.md)  
+<span data-ttu-id="96a2b-124">[Working with [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="96a2b-124">[Working with [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)</span></span>
 
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

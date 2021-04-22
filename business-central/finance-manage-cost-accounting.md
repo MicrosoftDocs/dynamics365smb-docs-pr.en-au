@@ -8,34 +8,34 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 41c4a56ca390a53a8eabc6af6f5aaa4a3f6cc16d
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: 6505633f7535ed2b9f36d6670d4fdc1d6a6c4172
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5391832"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5788185"
 ---
-# <a name="accounting-for-costs"></a><span data-ttu-id="7bddf-104">Accounting for Costs</span><span class="sxs-lookup"><span data-stu-id="7bddf-104">Accounting for Costs</span></span>
-<span data-ttu-id="7bddf-105">Cost accounting is used to help you understand the costs of running a business.</span><span class="sxs-lookup"><span data-stu-id="7bddf-105">Cost accounting is used to help you understand the costs of running a business.</span></span> <span data-ttu-id="7bddf-106">To get started with cost accounting, see the following topics.</span><span class="sxs-lookup"><span data-stu-id="7bddf-106">To get started with cost accounting, see the following topics.</span></span>  
+# <a name="accounting-for-costs"></a><span data-ttu-id="10f15-104">Accounting for Costs</span><span class="sxs-lookup"><span data-stu-id="10f15-104">Accounting for Costs</span></span>
+<span data-ttu-id="10f15-105">Cost accounting is used to help you understand the costs of running a business.</span><span class="sxs-lookup"><span data-stu-id="10f15-105">Cost accounting is used to help you understand the costs of running a business.</span></span> <span data-ttu-id="10f15-106">To get started with cost accounting, see the following topics.</span><span class="sxs-lookup"><span data-stu-id="10f15-106">To get started with cost accounting, see the following topics.</span></span>  
 
-|<span data-ttu-id="7bddf-107">To</span><span class="sxs-lookup"><span data-stu-id="7bddf-107">To</span></span>|<span data-ttu-id="7bddf-108">See</span><span class="sxs-lookup"><span data-stu-id="7bddf-108">See</span></span>|  
+|<span data-ttu-id="10f15-107">To</span><span class="sxs-lookup"><span data-stu-id="10f15-107">To</span></span>|<span data-ttu-id="10f15-108">See</span><span class="sxs-lookup"><span data-stu-id="10f15-108">See</span></span>|  
 |--------|---------|  
-|<span data-ttu-id="7bddf-109">Understand the terminology that is used in cost accounting.</span><span class="sxs-lookup"><span data-stu-id="7bddf-109">Understand the terminology that is used in cost accounting.</span></span>|[<span data-ttu-id="7bddf-110">Terminology in Cost Accounting</span><span class="sxs-lookup"><span data-stu-id="7bddf-110">Terminology in Cost Accounting</span></span>](finance-terminology-in-cost-accounting.md)|  
-|<span data-ttu-id="7bddf-111">Get an overall understanding of cost accounting.</span><span class="sxs-lookup"><span data-stu-id="7bddf-111">Get an overall understanding of cost accounting.</span></span>|[<span data-ttu-id="7bddf-112">About Cost Accounting</span><span class="sxs-lookup"><span data-stu-id="7bddf-112">About Cost Accounting</span></span>](finance-about-cost-accounting.md)|  
-|<span data-ttu-id="7bddf-113">Configure the cost accounting system.</span><span class="sxs-lookup"><span data-stu-id="7bddf-113">Configure the cost accounting system.</span></span>|[<span data-ttu-id="7bddf-114">Setting Up Cost Accounting</span><span class="sxs-lookup"><span data-stu-id="7bddf-114">Setting Up Cost Accounting</span></span>](finance-set-up-cost-accounting.md)|  
-|<span data-ttu-id="7bddf-115">Transfer general ledger entries to cost entries.</span><span class="sxs-lookup"><span data-stu-id="7bddf-115">Transfer general ledger entries to cost entries.</span></span>|[<span data-ttu-id="7bddf-116">Transferring and Posting Cost Entries</span><span class="sxs-lookup"><span data-stu-id="7bddf-116">Transferring and Posting Cost Entries</span></span>](finance-transfer-and-post-cost-entries.md)|  
-|<span data-ttu-id="7bddf-117">Allocate costs.</span><span class="sxs-lookup"><span data-stu-id="7bddf-117">Allocate costs.</span></span>|[<span data-ttu-id="7bddf-118">Defining and Allocating Costs</span><span class="sxs-lookup"><span data-stu-id="7bddf-118">Defining and Allocating Costs</span></span>](finance-define-and-allocate-costs.md)|  
-|<span data-ttu-id="7bddf-119">Learn the processes in creating cost budgets.</span><span class="sxs-lookup"><span data-stu-id="7bddf-119">Learn the processes in creating cost budgets.</span></span>|[<span data-ttu-id="7bddf-120">Creating Cost Budgets</span><span class="sxs-lookup"><span data-stu-id="7bddf-120">Creating Cost Budgets</span></span>](finance-create-cost-budgets.md)|
-|<span data-ttu-id="7bddf-121">Cancel cost budget entries from the cost budget register.</span><span class="sxs-lookup"><span data-stu-id="7bddf-121">Cancel cost budget entries from the cost budget register.</span></span>|[<span data-ttu-id="7bddf-122">Deleting Cost Budget Entries</span><span class="sxs-lookup"><span data-stu-id="7bddf-122">Deleting Cost Budget Entries</span></span>](finance-how-to-delete-cost-budget-entries.md)|
+|<span data-ttu-id="10f15-109">Understand the terminology that is used in cost accounting.</span><span class="sxs-lookup"><span data-stu-id="10f15-109">Understand the terminology that is used in cost accounting.</span></span>|[<span data-ttu-id="10f15-110">Terminology in Cost Accounting</span><span class="sxs-lookup"><span data-stu-id="10f15-110">Terminology in Cost Accounting</span></span>](finance-terminology-in-cost-accounting.md)|  
+|<span data-ttu-id="10f15-111">Get an overall understanding of cost accounting.</span><span class="sxs-lookup"><span data-stu-id="10f15-111">Get an overall understanding of cost accounting.</span></span>|[<span data-ttu-id="10f15-112">About Cost Accounting</span><span class="sxs-lookup"><span data-stu-id="10f15-112">About Cost Accounting</span></span>](finance-about-cost-accounting.md)|  
+|<span data-ttu-id="10f15-113">Configure the cost accounting system.</span><span class="sxs-lookup"><span data-stu-id="10f15-113">Configure the cost accounting system.</span></span>|[<span data-ttu-id="10f15-114">Setting Up Cost Accounting</span><span class="sxs-lookup"><span data-stu-id="10f15-114">Setting Up Cost Accounting</span></span>](finance-set-up-cost-accounting.md)|  
+|<span data-ttu-id="10f15-115">Transfer general ledger entries to cost entries.</span><span class="sxs-lookup"><span data-stu-id="10f15-115">Transfer general ledger entries to cost entries.</span></span>|[<span data-ttu-id="10f15-116">Transferring and Posting Cost Entries</span><span class="sxs-lookup"><span data-stu-id="10f15-116">Transferring and Posting Cost Entries</span></span>](finance-transfer-and-post-cost-entries.md)|  
+|<span data-ttu-id="10f15-117">Allocate costs.</span><span class="sxs-lookup"><span data-stu-id="10f15-117">Allocate costs.</span></span>|[<span data-ttu-id="10f15-118">Defining and Allocating Costs</span><span class="sxs-lookup"><span data-stu-id="10f15-118">Defining and Allocating Costs</span></span>](finance-define-and-allocate-costs.md)|  
+|<span data-ttu-id="10f15-119">Learn the processes in creating cost budgets.</span><span class="sxs-lookup"><span data-stu-id="10f15-119">Learn the processes in creating cost budgets.</span></span>|[<span data-ttu-id="10f15-120">Creating Cost Budgets</span><span class="sxs-lookup"><span data-stu-id="10f15-120">Creating Cost Budgets</span></span>](finance-create-cost-budgets.md)|
+|<span data-ttu-id="10f15-121">Cancel cost budget entries from the cost budget register.</span><span class="sxs-lookup"><span data-stu-id="10f15-121">Cancel cost budget entries from the cost budget register.</span></span>|[<span data-ttu-id="10f15-122">Deleting Cost Budget Entries</span><span class="sxs-lookup"><span data-stu-id="10f15-122">Deleting Cost Budget Entries</span></span>](finance-how-to-delete-cost-budget-entries.md)|
 
-## <a name="see-related-training-at-microsoft-learn"></a><span data-ttu-id="7bddf-123">See Related Training at [Microsoft Learn](/learn/paths/use-cost-accounting-dynamics-365-business-central/)</span><span class="sxs-lookup"><span data-stu-id="7bddf-123">See Related Training at [Microsoft Learn](/learn/paths/use-cost-accounting-dynamics-365-business-central/)</span></span>
+## <a name="see-related-training-at-microsoft-learn"></a><span data-ttu-id="10f15-123">See Related Training at [Microsoft Learn](/learn/paths/use-cost-accounting-dynamics-365-business-central/)</span><span class="sxs-lookup"><span data-stu-id="10f15-123">See Related Training at [Microsoft Learn](/learn/paths/use-cost-accounting-dynamics-365-business-central/)</span></span>
 
-## <a name="see-also"></a><span data-ttu-id="7bddf-124">See Also</span><span class="sxs-lookup"><span data-stu-id="7bddf-124">See Also</span></span>  
-[<span data-ttu-id="7bddf-125">Finance</span><span class="sxs-lookup"><span data-stu-id="7bddf-125">Finance</span></span>](finance.md)  
-[<span data-ttu-id="7bddf-126">Managing Inventory Costs</span><span class="sxs-lookup"><span data-stu-id="7bddf-126">Managing Inventory Costs</span></span>](finance-manage-inventory-costs.md)  
-<span data-ttu-id="7bddf-127">[Working with [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="7bddf-127">[Working with [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)</span></span>
+## <a name="see-also"></a><span data-ttu-id="10f15-124">See Also</span><span class="sxs-lookup"><span data-stu-id="10f15-124">See Also</span></span>  
+[<span data-ttu-id="10f15-125">Finance</span><span class="sxs-lookup"><span data-stu-id="10f15-125">Finance</span></span>](finance.md)  
+[<span data-ttu-id="10f15-126">Managing Inventory Costs</span><span class="sxs-lookup"><span data-stu-id="10f15-126">Managing Inventory Costs</span></span>](finance-manage-inventory-costs.md)  
+<span data-ttu-id="10f15-127">[Working with [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="10f15-127">[Working with [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)</span></span>
 
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

@@ -10,48 +10,48 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: relationship, prospect
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: jswymer
-ms.openlocfilehash: cc50d1b619c2f9cef4d6cdb53aa8bf5d9892b56e
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: b57ae29a8825e29f5f6faaf536cb1411d74c127f
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5381399"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5782096"
 ---
-# <a name="manage-interactions-for-segments"></a><span data-ttu-id="a65bf-103">Manage Interactions for Segments</span><span class="sxs-lookup"><span data-stu-id="a65bf-103">Manage Interactions for Segments</span></span>
-<span data-ttu-id="a65bf-104">The **Segment** page is a type of worksheet where you can:</span><span class="sxs-lookup"><span data-stu-id="a65bf-104">The **Segment** page is a type of worksheet where you can:</span></span>
+# <a name="manage-interactions-for-segments"></a><span data-ttu-id="61ab5-103">Manage Interactions for Segments</span><span class="sxs-lookup"><span data-stu-id="61ab5-103">Manage Interactions for Segments</span></span>
+<span data-ttu-id="61ab5-104">The **Segment** page is a type of worksheet where you can:</span><span class="sxs-lookup"><span data-stu-id="61ab5-104">The **Segment** page is a type of worksheet where you can:</span></span>
 
-* <span data-ttu-id="a65bf-105">Create segments.</span><span class="sxs-lookup"><span data-stu-id="a65bf-105">Create segments.</span></span>
-* <span data-ttu-id="a65bf-106">Save the segmentation criteria you have used to select contacts.</span><span class="sxs-lookup"><span data-stu-id="a65bf-106">Save the segmentation criteria you have used to select contacts.</span></span>
-* <span data-ttu-id="a65bf-107">Log the segment and record interactions involving the contacts within the segment.</span><span class="sxs-lookup"><span data-stu-id="a65bf-107">Log the segment and record interactions involving the contacts within the segment.</span></span>
+* <span data-ttu-id="61ab5-105">Create segments.</span><span class="sxs-lookup"><span data-stu-id="61ab5-105">Create segments.</span></span>
+* <span data-ttu-id="61ab5-106">Save the segmentation criteria you have used to select contacts.</span><span class="sxs-lookup"><span data-stu-id="61ab5-106">Save the segmentation criteria you have used to select contacts.</span></span>
+* <span data-ttu-id="61ab5-107">Log the segment and record interactions involving the contacts within the segment.</span><span class="sxs-lookup"><span data-stu-id="61ab5-107">Log the segment and record interactions involving the contacts within the segment.</span></span>
 
-## <a name="segmenting"></a><span data-ttu-id="a65bf-108">Segmenting</span><span class="sxs-lookup"><span data-stu-id="a65bf-108">Segmenting</span></span>
-<span data-ttu-id="a65bf-109">There are several ways to create segments:</span><span class="sxs-lookup"><span data-stu-id="a65bf-109">There are several ways to create segments:</span></span>
+## <a name="segmenting"></a><span data-ttu-id="61ab5-108">Segmenting</span><span class="sxs-lookup"><span data-stu-id="61ab5-108">Segmenting</span></span>
+<span data-ttu-id="61ab5-109">There are several ways to create segments:</span><span class="sxs-lookup"><span data-stu-id="61ab5-109">There are several ways to create segments:</span></span>
 
-* <span data-ttu-id="a65bf-110">You can manually enter the contacts you want to include in the segment in the segment lines.</span><span class="sxs-lookup"><span data-stu-id="a65bf-110">You can manually enter the contacts you want to include in the segment in the segment lines.</span></span>
-* <span data-ttu-id="a65bf-111">You can select contacts.</span><span class="sxs-lookup"><span data-stu-id="a65bf-111">You can select contacts.</span></span>
-* <span data-ttu-id="a65bf-112">You can reuse a logged segment as the basis to create a new one.</span><span class="sxs-lookup"><span data-stu-id="a65bf-112">You can reuse a logged segment as the basis to create a new one.</span></span>
-* <span data-ttu-id="a65bf-113">You can reuse saved segmentation criteria.</span><span class="sxs-lookup"><span data-stu-id="a65bf-113">You can reuse saved segmentation criteria.</span></span>
+* <span data-ttu-id="61ab5-110">You can manually enter the contacts you want to include in the segment in the segment lines.</span><span class="sxs-lookup"><span data-stu-id="61ab5-110">You can manually enter the contacts you want to include in the segment in the segment lines.</span></span>
+* <span data-ttu-id="61ab5-111">You can select contacts.</span><span class="sxs-lookup"><span data-stu-id="61ab5-111">You can select contacts.</span></span>
+* <span data-ttu-id="61ab5-112">You can reuse a logged segment as the basis to create a new one.</span><span class="sxs-lookup"><span data-stu-id="61ab5-112">You can reuse a logged segment as the basis to create a new one.</span></span>
+* <span data-ttu-id="61ab5-113">You can reuse saved segmentation criteria.</span><span class="sxs-lookup"><span data-stu-id="61ab5-113">You can reuse saved segmentation criteria.</span></span>
 
-## <a name="interactions"></a><span data-ttu-id="a65bf-114">Interactions</span><span class="sxs-lookup"><span data-stu-id="a65bf-114">Interactions</span></span>
-<span data-ttu-id="a65bf-115">On the **Segment** page, you can create interactions for several contacts simultaneously.</span><span class="sxs-lookup"><span data-stu-id="a65bf-115">On the **Segment** page, you can create interactions for several contacts simultaneously.</span></span> <span data-ttu-id="a65bf-116">For example, you can merge a segment with a Microsoft Word document, so that you can send a letter to all the contacts in the segment.</span><span class="sxs-lookup"><span data-stu-id="a65bf-116">For example, you can merge a segment with a Microsoft Word document, so that you can send a letter to all the contacts in the segment.</span></span>
+## <a name="interactions"></a><span data-ttu-id="61ab5-114">Interactions</span><span class="sxs-lookup"><span data-stu-id="61ab5-114">Interactions</span></span>
+<span data-ttu-id="61ab5-115">On the **Segment** page, you can create interactions for several contacts simultaneously.</span><span class="sxs-lookup"><span data-stu-id="61ab5-115">On the **Segment** page, you can create interactions for several contacts simultaneously.</span></span> <span data-ttu-id="61ab5-116">For example, you can merge a segment with a Microsoft Word document, so that you can send a letter to all the contacts in the segment.</span><span class="sxs-lookup"><span data-stu-id="61ab5-116">For example, you can merge a segment with a Microsoft Word document, so that you can send a letter to all the contacts in the segment.</span></span>
 
-<span data-ttu-id="a65bf-117">You can specify information about the interaction for the segment on the **Segment** header.</span><span class="sxs-lookup"><span data-stu-id="a65bf-117">You can specify information about the interaction for the segment on the **Segment** header.</span></span> <span data-ttu-id="a65bf-118">For example, you can decide which interaction template you want to use for all the contacts, specify a description, a correspondence type, and so on.</span><span class="sxs-lookup"><span data-stu-id="a65bf-118">For example, you can decide which interaction template you want to use for all the contacts, specify a description, a correspondence type, and so on.</span></span> <span data-ttu-id="a65bf-119">However, you can modify this information in the segment line for each particular contact, for example, by specifying another description for one contact.</span><span class="sxs-lookup"><span data-stu-id="a65bf-119">However, you can modify this information in the segment line for each particular contact, for example, by specifying another description for one contact.</span></span> <span data-ttu-id="a65bf-120">If you are merging a segment with a Microsoft Word document, you can personalise the document to be sent for one or several of the contacts within the segment, for example, by adding individualised comments to the document.</span><span class="sxs-lookup"><span data-stu-id="a65bf-120">If you are merging a segment with a Microsoft Word document, you can personalize the document to be sent for one or several of the contacts within the segment, for example, by adding individualized comments to the document.</span></span>
+<span data-ttu-id="61ab5-117">You can specify information about the interaction for the segment on the **Segment** header.</span><span class="sxs-lookup"><span data-stu-id="61ab5-117">You can specify information about the interaction for the segment on the **Segment** header.</span></span> <span data-ttu-id="61ab5-118">For example, you can decide which interaction template you want to use for all the contacts, specify a description, a correspondence type, and so on.</span><span class="sxs-lookup"><span data-stu-id="61ab5-118">For example, you can decide which interaction template you want to use for all the contacts, specify a description, a correspondence type, and so on.</span></span> <span data-ttu-id="61ab5-119">However, you can modify this information in the segment line for each particular contact, for example, by specifying another description for one contact.</span><span class="sxs-lookup"><span data-stu-id="61ab5-119">However, you can modify this information in the segment line for each particular contact, for example, by specifying another description for one contact.</span></span> <span data-ttu-id="61ab5-120">If you are merging a segment with a Microsoft Word document, you can personalise the document to be sent for one or several of the contacts within the segment, for example, by adding individualised comments to the document.</span><span class="sxs-lookup"><span data-stu-id="61ab5-120">If you are merging a segment with a Microsoft Word document, you can personalize the document to be sent for one or several of the contacts within the segment, for example, by adding individualized comments to the document.</span></span>
 
-## <a name="logging"></a><span data-ttu-id="a65bf-121">Logging</span><span class="sxs-lookup"><span data-stu-id="a65bf-121">Logging</span></span>
-<span data-ttu-id="a65bf-122">On the **Segment** page, when you choose **Log**, the application records the interactions on the **Interaction Log Entry** page, and logs the segment.</span><span class="sxs-lookup"><span data-stu-id="a65bf-122">On the **Segment** page, when you choose **Log**, the application records the interactions on the **Interaction Log Entry** page, and logs the segment.</span></span> <span data-ttu-id="a65bf-123">After you have logged the segment, you can only find it on the **Logged Segments** page.</span><span class="sxs-lookup"><span data-stu-id="a65bf-123">After you have logged the segment, you can only find it on the **Logged Segments** page.</span></span>
+## <a name="logging"></a><span data-ttu-id="61ab5-121">Logging</span><span class="sxs-lookup"><span data-stu-id="61ab5-121">Logging</span></span>
+<span data-ttu-id="61ab5-122">On the **Segment** page, when you choose **Log**, the application records the interactions on the **Interaction Log Entry** page, and logs the segment.</span><span class="sxs-lookup"><span data-stu-id="61ab5-122">On the **Segment** page, when you choose **Log**, the application records the interactions on the **Interaction Log Entry** page, and logs the segment.</span></span> <span data-ttu-id="61ab5-123">After you have logged the segment, you can only find it on the **Logged Segments** page.</span><span class="sxs-lookup"><span data-stu-id="61ab5-123">After you have logged the segment, you can only find it on the **Logged Segments** page.</span></span>
 
-<span data-ttu-id="a65bf-124">On the **Logged Segments** page, you can decide to create a follow-up segment containing the same contacts as the segment you have logged.</span><span class="sxs-lookup"><span data-stu-id="a65bf-124">On the **Logged Segments** page, you can decide to create a follow-up segment containing the same contacts as the segment you have logged.</span></span>
+<span data-ttu-id="61ab5-124">On the **Logged Segments** page, you can decide to create a follow-up segment containing the same contacts as the segment you have logged.</span><span class="sxs-lookup"><span data-stu-id="61ab5-124">On the **Logged Segments** page, you can decide to create a follow-up segment containing the same contacts as the segment you have logged.</span></span>
 
-## <a name="see-also"></a><span data-ttu-id="a65bf-125">See Also</span><span class="sxs-lookup"><span data-stu-id="a65bf-125">See Also</span></span>
-[<span data-ttu-id="a65bf-126">Create Segments</span><span class="sxs-lookup"><span data-stu-id="a65bf-126">Create Segments</span></span>](marketing-how-create-segment.md)  
-[<span data-ttu-id="a65bf-127">Create Interactions for Segments</span><span class="sxs-lookup"><span data-stu-id="a65bf-127">Create Interactions for Segments</span></span>](marketing-how-create-interactions.md)  
-[<span data-ttu-id="a65bf-128">Managing Segments</span><span class="sxs-lookup"><span data-stu-id="a65bf-128">Managing Segments</span></span>](marketing-segments.md)  
-[<span data-ttu-id="a65bf-129">Recording Interactions With Contacts</span><span class="sxs-lookup"><span data-stu-id="a65bf-129">Recording Interactions With Contacts</span></span>](marketing-interactions.md)  
-[<span data-ttu-id="a65bf-130">Managing Sales Opportunities</span><span class="sxs-lookup"><span data-stu-id="a65bf-130">Managing Sales Opportunities</span></span>](marketing-manage-sales-opportunities.md)  
-[<span data-ttu-id="a65bf-131">Creating and Managing Contacts</span><span class="sxs-lookup"><span data-stu-id="a65bf-131">Creating and Managing Contacts</span></span>](marketing-contacts.md)  
-[<span data-ttu-id="a65bf-132">Working with Business Central</span><span class="sxs-lookup"><span data-stu-id="a65bf-132">Working with Business Central</span></span>](ui-work-product.md)
+## <a name="see-also"></a><span data-ttu-id="61ab5-125">See Also</span><span class="sxs-lookup"><span data-stu-id="61ab5-125">See Also</span></span>
+[<span data-ttu-id="61ab5-126">Create Segments</span><span class="sxs-lookup"><span data-stu-id="61ab5-126">Create Segments</span></span>](marketing-how-create-segment.md)  
+[<span data-ttu-id="61ab5-127">Create Interactions for Segments</span><span class="sxs-lookup"><span data-stu-id="61ab5-127">Create Interactions for Segments</span></span>](marketing-how-create-interactions.md)  
+[<span data-ttu-id="61ab5-128">Managing Segments</span><span class="sxs-lookup"><span data-stu-id="61ab5-128">Managing Segments</span></span>](marketing-segments.md)  
+[<span data-ttu-id="61ab5-129">Recording Interactions With Contacts</span><span class="sxs-lookup"><span data-stu-id="61ab5-129">Recording Interactions With Contacts</span></span>](marketing-interactions.md)  
+[<span data-ttu-id="61ab5-130">Managing Sales Opportunities</span><span class="sxs-lookup"><span data-stu-id="61ab5-130">Managing Sales Opportunities</span></span>](marketing-manage-sales-opportunities.md)  
+[<span data-ttu-id="61ab5-131">Creating and Managing Contacts</span><span class="sxs-lookup"><span data-stu-id="61ab5-131">Creating and Managing Contacts</span></span>](marketing-contacts.md)  
+[<span data-ttu-id="61ab5-132">Working with Business Central</span><span class="sxs-lookup"><span data-stu-id="61ab5-132">Working with Business Central</span></span>](ui-work-product.md)
 
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]
