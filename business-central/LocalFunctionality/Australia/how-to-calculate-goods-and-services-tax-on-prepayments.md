@@ -8,23 +8,23 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 6dfd2662d8567bd3ab6e979ad8281af7373cfdd1
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: 5eb0745789924268ca0b0e9f91edbc0dbf5c2bbe
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5377254"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5774454"
 ---
-# <a name="calculate-goods-and-services-tax-on-prepayments-in-the-australian-version"></a><span data-ttu-id="99c08-103">Calculate Goods and Services Tax on Prepayments in the Australian Version</span><span class="sxs-lookup"><span data-stu-id="99c08-103">Calculate Goods and Services Tax on Prepayments in the Australian Version</span></span>
+# <a name="calculate-goods-and-services-tax-on-prepayments-in-the-australian-version"></a><span data-ttu-id="52f0b-103">Calculate Goods and Services Tax on Prepayments in the Australian Version</span><span class="sxs-lookup"><span data-stu-id="52f0b-103">Calculate Goods and Services Tax on Prepayments in the Australian Version</span></span>
 
 [!INCLUDE [calculate-gst-prepayments](../includes/AUNZ/calculate-gst-prepayments.md)]
 
-## <a name="see-also"></a><span data-ttu-id="99c08-104">See Also</span><span class="sxs-lookup"><span data-stu-id="99c08-104">See Also</span></span>
+## <a name="see-also"></a><span data-ttu-id="52f0b-104">See Also</span><span class="sxs-lookup"><span data-stu-id="52f0b-104">See Also</span></span>
 
-<span data-ttu-id="99c08-105">[Invoicing Prepayments](../../finance-invoice-prepayments.md) </span><span class="sxs-lookup"><span data-stu-id="99c08-105">[Invoicing Prepayments](../../finance-invoice-prepayments.md) </span></span>  
-[<span data-ttu-id="99c08-106">Australia Local Functionality</span><span class="sxs-lookup"><span data-stu-id="99c08-106">Australia Local Functionality</span></span>](australia-local-functionality.md)
+<span data-ttu-id="52f0b-105">[Invoicing Prepayments](../../finance-invoice-prepayments.md) </span><span class="sxs-lookup"><span data-stu-id="52f0b-105">[Invoicing Prepayments](../../finance-invoice-prepayments.md) </span></span>  
+[<span data-ttu-id="52f0b-106">Australia Local Functionality</span><span class="sxs-lookup"><span data-stu-id="52f0b-106">Australia Local Functionality</span></span>](australia-local-functionality.md)
 
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]

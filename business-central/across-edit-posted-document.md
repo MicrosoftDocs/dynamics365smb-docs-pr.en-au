@@ -8,52 +8,52 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.reviewer: edupont
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 206c4ba161e1153c2c15628845579b06929aa939
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: ef23d98aaeeb63c17e836fd25b547703787264da
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5384882"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5776205"
 ---
-# <a name="edit-posted-documents"></a><span data-ttu-id="a7f76-103">Edit Posted Documents</span><span class="sxs-lookup"><span data-stu-id="a7f76-103">Edit Posted Documents</span></span>
+# <a name="edit-posted-documents"></a><span data-ttu-id="99d47-103">Edit Posted Documents</span><span class="sxs-lookup"><span data-stu-id="99d47-103">Edit Posted Documents</span></span>
 
-<span data-ttu-id="a7f76-104">Sometimes you have to update a posted document because information that is relevant to the document has changed.</span><span class="sxs-lookup"><span data-stu-id="a7f76-104">Sometimes you have to update a posted document because information that is relevant to the document has changed.</span></span> <span data-ttu-id="a7f76-105">On a posted sales document, this can be the shipping agent's package tracking number, for example.</span><span class="sxs-lookup"><span data-stu-id="a7f76-105">On a posted sales document, this can be the shipping agent's package tracking number, for example.</span></span> <span data-ttu-id="a7f76-106">On a posted purchase document, this can be a payment reference text.</span><span class="sxs-lookup"><span data-stu-id="a7f76-106">On a posted purchase document, this can be a payment reference text.</span></span>
+<span data-ttu-id="99d47-104">Sometimes you have to update a posted document because information that is relevant to the document has changed.</span><span class="sxs-lookup"><span data-stu-id="99d47-104">Sometimes you have to update a posted document because information that is relevant to the document has changed.</span></span> <span data-ttu-id="99d47-105">On a posted sales document, this can be the shipping agent's package tracking number, for example.</span><span class="sxs-lookup"><span data-stu-id="99d47-105">On a posted sales document, this can be the shipping agent's package tracking number, for example.</span></span> <span data-ttu-id="99d47-106">On a posted purchase document, this can be a payment reference text.</span><span class="sxs-lookup"><span data-stu-id="99d47-106">On a posted purchase document, this can be a payment reference text.</span></span>
 
-<span data-ttu-id="a7f76-107">You perform the change on an editable version of the original document, indicated by "**- Update**" in the page title.</span><span class="sxs-lookup"><span data-stu-id="a7f76-107">You perform the change on an editable version of the original document, indicated by "**- Update**" in the page title.</span></span> <span data-ttu-id="a7f76-108">The page contains a subset of the fields on the original document, of which some are non-editable fields that are shown for information only.</span><span class="sxs-lookup"><span data-stu-id="a7f76-108">The page contains a subset of the fields on the original document, of which some are non-editable fields that are shown for information only.</span></span>
+<span data-ttu-id="99d47-107">You perform the change on an editable version of the original document, indicated by "**- Update**" in the page title.</span><span class="sxs-lookup"><span data-stu-id="99d47-107">You perform the change on an editable version of the original document, indicated by "**- Update**" in the page title.</span></span> <span data-ttu-id="99d47-108">The page contains a subset of the fields on the original document, of which some are non-editable fields that are shown for information only.</span><span class="sxs-lookup"><span data-stu-id="99d47-108">The page contains a subset of the fields on the original document, of which some are non-editable fields that are shown for information only.</span></span>
 
-<span data-ttu-id="a7f76-109">The functionality is available for the following documents across all supported markets:</span><span class="sxs-lookup"><span data-stu-id="a7f76-109">The functionality is available for the following documents across all supported markets:</span></span>
+<span data-ttu-id="99d47-109">The functionality is available for the following documents across all supported markets:</span><span class="sxs-lookup"><span data-stu-id="99d47-109">The functionality is available for the following documents across all supported markets:</span></span>
 
-- <span data-ttu-id="a7f76-110">Posted Sales Shipment</span><span class="sxs-lookup"><span data-stu-id="a7f76-110">Posted Sales Shipment</span></span>
-- <span data-ttu-id="a7f76-111">Posted Purchase Invoice</span><span class="sxs-lookup"><span data-stu-id="a7f76-111">Posted Purchase Invoice</span></span>
-- <span data-ttu-id="a7f76-112">Posted Return Shipment</span><span class="sxs-lookup"><span data-stu-id="a7f76-112">Posted Return Shipment</span></span>
-- <span data-ttu-id="a7f76-113">Posted Return Receipt</span><span class="sxs-lookup"><span data-stu-id="a7f76-113">Posted Return Receipt</span></span>
+- <span data-ttu-id="99d47-110">Posted Sales Shipment</span><span class="sxs-lookup"><span data-stu-id="99d47-110">Posted Sales Shipment</span></span>
+- <span data-ttu-id="99d47-111">Posted Purchase Invoice</span><span class="sxs-lookup"><span data-stu-id="99d47-111">Posted Purchase Invoice</span></span>
+- <span data-ttu-id="99d47-112">Posted Return Shipment</span><span class="sxs-lookup"><span data-stu-id="99d47-112">Posted Return Shipment</span></span>
+- <span data-ttu-id="99d47-113">Posted Return Receipt</span><span class="sxs-lookup"><span data-stu-id="99d47-113">Posted Return Receipt</span></span>
 
-<span data-ttu-id="a7f76-114">The following additional documents can be edited in the specified countries or regions:</span><span class="sxs-lookup"><span data-stu-id="a7f76-114">The following additional documents can be edited in the specified countries or regions:</span></span>
+<span data-ttu-id="99d47-114">The following additional documents can be edited in the specified countries or regions:</span><span class="sxs-lookup"><span data-stu-id="99d47-114">The following additional documents can be edited in the specified countries or regions:</span></span>
 
-- <span data-ttu-id="a7f76-115">ES: Posted Sales Invoice, Posted Sales CR/Adj Note, Posted Purchase CR/Adj Note</span><span class="sxs-lookup"><span data-stu-id="a7f76-115">ES: Posted Sales Invoice, Posted Sales Credit Memo, Posted Purchase Credit Memo</span></span>
-- <span data-ttu-id="a7f76-116">APAC: Posted Sales CR/Adj Note, Posted Purchase CR/Adj Note</span><span class="sxs-lookup"><span data-stu-id="a7f76-116">APAC: Posted Sales Credit Memo, Posted Purchase Credit Memo</span></span>
-- <span data-ttu-id="a7f76-117">RU: Posted Sales CR/Adj Note</span><span class="sxs-lookup"><span data-stu-id="a7f76-117">RU: Posted Sales Credit Memo</span></span>
-- <span data-ttu-id="a7f76-118">IT: Posted Transfer Shipment, Posted Service Shipment</span><span class="sxs-lookup"><span data-stu-id="a7f76-118">IT: Posted Transfer Shipment, Posted Service Shipment</span></span>
+- <span data-ttu-id="99d47-115">ES: Posted Sales Invoice, Posted Sales CR/Adj Note, Posted Purchase CR/Adj Note</span><span class="sxs-lookup"><span data-stu-id="99d47-115">ES: Posted Sales Invoice, Posted Sales Credit Memo, Posted Purchase Credit Memo</span></span>
+- <span data-ttu-id="99d47-116">APAC: Posted Sales CR/Adj Note, Posted Purchase CR/Adj Note</span><span class="sxs-lookup"><span data-stu-id="99d47-116">APAC: Posted Sales Credit Memo, Posted Purchase Credit Memo</span></span>
+- <span data-ttu-id="99d47-117">RU: Posted Sales CR/Adj Note</span><span class="sxs-lookup"><span data-stu-id="99d47-117">RU: Posted Sales Credit Memo</span></span>
+- <span data-ttu-id="99d47-118">IT: Posted Transfer Shipment, Posted Service Shipment</span><span class="sxs-lookup"><span data-stu-id="99d47-118">IT: Posted Transfer Shipment, Posted Service Shipment</span></span>
 
-## <a name="to-edit-a-posted-sales-shipment"></a><span data-ttu-id="a7f76-119">To edit a posted sales shipment</span><span class="sxs-lookup"><span data-stu-id="a7f76-119">To edit a posted sales shipment</span></span>
+## <a name="to-edit-a-posted-sales-shipment"></a><span data-ttu-id="99d47-119">To edit a posted sales shipment</span><span class="sxs-lookup"><span data-stu-id="99d47-119">To edit a posted sales shipment</span></span>
 
-<span data-ttu-id="a7f76-120">The following explains how to edit a posted sales shipment.</span><span class="sxs-lookup"><span data-stu-id="a7f76-120">The following explains how to edit a posted sales shipment.</span></span> <span data-ttu-id="a7f76-121">The steps are similar for the other supported documents.</span><span class="sxs-lookup"><span data-stu-id="a7f76-121">The steps are similar for the other supported documents.</span></span>
+<span data-ttu-id="99d47-120">The following explains how to edit a posted sales shipment.</span><span class="sxs-lookup"><span data-stu-id="99d47-120">The following explains how to edit a posted sales shipment.</span></span> <span data-ttu-id="99d47-121">The steps are similar for the other supported documents.</span><span class="sxs-lookup"><span data-stu-id="99d47-121">The steps are similar for the other supported documents.</span></span>
 
-1. <span data-ttu-id="a7f76-122">Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Posted Sales Shipments**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="a7f76-122">Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Posted Sales Shipments**, and then choose the related link.</span></span>
-2. <span data-ttu-id="a7f76-123">Select the document that you want to edit, and then choose the **Update Document** action.</span><span class="sxs-lookup"><span data-stu-id="a7f76-123">Select the document that you want to edit, and then choose the **Update Document** action.</span></span> <span data-ttu-id="a7f76-124">Alternatively, open the document and then choose the action.</span><span class="sxs-lookup"><span data-stu-id="a7f76-124">Alternatively, open the document and then choose the action.</span></span>
-3. <span data-ttu-id="a7f76-125">On the **Posted Sales Shipment - Update** page, edit the **Package Tracking No.**</span><span class="sxs-lookup"><span data-stu-id="a7f76-125">On the **Posted Sales Shipment - Update** page, edit the **Package Tracking No.**</span></span> <span data-ttu-id="a7f76-126">field, for example.</span><span class="sxs-lookup"><span data-stu-id="a7f76-126">field, for example.</span></span>
-4. <span data-ttu-id="a7f76-127">Choose the **OK** button.</span><span class="sxs-lookup"><span data-stu-id="a7f76-127">Choose the **OK** button.</span></span>
+1. <span data-ttu-id="99d47-122">Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Posted Sales Shipments**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="99d47-122">Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Posted Sales Shipments**, and then choose the related link.</span></span>
+2. <span data-ttu-id="99d47-123">Select the document that you want to edit, and then choose the **Update Document** action.</span><span class="sxs-lookup"><span data-stu-id="99d47-123">Select the document that you want to edit, and then choose the **Update Document** action.</span></span> <span data-ttu-id="99d47-124">Alternatively, open the document and then choose the action.</span><span class="sxs-lookup"><span data-stu-id="99d47-124">Alternatively, open the document and then choose the action.</span></span>
+3. <span data-ttu-id="99d47-125">On the **Posted Sales Shipment - Update** page, edit the **Package Tracking No.**</span><span class="sxs-lookup"><span data-stu-id="99d47-125">On the **Posted Sales Shipment - Update** page, edit the **Package Tracking No.**</span></span> <span data-ttu-id="99d47-126">field, for example.</span><span class="sxs-lookup"><span data-stu-id="99d47-126">field, for example.</span></span>
+4. <span data-ttu-id="99d47-127">Choose the **OK** button.</span><span class="sxs-lookup"><span data-stu-id="99d47-127">Choose the **OK** button.</span></span>
 
-<span data-ttu-id="a7f76-128">The posted sales shipment is updated.</span><span class="sxs-lookup"><span data-stu-id="a7f76-128">The posted sales shipment is updated.</span></span>
+<span data-ttu-id="99d47-128">The posted sales shipment is updated.</span><span class="sxs-lookup"><span data-stu-id="99d47-128">The posted sales shipment is updated.</span></span>
 
-## <a name="see-also"></a><span data-ttu-id="a7f76-129">See Also</span><span class="sxs-lookup"><span data-stu-id="a7f76-129">See Also</span></span>
+## <a name="see-also"></a><span data-ttu-id="99d47-129">See Also</span><span class="sxs-lookup"><span data-stu-id="99d47-129">See Also</span></span>
 
-[<span data-ttu-id="a7f76-130">General Business Functionality</span><span class="sxs-lookup"><span data-stu-id="a7f76-130">General Business Functionality</span></span>](ui-across-business-areas.md)  
-[<span data-ttu-id="a7f76-131">Purchasing</span><span class="sxs-lookup"><span data-stu-id="a7f76-131">Purchasing</span></span>](purchasing-manage-purchasing.md)  
-[<span data-ttu-id="a7f76-132">Posting Documents and Journals</span><span class="sxs-lookup"><span data-stu-id="a7f76-132">Posting Documents and Journals</span></span>](ui-post-documents-journals.md)  
-<span data-ttu-id="a7f76-133">[Working with [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="a7f76-133">[Working with [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)</span></span>  
+[<span data-ttu-id="99d47-130">General Business Functionality</span><span class="sxs-lookup"><span data-stu-id="99d47-130">General Business Functionality</span></span>](ui-across-business-areas.md)  
+[<span data-ttu-id="99d47-131">Purchasing</span><span class="sxs-lookup"><span data-stu-id="99d47-131">Purchasing</span></span>](purchasing-manage-purchasing.md)  
+[<span data-ttu-id="99d47-132">Posting Documents and Journals</span><span class="sxs-lookup"><span data-stu-id="99d47-132">Posting Documents and Journals</span></span>](ui-post-documents-journals.md)  
+<span data-ttu-id="99d47-133">[Working with [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="99d47-133">[Working with [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)</span></span>  
 
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

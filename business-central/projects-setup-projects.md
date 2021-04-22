@@ -8,37 +8,37 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: projects
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: ae031822f6d52e3fc066935cadab1d2e2ae924ac
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: 7d2751a75de909e0c2d0e5d081d33a16b8d578ba
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5388307"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5780315"
 ---
-# <a name="setting-up-project-management"></a><span data-ttu-id="11656-103">Setting Up Project Management</span><span class="sxs-lookup"><span data-stu-id="11656-103">Setting Up Project Management</span></span>
-<span data-ttu-id="11656-104">Before you can use [!INCLUDE[prod_short](includes/prod_short.md)] to manage projects, you must set up resources, time sheets, and jobs.</span><span class="sxs-lookup"><span data-stu-id="11656-104">Before you can use [!INCLUDE[prod_short](includes/prod_short.md)] to manage projects, you must set up resources, time sheets, and jobs.</span></span>
+# <a name="setting-up-project-management"></a><span data-ttu-id="37367-103">Setting Up Project Management</span><span class="sxs-lookup"><span data-stu-id="37367-103">Setting Up Project Management</span></span>
+<span data-ttu-id="37367-104">Before you can use [!INCLUDE[prod_short](includes/prod_short.md)] to manage projects, you must set up resources, time sheets, and jobs.</span><span class="sxs-lookup"><span data-stu-id="37367-104">Before you can use [!INCLUDE[prod_short](includes/prod_short.md)] to manage projects, you must set up resources, time sheets, and jobs.</span></span>
 
-<span data-ttu-id="11656-105">Then you can create jobs and schedule resources for projects as well as manage budgets and track machine and employee hours with time sheets.</span><span class="sxs-lookup"><span data-stu-id="11656-105">Then you can create jobs and schedule resources for projects as well as manage budgets and track machine and employee hours with time sheets.</span></span> <span data-ttu-id="11656-106">For more information, see [Managing Projects](projects-manage-projects.md).</span><span class="sxs-lookup"><span data-stu-id="11656-106">For more information, see [Managing Projects](projects-manage-projects.md).</span></span>  
+<span data-ttu-id="37367-105">Then you can create jobs and schedule resources for projects as well as manage budgets and track machine and employee hours with time sheets.</span><span class="sxs-lookup"><span data-stu-id="37367-105">Then you can create jobs and schedule resources for projects as well as manage budgets and track machine and employee hours with time sheets.</span></span> <span data-ttu-id="37367-106">For more information, see [Managing Projects](projects-manage-projects.md).</span><span class="sxs-lookup"><span data-stu-id="37367-106">For more information, see [Managing Projects](projects-manage-projects.md).</span></span>  
 
-<span data-ttu-id="11656-107">The following table describes a sequence of tasks, with links to the topics that describe them.</span><span class="sxs-lookup"><span data-stu-id="11656-107">The following table describes a sequence of tasks, with links to the topics that describe them.</span></span>
+<span data-ttu-id="37367-107">The following table describes a sequence of tasks, with links to the topics that describe them.</span><span class="sxs-lookup"><span data-stu-id="37367-107">The following table describes a sequence of tasks, with links to the topics that describe them.</span></span>
 
-| <span data-ttu-id="11656-108">To</span><span class="sxs-lookup"><span data-stu-id="11656-108">To</span></span> | <span data-ttu-id="11656-109">See</span><span class="sxs-lookup"><span data-stu-id="11656-109">See</span></span> |
+| <span data-ttu-id="37367-108">To</span><span class="sxs-lookup"><span data-stu-id="37367-108">To</span></span> | <span data-ttu-id="37367-109">See</span><span class="sxs-lookup"><span data-stu-id="37367-109">See</span></span> |
 | --- | --- |
-| <span data-ttu-id="11656-110">Set up project management.</span><span class="sxs-lookup"><span data-stu-id="11656-110">Set up project management.</span></span>|[<span data-ttu-id="11656-111">Set general information for jobs</span><span class="sxs-lookup"><span data-stu-id="11656-111">Set general information for jobs</span></span>](projects-how-setup-jobs.md#to-set-general-information-for-jobs)|
-| <span data-ttu-id="11656-112">Set up your resources and the related costs and prices, either for individual resources, resource groups, or for all available resources of the company.</span><span class="sxs-lookup"><span data-stu-id="11656-112">Set up your resources and the related costs and prices, either for individual resources, resource groups, or for all available resources of the company.</span></span> |[<span data-ttu-id="11656-113">Set Up Resources</span><span class="sxs-lookup"><span data-stu-id="11656-113">Set Up Resources</span></span>](projects-how-setup-resources.md) |
-| <span data-ttu-id="11656-114">Enable resources to report time usage for an individual or a machine and enable a manager to review the usage and its allocation.</span><span class="sxs-lookup"><span data-stu-id="11656-114">Enable resources to report time usage for an individual or a machine and enable a manager to review the usage and its allocation.</span></span> |[<span data-ttu-id="11656-115">Set Up Time Sheets</span><span class="sxs-lookup"><span data-stu-id="11656-115">Set Up Time Sheets</span></span>](projects-how-setup-time-sheets.md) |
-| <span data-ttu-id="11656-116">Create job cards and prepare job tasks.</span><span class="sxs-lookup"><span data-stu-id="11656-116">Create job cards and prepare job tasks.</span></span> <span data-ttu-id="11656-117">Set up prices for job items and job resources and define job posting groups.</span><span class="sxs-lookup"><span data-stu-id="11656-117">Set up prices for job items and job resources and define job posting groups.</span></span> |[<span data-ttu-id="11656-118">Set Up Jobs</span><span class="sxs-lookup"><span data-stu-id="11656-118">Set Up Jobs</span></span>](projects-how-setup-jobs.md) |
+| <span data-ttu-id="37367-110">Set up project management.</span><span class="sxs-lookup"><span data-stu-id="37367-110">Set up project management.</span></span>|[<span data-ttu-id="37367-111">Set general information for jobs</span><span class="sxs-lookup"><span data-stu-id="37367-111">Set general information for jobs</span></span>](projects-how-setup-jobs.md#to-set-general-information-for-jobs)|
+| <span data-ttu-id="37367-112">Set up your resources and the related costs and prices, either for individual resources, resource groups, or for all available resources of the company.</span><span class="sxs-lookup"><span data-stu-id="37367-112">Set up your resources and the related costs and prices, either for individual resources, resource groups, or for all available resources of the company.</span></span> |[<span data-ttu-id="37367-113">Set Up Resources</span><span class="sxs-lookup"><span data-stu-id="37367-113">Set Up Resources</span></span>](projects-how-setup-resources.md) |
+| <span data-ttu-id="37367-114">Enable resources to report time usage for an individual or a machine and enable a manager to review the usage and its allocation.</span><span class="sxs-lookup"><span data-stu-id="37367-114">Enable resources to report time usage for an individual or a machine and enable a manager to review the usage and its allocation.</span></span> |[<span data-ttu-id="37367-115">Set Up Time Sheets</span><span class="sxs-lookup"><span data-stu-id="37367-115">Set Up Time Sheets</span></span>](projects-how-setup-time-sheets.md) |
+| <span data-ttu-id="37367-116">Create job cards and prepare job tasks.</span><span class="sxs-lookup"><span data-stu-id="37367-116">Create job cards and prepare job tasks.</span></span> <span data-ttu-id="37367-117">Set up prices for job items and job resources and define job posting groups.</span><span class="sxs-lookup"><span data-stu-id="37367-117">Set up prices for job items and job resources and define job posting groups.</span></span> |[<span data-ttu-id="37367-118">Set Up Jobs</span><span class="sxs-lookup"><span data-stu-id="37367-118">Set Up Jobs</span></span>](projects-how-setup-jobs.md) |
 
-## <a name="see-also"></a><span data-ttu-id="11656-119">See Also</span><span class="sxs-lookup"><span data-stu-id="11656-119">See Also</span></span>
+## <a name="see-also"></a><span data-ttu-id="37367-119">See Also</span><span class="sxs-lookup"><span data-stu-id="37367-119">See Also</span></span>
 
-[<span data-ttu-id="11656-120">Managing Projects</span><span class="sxs-lookup"><span data-stu-id="11656-120">Managing Projects</span></span>](projects-manage-projects.md)  
-[<span data-ttu-id="11656-121">Video: How to create a job in Dynamics 365 Business Central</span><span class="sxs-lookup"><span data-stu-id="11656-121">Video: How to create a job in Dynamics 365 Business Central</span></span>](https://www.youtube.com/watch?v=VqaPWr7BWmw)  
-[<span data-ttu-id="11656-122">Finance</span><span class="sxs-lookup"><span data-stu-id="11656-122">Finance</span></span>](finance.md)  
-[<span data-ttu-id="11656-123">Purchasing</span><span class="sxs-lookup"><span data-stu-id="11656-123">Purchasing</span></span>](purchasing-manage-purchasing.md)  
-[<span data-ttu-id="11656-124">Sales</span><span class="sxs-lookup"><span data-stu-id="11656-124">Sales</span></span>](sales-manage-sales.md)  
-<span data-ttu-id="11656-125">[Working with [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="11656-125">[Working with [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)</span></span>  
+[<span data-ttu-id="37367-120">Managing Projects</span><span class="sxs-lookup"><span data-stu-id="37367-120">Managing Projects</span></span>](projects-manage-projects.md)  
+[<span data-ttu-id="37367-121">Video: How to create a job in Dynamics 365 Business Central</span><span class="sxs-lookup"><span data-stu-id="37367-121">Video: How to create a job in Dynamics 365 Business Central</span></span>](https://www.youtube.com/watch?v=VqaPWr7BWmw)  
+[<span data-ttu-id="37367-122">Finance</span><span class="sxs-lookup"><span data-stu-id="37367-122">Finance</span></span>](finance.md)  
+[<span data-ttu-id="37367-123">Purchasing</span><span class="sxs-lookup"><span data-stu-id="37367-123">Purchasing</span></span>](purchasing-manage-purchasing.md)  
+[<span data-ttu-id="37367-124">Sales</span><span class="sxs-lookup"><span data-stu-id="37367-124">Sales</span></span>](sales-manage-sales.md)  
+<span data-ttu-id="37367-125">[Working with [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="37367-125">[Working with [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)</span></span>  
 
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]
