@@ -6,14 +6,14 @@ ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 0ce204ebbd11e5a5c2c8fc0da1bd8ad463ab09c6
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: 4d791ced338caa3d3772d2d43c8a039672850581
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5377238"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5774436"
 ---
 # <a name="view-posted-tax-invoices-in-the-australian-version"></a>View Posted Tax Invoices in the Australian Version
 

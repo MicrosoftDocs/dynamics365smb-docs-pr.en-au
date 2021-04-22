@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: dab4a44cb0c280f406b8063ff7d29405b5e0ca51
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: 73edcd29f53bed3266d48cdab06820aa2feddcbd
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5377244"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5771545"
 ---
 # <a name="set-up-vendors-without-abn-for-calculating-the-withholding-tax-in-the-australian-version"></a>Set Up Vendors Without ABN for Calculating the Withholding Tax in the Australian Version
 

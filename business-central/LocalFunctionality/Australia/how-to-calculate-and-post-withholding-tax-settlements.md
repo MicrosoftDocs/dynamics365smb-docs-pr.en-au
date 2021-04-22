@@ -5,14 +5,14 @@ author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 255379a830e5bf0144144d0ec0b1a2886671330d
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: b5b2ada44b545d439299b8a82102008832659011
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5377256"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5773297"
 ---
 # <a name="calculate-and-post-withholding-tax-settlements-in-the-australian-version"></a>Calculate and Post Withholding Tax Settlements in the Australian Version
 

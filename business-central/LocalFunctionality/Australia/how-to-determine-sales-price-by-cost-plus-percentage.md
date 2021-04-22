@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 4ac4f801f68a0a8d4dcc5debcbdfa4e4e24e35fa
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: 2f08c2087ae33396ce29d6e47f0be136b5062a9e
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5379620"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5771567"
 ---
 # <a name="determine-sales-price-by-cost-plus-percentage-in-the-australian-version"></a>Determine Sales Price by Cost Plus Percentage in the Australian Version
 

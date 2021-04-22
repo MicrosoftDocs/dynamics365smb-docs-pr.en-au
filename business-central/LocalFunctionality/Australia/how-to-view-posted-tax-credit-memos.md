@@ -5,14 +5,14 @@ author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: aeefd8d64550a1c53d0d4f62e6a64dbacb04f1f3
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: b2832970e6b71c00a5a66cd66fe6ffeb22f3c5e5
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5377240"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5771543"
 ---
 # <a name="view-posted-tax-credit-memos-in-the-australian-version"></a>View Posted Tax CR/Adj Notes in the Australian Version
 
