@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 36c4d1498048b1bc510455afe11069387cb5c507
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 10483de41b1106914a1fa477309e5b39a3f41e6b
+ms.sourcegitcommit: cbd00f24fb471381bbfd64670237eda176bd78e5
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5774822"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "5947421"
 ---
 # <a name="track-items-with-serial-lot-and-package-numbers"></a>Track Items with Serial, Lot, and Package Numbers
 
@@ -120,9 +120,9 @@ The exact rules for handling item tracking numbers across your company are gover
 
     You can assign serial or lot numbers in the following ways:  
 
-    -   Automatically, by choosing **Assign Serial No.** or **Assign Lot No.** to assign serial/lot numbers from predefined number series.  
-    -   Automatically, by choosing **Create Customised SN** to assign serial/lot numbers based on number series you define specifically for the arrived items.  
-    -   Manually, by entering serial or lot numbers directly, for example, the vendor's numbers.  
+    -   Automatically, by choosing **Assign Serial No.** or **Assign Lot No.** to assign serial numbers from predefined number series.  
+    -   Automatically, by choosing **Create Customised SN** to assign serial numbers based on number series you define specifically for the arrived items.  
+    -   Manually, by entering serial or lot numbers directly, for example, the supplier's numbers.  
     -   Manually, by assigning a specific number to each item unit.  
 
 3. To assign automatically, choose the **Create Customised SN** action.  

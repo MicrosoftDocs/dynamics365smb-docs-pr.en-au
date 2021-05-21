@@ -10,17 +10,17 @@ ms.workload: na
 ms.search.keywords: trade, sell
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 7a7d013ab7a630703b38163252359ba803140da9
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 8c80cbbc4ed4feb088116577157407dd8fb98aaf
+ms.sourcegitcommit: c11ad91a389ed72532f5513654fdc7909b20aed9
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5773863"
+ms.lasthandoff: 04/22/2021
+ms.locfileid: "5935019"
 ---
 # <a name="sales"></a>Sales
 You create a sales invoice or sales order to record your agreement with a customer to sell certain products on certain delivery and payment terms.
 
-You must use sales orders if your sales process requires that you can ship parts of an order quantity, for example, because the full quantity is not available at once. If you sell items by delivering directly from your vendor to your customer, as a drop shipment, then you must also use sales orders. In all other aspects, sales orders work the same way as sales invoices. With sales orders, you can also use the Order Promising functionality to communicate certain delivery dates to your customers.  
+You must use sales orders if your sales process requires that you can ship parts of an order quantity, for example, because the full quantity is not available at once. If you sell items by delivering directly from your supplier to your customer, as a drop shipment, then you must also use sales orders. In all other aspects, sales orders work the same way as sales invoices. With sales orders, you can also use the Order Promising functionality to communicate certain delivery dates to your customers.  
 
 You can negotiate with the customer by first creating a sales quote, which you can convert to a sales invoice or sales order when you agree on the sale. After the customer has confirmed the agreement, you can send an order confirmation to record your obligation to deliver the products as agreed.
 
@@ -47,15 +47,14 @@ The following table describes a sequence of tasks, with links to the topics that
 |Understand what happens when you post sales documents.|[Posting Sales](ui-post-sales.md)|
 |Prepare to pick items for shipment.|[Print the Picking List](sales-how-print-picking-list.md)|
 |Set up standard sales or purchase lines that you can quickly insert on documents, for example, for recurring replenishment orders.|[Create Recurring Sales and Purchase Lines](sales-how-work-standard-lines.md)|  
-| Link a sales order to a purchase order to sell a drop-shipment item that will be delivered directly from your vendor to your customer. |[Make Drop Shipments](sales-how-drop-shipment.md) |
-|Have a catalogue item shipped from a vendor to your warehouse so that you can ship the item on to your customer.|[Create Special Orders](sales-how-to-create-special-orders.md)|
+| Link a sales order to a purchase order to sell a drop-shipment item that will be delivered directly from your supplier to your customer. |[Make Drop Shipments](sales-how-drop-shipment.md) |
+|Have a catalogue item shipped from a supplier to your warehouse so that you can ship the item on to your customer.|[Create Special Orders](sales-how-to-create-special-orders.md)|
 | Perform an action on an unpaid posted sales invoice to automatically create a CR/Adj note and either cancel the sales invoice or recreate it so you can make corrections. |[Correct or Cancel Unpaid Sales Invoices](sales-how-correct-cancel-sales-invoice.md) |
 | Create a sales CR/Adj note to revert a specific posted sales invoice to reflect which products the customer returns and which payment amount you will refund. |[Process Sales Returns or Cancellations](sales-how-process-sales-returns-cancellations.md) |
 |Manage your customer's commitment to purchase large quantities delivered in several shipments over time.|[Work with Blanket Sales Orders](sales-how-to-create-blanket-sales-orders.md)|
 |Sell assembly items that are not currently available by creating a linked assembly order to supply the full or partial sales order quantity.|[Sell Items Assembled to Order](assembly-how-to-sell-items-assembled-to-order.md)|
 |Invoice a customer once for multiple shipments by combining the shipments on one invoice.|[Combine Shipments on a Single Invoice](sales-how-to-combine-shipments-on-a-single-invoice.md)|
 |Inform your customers of order delivery dates by calculating either the capable-to-promise date or the available-to-promise date.|[Calculate Order Promising Dates](sales-how-to-calculate-order-promising-dates.md)|
-|Register your estimates for future sales, specified by item and by period, to function mainly as input to production planning.|[Create a Forecast](production-how-to-create-a-forecast.md)|
 |Resolve confusion when two or more records exist for the same customer.|[Merge Duplicate Records](sales-how-merge-duplicate-records.md)|
 
 ## <a name="see-related-training-at-microsoft-learn"></a>See Related Training at [Microsoft Learn](/learn/paths/sell-items-services-dynamics-365-business-central/)
