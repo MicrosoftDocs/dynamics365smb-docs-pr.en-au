@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: bill, sale, invoice, order
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: c43d72e3e87c5a9a9c8512c687a480f3bcd37a43
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: d0a48037123dee4a7c9282432cc2b357b335e794
+ms.sourcegitcommit: f9a190933eadf4608f591e2f1b04c69f1e5c0dc7
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5778805"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "6115573"
 ---
 # <a name="invoice-sales"></a>Invoice Sales
 
@@ -25,7 +25,7 @@ There are a couple of scenarios where you must use a sales order instead of a sa
 
 * If you need to ship only part of an order quantity, for example, because the full quantity is not on hand.  
 * If you ship products after you post the corresponding sales invoices.
-* If you sell items that your vendor delivers directly to your customer, known as drop shipment. For more information, see [Make Drop Shipments](sales-how-drop-shipment.md).  
+* If you sell items that your supplier delivers directly to your customer, known as drop shipment. For more information, see [Make Drop Shipments](sales-how-drop-shipment.md).  
 
 In all other aspects, sales orders and sales invoices work in the same way. For more information, see [Sell Products](sales-how-sell-products.md).
 
@@ -72,7 +72,7 @@ You can fill customer fields on the sales invoice in two ways depending on wheth
 6. In the **Quantity** field, enter how many units of the product, charge, or transaction that the line will record for the customer.  
 
     > [!NOTE]  
-    > If the item is of type **Service**, or the **Type** field contains **Resource**, then the quantity is a time unit, such as hours, as indicated in the **Unit of Measure Code** field on the line. For more information, see [Set Up Item Units of Measure](inventory-how-setup-units-of-measure.md)
+    > If the item is of type **Service**, or the **Type** field contains **Resource**, then the quantity is a time unit, such as hours, as indicated in the **Unit of Measurement Code** field on the line. For more information, see [Set Up Item Units of Measurement](inventory-how-setup-units-of-measure.md)
 
     The value in the **Line Amount** field is calculated as *Unit Price* x *Quantity*.  
 
@@ -113,7 +113,7 @@ Depending on your business needs, you can get paid and register that payment in 
 
 You can process the payments straight from the customer card. Use the **Register Customer Payments** action to get an overview of unpaid invoices for that customer. Then, mark the invoice as paid partially or in full. This payment reconciliation processes your customer payments by matching amounts received on your bank account with the related unpaid sales invoices, and then posts the payments. For more information, see [To reconcile payments individually](receivables-how-reconcile-customer-payments-list-unpaid-sales-documents.md#to-register-customer-payments-individually).  
 
-In business environments where the customer pays some time after delivery, according to the payment term, a posted sales invoice remains open (unpaid) until the Accounts Receivable department verifies that payment is received and applies the payment to the posted sales invoice. This can be done manually or automatically. For more information, see [Reconcile Customer Payments with the Cash Receipt Journal or from Customer Ledger Entries](receivables-how-apply-sales-transactions-manually.md) and [Reconcile Payments Using Automatic Application](receivables-how-reconcile-payments-auto-application.md).  
+In business environments where the customer pays some time after delivery, according to the payment term, a posted sales invoice remains open (unpaid) until the Sales Ledger department verifies that payment is received and applies the payment to the posted sales invoice. This can be done manually or automatically. For more information, see [Reconcile Customer Payments with the Cash Receipt Journal or from Customer Ledger Entries](receivables-how-apply-sales-transactions-manually.md) and [Reconcile Payments Using Automatic Application](receivables-how-reconcile-payments-auto-application.md).  
 
 In business environments where the customer pays immediately, for example by PayPal or cash, payment is recorded immediately when you post the sales invoice, that is, the posted sales invoice is closed as fully applied. You select the relevant method in the **Payment Method Code** field on the sales order. See under step 8. For electronic payments, such as PayPal, you must also fill in the **Payment Service** field. For more information, see [Enable Customer Payments Through Payment Services](sales-how-enable-payment-service-extensions.md).  
 
@@ -121,6 +121,10 @@ You can even create directly-paid invoices for non-registered customers by first
 
 > [!TIP]
 > If you want to send your customers reminders of overdue payments, you must set up reminder levels and terms. For more information, see [Set Up Reminder Terms and Levels](finance-setup-reminders.md).  
+
+## <a name="external-document-numbers"></a>External document numbers
+
+[!INCLUDE [ext-doc-no-sales](includes/ext-doc-no-sales.md)]
 
 ## <a name="see-related-training-at-microsoft-learn"></a>See Related Training at [Microsoft Learn](/learn/modules/invoicing-customers-dynamics-365-business-central/index)
 
@@ -132,7 +136,7 @@ You can even create directly-paid invoices for non-registered customers by first
 [Inventory](inventory-manage-inventory.md)  
 [Send Documents by Email](ui-how-send-documents-email.md)  
 [Collect Outstanding Balances](receivables-collect-outstanding-balances.md)  
-[Bulk Invoicing from Microsoft Bookings in Business Central ](finance-bookings.md)  
+[Bulk Invoicing from Microsoft Bookings in Business Central](finance-bookings.md)  
 [Working with [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
 
 

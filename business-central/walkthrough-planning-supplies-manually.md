@@ -10,16 +10,16 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: c993a8ad5a856ae45bd5ce7d258592b60ed2ccd3
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: c1ab3c48ae09b75ab9e54e0c9fe9afd49b833f09
+ms.sourcegitcommit: 0953171d39e1232a7c126142d68cac858234a20e
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5772062"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "6214686"
 ---
 # <a name="walkthrough-planning-supplies-manually"></a>Walkthrough: Planning Supplies Manually
 
-[!INCLUDE[complete_sample_data](includes/complete_sample_data.md)]  
+<!-- [!INCLUDE[complete_sample_data](includes/complete_sample_data.md)]   -->
 
 This walkthrough demonstrates the process of planning supply orders to fulfil new demand. You can initiate supply planning at fixed intervals, for example, every morning or every Monday, or when you are notified by sales or production, depending on the type of demand. In this walkthrough you will use the **Order Planning** page, a simple supply planning tool that is based on manual decision-making instead of parameter-based automatic planning.  
 
@@ -107,18 +107,18 @@ The **Order Planning** page can be accessed from several different locations:
 
 5.  In the **Supply From** field, select one of the following options according to the selected replenishment system:  
 
-    -   **Vendor** – For purchases  
+    -   **Supplier** – For purchases  
     -   **Location** – For transfers  
 
      If the field is not filled in, an error message will display when you try to create the supply orders.  
 
     > [!NOTE]  
-    >  If the components have a default vendor number set up on the item cards, the lines will be preset.  
+    >  If the components have a default supplier number set up on the item cards, the lines will be preset.  
 
 6.  Choose the **Supply From**  field.  
-7.  On the **Item Vendor Catalogue** page, choose the **New** action, and then select vendor **30000**.  
+7.  On the **Item Supplier Catalogue** page, choose the **New** action, and then select supplier **30000**.  
 8.  Choose the **OK** button to return to the **Order Planning** page.  
-9. Copy vendor **30000** to the other lines for loudspeaker components on this production order.  
+9. Copy supplier **30000** to the other lines for loudspeaker components on this production order.  
 
      You are now ready to create a purchase order.  
 
@@ -139,7 +139,7 @@ The **Order Planning** page can be accessed from several different locations:
 
      Sales order **2008** is for ten loudspeakers, item **LS-120**, ordered by John Haddock Insurance Co.  
 
-     The item's defined replenishment system and default vendor will display.  
+     The item's defined replenishment system and default supplier will display.  
 
     > [!NOTE]  
     >  At the bottom of the page, there are four information fields. In the **Earliest Date Available** field, the ten pieces that are needed will be available, on an inbound supply order, nine days later than the current due date. If this is too late for the customer, the **Available for Transfer** field shows 13 pieces of the item at another location. You will want to plan for this stock.  
@@ -158,7 +158,7 @@ The **Order Planning** page can be accessed from several different locations:
      The transfer order is now created and saved in the list as the last order in the list of open transfer orders.  
 
 ## <a name="planning-a-multilevel-production-order-to-fulfill-sales-demand"></a>Planning a Multilevel Production Order to Fulfill Sales Demand  
- In this procedure, you will plan to fulfil sales demand for a produced item with multiple product levels, each creating dependent production demand.  
+ In this procedure, you will plan to fulfil sales demand for a produced item with multiple product levels, each creating dependant production demand.  
 
 ### <a name="to-plan-multilevel-production-to-fulfill-sales-demand"></a>To plan multilevel production to fulfill sales demand  
 
@@ -231,7 +231,7 @@ The **Order Planning** page can be accessed from several different locations:
 
 ## <a name="see-also"></a>See Also  
  [Business Process Walkthroughs](walkthrough-business-process-walkthroughs.md)   
- [Walkthrough: Planning Supplies Automatically](walkthrough-planning-supplies-automatically.md)
+<!--  [Walkthrough: Planning Supplies Automatically](walkthrough-planning-supplies-automatically.md) -->
 
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

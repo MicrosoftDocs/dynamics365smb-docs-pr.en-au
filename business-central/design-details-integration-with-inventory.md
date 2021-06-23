@@ -8,22 +8,22 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2021
+ms.date: 06/08/2021
 ms.author: edupont
-ms.openlocfilehash: 95b0010064fc46213d7565e78319f273400fbac7
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 94eb1e0efa5c2a7ab54c46627b9d09ded6fae13f
+ms.sourcegitcommit: 0953171d39e1232a7c126142d68cac858234a20e
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5779640"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "6215161"
 ---
 # <a name="design-details-integration-with-inventory"></a>Design Details: Integration with Inventory
 The Warehouse Management application area and the Inventory application area interact with one another in physical inventory and in inventory or warehouse adjustment.  
   
 ## <a name="physical-inventory"></a>Physical Inventory  
- The **Whse. Phys. Inventory Journal** page is used with the **Phys. Inventory Journal** page for all advanced warehouse locations. The inventory on bin level is calculated, and a printed list is provided for the warehouse employee. The list shows which items in which bins must be counted.  
+ The **Whse. Phys. Stock Journal** page is used with the **Phys. Stock Journal** page for all advanced warehouse locations. The inventory on bin level is calculated, and a printed list is provided for the warehouse employee. The list shows which items in which bins must be counted.  
   
- The warehouse employee enters the counted quantity on the **Whse. Phys. Inventory Journal** page and then posts the journal.  
+ The warehouse employee enters the counted quantity on the **Whse. Phys. Stock Journal** page and then posts the journal.  
   
  If the counted quantity is greater than the quantity on the journal line, a movement is posted for this difference from the default adjustment bin to the counted bin. This increases the quantity in the counted bin and decreases the quantity in the default adjustment bin.  
   
@@ -31,7 +31,7 @@ The Warehouse Management application area and the Inventory application area int
   
  In advanced warehouse configurations, the value in the **Quantity (Calculated)** field is retrieved from item ledger entries and the value in the **Quantity (Phys. Inventory)** field is retrieved from warehouse entries, excluding the adjustment bin content. The **Quantity** field specifies the difference between the first two fields, which should be equal to the contents of the adjustment bin.  
   
- When you post the physical inventory journal, the inventory and the default adjustment bin are updated.  
+ When you post the physical stock journal, the inventory and the default adjustment bin are updated.  
   
 ### <a name="warehouse-adjustments-to-the-item-ledger"></a>Warehouse Adjustments to the Item Ledger  
  You use the **Item Journal** page and the **Calculate Whse. Adjustment** function to adjust inventory on the item ledger in accordance with an adjustment that has been made to the item quantity in a warehouse bin. To create a link between the inventory and the warehouse, you must define a default adjustment bin per location.  
