@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: costing methods, costing, item cost
-ms.date: 04/01/2021
+ms.date: 06/08/2021
 ms.author: bholtorf
-ms.openlocfilehash: 58ab2cab2e689af7668fb52d63c055079b4762c6
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: f8bb3bc0966e25e99213217501a5337f9440abfc
+ms.sourcegitcommit: 0953171d39e1232a7c126142d68cac858234a20e
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5788391"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "6215436"
 ---
 # <a name="design-details-change-the-costing-method-for-items"></a>Design Details: Change the Costing Method for Items
 
@@ -99,7 +99,7 @@ To make the new items fully useful you must manually copy some master data from 
 > [!NOTE]
 > This step does not consider quantities that are included in unshipped orders. For more information, see [Handle inventory quantities that are allocated to demand](design-details-changing-costing-methods.md#handle-inventory-quantities-that-are-allocated-to-demand). 
 
-Use a physical inventory journal to produce a list of the quantities in inventory. Depending on the warehouse location setup, use one of the following:
+Use a physical stock journal to produce a list of the quantities in inventory. Depending on the warehouse location setup, use one of the following:
 
 * Physical Invt. Journals
 * Whse. Phys. Invt. Journals
@@ -117,11 +117,11 @@ When creating assembly orders, use the information from the Physical Invt. journ
 |Field  |Value to enter  |
 |---------|---------|
 |Item No.     |The number of the new item.         |
-|Quantity     |The quantity in physical inventory journal.<br> **NOTE:** The quantities calculated by the physical inventory journals does not include the quantities that are on orders that have not yet shipped.          |
-|Variant Code     |The same as in physical inventory journal.          |
-|Location Code      |The same as in physical inventory journal.         |
-|Unit of Measure Code     |The same as in physical inventory journal.         |
-|Bin Code     |The same as in physical inventory journal.         |
+|Quantity     |The quantity in physical stock journal.<br> **NOTE:** The quantities calculated by the physical stock journals does not include the quantities that are on orders that have not yet shipped.          |
+|Variant Code     |The same as in physical stock journal.          |
+|Location Code      |The same as in physical stock journal.         |
+|Unit of Measurement Code     |The same as in physical stock journal.         |
+|Bin Code     |The same as in physical stock journal.         |
 
 #### <a name="lines"></a>Lines
 
@@ -130,9 +130,9 @@ When creating assembly orders, use the information from the Physical Invt. journ
 |Type     |Item         |
 |No.     |The number of the original item.         |
 |Quantity per     |1         |
-|Variant Code     |The same as in physical inventory journal.         |
-|Location Code      |The same as in physical inventory journal.         |
-|Unit of Measure Code     |The same as in physical inventory journal.         |
+|Variant Code     |The same as in physical stock journal.         |
+|Location Code      |The same as in physical stock journal.         |
+|Unit of Measurement Code     |The same as in physical stock journal.         |
 
 > [!NOTE]
 > An assembly order can handle only one SKU of an item at a time. You must create an assembly order for each combination of SKU that has a quantity in inventory.

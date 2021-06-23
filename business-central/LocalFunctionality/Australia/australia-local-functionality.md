@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.author: soalex
-ms.openlocfilehash: 6198800f241525e0560801a854c655e5f6c89423
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 178e5e4800210dc10e435f9c639ceee010fd7d0b
+ms.sourcegitcommit: 0953171d39e1232a7c126142d68cac858234a20e
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5773302"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "6216173"
 ---
 # <a name="australia-local-functionality"></a>Australia Local Functionality
 The following topics describe local functionality that is unique to the Australian version of [!INCLUDE[prod_short](../../includes/prod_short.md)].  
@@ -27,7 +27,7 @@ The following topics describe local functionality that is unique to the Australi
     * [Withholding Tax](withholding-tax.md) **Available Now**
     * [Set Up Withholding Tax](how-to-set-up-withholding-tax.md) **Available Now**
     * [Set Up Revenue Types for Withholding Tax](how-to-set-up-revenue-types-for-withholding-tax.md) **Available Now**
-    * [Set Up Vendors Without ABN for Calculating the Withholding Tax](how-to-set-up-vendors-without-abn-for-calculating-the-withholding-tax.md) **Available Now**
+    * [Set Up Suppliers Without ABN for Calculating the Withholding Tax](how-to-set-up-vendors-without-abn-for-calculating-the-withholding-tax.md) **Available Now**
     * [Calculate and Post Withholding Tax Settlements](how-to-calculate-and-post-withholding-tax-settlements.md) **Available Now**
     * [View Withholding Tax Entries](how-to-view-withholding-tax-entries.md) **Available Now**
     * [View Posted Tax Invoices](how-to-view-posted-tax-invoices.md) **Available Now**
@@ -54,6 +54,7 @@ The following topics describe local functionality that is unique to the Australi
     * [Addresses](addresses.md) **Available Now**
     * [Determine Sales Price by Cost Plus Percentage](how-to-determine-sales-price-by-cost-plus-percentage.md) **Available Now**
     * [Enter Australian Business Numbers](australian-business-numbers-and-adjustment-notes.md) **Available Now**
+    * [Payment Times Reporting](payment-times-reporting.md) **Available Now**
 
 ## <a name="see-also"></a>See Also
 

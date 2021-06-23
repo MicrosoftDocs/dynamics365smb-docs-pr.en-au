@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2021
+ms.date: 06/08/2021
 ms.author: edupont
-ms.openlocfilehash: e118b27d1bafc4de1ffc8d2db4597317942b6f65
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 6d418633eb884f0b8cfca2f46fc69103a8fabdb2
+ms.sourcegitcommit: 0953171d39e1232a7c126142d68cac858234a20e
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5777706"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "6215736"
 ---
 # <a name="design-details-table-structure"></a>Design Details: Table Structure
 To understand how dimension entries are stored and posted, it is important to understand the table structure.  
@@ -87,7 +87,7 @@ In addition to other dimension fields in the table, these fields are important.
 |---------------|----------------|  
 |17|**G/L Entry**|  
 |21|**Cust. Ledger Entry**|  
-|25|**Vendor Ledger Entry**|  
+|25|**Supplier Ledger Entry**|  
 |32|**Item Ledger Entry**|  
 |110|**Sales Shipment Header**|  
 |111|**Sales Shipment Line**|  
