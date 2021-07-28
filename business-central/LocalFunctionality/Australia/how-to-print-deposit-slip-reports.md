@@ -1,5 +1,5 @@
 ---
-title: Print Deposit Slip Reports in the Australian version
+title: Print Deposit Slip Reports [AU]
 description: The Deposit Slip report displays cash and cheque details in a format required by the bank in the Australian version.
 author: SorenGP
 ms.service: dynamics365-business-central
@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2021
+ms.date: 06/25/2021
 ms.author: edupont
-ms.openlocfilehash: 1e1b69c4bb65316a0135b0d3ed2274c2db765ddc
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 2a703732c22f83d331adef99cbb164912af571cc
+ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5771557"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "6320570"
 ---
 # <a name="print-deposit-slip-reports-in-the-australian-version"></a>Print Deposit Slip Reports in the Australian Version
 

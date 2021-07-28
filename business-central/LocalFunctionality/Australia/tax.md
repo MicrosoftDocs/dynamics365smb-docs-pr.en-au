@@ -1,25 +1,25 @@
 ---
 title: Australian Tax overview
-description: Tax functionality in Australia is described in several topics.
+description: This topic is an overview of articles that cover how to set up and use the tax functionality in Australia.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
-ms.date: 04/01/2021
+ms.date: 06/17/2021
 ms.author: edupont
-ms.openlocfilehash: 274542e77a3659a7467c257496f0beaee36cee2b
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: f3c1c877a27c954cad9c990c2d6640342b1bafa9
+ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5774434"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "6323527"
 ---
 # <a name="tax-overview"></a>Tax Overview
 
 For information about tax in Australia, see the following topics:  
 
 [Set Up Withholding Tax](how-to-set-up-withholding-tax.md)  
-[Set Up Vendors Without ABN for Calculating the Withholding Tax](how-to-set-up-vendors-without-abn-for-calculating-the-withholding-tax.md)  
+[Set Up Suppliers Without ABN for Calculating the Withholding Tax](how-to-set-up-vendors-without-abn-for-calculating-the-withholding-tax.md)  
 [Set Up Revenue Types for Withholding Tax](how-to-set-up-revenue-types-for-withholding-tax.md)    
 [Calculate and Post Withholding Tax Settlements](how-to-calculate-and-post-withholding-tax-settlements.md)  
 [View Withholding Tax Entries](how-to-view-withholding-tax-entries.md)  

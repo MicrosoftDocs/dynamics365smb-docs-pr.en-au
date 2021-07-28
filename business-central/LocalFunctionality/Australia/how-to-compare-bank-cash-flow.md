@@ -1,5 +1,5 @@
 ---
-title: Compare Bank Cash Flow in the Australian version
+title: Compare Bank Cash Flow [AU]
 description: You can use the Bank Detail Cashflow Compare report to compare the flow of cash in a particular bank for a specified period in the Australian version.
 author: SorenGP
 ms.service: dynamics365-business-central
@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2021
+ms.date: 06/25/2021
 ms.author: edupont
-ms.openlocfilehash: 9593489be05306ade2f9fd3dabce450a37f880f1
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 5d3157c353e1315fe1182a9b5fd123e84a81fa5b
+ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5777583"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "6320578"
 ---
 # <a name="compare-bank-cash-flow-in-the-australian-version"></a>Compare Bank Cash Flow in the Australian Version
 
