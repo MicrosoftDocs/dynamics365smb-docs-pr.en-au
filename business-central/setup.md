@@ -1,6 +1,6 @@
 ---
 title: Overview of Tasks to Set Up Business Central
-description: Outlines tasks to set up, initialise, and configure Business Central to suit your needs.
+description: Read an overview of the tasks to set up, initialise, and configure Business Central to suit your needs.
 author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: conceptual
@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: configure, initialize
-ms.date: 04/01/2021
+ms.date: 06/23/2021
 ms.author: edupont
-ms.openlocfilehash: 01354575a7d96017684fe885411be364058b57e4
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: c2edc726ef61f832e0db4ca93300c89342b400e0
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5781464"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6441430"
 ---
 # <a name="overview-of-tasks-to-set-up-prod_short"></a>Overview of Tasks to Set Up [!INCLUDE[prod_short](includes/prod_short.md)]
 
@@ -23,7 +23,7 @@ ms.locfileid: "5781464"
 
 For example, your chart of accounts is prefilled with a number of posting accounts ready for use. You can, of course, change the chart of accounts to suit your needs. For more information, see [Finance](finance.md).
 
-From the ![Sprocket icon to open the Settings menu](media/ui-experience/settings_icon_small.png) menu, you can access assisted setup guides that help you configure certain scenarios and add features to [!INCLUDE[prod_short](includes/prod_short.md)]. For information about how to access all assisted and manual setup pages, see [Getting Ready for Doing Business](ui-get-ready-business.md).  
+From the ![Sprocket icon to open the Settings menu.](media/ui-experience/settings_icon_small.png) menu, you can access assisted setup guides that help you configure certain scenarios and add features to [!INCLUDE[prod_short](includes/prod_short.md)]. For information about how to access all assisted and manual setup pages, see [Getting Ready for Doing Business](ui-get-ready-business.md).  
 
 > [!NOTE]
 > [!INCLUDE [ua-checklist](includes/ua-checklist.md)]
@@ -33,9 +33,9 @@ Some functionality, either general or for specific business processes, can be se
 | To | See |
 | --- | --- |
 | Set up payment methods, currencies, and the chart of accounts, and define rules and defaults for managing financial transactions. |[Setting Up Finance](finance-setup-finance.md) |
-| Set up your own and your vendors' bank accounts and enable services for importing and exporting bank files. |[Setting Up Banking](bank-setup-banking.md) |
+| Set up your own and your suppliers' bank accounts and enable services for importing and exporting bank files. |[Setting Up Banking](bank-setup-banking.md) |
 | Configure the rules and values that define your company's sales policies, register new customers, and set up how you communicate with customers. |[Setting Up Sales](sales-setup-sales.md) |
-| Configure the rules and values that define your company's purchasing policies, register new vendors, and prioritise your vendors for payment processing. |[Setting Up Purchasing](purchasing-setup-purchasing.md) |
+| Configure the rules and values that define your company's purchasing policies, register new suppliers, and prioritise your suppliers for payment processing. |[Setting Up Purchasing](purchasing-setup-purchasing.md) |
 | Configure the rules and values that define the company's inventory policies, set up locations if you keep inventory in multiple warehouses, and categorise your items to improve searching and sorting . |[Setting Up Inventory](inventory-setup-inventory.md) |
 |Specify default reports to be used for different document types.|[Report Selection in Business Central](across-report-selections.md)|
 | Set up resources, time sheets, and jobs to manage projects. |[Setting Up Project Management](projects-setup-projects.md) |
@@ -45,17 +45,17 @@ Some functionality, either general or for specific business processes, can be se
 |Establish standard services, symptoms, and fault codes and set up the service items, resources, and documentation needed to provide service to your customers.|[Setting Up Service Management](service-setup-service.md)|
 |Read best practices for setting items up for up inventory costing and supply planning.|[Setting Up Complex Application Areas Using Best Practices](set-up-complex-application-areas-using-best-practices.md)|
 |Improve the quality of implementation and shorten deployment time by using a toolset for setting up a new company using wizards, templates, worksheets, and customer questionnaires.|[Setting Up a Company With RapidStart Services](admin-set-up-a-company-with-rapidstart.md)|
-|Transfer customers, vendors, inventory, and bank accounts information from another system into [!INCLUDE[prod_short](includes/prod_short.md)]|[Importing Business Data from Other Finance Systems](across-import-data-configuration-packages.md).|
-|Use Business Central Outlook add-ins to see financial data related to customers and vendors or create and send financial documents, such as quotes and invoices.|[Using Business Central as Your Business Inbox in Outlook](admin-outlook.md)|
+|Transfer customers, suppliers, inventory, and bank accounts information from another system into [!INCLUDE[prod_short](includes/prod_short.md)]|[Importing Business Data from Other Finance Systems](across-import-data-configuration-packages.md).|
+|Use Business Central Outlook add-ins to see financial data related to customers and suppliers or create and send financial documents, such as quotes and invoices.|[Using Business Central as Your Business Inbox in Outlook](admin-outlook.md)|
 |Get insights into your Business Central data with Power BI and the Business Central content packs.|[Enabling Your Business Data for Power BI](admin-powerbi.md)|
 |Use your Business Central data as part of a workflow in Power Automate.|[Using Business Central in an Automated Workflow](across-how-use-financials-data-source-flow.md)|
 |Make your Business Central data available as a data source in Power Apps.|[Connecting to Your Business Central Data to Build a Business App Using Power Apps](across-how-use-financials-data-source-powerapps.md)|
 |Use dedicated Quickbooks migration guides.|[Changing from a QuickBooks App to Business Central](across-quickbooks-to-business-edition.md)|
 |Access your Business Central data from your mobile device.|[Getting Business Central on Your Mobile Device](install-mobile-app.md)|
 |Do bulk invoicing of appointments created in Bookings.|[Bulk Invoicing for Microsoft Bookings](finance-bookings.md)|
-|Set up an SMTP server to enable e-mail communication in and out of [!INCLUDE[prod_short](includes/prod_short.md)]| [Set Up Email Manually or Using the Assisted Setup](admin-how-setup-email.md)|
+|Set up an SMTP server to enable email communication in and out of [!INCLUDE[prod_short](includes/prod_short.md)]| [Set Up Email Manually or Using the Assisted Setup](admin-how-setup-email.md)|
 | Set up unique identification codes for records, such as cards, documents, and journal lines, to track them in the system. |[Create Number Series](ui-create-number-series.md) |
-|Set up and assign a base calendar to your company and its business partners, such as customers, vendors, or locations. Delivery and receipt dates on future sales order, purchase order, transfer order, and production order lines are then calculated according to the calendar's specified working days.|[Set Up Base Calendars](across-how-to-assign-base-calendars.md)|
+|Set up and assign a base calendar to your company and its business partners, such as customers, suppliers, or locations. Delivery and receipt dates on future sales order, purchase order, transfer order, and production order lines are then calculated according to the calendar's specified working days.|[Set Up Base Calendars](across-how-to-assign-base-calendars.md)|
 
 Some areas require you to be an administrator in your [!INCLUDE[prod_short](includes/prod_short.md)] subscription. For more information, see [Administration](admin-setup-and-administration.md).  
 
