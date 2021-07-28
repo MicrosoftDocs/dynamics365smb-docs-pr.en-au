@@ -1,19 +1,19 @@
 ---
-title: View Posted Tax Invoices in the Australian version
-description: In the Australian version of Business Central, you can use the Posted Sales Tax Invoice page and the Posted Purchase Tax Invoice page to view the details of posted sales tax invoices and posted purchase tax invoices.
+title: View Posted Tax Invoices [AU]
+description: Use the Posted GST Invoice page and Posted Purchase Tax Invoice page to view the details of posted GST invoices and posted purchase tax invoices.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.search.keywords: ''
-ms.date: 04/01/2021
+ms.date: 06/25/2021
 ms.author: edupont
-ms.openlocfilehash: 4d791ced338caa3d3772d2d43c8a039672850581
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: b8c5b2a4213e3584dec5bbb28e3101e6f4f8419c
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5774436"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6440492"
 ---
 # <a name="view-posted-tax-invoices-in-the-australian-version"></a>View Posted Tax Invoices in the Australian Version
 
@@ -23,7 +23,7 @@ The following procedure describes how to view the posted sales tax invoice, but 
 
 ## <a name="to-view-a-posted-sales-tax-invoice"></a>To view a posted sales tax invoice  
 
-1.  Choose the ![Lightbulb that opens the Tell Me feature](../../media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Posted GST Invoice**, and then choose the related link.  
+1.  Choose the ![Lightbulb that opens the Tell Me feature.](../../media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Posted GST Invoice**, and then choose the related link.  
 2.  View the FastTabs as described in the following table.  
 
     |FastTab|Description|  

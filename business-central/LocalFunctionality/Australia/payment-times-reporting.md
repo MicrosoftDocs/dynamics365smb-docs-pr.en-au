@@ -7,12 +7,12 @@ ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 06/07/2021
 ms.author: soalex
-ms.openlocfilehash: 557f4a03a13c51d4d70ad4a6c4c3412f855a2802
-ms.sourcegitcommit: 0953171d39e1232a7c126142d68cac858234a20e
+ms.openlocfilehash: c42a82b31ebacfe2c8638b559b5dc6c7611edc60
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "6216493"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6440488"
 ---
 # <a name="payment-times-reporting-in-the-australian-version"></a>Payment Times Reporting in the Australian Version
 
@@ -60,7 +60,7 @@ As mentioned above, many fields and much of the data needed for the report does 
 
 #### <a name="to-find-vendor-ledger-entries"></a>To find supplier ledger entries
 
-1. Choose the ![Lightbulb that opens the Tell Me feature](../../media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Supplier Ledger Entries**, and then choose the related link.  
+1. Choose the ![Lightbulb that opens the Tell Me feature.](../../media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Supplier Ledger Entries**, and then choose the related link.  
 2. Filter the view to include entries within the reporting period.
 3. Use the **Filter Totals** and use the **Date Filter** to specify a range that exceeds the reporting period. You can use this to exclude invoices from the list that have not yet been paid, by comparing the **Original Amount** and **Remaining Amount** fields. 
 4. Filter the list to show only invoices by setting a filter on **Document Type**.
