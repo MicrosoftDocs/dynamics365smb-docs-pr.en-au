@@ -24,9 +24,9 @@ You can take a physical inventory of your items by using physical inventory orde
 The **Physical Inventory Recording** report can be printed from each recording and contains empty quantity fields for entering the counted inventory. When a user is done counting, and the quantities are entered on the **Physical Inventory Recording** page, you choose the **Finish** action. This transfers the quantities to the related lines on the **Physical Inventory Order** page. Functionality ensures that no item count can be recorded twice.  
 
 > [!NOTE]
-> Using documents to perform a physical inventory provides more control and supports distributing the counting to multiple employees. You can also perform the task by using journals, such as the **Phys. Stock Journals** and **Whse. Phys. Stock Journals** pages. For more information, see [Count, Adjust, and Reclassify Inventory Using Journals](inventory-how-count-adjust-reclassify.md). This article describes how to perform a physical inventory using documents.
+> Using documents to perform a physical inventory provides more control and supports distributing the counting to multiple employees. You can also perform the task by using journals, such as the **Phys. Inventory Journals** and **Whse. Phys. Inventory Journals** pages. For more information, see [Count, Adjust, and Reclassify Inventory Using Journals](inventory-how-count-adjust-reclassify.md). This article describes how to perform a physical inventory using documents.
 >
-> If you are using zones, then you cannot use physical inventory orders. Instead, use the **Whse. Phys. Stock Journal** page to count your warehouse entries before synchronising them with item ledger entries.
+> If you are using zones, then you cannot use physical inventory orders. Instead, use the **Whse. Phys. Inventory Journal** page to count your warehouse entries before synchronising them with item ledger entries.
 
 Counting inventory by using documents consist of the following overall steps:
 

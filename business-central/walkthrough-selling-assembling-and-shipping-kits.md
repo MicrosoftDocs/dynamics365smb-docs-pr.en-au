@@ -140,7 +140,7 @@ When the sales order is later posted as fully invoiced, the sales order and the 
 
 1.  Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Whse. Item Journals**, and then choose the related link.  
 2.  Choose the **Batch Name** field, and then select the default journal.  
-3.  Create positive stock adjustments at WHITE location on the work date, January 23, by entering the following information.  
+3.  Create positive inventory adjustments at WHITE location on the work date, January 23, by entering the following information.  
 
     |**Item No.**|**Zone Code**|**Bin Code**|**Quantity**|  
     |-----------------------------------|---------------------------------------|--------------------------------------|------------------------------------|  
