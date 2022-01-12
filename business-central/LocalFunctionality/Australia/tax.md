@@ -5,14 +5,15 @@ author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
+ms.search.form: 11600,11601,11602,11603,11604,11605,11606,11607,11608,11609,11610,11611,11612,11613,11614,28040,28041,28042,28043,28044,28071,28072,28073,28074,28075,28076,28077,28078,28079,28080,28081,28082
 ms.date: 06/17/2021
 ms.author: edupont
-ms.openlocfilehash: f3c1c877a27c954cad9c990c2d6640342b1bafa9
-ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
+ms.openlocfilehash: cdc4642d6e3a460fdf501611a60d8ca154b57eff
+ms.sourcegitcommit: f7e46d0f7b16d3b41e751aa9f337da18d37c11db
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "6323527"
+ms.lasthandoff: 12/28/2021
+ms.locfileid: "7947058"
 ---
 # <a name="tax-overview"></a>Tax Overview
 

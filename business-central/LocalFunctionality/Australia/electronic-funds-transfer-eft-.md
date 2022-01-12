@@ -8,14 +8,15 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
+ms.search.form: 11615
 ms.date: 06/25/2021
 ms.author: bholtorf
-ms.openlocfilehash: e11f1ed0c939fec74b4a7b6674e535b74e6d1138
-ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
+ms.openlocfilehash: 8ff1fe8c3823a9012e0216f49d9094bb33ed4e88
+ms.sourcegitcommit: f7e46d0f7b16d3b41e751aa9f337da18d37c11db
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "6320580"
+ms.lasthandoff: 12/28/2021
+ms.locfileid: "7947090"
 ---
 # <a name="electronic-funds-transfer-eft-in-the-australian-version"></a>Electronic Funds Transfer (EFT) in the Australian Version
 

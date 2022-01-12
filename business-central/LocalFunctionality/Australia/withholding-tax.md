@@ -8,14 +8,15 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
+ms.search.form: 11600, 28040,28041,28042,28043,28044, 28164,28165,28166,28167
 ms.date: 06/17/2021
 ms.author: edupont
-ms.openlocfilehash: d298aa0b031198314cde39b2459daf6e67192d4e
-ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
+ms.openlocfilehash: 4104a43c16e7f15abcc73ecf9e90d5c1c54fd0ae
+ms.sourcegitcommit: f7e46d0f7b16d3b41e751aa9f337da18d37c11db
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "6323525"
+ms.lasthandoff: 12/28/2021
+ms.locfileid: "7947226"
 ---
 # <a name="withholding-tax-in-the-australian-version"></a>Withholding Tax in the Australian Version
 

@@ -8,14 +8,15 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
+ms.search.form: 28090,28091,28092,28093
 ms.date: 06/25/2021
 ms.author: bholtorf
-ms.openlocfilehash: dc83232cc9fba17996ee2edb403ec88867947243
-ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
+ms.openlocfilehash: ef187a126d1175e3b93f2d0e96dc4efb1fc5d1f3
+ms.sourcegitcommit: f7e46d0f7b16d3b41e751aa9f337da18d37c11db
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "6320576"
+ms.lasthandoff: 12/28/2021
+ms.locfileid: "7947063"
 ---
 # <a name="create-check-installments-in-the-australian-version"></a>Create Cheque instalments in the Australian Version
 

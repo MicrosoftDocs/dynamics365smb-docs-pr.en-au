@@ -5,14 +5,15 @@ author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
+ms.search.form: 17101
 ms.date: 06/25/2021
 ms.author: edupont
-ms.openlocfilehash: 0a539578bd45949987b9a15c068807b9fa3287c5
-ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
+ms.openlocfilehash: 91aa2701397a883cc3a25f8acfdfa2505f8c2ca3
+ms.sourcegitcommit: f7e46d0f7b16d3b41e751aa9f337da18d37c11db
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "6320582"
+ms.lasthandoff: 12/28/2021
+ms.locfileid: "7947162"
 ---
 # <a name="how-to-calculate-distribution-amounts-in-the-australian-version"></a>How to Calculate Distribution Amounts in the Australian Version
 
