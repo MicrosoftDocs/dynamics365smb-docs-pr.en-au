@@ -85,14 +85,14 @@ For each general ledger account, you must specify how general ledger amounts for
 
 4.  Close the **G/L Account Card** page.  
 
-### <a name="to-specify-exchange-rate-adjustment-method-for-vat-entries"></a>To specify exchange rate adjustment method for VAT entries  
+### <a name="to-specify-exchange-rate-adjustment-method-for-vat-entries"></a>To specify exchange rate adjustment method for GST entries  
 1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **General Ledger Setup**, and then choose the related link.  
-2. On the **General Ledger Setup** page, select the relevant method in the **VAT Exchange Rate Adjustment** field.  
-3. If you post in an additional reporting currency, you can specify in the **VAT Exchange Rate Adjustment** field how the accounts set up for VAT posting on the **VAT Posting Setup** page will be adjusted for exchange-rate fluctuations between LCY and the additional reporting currency.  
+2. On the **General Ledger Setup** page, select the relevant method in the **GST Exchange Rate Adjustment** field.  
+3. If you post in an additional reporting currency, you can specify in the **GST Exchange Rate Adjustment** field how the accounts set up for GST posting on the **GST Posting Setup** page will be adjusted for exchange-rate fluctuations between LCY and the additional reporting currency.  
 
-    When you run the **Adjust Exchange Rates** batch job, the adjustment exchange rate is identified on the **Currency Exchange Rate** page and then the amounts in the **Amount** and **Additional-Currency Amount** fields on the VAT entry are compared to determine if there is an exchange rate gain or loss. The batch job uses the option that you select in this field to determine how to post exchange rate gains or losses for VAT accounts.  
+    When you run the **Adjust Exchange Rates** batch job, the adjustment exchange rate is identified on the **Currency Exchange Rate** page and then the amounts in the **Amount** and **Additional-Currency Amount** fields on the GST entry are compared to determine if there is an exchange rate gain or loss. The batch job uses the option that you select in this field to determine how to post exchange rate gains or losses for GST accounts.  
 
-    You have the same options as with general ledger entries but in this case the entries adjusted will be the VAT entries. The following table shows the options to choose from.
+    You have the same options as with general ledger entries but in this case the entries adjusted will be the GST entries. The following table shows the options to choose from.
 
     |Field|Description|  
     |----------------------------------|---------------------------------------|  
@@ -115,7 +115,7 @@ After running the batch job, amounts on the following existing entries will be i
 
 - General ledger entries  
 - Item application entries  
-- VAT entries  
+- GST entries  
 - Job ledger entries  
 - Value entries  
 - Production order lines  

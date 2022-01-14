@@ -28,7 +28,7 @@ To use accounts for unrealised GST, follow these steps:
 2. On the **General Ledger Setup** page, select the **Unrealised GST** check box.
 3. Choose the **Search for Page or Report** icon ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), and enter **GST Posting Setup**.
 4. On the **GST Posting Setup** page, choose the GST posting group, and then choose the **Edit** action.
-5. In the **Unrealized VAT Type** field, choose an option to specify how to allocate payments to the invoice amount (excluding VAT) and the VAT amount itself, and how to transfer VAT amounts from the unrealized VAT account to the realized account. The following table describes the options.
+5. In the **Unrealized GST Type** field, choose an option to specify how to allocate payments to the invoice amount (excluding GST) and the GST amount itself, and how to transfer GST amounts from the unrealized GST account to the realized account. The following table describes the options.
 
 | Option | Description |
 | --- | --- |
@@ -36,10 +36,10 @@ To use accounts for unrealised GST, follow these steps:
 | Percentage | Payments covers both GST and the invoice amount in proportion to the payment's percentage of the remaining invoice amount. The paid GST amount is transferred from the unrealised GST account to the realised GST account. |
 | First | Payments cover GST first and then invoice amounts. In this case, the amount transferred from the unrealised GST account to the GST account will equal the amount of the payment until the total GST has been paid. |
 | Last | Payments cover the invoice amount first and then GST. In this case, no amount will be transferred from the unrealised GST account to the GST account until the total amount of the invoice, excluding GST, has been paid. |
-| First (Fully Paid) | Payments will cover VAT first (like the _First_ option), but no amount will be transferred to the VAT account until the full amount of VAT has been paid. |
-| Last (Fully Paid) | Payments will cover invoice amount first (like the _Last_ option), but no amount will be transferred to the VAT account until the full amount of VAT has been paid. |
+| First (Fully Paid) | Payments will cover GST first (like the _First_ option), but no amount will be transferred to the GST account until the full amount of GST has been paid. |
+| Last (Fully Paid) | Payments will cover invoice amount first (like the _Last_ option), but no amount will be transferred to the GST account until the full amount of GST has been paid. |
 
-6. In the **Sales VAT Unreal. Account** field, choose the account for unrealized sales VAT.
+6. In the **Sales GST Unreal. Account** field, choose the account for unrealized sales GST.
 
     > [!NOTE]  
     > The GST amount will be posted to this account, and stay there until the customer payment is posted. The amount is then transferred to the account for GST.

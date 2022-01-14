@@ -23,7 +23,7 @@ This topic describes the reports in [!INCLUDE[prod_short](includes/prod_short.md
 You can use the following reports :
 
 * The **EC Sales List** European Community (EC) Sales List report lists the value added tax (VAT) amounts that you have collected for sales to VAT-registered customers in the European Union (EU) countries.  
-* The **VAT Return** report includes VAT for sales and purchases to customers and from suppliers in all countries that use VAT.
+* The **GST Return** report includes VAT for sales and purchases to customers and from suppliers in all countries that use GST.
 
 If you want to view a complete history of GST entries, every posting that involves GST creates an entry on the **GST Entries** page. These entries are used to calculate your GST settlement amount, such as your payment and refund, for a specific period. To view GST entries, choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **GST Entries**, and then choose the related link.
 
@@ -39,7 +39,7 @@ The report includes one line for each type of transaction with the customer, and
 * B2B Services  
 * B2B Triangulated Goods  
 
-B2B goods and services specify whether you sold a good or a service, and are controlled by the **EU Service** setting in the GST posting setup. B2B Triangulated Goods indicate whether you engaged in trade with a 3rd party, and are controlled by the **EU 3-Party Trade** setting on sales documents, such as sales orders, invoices, CR/Adj notes, and so on.  
+B2B goods and services specify whether you sold a good or a service, and are controlled by the **EU Service** setting in the VAT posting setup. B2B Triangulated Goods indicate whether you engaged in trade with a 3rd party, and are controlled by the **EU 3-Party Trade** setting on sales documents, such as sales orders, invoices, CR/Adj notes, and so on.  
 
 After the tax authority reviews your report, they will send an email to the contact person for your company. In [!INCLUDE[prod_short](includes/prod_short.md)], the contact person is specified on the **Company Information** page. Before you submit the report, make sure that a contact person is chosen.
 
@@ -51,12 +51,12 @@ GST is calculated based on the GST posting setup and the GST posting groups that
 For the GST return, you can specify the entries to include:
 
 * Submit open transactions only, or open and closed. For example, this is useful when you prepare your final annual GST return.
-* Submit only entries from the specified periods, or also include entries from previous periods. This is useful for updating a VAT return that you have already submitted, for example, if a supplier sends you a late invoice.    
+* Submit only entries from the specified periods, or also include entries from previous periods. This is useful for updating a GST return that you have already submitted, for example, if a supplier sends you a late invoice.    
 
 ## <a name="to-connect-to-your-tax-authoritys-web-service"></a>To connect to your tax authority's web service
 [!INCLUDE[prod_short](includes/prod_short.md)] provides service connections to tax authority websites. For example, if you are in the UK, you can enable the **GovTalk** service connection to submit the EC Sales List and VAT Return reports electronically. If you want to submit the report manually, for example by entering your data on the tax authority's website, this is not required.   
 
-To report VAT to a tax authority electronically, you need to connect [!INCLUDE[prod_short](includes/prod_short.md)] to the tax authority's web service. This requires that you set up an account with your tax authority. When you have an account, you can enable a service connection that we provide in [!INCLUDE[prod_short](includes/prod_short.md)].
+To report GST to a tax authority electronically, you need to connect [!INCLUDE[prod_short](includes/prod_short.md)] to the tax authority's web service. This requires that you set up an account with your tax authority. When you have an account, you can enable a service connection that we provide in [!INCLUDE[prod_short](includes/prod_short.md)].
 
 1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Service Connections**, and then choose appropriate link.
 2. Fill in the required fields. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
@@ -70,12 +70,12 @@ To report VAT to a tax authority electronically, you need to connect [!INCLUDE[p
 3. Choose the number series to use for each report.  
 
 ## <a name="to-prepare-and-submit-a-vat-report"></a>To prepare and submit a GST report
-1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **EC Sales List** or **VAT Return**, and then choose the related link.  
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **EC Sales List** or **GST Return**, and then choose the related link.  
 2. Choose **New**, and then fill in the required fields. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 3. To generate the content of the report, choose the **Suggest Lines** action.  
 
     > [!NOTE]  
-    >   For the EC Sales List report, you can review the transactions included in the report lines before you submit the report. To do that, choose the line, and then choose the **Show VAT Entries** action.  
+    >   For the EC Sales List report, you can review the transactions included in the report lines before you submit the report. To do that, choose the line, and then choose the **Show GST Entries** action.  
 4. To validate and prepare the report for submission, choose the **Release** action.  
 
     > [!NOTE]  

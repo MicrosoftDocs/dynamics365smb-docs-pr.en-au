@@ -41,7 +41,7 @@ The following procedure describes how to create a fixed asset and then acquire i
 6. Follow the steps on the **Assisted Fixed Asset Acquisition** page to complete the automatic acquisition of the fixed asset.
 
 > [!NOTE]  
->   You can also post acquisition cost as credits. In that case, remember that the value in the **Acquisition Cost Incl. VAT** field must be with a minus sign to indicate a credit.
+>   You can also post acquisition cost as credits. In that case, remember that the value in the **Acquisition Cost Incl. GST** field must be with a minus sign to indicate a credit.
 
 When you choose **Finish**, the **Book Value** field on the **Fixed Asset Card** page is filled, indicating that the fixed asset has been acquired at the specified acquisition cost.  
 

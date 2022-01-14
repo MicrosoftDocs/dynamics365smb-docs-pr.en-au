@@ -60,7 +60,7 @@ If a payment discount has been calculated on the basis of an invoice amount that
 The following describes how to enable manual GST changes on sales documents. The steps are similar on the **Purchases & Payables Setup** page.
 
 1. On the **General Ledger Setup** page, specify a **Max. GST Difference Allowed** between the amount calculated by application and the manual amount.  
-2. On the **Sales & Receivables Setup** page, place a check mark in the **Allow Vat Difference** field.  
+2. On the **Sales & Receivables Setup** page, place a check mark in the **Allow GST Difference** field.  
 
 ### <a name="to-adjust-vat-for-a-sales-document"></a>To adjust GST for a sales document  
 1. Open the relevant sales order.  

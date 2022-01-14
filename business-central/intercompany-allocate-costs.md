@@ -20,7 +20,7 @@ ms.lasthandoff: 07/08/2021
 ms.locfileid: "6444263"
 ---
 # <a name="allocate-costs-to-intercompany-partners"></a>Allocate Costs to Intercompany Partners
-When you use intercompany postings to transfer documents between partner companies, the VAT-related settings (primarily the VAT business posting group) assigned to the customer or supplier accounts (associated with the intercompany Partner) control whether, and how, VAT is calculated and registered. You can also do cost distributions directly from a purchase order to partner companies. For example, if you register a purchase invoice from an external supplier and you want to distribute some or all of the costs to one or more intercompany partners.
+When you use intercompany postings to transfer documents between partner companies, the GST-related settings (primarily the GST business posting group) assigned to the customer or supplier accounts (associated with the intercompany Partner) control whether, and how, GST is calculated and registered. You can also do cost distributions directly from a purchase order to partner companies. For example, if you register a purchase invoice from an external supplier and you want to distribute some or all of the costs to one or more intercompany partners.
 
 You can allocate costs can be to one or more intercompany partners using the following:
 
