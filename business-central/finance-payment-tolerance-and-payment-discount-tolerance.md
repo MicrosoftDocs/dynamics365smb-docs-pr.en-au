@@ -7,15 +7,9 @@ ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: ''
+ms.search.form: '118, 314, 395'
 ms.date: 10/29/2021
 ms.author: edupont
-ms.openlocfilehash: eac371e873cc5b1d4a1927bccb8cee8d7e2f6e9f
-ms.sourcegitcommit: 428ba6385cb27475e8803c2a8967daa22cfe8879
-ms.translationtype: HT
-ms.contentlocale: en-AU
-ms.lasthandoff: 10/29/2021
-ms.locfileid: "7724745"
 ---
 # <a name="work-with-payment-tolerances-and-payment-discount-tolerances"></a>Work with Payment Tolerances and Payment Discount Tolerances
 You can set up a payment tolerance to close an invoice when the payment does not fully cover the amount on the invoice. For example, payment tolerances are typically for small amounts that would cost more to correct than to just accept. You can set up a payment discount tolerance to grant a payment discount after the payment discount date has passed.  
@@ -100,7 +94,7 @@ Scenarios with alternative A or B represent the following:
 |-------|----------|----------------|-----------------------|---------------------|--------------------------|------------------|----------|--------------------|------------------------|------------------------------|----------------------------|  
 |1|1,000|20|5|01/15/03|01/20/03|<=01/15/03|985|PaymentTolerance|Yes|0|-5|  
 |2|**1,000**|**20**|**5**|**01/15/03**|**01/20/03**|**<=01/15/03**|**980**|**None**|**Yes**|**0**|**0**|  
-|2A-2B GST Net Amt. (3)|1,000|20|5|01/15/03|c|<=01/15/03|975|PaymentTolerance|Yes|0|5|  
+|3|1,000|20|5|01/15/03|c|<=01/15/03|975|PaymentTolerance|Yes|0|5|  
 |4A|1,000|20|5|01/15/03|01/20/03|01/16/03 01/20/03|1005|PaymentDiscountTolerance|No, 25 on the Payment|20/-20|0|  
 |5A|1,000|20|5|01/15/03|01/20/03|01/16/03 01/20/03|1000|PaymentDiscountTolerance|No, 20 on the Payment|20/-20|0|  
 |6A|1,000|20|5|01/15/03|01/20/03|01/16/03 01/20/03|995|PaymentDiscountTolerance|No, 15 on the Payment|20/-20|0|  
