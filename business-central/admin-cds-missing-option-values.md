@@ -8,15 +8,15 @@ ms.reviewer: na
 ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.date: 06/14/2021
-ms.openlocfilehash: 894414ca22ec960c228f9519cb54d9044790a87b
-ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
+ms.openlocfilehash: df6bf07fad3b9029b1a033d6ec17a869004995ab
+ms.sourcegitcommit: 1508643075dafc25e9c52810a584b8df1d14b1dc
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "6324083"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "8049477"
 ---
 # <a name="handling-missing-option-values"></a>Handling Missing Option Values
-[!INCLUDE[prod_short](includes/cc_data_platform_banner.md)]
+
 
 This topic is intended for a technical audience. The processes it describes require the help of a developer.
 
@@ -28,14 +28,14 @@ The **Integration Table Mapping** page contains three fields that contain one or
 |----------------------------|--------------|----------------------|
 | Payment Terms: NET30       | 1            | Net 30               |
 | Payment Terms: 2%10NET30   | 2            | 2% 10; Net 30        |
-| Payment Terms: NET45       | 2A-2B GST Net Amt. (3)            | Net 45               |
-| Payment Terms: NET60       | Total Amounts Withheld From All Payments (4)            | Net 60               |
+| Payment Terms: NET45       | 3            | Net 45               |
+| Payment Terms: NET60       | 4            | Net 60               |
 | Shipment Method: FOB       | 1            | FOB                  |
 | Shipment Method: NOCHARGE  | 2            | No Charge            |
 | Shipping Agent: AIRBORNE   | 1            | Airborne             |
 | Shipping Agent: DHL        | 2            | DHL                  |
-| Shipping Agent: FEDEX      | 2A-2B GST Net Amt. (3)            | FedEx                |
-| Shipping Agent: UPS        | Total Amounts Withheld From All Payments (4)            | UPS                  |
+| Shipping Agent: FEDEX      | 3            | FedEx                |
+| Shipping Agent: UPS        | 4            | UPS                  |
 | Shipping Agent: POSTALMAIL | 5            | Postal Mail          |
 | Shipping Agent: FULLLOAD   | 6            | Full Load            |
 | Shipping Agent: WILLCALL   | Deferred Company Fund Instalment (7)            | Will Call            |
@@ -118,8 +118,8 @@ On the **Integration Table Mapping** page, choose the line for the **Payment Ter
 |--------------------------------|----------------|----------------------|
 | Payment Terms: NET30           | 1              | Net 30               |
 | Payment Terms: 2%10NET30       | 2              | 2% 10; Net 30        |
-| Payment Terms: NET45           | 2A-2B GST Net Amt. (3)              | Net 45               |
-| Payment Terms: NET60           | Total Amounts Withheld From All Payments (4)              | Net 60               | 
+| Payment Terms: NET45           | 3              | Net 45               |
+| Payment Terms: NET60           | 4              | Net 60               | 
 | **Payment Terms: CASH PAYME**  | **779800001**  | **Cash Payment**     |
 | **Payment Terms: TRANSFER**    | **779800002**  | **Transfer**         |
 
