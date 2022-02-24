@@ -1,26 +1,36 @@
 ---
-title: Adjust Settlement Exchange Rates for GST Entries (Australia)
-description: Use a batch job to settle GST entries according to the government exchange rate in the Australian version of Business Central.
+title: How to Adjust Settlement Exchange Rates for GST Entries
+description: You can use the Adjust Settlement Exch. Rates batch job to settle GST entries according to the government exchange rate as defined in the **Currency Exchange Rate** table.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: article
 ms.search.keywords: ''
-ms.date: 04/01/2021
-ms.author: edupont
-ms.openlocfilehash: 79ae7d57464c7deced06c73ff6ff26cac5da594f
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.date: 04/01/2020
+ms.author: sgroespe
+ms.openlocfilehash: 6cd4355f6798d72680e2e17f11181c1209ff20f8
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5776584"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3180801"
 ---
-# <a name="adjust-settlement-exchange-rates-for-vat-entries-in-the-australian-version"></a>Adjust Settlement Exchange Rates for GST Entries in the Australian Version
+# <a name="adjust-settlement-exchange-rates-for-vat-entries"></a>Adjust Settlement Exchange Rates for GST Entries
+You can use the **Adjust Settlement Exch. Rates** batch job to settle GST entries according to the government exchange rate as defined in the **Currency Exchange Rate** table.  
 
-[!INCLUDE [adjust-settlement-exchange-rates-vat-entries](../includes/AUNZ/adjust-settlement-exchange-rates-vat-entries.md)]
+## <a name="to-adjust-settlement-exchange-rates-for-vat"></a>To adjust settlement exchange rates for GST  
 
-## <a name="see-also"></a>See Also
+1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Adjust Settlement Exch. Rates**, and then choose the related link.  
+2.  Fill in the fields as described in the following table.  
 
-[Australia Local Functionality](australia-local-functionality.md)  
+    |Field|Description|  
+    |---------------------------------|---------------------------------------|  
+    |**Settlement Period**|Specifies the start date of the settlement period.|  
+    |**Ending Date**|Specifies the end date of the settlement period.|  
+    |**Posting Description**|Specifies the posting description.|  
+    |**Document No.**|Specifies the document number for which you want to settle GST entries.|  
+    |**Posting Date**|Specifies the posting date of the document.|  
+    |**Use Daily Settlement Exch. Rate**|Select if you want to use the daily settlement exchange rate.|  
 
+3.  Choose the **OK** button.  
 
-[!INCLUDE[footer-include](../../includes/footer-banner.md)]
+The GST entries are adjusted, and you can view them in the **GST Register** report.

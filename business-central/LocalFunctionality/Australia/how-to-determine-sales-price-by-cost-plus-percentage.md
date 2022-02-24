@@ -1,29 +1,60 @@
 ---
-title: Determine Sales Price by Cost Plus Percentage (AU)
+title: How to Determine Sales Price by Cost Plus Percentage
 description: Use the cost plus percentage function to set a sales price based on the cost of an item. The cost of the item can be calculated along with cost plus calculation. The discount will be based on this calculation.
+services: project-madeira
+ms.custom: en-CA, fr-CA
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2021
-ms.author: edupont
-ms.openlocfilehash: 2f08c2087ae33396ce29d6e47f0be136b5062a9e
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.date: 04/01/2020
+ms.author: sgroespe
+ms.openlocfilehash: e9f1953f5baee888ea55d2f356d5d498ae619491
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5771567"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3180794"
 ---
-# <a name="determine-sales-price-by-cost-plus-percentage-in-the-australian-version"></a>Determine Sales Price by Cost Plus Percentage in the Australian Version
+# <a name="determine-sales-price-by-cost-plus-percentage"></a>Determine Sales Price by Cost Plus Percentage
+Use the cost plus percentage function to set a sales price based on the cost of an item. The cost of the item can be calculated along with cost plus calculation. The discount will be based on this calculation. This functionality eliminates the need for the use of spreadsheets in determining percentage discounts as they correspond to cost plus percentage.  
 
-[!INCLUDE [determine-sales-price-cost-percentage](../includes/AUNZ/determine-sales-price-cost-percentage.md)]
+## <a name="to-determine-sales-tax-by-cost-plus-percentage"></a>To determine US sales tax by cost plus percentage  
 
-## <a name="see-also"></a>See Also
+1.  Choose the **Receivables** action.  
+3.  Choose the **Customers** action.  
+4.  Open the card for a relevant customer.  
 
-[Australia Local Functionality](australia-local-functionality.md)
+     –or–  
 
+    Choose the **New** action.  
 
-[!INCLUDE[footer-include](../../includes/footer-banner.md)]
+    > [!NOTE]  
+    >  For a new customer, in the **No.** field, enter the customer number.  
+
+5.  To open the **Sales Prices** page, choose the **Prices** action.  
+6.  In the **General** section, fill in the fields as described in the following table.  
+
+    |Field|Description|  
+    |-----------|-----------------|  
+    |**Sales Type Filter**|Select one of the following options:<br /><br /> -   **Customer**<br />-   **Customer Price Group**<br />-   **All Customers**<br />-   **Campaign**<br />-   **None**|  
+    |**Sales Code Filter**|The sales code.|  
+    |**Item No. Filter**|The item number.|  
+    |**Starting Date Filter**|The starting date.|  
+    |**Currency Code Filter**|The currency code.|  
+
+7.  Enter information into the relevant fields.  
+8.  To send the details to a recipient, choose the **Send To** action, and then select one of the following formats:  
+
+    - **Recipient as Attachment**  
+    - **Microsoft Word**  
+    - **Microsoft Excel**  
+
+9. Choose the **OK** button.  
+
+## <a name="see-also"></a>See Also  
+ [Australia Local Functionality](australia-local-functionality.md)

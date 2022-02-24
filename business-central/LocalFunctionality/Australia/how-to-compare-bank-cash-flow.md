@@ -1,31 +1,49 @@
 ---
-title: Compare Bank Cash Flow [AU]
-description: You can use the Bank Detail Cashflow Compare report to compare the flow of cash in a particular bank for a specified period in the Australian version.
+title: How to Compare Bank Cash Flow
+description: You can use the Bank Detail Cashflow Compare report to compare the flow of cash in a particular bank for a specified period.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 06/25/2021
-ms.author: edupont
-ms.openlocfilehash: 5d3157c353e1315fe1182a9b5fd123e84a81fa5b
-ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
+ms.date: 04/01/2020
+ms.author: sgroespe
+ms.openlocfilehash: eb0e360ecb356771d8542f3f65b7627a51a5f051
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "6320578"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3180797"
 ---
-# <a name="compare-bank-cash-flow-in-the-australian-version"></a>Compare Bank Cash Flow in the Australian Version
+# <a name="compare-bank-cash-flow"></a>Compare Bank Cash Flow
+You can use the **Bank Detail Cashflow Compare** report to compare the flow of cash in a particular bank for a specified period.  
 
+ The report displays the following details:  
 
-[!INCLUDE [compare-bank-cash-flow](../includes/AUNZ/compare-bank-cash-flow.md)]
+-   Posting date  
+-   Document type  
+-   Document number  
+-   Debit amount  
+-   Credit amount  
+-   Remaining amount  
 
-## <a name="see-also"></a>See Also
+The debit and credit amounts are displayed in the local currency. You can also view the starting balance and ending balance for each bank.  
 
-[Create Cheque Instalments](how-to-create-check-installments.md)   
-[Australia Local Functionality](australia-local-functionality.md)
+## <a name="to-compare-bank-cash-flow"></a>To compare bank cash flow  
 
+1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Bank Detail Cashflow Compare**, and then choose the relevant link.  
+2.  Fill in the fields as described in the following table.  
 
-[!INCLUDE[footer-include](../../includes/footer-banner.md)]
+    |Field|Description|  
+    |---------------------------------|---------------------------------------|  
+    |**Compare Start Date**|Specifies the start date for the comparison.|  
+    |**Compare End Date**|Specifies the end date for comparison.|  
+    |**New Page per Bank Account**|Specifies if the details of each bank account will be printed on a separate page.|  
+
+3.  Choose the **Print** button to print the report, or choose the **Preview** button to view it on the screen.  
+
+## <a name="see-also"></a>See Also  
+ [Create Cheque Instalments](how-to-create-check-installments.md)   
+ [Australia Local Functionality](australia-local-functionality.md)

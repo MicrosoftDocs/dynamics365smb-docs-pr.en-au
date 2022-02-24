@@ -1,30 +1,42 @@
 ---
-title: Create Cheque Instalments [AU]
-description: Describes how to create cheque instalments for postdated cheques, define the number of instalments that a payment will be divided into, the percentage of interest and the period in which the cheques will be created in the Australian version.
+title: How to Create Cheque Instalments
+description: Describes how to create cheque instalments for postdated cheques, define the number of instalments that a payment will be divided into, the percent of interest, and the period in which the cheques will be created.
 author: bholtorf
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.search.form: 28090,28091,28092,28093
-ms.date: 06/25/2021
+ms.date: 04/01/2020
 ms.author: bholtorf
-ms.openlocfilehash: ef187a126d1175e3b93f2d0e96dc4efb1fc5d1f3
-ms.sourcegitcommit: f7e46d0f7b16d3b41e751aa9f337da18d37c11db
+ms.openlocfilehash: eb63638fae326a07ab4135302c18599d4e5809c8
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 12/28/2021
-ms.locfileid: "7947063"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3180796"
 ---
-# <a name="create-check-installments-in-the-australian-version"></a>Create Cheque instalments in the Australian Version
+# <a name="create-check-installments"></a>Create Cheque Instalments
+You can create cheque instalments for postdated cheques. You can define the number of instalments that a payment will be divided into, the percent of interest, and the period in which the cheques will be created.  
 
-[!INCLUDE [create-check-installments](../includes/AUNZ/create-check-installments.md)]
+## <a name="to-create-a-check-installment"></a>To create a cheque instalment  
+
+1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Post Dated Cheques-Purchases**, and then choose the relevant link.  
+2.  Select the relevant cheque, and then choose the **Edit** action.  
+3.  On the **Post Dated Cheques-Purchase** page, choose the **Create Cheque Instalments** action.  
+4.  Fill in the fields as described in the following table.  
+
+5.  |Field|Description|  
+    |---------------------------------|---------------------------------------|  
+    |**No. of Instalments**|Specifies the number of instalments into which the postdated cheque will be divided.|  
+    |**Interest %**|Specifies the percent of interest.|  
+    |**Period Length**|Specifies the period for which the instalments will be created. For example, if you want to divide the cheque into monthly instalments, enter **1M**.|  
+    |**Start Document No.**|Specifies the starting number of the document. Based on the number of instalments specified, the consecutive numbers are allocated to the documents created.|  
+
+6.  Choose the **OK** button.  
+
+     The instalment cheques are created and displayed on the **Post Dated Cheques-Purchases** page.
 
 ## <a name="see-also"></a>See Also
-
 [Australia Local Functionality](australia-local-functionality.md)
-
-
-[!INCLUDE[footer-include](../../includes/footer-banner.md)]
