@@ -1,31 +1,29 @@
 ---
-title: How to Print Bank Account Reconciliation Reports
-description: The Bank Account Reconciliation report displays open bank ledger entries as unpresented cheques or unrecorded deposits.
+title: Print Bank Account Reconciliation Reports
+description: The Bank Account Reconciliation report displays open bank ledger entries as unpresented cheques or unrecorded deposits in the Australian version.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: 9930ade48276e6d6858fb2dcd18919b34b171ed7
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.date: 06/25/2021
+ms.author: edupont
+ms.openlocfilehash: dbcffb4b8a8326ca9b5e3f9ccc6832d65ac23bcb
+ms.sourcegitcommit: a486aa1760519c380b8cdc8fdf614bed306b65ea
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3180791"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "6543013"
 ---
-# <a name="print-bank-account-reconciliation-reports"></a>Print Bank Account Reconciliation Reports
-The **Bank Account Reconciliation** report displays open bank ledger entries as unpresented cheques or unrecorded deposits.  
+# <a name="print-bank-account-reconciliation-reports-in-the-australian-version"></a>Print Bank Account Reconciliation Reports in the Australian Version
 
-## <a name="to-print-a-bank-account-reconciliation-report"></a>To print a bank account reconciliation report  
+[!INCLUDE [print-bank-account-reconciliation-reports](../includes/AUNZ/print-bank-account-reconciliation-reports.md)]
 
-1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Reconciliation**, and then choose the related link.  
-2.  Select the **New Page per Bank Account** check box.  
-3.  Select appropriate filters.  
-4.  Choose the **Print** button to print the report, or choose the **Preview** button to view it on the screen.  
+## <a name="see-also"></a>See Also
 
-## <a name="see-also"></a>See Also  
 [Reconcile Bank Accounts](../../bank-how-reconcile-bank-accounts-separately.md)
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

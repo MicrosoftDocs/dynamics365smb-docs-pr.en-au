@@ -1,33 +1,31 @@
 ---
-title: How to Calculate Goods and Services Tax on Prepayments
+title: Calculate Goods and Services Tax on Prepayments (AU)
 description: Describes how to calculate goods and services tax (GST) for partial payments or prepayments based on the total invoice amount, instead of on a partial amount.
-services: project-madeira
-documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: 1f0d46343325eae8b97c80ab182e49162d3c584b
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.search.form: 28164,28165,28166,28167
+ms.date: 04/01/2021
+ms.author: edupont
+ms.openlocfilehash: 0ba72c32b5352113fcc653ab30d4164e0a98680c
+ms.sourcegitcommit: f7e46d0f7b16d3b41e751aa9f337da18d37c11db
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3180799"
+ms.lasthandoff: 12/28/2021
+ms.locfileid: "7947173"
 ---
-# <a name="calculate-goods-and-services-tax-on-prepayments"></a>Calculate Goods and Services Tax on Prepayments
-When a partial payment or prepayment is made, you must calculate Goods and Services Tax (GST) for that partial payment or prepayment based on the total invoice amount, instead of on a partial amount. If you account for GST on a noncash basis, you must report and pay GST on payments during the period in which you receive partial payment or issue a tax invoice for payment.  
+# <a name="calculate-goods-and-services-tax-on-prepayments-in-the-australian-version"></a>Calculate Goods and Services Tax on Prepayments in the Australian Version
 
-## <a name="to-calculate-gst-on-prepayments"></a>To calculate GST on prepayments  
+[!INCLUDE [calculate-gst-prepayments](../includes/AUNZ/calculate-gst-prepayments.md)]
 
-1. Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **General Ledger Setup**, and then choose the related link.  
-2. Select the **Full GST on Prepayment** check box to calculate GST for the total invoice amount when a prepayment invoice is posted.  
-3. Choose the **OK** button.  
+## <a name="see-also"></a>See Also
 
-## <a name="see-also"></a>See Also  
 [Invoicing Prepayments](../../finance-invoice-prepayments.md)   
 [Australia Local Functionality](australia-local-functionality.md)
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

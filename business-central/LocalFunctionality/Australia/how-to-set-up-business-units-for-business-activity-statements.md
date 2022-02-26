@@ -1,24 +1,25 @@
 ---
-title: How to Set Up Business Units for Business Activity Statements
+title: Set Up Business Units for Business Activity Statements (AU)
 description: Describes how to consolidate the financial statements of various companies into one financial statement.
 author: bholtorf
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: 37977617ac6a684297930c37b428d4a974923732
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: ae152a96d000200f971bf96168cd4fc833f1fdcf
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3180790"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6436359"
 ---
-# <a name="set-up-business-units-for-business-activity-statements"></a>Set Up Business Units for Business Activity Statements
-In [!INCLUDE[d365fin](../../includes/d365fin_md.md)], you can consolidate the financial statements of various companies into one financial statement.  
+# <a name="set-up-business-units-for-business-activity-statements-in-the-australian-version"></a>Set Up Business Units for Business Activity Statements in the Australian Version
+
+In [!INCLUDE[prod_short](../../includes/prod_short.md)], you can consolidate the financial statements of various companies into one financial statement.  
 
 You must set up a consolidation company to perform the consolidation. In this company, the total amounts for all accounts in the group, from both the parent company and subsidiaries, are added together. You must also indicate the general ledger accounts in the consolidated company to which the total should be transferred.  
 
@@ -31,7 +32,7 @@ You can use the **BAS Business Units** page to set up the following:
 You must provide information on the **General Ledger Setup** page before you can set up business units.  
 
 ## <a name="to-set-up-a-general-ledger-for-a-business-activity-statement"></a>To set up a general ledger for a business activity statement  
-1. Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **General Ledger Setup**, and then choose the related link.  
+1. Choose the ![Lightbulb that opens the Tell Me feature.](../../media/ui-search/search_small.png "Tell me what you want to do") icon, enter **General Ledger Setup**, and then choose the related link.  
 2. Fill in the required fields as described in the following table.  
 
     |Field|Description|  
@@ -42,7 +43,7 @@ You must provide information on the **General Ledger Setup** page before you can
 3.  Choose the **OK** button.  
 
 ## <a name="to-set-a-business-unit-for-a-business-activity-statement"></a>To set a business unit for a business activity statement  
-1. Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **BAS Business Units**, and then choose the related link.  
+1. Choose the ![Lightbulb that opens the Tell Me feature.](../../media/ui-search/search_small.png "Tell me what you want to do") icon, enter **BAS Business Units**, and then choose the related link.  
 2. Fill in the fields as described in the following table.  
 
     |Field|Description|  
@@ -56,3 +57,6 @@ You must provide information on the **General Ledger Setup** page before you can
 ## <a name="see-also"></a>See Also  
 [Australian Local Functionality](australia-local-functionality.md)   
 
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

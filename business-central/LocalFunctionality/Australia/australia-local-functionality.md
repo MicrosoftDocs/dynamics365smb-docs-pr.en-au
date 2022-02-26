@@ -3,22 +3,22 @@ title: Australia Local Functionality
 description: The following topics describe the local functionality in the Australian version of Business Central.
 author: sorenfriisalexandersen
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 06/09/2020
+ms.date: 04/01/2021
 ms.author: soalex
-ms.openlocfilehash: d15a6d404cb008480bc7ec582d764553727c1851
-ms.sourcegitcommit: 0b5f8f68b1c9526288bfcce1a3bdc988d2910040
+ms.openlocfilehash: 178e5e4800210dc10e435f9c639ceee010fd7d0b
+ms.sourcegitcommit: 0953171d39e1232a7c126142d68cac858234a20e
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "3454319"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "6216173"
 ---
 # <a name="australia-local-functionality"></a>Australia Local Functionality
-The following topics describe local functionality that is unique to the Australian version of [!INCLUDE[d365fin](../../includes/d365fin_md.md)].  
+The following topics describe local functionality that is unique to the Australian version of [!INCLUDE[prod_short](../../includes/prod_short.md)].  
 
 ## <a name="feature-availability"></a>Feature Availability
 
@@ -27,7 +27,7 @@ The following topics describe local functionality that is unique to the Australi
     * [Withholding Tax](withholding-tax.md) **Available Now**
     * [Set Up Withholding Tax](how-to-set-up-withholding-tax.md) **Available Now**
     * [Set Up Revenue Types for Withholding Tax](how-to-set-up-revenue-types-for-withholding-tax.md) **Available Now**
-    * [Set Up Vendors Without ABN for Calculating the Withholding Tax](how-to-set-up-vendors-without-abn-for-calculating-the-withholding-tax.md) **Available Now**
+    * [Set Up Suppliers Without ABN for Calculating the Withholding Tax](how-to-set-up-vendors-without-abn-for-calculating-the-withholding-tax.md) **Available Now**
     * [Calculate and Post Withholding Tax Settlements](how-to-calculate-and-post-withholding-tax-settlements.md) **Available Now**
     * [View Withholding Tax Entries](how-to-view-withholding-tax-entries.md) **Available Now**
     * [View Posted Tax Invoices](how-to-view-posted-tax-invoices.md) **Available Now**
@@ -54,10 +54,14 @@ The following topics describe local functionality that is unique to the Australi
     * [Addresses](addresses.md) **Available Now**
     * [Determine Sales Price by Cost Plus Percentage](how-to-determine-sales-price-by-cost-plus-percentage.md) **Available Now**
     * [Enter Australian Business Numbers](australian-business-numbers-and-adjustment-notes.md) **Available Now**
+    * [Payment Times Reporting](payment-times-reporting.md) **Available Now**
 
 ## <a name="see-also"></a>See Also
 
-[Working with [!INCLUDE[d365fin](../../includes/d365fin_md.md)]](../../ui-work-product.md)  
+[Working with [!INCLUDE[prod_short](../../includes/prod_short.md)]](../../ui-work-product.md)  
 [Country/regional availability and supported languages](/dynamics365/business-central/dev-itpro/compliance/apptest-countries-and-translations)  
 
-## [!INCLUDE[d365fin](../../includes/free_trial_md.md)]
+## [!INCLUDE[prod_short](../../includes/free_trial_md.md)]
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]
