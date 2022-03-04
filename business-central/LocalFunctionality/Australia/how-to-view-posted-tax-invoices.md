@@ -2,18 +2,18 @@
 title: View Posted Tax Invoices [AU]
 description: Use the Posted GST Invoice page and Posted Purchase Tax Invoice page to view the details of posted GST invoices and posted purchase tax invoices.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.search.keywords: ''
+ms.search.form: 28071, 28073, 28081, 28082
 ms.date: 06/25/2021
 ms.author: edupont
-ms.openlocfilehash: b8c5b2a4213e3584dec5bbb28e3101e6f4f8419c
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 3517acd29502c0adfa0741cb5cfefc460524f264
+ms.sourcegitcommit: 67006b090a7bd70446414a19cc82e531190637dc
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6440492"
+ms.lasthandoff: 02/16/2022
+ms.locfileid: "8311306"
 ---
 # <a name="view-posted-tax-invoices-in-the-australian-version"></a>View Posted Tax Invoices in the Australian Version
 

@@ -3,7 +3,6 @@ title: Addresses in Australia
 description: Use the Postcode feature to improve accuracy for cases in which a single postcode can include multiple cities in the same region.
 ms.custom: en-AU
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/16/2021
 ms.author: edupont
-ms.openlocfilehash: 9ba07bf554d71ff3221b9f643fc421d97f4c79fc
-ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
+ms.openlocfilehash: 01d8975a769c1b2eb47dd1769336f11120aeaca2
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "6321134"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8148036"
 ---
 # <a name="about-addresses-in-the-australian-version"></a>About addresses in the Australian Version
 

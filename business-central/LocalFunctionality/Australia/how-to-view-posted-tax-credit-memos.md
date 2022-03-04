@@ -2,17 +2,17 @@
 title: View Posted Tax CR/Adj Notes [AU]
 description: You use the Posted GST CR/Adj Note page and Posted Purch. Tax CR/Adj Note page to view details of GST CR/Adj Notes and purchase tax CR/Adj Notes.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
+ms.search.form: 28071, 28073, 28081, 28082
 ms.date: 06/25/2021
 ms.author: edupont
-ms.openlocfilehash: 3f9b435a68e69253c4aba4d534c5a20d4b326505
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 7f2072301fa8e483a622456258332c00634275eb
+ms.sourcegitcommit: 67006b090a7bd70446414a19cc82e531190637dc
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6435902"
+ms.lasthandoff: 02/16/2022
+ms.locfileid: "8311158"
 ---
 # <a name="view-posted-tax-credit-memos-in-the-australian-version"></a>View Posted Tax CR/Adj Notes in the Australian Version
 

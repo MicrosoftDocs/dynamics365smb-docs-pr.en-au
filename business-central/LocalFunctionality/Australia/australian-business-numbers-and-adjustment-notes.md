@@ -2,17 +2,16 @@
 title: Australian Business Numbers and Adjustment Notes
 description: An Australian Business Number (ABN) is a single identifier for all business dealings with the tax office and for dealings with other government departments and agencies.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: ec111bb618a7da9acc0fe86c48f1ba430869de2c
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: a85d5e412d3ac1d23a7d4cd287fea471768f6f22
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5773304"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8148961"
 ---
 # <a name="australian-business-numbers-and-adjustment-notes"></a>Australian Business Numbers and Adjustment Notes
 An Australian Business Number (ABN) is a single identifier for all business dealings with the tax office, and for dealings with other government departments and agencies.  

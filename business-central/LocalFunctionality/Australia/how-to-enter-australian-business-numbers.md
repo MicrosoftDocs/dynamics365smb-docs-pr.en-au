@@ -2,7 +2,6 @@
 title: How to Enter Australian Business Numbers in the Australian version
 description: You can enter an Australian Business Number (ABN) in both the Company Information and the Supplier Card pages.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/16/2021
 ms.author: edupont
-ms.openlocfilehash: 9ccba9414312f7ced2b37edc9f53e9185ff7a20f
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 959d304de888c49544efca26130ef9e718a1056c
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6436369"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8147406"
 ---
 # <a name="enter-australian-business-numbers-in-the-australian-version"></a>Enter Australian Business Numbers in the Australian version
 

@@ -2,7 +2,6 @@
 title: Withholding Tax in the Australian version
 description: In the Australian version, Withholding Tax (WHT) is tax withheld by a company when making a payment to a supplier.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,12 +10,12 @@ ms.search.keywords: ''
 ms.search.form: 11600, 28040,28041,28042,28043,28044, 28164,28165,28166,28167
 ms.date: 06/17/2021
 ms.author: edupont
-ms.openlocfilehash: 4104a43c16e7f15abcc73ecf9e90d5c1c54fd0ae
-ms.sourcegitcommit: f7e46d0f7b16d3b41e751aa9f337da18d37c11db
+ms.openlocfilehash: c77846638349f62888f53d243e6b3780f6bb3971
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 12/28/2021
-ms.locfileid: "7947226"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8147404"
 ---
 # <a name="withholding-tax-in-the-australian-version"></a>Withholding Tax in the Australian Version
 

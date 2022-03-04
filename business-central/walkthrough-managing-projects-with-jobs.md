@@ -2,7 +2,6 @@
 title: Walkthrough - Managing Projects with Jobs
 description: This walkthrough introduces you to the project management features in jobs which allow you to schedule the usage of your company's resources and more.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/24/2021
 ms.author: edupont
-ms.openlocfilehash: 4b4be8dfa382424258100973af0d0e647b21b0f6
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: d053e800a8a873f84d30a078e1b9776ca17129f5
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6439051"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8142784"
 ---
 # <a name="walkthrough-managing-projects-with-jobs"></a>Walkthrough: Managing Projects with Jobs
 
@@ -191,7 +190,7 @@ In the next procedure, you create a job journal batch for Tricia in order to pos
     |------|-----------|----------------|-------------|-------|----------|------------|
     | 1    | Both Budget and Billable | (today's date) | Resource | Tricia | 40        |     |
     | 2    | Both Budget and Billable | (today's date) | Resource | Timothy | 40        |     |
-    | 2A-2B GST Net Amt. (3)    | Both Budget and Billable | (today's date) | G/L Account | 8430 (Travel) | 2 | 400    |
+    | 3    | Both Budget and Billable | (today's date) | G/L Account | 8430 (Travel) | 2 | 400    |
 
      Close the page. The totals are updated on the **Job Task Lines** page.  
 3. Select line 1020, and then choose the **Job Planning Lines** action. Enter the following information:  
@@ -401,7 +400,7 @@ The following procedures show how to create a new job, set pricing, and then set
     | 1    | 1000         | Payment-Down Payment | Posting       |
     | 2    | 2000         | Usage                | Posting       |
     | 3    | 3000         | Payment - Midway     | Posting       |
-    | Total Amounts Withheld From All Payments (4)    | 4000         | Payment - Completion | Posting       |
+    | 4    | 4000         | Payment - Completion | Posting       |
 
 5. Choose task 1000, and then choose the **Job Planning Lines** action.  
 

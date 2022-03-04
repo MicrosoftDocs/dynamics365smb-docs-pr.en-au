@@ -2,20 +2,19 @@
 title: Set Up Withholding Tax [AU]
 description: This topic explains how a company sets up withholding tax (WHT) when it makes a payment to a supplier using the General Ledger Setup page.
 author: edupont04
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: ''
+ms.search.form: 28041, 28042, 28043, 118
 ms.date: 06/25/2021
 ms.author: edupont
-ms.openlocfilehash: ce419e24082e45fa2fd5cd2c72a61fd644b05bc3
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: e420af42c1bdf4c5539cd3ec28bda803872071ea
+ms.sourcegitcommit: 67006b090a7bd70446414a19cc82e531190637dc
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6438490"
+ms.lasthandoff: 02/16/2022
+ms.locfileid: "8311312"
 ---
 # <a name="set-up-withholding-tax-in-the-australian-version"></a>Set Up Withholding Tax in the Australian Version
 

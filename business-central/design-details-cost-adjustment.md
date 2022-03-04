@@ -2,7 +2,6 @@
 title: Design Details - Cost Adjustment
 description: Cost adjustment forwards cost changes from cost sources to cost recipients according to an item’s costing method, to provide correct inventory valuation.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/14/2021
 ms.author: edupont
-ms.openlocfilehash: 4fdf131d9f32940ed3b909c4bc98a1516f44bf64
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 5783647c4e70debce32bbb0ca3976efea78ec065
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6442468"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8143720"
 ---
 # <a name="design-details-cost-adjustment"></a>Design Details: Cost Adjustment
 
@@ -110,8 +109,8 @@ The following example shows if you post a purchased item as received and invoice
 |-------------|---------------|----------------|  
 |1|1|1|  
 |2|1|1|  
-|2A-2B GST Net Amt. (3)|2|1|  
-|Total Amounts Withheld From All Payments (4)|2|1|  
+|3|2|1|  
+|4|2|1|  
 
 #### <a name="general-ledger-entries-1"></a>General Ledger Entries (1)
 
@@ -129,16 +128,16 @@ Later, you post a related purchase item charge for 2.00 LCY invoiced on 02-10-20
 |Posting Date|Item Ledger Entry Type|Cost Amount (Actual)|Cost Posted to G/L|Invoiced Quantity|Adjustment|Entry No.|  
 |------------|----------------------|--------------------|------------------|-----------------|----------|---------|  
 |02-10-20|Purchase|2.00|2.00|0|No|3|  
-|01-15-20|Sale|-2.00|-2.00|0|Yes|Total Amounts Withheld From All Payments (4)|  
+|01-15-20|Sale|-2.00|-2.00|0|Yes|4|  
 
 #### <a name="relation-entries-in-the-gl--item-ledger-relation-table-2"></a>Relation Entries in the G/L – Item Ledger Relation Table (2)
 
 |G/L Entry No.|Value Entry No.|G/L Register No.|  
 |-------------|---------------|----------------|  
-|5|2A-2B GST Net Amt. (3)|2|  
-|6|2A-2B GST Net Amt. (3)|2|  
-|Deferred Company Fund Instalment (7)|Total Amounts Withheld From All Payments (4)|2|  
-|8|Total Amounts Withheld From All Payments (4)|2|  
+|5|3|2|  
+|6|3|2|  
+|Deferred Company Fund Instalment (7)|4|2|  
+|8|4|2|  
 
 #### <a name="general-ledger-entries-2"></a>General Ledger Entries (2)
 
