@@ -2,7 +2,6 @@
 title: Print Bank Account Reconciliation Reports
 description: The Bank Account Reconciliation report displays open bank ledger entries as unpresented cheques or unrecorded deposits in the Australian version.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/25/2021
 ms.author: edupont
-ms.openlocfilehash: dbcffb4b8a8326ca9b5e3f9ccc6832d65ac23bcb
-ms.sourcegitcommit: a486aa1760519c380b8cdc8fdf614bed306b65ea
+ms.openlocfilehash: bb6b762ec3cb8336295b65854fcf54d3daebf7f2
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 07/13/2021
-ms.locfileid: "6543013"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8132306"
 ---
 # <a name="print-bank-account-reconciliation-reports-in-the-australian-version"></a>Print Bank Account Reconciliation Reports in the Australian Version
 

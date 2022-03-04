@@ -2,7 +2,6 @@
 title: Australia Local Functionality
 description: The following topics describe the local functionality in the Australian version of Business Central.
 author: sorenfriisalexandersen
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.author: soalex
-ms.openlocfilehash: 178e5e4800210dc10e435f9c639ceee010fd7d0b
-ms.sourcegitcommit: 0953171d39e1232a7c126142d68cac858234a20e
+ms.openlocfilehash: 66aadfa063d45bd9237631a8570965023bd52a00
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "6216173"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8134501"
 ---
 # <a name="australia-local-functionality"></a>Australia Local Functionality
 The following topics describe local functionality that is unique to the Australian version of [!INCLUDE[prod_short](../../includes/prod_short.md)].  

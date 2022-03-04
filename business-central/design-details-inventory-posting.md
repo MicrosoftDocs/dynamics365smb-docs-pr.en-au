@@ -2,7 +2,6 @@
 title: Design Details - Inventory Posting | Microsoft Docs
 description: Each inventory transaction, such as a purchase receipt or a sales shipment, posts two entries of different types.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/08/2021
 ms.author: edupont
-ms.openlocfilehash: d97b0fe65a610c4b0a9dab694678afdf4631a514
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: edff39ccb01cc7da7e8a0387a4737088b0be231d
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6436934"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8138656"
 ---
 # <a name="design-details-inventory-posting"></a>Design Details: Inventory Posting
 
@@ -71,7 +70,7 @@ The following example shows how item ledger entries, value entries, and item app
 
 |Posting Date|Entry Type|Cost Amount (Actual)|Item Ledger Entry No.|Entry No.|  
 |------------|----------|--------------------|---------------------|---------|  
-|01-15-20|Direct Cost|-80.00|2|2A-2B GST Net Amt. (3)|  
+|01-15-20|Direct Cost|-80.00|2|3|  
 
 ### <a name="item-application-entries-2"></a>Item Application Entries (2)
 
@@ -91,7 +90,7 @@ At the end of the accounting period, you run the **Post Inventory Cost to G/L** 
 |------------|----------|--------------------|------------------|---------------------|---------|  
 |01-01-20|Direct Cost|70.00|70.00|1|1|  
 |01-01-20|Indirect Cost|10.00|10.00|1|2|  
-|01-15-20|Direct Cost|-80.00|-80.00|2|2A-2B GST Net Amt. (3)|  
+|01-15-20|Direct Cost|-80.00|-80.00|2|3|  
 
 ### <a name="general-ledger-entries-3"></a>General Ledger Entries (3)
 
@@ -117,8 +116,8 @@ At the end of the accounting period, you run the **Post Inventory Cost to G/L** 
 |-------------|---------------|----------------|  
 |1|1|1|  
 |2|1|1|  
-|2A-2B GST Net Amt. (3)|2|1|  
-|Total Amounts Withheld From All Payments (4)|2|1|  
+|3|2|1|  
+|4|2|1|  
 |5|3|1|  
 |6|3|1|  
 

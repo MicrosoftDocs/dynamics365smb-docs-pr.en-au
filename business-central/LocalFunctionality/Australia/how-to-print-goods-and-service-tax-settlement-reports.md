@@ -2,7 +2,6 @@
 title: Print Goods and Service Tax Settlement Reports (AU)
 description: Describes how to print a periodic goods and services tax (GST) settlement in the Australian version of Business Central.
 author: bholtorf
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: 536f3335f90208198034635d07d2a243d427d3f4
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 3969a0bf8daf2520c2cd85d19e136af8178d0948
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5774444"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8136735"
 ---
 # <a name="print-goods-and-service-tax-settlement-reports-in-the-australian-version"></a>Print Goods and Service Tax Settlement Reports in the Australian Version
 

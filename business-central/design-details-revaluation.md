@@ -2,7 +2,6 @@
 title: Design Details - Revaluation
 description: You can revalue the inventory based on the valuation base that most accurately reflects the inventory value.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/15/2021
 ms.author: edupont
-ms.openlocfilehash: 2af7425324314c14039ef56bc7e124db033fd8ef
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: a9da38bf023ff378a20daa373bdd1963380e9928
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6444313"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8131844"
 ---
 # <a name="design-details-revaluation"></a>Design Details: Revaluation
 You can revalue the inventory based on the valuation base that most accurately reflects the inventory value. You can also backdate a revaluation, so that the cost of goods sold (COGS) is correctly updated for items that have already been sold. Items using the Standard costing method that have not been completely invoiced can also be revalued.  
@@ -82,7 +81,7 @@ The valuation date is set to the date of the consumption posting (02-01-20), as 
 |------------------|----------------|--------------------|----------------------------|---------------------------|---------------|  
 |01-15-20|Direct Cost|01-01-20|150.00|2|2|  
 |02-01-20|Direct Cost|02-01-20|-150.00|2|2|  
-|02-15-20|Direct Cost|02-15-20|150.00|2A-2B GST Net Amt. (3)|2A-2B GST Net Amt. (3)|  
+|02-15-20|Direct Cost|02-15-20|150.00|3|3|  
 
 ## <a name="expected-cost-in-revaluation"></a>Expected Cost in Revaluation  
 The revaluable quantity is calculated as the sum of the quantity for completely invoiced item ledger entries with a posting date equal to or earlier than the revaluation date. This means that when some items are received/shipped but not invoiced, their inventory value cannot be calculated. Items that use the Standard costing method are not limited in this respect.  

@@ -2,7 +2,6 @@
 title: Print Balance Sheet Reports [AU]
 description: You can use the Balance Sheet report to view the company's balance sheet in the Australian version.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/25/2021
 ms.author: edupont
-ms.openlocfilehash: ad1dca5ba114584e4de50a68d5053260ff11237f
-ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
+ms.openlocfilehash: ef767b958d7b261b41adae3a945160004d71ce98
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "6320574"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8132279"
 ---
 # <a name="print-balance-sheet-reports-in-the-australian-version"></a>Print Balance Sheet Reports in the Australian Version
 

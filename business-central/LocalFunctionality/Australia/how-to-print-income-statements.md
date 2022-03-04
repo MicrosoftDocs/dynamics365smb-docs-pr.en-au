@@ -2,7 +2,6 @@
 title: Print Income Statements [AU]
 description: Describes how to view the company's annual income statement in the Australian version.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/25/2021
 ms.author: edupont
-ms.openlocfilehash: c363191d75660e5c34d421a9d04dcef9dcddf51c
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 5af8b479b71786bcbb96bc9be6c129d8a1afc3a7
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6436361"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8139019"
 ---
 # <a name="print-income-statements-in-the-australian-version"></a>Print Income Statements in the Australian Version
 
