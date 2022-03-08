@@ -2,19 +2,20 @@
 title: Use Excel to import data into Business Central
 description: Use the default configuration package to add customer data in Excel and import the data back into Business Central.
 author: edupont04
+ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: migration, Excel
-ms.date: 04/01/2021
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 5c6dc9d386bde8e4f8496f086141589ea4c89c73
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: f3885d9e07a6ea417bf2dc7de5881e6d3278ca10
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8136460"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5379256"
 ---
 # <a name="importing-business-data-from-other-finance-systems"></a>Importing Business Data from Other Finance Systems
 

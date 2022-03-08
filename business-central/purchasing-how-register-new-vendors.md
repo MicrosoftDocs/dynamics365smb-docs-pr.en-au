@@ -2,6 +2,7 @@
 title: Create a Vendor Card to Register a New Vendor (contains video)
 description: In this topic learn how to create a supplier card to register a new supplier or supplier and save supplier cards as a template.
 author: SorenGP
+ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +11,12 @@ ms.search.keywords: supplier
 ms.search.form: 26, 27, 34, 461, 786, 1379, 1385, 1386, 1628
 ms.date: 09/29/2021
 ms.author: edupont
-ms.openlocfilehash: 4bfb66f86c0cc06abed559af9c32942a5a27b40a
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 1cbdf85f08939aa05c013901239bbd390400f3e1
+ms.sourcegitcommit: c05806689d289d101bd558696199cefbd989473e
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8137323"
+ms.lasthandoff: 02/12/2022
+ms.locfileid: "8115510"
 ---
 # <a name="register-new-vendors"></a>Register New Suppliers
 

@@ -1,23 +1,24 @@
 ---
 title: Using Microsoft Dataverse
-description: Introduction to how to integrate and use Microsoft Dataverse and its components to connect to other Dynamics 365 applications.
+description: Introduction to Microsoft Dataverse and its components.
 author: bholtorf
 ms.author: bholtorf
 ms.custom: na
 ms.reviewer: na
-ms.topic: conceptual
-ms.date: 06/14/2021
-ms.openlocfilehash: 95b1146f2f664ad73966162e24c3e0ad0c34e310
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.service: dynamics365-business-central
+ms.topic: article
+ms.date: 10/01/2020
+ms.openlocfilehash: 1d740cf645739e89dddc9173583eb5fa639f6be6
+ms.sourcegitcommit: edac6cbb8b19ac426f8dcbc83f0f9e308fb0d45d
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8141445"
+ms.lasthandoff: 12/29/2020
+ms.locfileid: "4817112"
 ---
 # <a name="integrating-with-microsoft-dataverse"></a>Integrating with Microsoft Dataverse
+[!INCLUDE[prod_short](includes/cc_data_platform_banner.md)]
 
-
-Business apps often use data from more than one source. [!INCLUDE[prod_short](includes/cds_long_md.md)] combines data into a single set of logic that makes it easier to connect other Dynamics 365 applications, such as [!INCLUDE[crm_md](includes/crm_md.md)] or your own application built on top of [!INCLUDE[prod_short](includes/cds_long_md.md)], to [!INCLUDE[prod_short_md](includes/prod_short.md)]. For more information about [!INCLUDE[prod_short](includes/cds_long_md.md)], see [What is Dataverse?](/powerapps/maker/common-data-service/data-platform-intro)
+Business apps often use data from more than one source. [!INCLUDE[prod_short](includes/cds_long_md.md)] combines data into a single set of logic that makes it easier to connect other Dynamics 365 applications, such as [!INCLUDE[crm_md](includes/crm_md.md)] or your own application built on top of [!INCLUDE[prod_short](includes/cds_long_md.md)], to [!INCLUDE[prod_short_md](includes/prod_short.md)]. For more information about [!INCLUDE[prod_short](includes/cds_long_md.md)], see [What is Dataverse?](https://docs.microsoft.com/powerapps/maker/common-data-service/data-platform-intro)
 
 The following steps provide an overview of the steps to integrate [!INCLUDE[prod_short](includes/cds_long_md.md)] with [!INCLUDE[prod_short](includes/prod_short.md)].
 
@@ -31,7 +32,7 @@ The following steps provide an overview of the steps to integrate [!INCLUDE[prod
 3. Synchronise data between the apps. For more information, see [Synchronising Business Central and Dataverse](admin-synchronizing-business-central-and-sales.md). 
 
 ## <a name="getting-started-with-prod_short"></a>Getting Started with [!INCLUDE[prod_short](includes/cds_long_md.md)]
-To get started with [!INCLUDE[prod_short](includes/cds_long_md.md)] you will need a Microsoft Power Apps account. If you do not already have a Power Apps account, you can get one for free by visiting [powerapps.com](https://make.powerapps.com/?utm_source=padocs&utm_medium=linkinadoc&utm_campaign=referralsfromdoc) and choosing the **Get started free** link. To learn more about how to get started with [!INCLUDE[prod_short](includes/cds_long_md.md)], see the [Get started with Dataverse](/learn/modules/get-started-with-powerapps-common-data-service/) module from Microsoft Learn.
+To get started with [!INCLUDE[prod_short](includes/cds_long_md.md)] you will need a Microsoft Power Apps account. If you do not already have a Power Apps account, you can get one for free by visiting [powerapps.com](https://make.powerapps.com/?utm_source=padocs&utm_medium=linkinadoc&utm_campaign=referralsfromdoc) and choosing the **Get started free** link. To learn more about how to get started with [!INCLUDE[prod_short](includes/cds_long_md.md)], see the [Get started with Dataverse](https://docs.microsoft.com/learn/modules/get-started-with-powerapps-common-data-service/) module from Microsoft Learn.
 
 ## <a name="bi-directional-or-uni-directional-data-synchronization"></a>Bi-Directional or Uni-directional Data Synchronisation
 Depending on your business needs, you can set up the integration to synchronise data either to or from one Dynamics 365 business app to another, or in both directions in near-real time through [!INCLUDE[prod_short](includes/cds_long_md.md)]. For example, if you integrate [!INCLUDE[prod_short](includes/prod_short.md)] with [!INCLUDE[crm_md](includes/crm_md.md)] through [!INCLUDE[prod_short](includes/cds_long_md.md)], a salesperson can create a sales order in [!INCLUDE[crm_md](includes/crm_md.md)] and the order will be synchronised to [!INCLUDE[prod_short](includes/prod_short.md)]. Conversely, from [!INCLUDE[crm_md](includes/crm_md.md)], the salesperson can view information from [!INCLUDE[prod_short](includes/prod_short.md)] about the availability of the item on the order. 
@@ -66,6 +67,3 @@ During connection setup, integration table mappings that are needed to synchroni
 
 
 
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]

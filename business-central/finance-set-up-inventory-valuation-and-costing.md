@@ -1,24 +1,25 @@
 ---
-title: Set Up Inventory Valuation and Costing
-description: To make sure that inventory costs are recorded correctly, you must set up various fields and pages before you begin to make item transactions.
+title: Set Up Inventory Valuation and Costing | Microsoft Docs
+description: The following table describes a sequence of tasks, with links to the topics that describe them.
 author: SorenGP
-ms.topic: conceptual
+ms.service: dynamics365-business-central
+ms.topic: article
 ms.search.keywords: ''
-ms.date: 06/16/2021
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 8dd8b86e7ff07b9500c094bd2e570dbb6a371754
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 524ed44ed305fc219ea15afc061994dbe3050503
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8142089"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3910738"
 ---
 # <a name="setting-up-inventory-valuation-and-costing"></a>Setting Up Inventory Valuation and Costing
 
 To make sure that inventory costs are recorded correctly, you must set up various fields and pages before you begin to make item transactions. Typically, businesses choose a specific costing method and apply that to inventory items, for example, to help them track the value of items on stock.  
 
 > [!TIP]
-> For an introduction to costing in [!INCLUDE [prod_short](includes/prod_short.md)], see [About Inventory Costing](finance-learn-about-costing.md).
+> For an introduction to costing in [!INCLUDE [prodshort](includes/prodshort.md)], see [About Inventory Costing](finance-learn-about-costing.md).
 
 The following table describes a sequence of tasks, with links to the topics that describe them.
 
@@ -46,6 +47,3 @@ The following table describes a sequence of tasks, with links to the topics that
 [Design Details: Change the Costing Method for Items](design-details-changing-costing-methods.md)  
 [Working with Business Central](ui-work-product.md)  
 [Finance](finance.md)  
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]

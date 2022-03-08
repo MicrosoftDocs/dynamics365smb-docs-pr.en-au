@@ -1,24 +1,25 @@
 ---
-title: Walkthrough - Planning Supplies Manually
-description: This walkthrough demonstrates the process of planning supply orders to fulfil new demand including planning a purchase, transfer, and production order.
+title: Walkthrough - Planning Supplies Manually | Microsoft Docs
+description: This walkthrough demonstrates the process of planning supply orders to fulfil new demand. You can initiate supply planning at fixed intervals, for example, every morning or every Monday, or when you are notified by sales or production, depending on the type of demand.
 author: SorenGP
-ms.topic: conceptual
+ms.service: dynamics365-business-central
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 06/24/2021
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 4e9bd9e44a92c952fe01636b1ef724491e479cf1
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 7ec1276600ab84a43363708e037fccb5b2ca0cf2
+ms.sourcegitcommit: adf1a87a677b8197c68bb28c44b7a58250d6fc51
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8145246"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "5035639"
 ---
 # <a name="walkthrough-planning-supplies-manually"></a>Walkthrough: Planning Supplies Manually
 
-<!-- [!INCLUDE[complete_sample_data](includes/complete_sample_data.md)]   -->
+[!INCLUDE[complete_sample_data](includes/complete_sample_data.md)]  
 
 This walkthrough demonstrates the process of planning supply orders to fulfil new demand. You can initiate supply planning at fixed intervals, for example, every morning or every Monday, or when you are notified by sales or production, depending on the type of demand. In this walkthrough you will use the **Order Planning** page, a simple supply planning tool that is based on manual decision-making instead of parameter-based automatic planning.  
 
@@ -66,7 +67,7 @@ The **Order Planning** page can be accessed from several different locations:
 
 ### <a name="to-use-the-order-planning-page"></a>To use the Order Planning page  
 
-1.  Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Order Planning**, and then choose the related link.  
+1.  Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Order Planning**, and then choose the related link.  
 
      When the **Order Planning** page first opens, a plan must be calculated to show the new demand since it was last calculated.  
 
@@ -106,18 +107,18 @@ The **Order Planning** page can be accessed from several different locations:
 
 5.  In the **Supply From** field, select one of the following options according to the selected replenishment system:  
 
-    -   **Supplier** – For purchases  
+    -   **Vendor** – For purchases  
     -   **Location** – For transfers  
 
      If the field is not filled in, an error message will display when you try to create the supply orders.  
 
     > [!NOTE]  
-    >  If the components have a default supplier number set up on the item cards, the lines will be preset.  
+    >  If the components have a default vendor number set up on the item cards, the lines will be preset.  
 
 6.  Choose the **Supply From**  field.  
-7.  On the **Item Supplier Catalogue** page, choose the **New** action, and then select supplier **30000**.  
+7.  On the **Item Vendor Catalogue** page, choose the **New** action, and then select vendor **30000**.  
 8.  Choose the **OK** button to return to the **Order Planning** page.  
-9. Copy supplier **30000** to the other lines for loudspeaker components on this production order.  
+9. Copy vendor **30000** to the other lines for loudspeaker components on this production order.  
 
      You are now ready to create a purchase order.  
 
@@ -138,7 +139,7 @@ The **Order Planning** page can be accessed from several different locations:
 
      Sales order **2008** is for ten loudspeakers, item **LS-120**, ordered by John Haddock Insurance Co.  
 
-     The item's defined replenishment system and default supplier will display.  
+     The item's defined replenishment system and default vendor will display.  
 
     > [!NOTE]  
     >  At the bottom of the page, there are four information fields. In the **Earliest Date Available** field, the ten pieces that are needed will be available, on an inbound supply order, nine days later than the current due date. If this is too late for the customer, the **Available for Transfer** field shows 13 pieces of the item at another location. You will want to plan for this stock.  
@@ -157,7 +158,7 @@ The **Order Planning** page can be accessed from several different locations:
      The transfer order is now created and saved in the list as the last order in the list of open transfer orders.  
 
 ## <a name="planning-a-multilevel-production-order-to-fulfill-sales-demand"></a>Planning a Multilevel Production Order to Fulfill Sales Demand  
- In this procedure, you will plan to fulfil sales demand for a produced item with multiple product levels, each creating dependant production demand.  
+ In this procedure, you will plan to fulfil sales demand for a produced item with multiple product levels, each creating dependent production demand.  
 
 ### <a name="to-plan-multilevel-production-to-fulfill-sales-demand"></a>To plan multilevel production to fulfill sales demand  
 
@@ -224,13 +225,10 @@ The **Order Planning** page can be accessed from several different locations:
 
      The message indicates that all required items are now supplied. Verify the firm planned production orders that are created.  
 
-13. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Firm Planned Prod. Orders**, and then choose the related link.  
+13. Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Firm Planned Prod. Orders**, and then choose the related link.  
 
      On the **Firm Planned Prod. Orders** page review how start times and end times of individual orders are scheduled according to the product structure. The lowest-level components are produced first. Therefore, you must plan multilevel orders as demonstrated in this planning workflow.  
 
 ## <a name="see-also"></a>See Also  
  [Business Process Walkthroughs](walkthrough-business-process-walkthroughs.md)   
-<!--  [Walkthrough: Planning Supplies Automatically](walkthrough-planning-supplies-automatically.md) -->
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]
+ [Walkthrough: Planning Supplies Automatically](walkthrough-planning-supplies-automatically.md)

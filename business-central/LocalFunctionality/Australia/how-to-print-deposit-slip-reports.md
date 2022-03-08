@@ -1,28 +1,33 @@
 ---
-title: Print Deposit Slip Reports [AU]
-description: The Deposit Slip report displays cash and cheque details in a format required by the bank in the Australian version.
+title: How to Print Deposit Slip Reports
+description: The Deposit Slip report displays cash and cheque details in a format required by the bank.
 author: SorenGP
-ms.topic: conceptual
+ms.service: dynamics365-business-central
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 06/25/2021
-ms.author: edupont
-ms.openlocfilehash: ad0ffe3d539a8dc6f9f615a8e1ce842ddceb3aac
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.date: 10/01/2019
+ms.author: sgroespe
+ms.openlocfilehash: 9d481d5d002f809db19f5f6209246a35b0f11f91
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8132273"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2300309"
 ---
-# <a name="print-deposit-slip-reports-in-the-australian-version"></a>Print Deposit Slip Reports in the Australian Version
+# <a name="print-deposit-slip-reports"></a>Print Deposit Slip Reports
+The **Deposit Slip** report displays cash and cheque details in a format required by the bank.  
 
-[!INCLUDE [print-deposit-slip-reports](../includes/AUNZ/print-deposit-slip-reports.md)]
+## <a name="to-print-a-deposit-slip-report"></a>To print a deposit slip report  
 
-## <a name="see-also"></a>See Also
+1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Cash Receipt Journals**, and then choose the related link.  
+2.  Select the **Bank** journal.  
+3.  Choose the **Edit Journal** action.  
+4.  On the **Cash Receipt Journal** page, choose the **Print Deposit Slip** action.  
+5.  Select the appropriate filters.  
+6.  Choose the **Print** button to print the report, or choose the **Preview** button to view it on the screen.  
 
-[Australia Local Functionality](australia-local-functionality.md)
-
-
-[!INCLUDE[footer-include](../../includes/footer-banner.md)]
+## <a name="see-also"></a>See Also  
+ [Australia Local Functionality](australia-local-functionality.md)

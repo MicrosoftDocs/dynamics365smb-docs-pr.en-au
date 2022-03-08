@@ -2,6 +2,7 @@
 title: Posting Date on Adjustment Value Entry Compared to the Source Entry
 description: Learn about scenario "Posting Date on Adjustment Value Entry versus Posting Date on entry causing the adjustment such as Revaluation or Item charge" when running the Adjust Cost - Item Entries batch job identifies.
 author: edupont04
+ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -9,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 09/17/2021
 ms.author: edupont
-ms.openlocfilehash: 9d77c13cbe60d9e9b5c4d12e55d75f8815a4a5ba
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 2f3a74752faca380236a8b56c920fb5b88003073
+ms.sourcegitcommit: 772af6954539c65743d1a2f59e8a37d30bd30278
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8138682"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "7557314"
 ---
 # <a name="posting-date-on-adjustment-value-entry-compared-to-the-source-entry"></a>Posting Date on Adjustment Value Entry Compared to the Source Entry
 
@@ -273,7 +274,7 @@ Test this scenario by carrying out the following steps:
 |Entry Number |Item No.  |Posting Date  |Item Ledger Entry No.  |Item Ledger Entry Type  |Entry Type  |Document No.  | Item Charge No.    |  Item Ledger Entry Quantity   |Cost Amount (Actual)     |Cost Posted to G/L |Adjustment |Applies-to Entry |
 |---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
 |397      |CHARGE|   2020-12-15    |324         |Purchase         |Direct Cost         |108029         |         |1          |100    |100         |NO         |0         |
-|399      |CHARGE   |2021-01-02    |324         |Purchase         |Direct Cost         |108009         |JBFREIGHT         |0         |3         |3         |NO         |0         |
+|399      |CHARGE   |2021-01-02    |324         |Purchase         |Direct Cost         |108009         |JBFREIGHT         |0         |2A-2B GST Net Amt. (3)         |2A-2B GST Net Amt. (3)         |NO         |0         |
 
 **Status Item Ledger Entry sale**:  
   
@@ -322,7 +323,7 @@ Test this scenario by carrying out the following steps:
 |Entry No. |Item No.  |Posting Date  |Item Ledger Entry No.  |Item Ledger Entry Type  |Entry Type  |Document No.  | Item Charge No.    |  Item Ledger Entry Quantity   |Cost Amount (Actual)     |Cost Posted to G/L |Adjustment |Applies-to Entry |
 |---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
 |397      |CHARGE   |2020-12-15    |324         |Purchase         |Direct Cost         |108029         |            |1         |100    |100         |No         |0         |
-|399      |CHARGE   |2021-01-02    |324         |Purchase         |Direct Cost         |108030         |JBFREIGHT   |0         |3         |3         |No         |0         |
+|399      |CHARGE   |2021-01-02    |324         |Purchase         |Direct Cost         |108030         |JBFREIGHT   |0         |2A-2B GST Net Amt. (3)         |2A-2B GST Net Amt. (3)         |No         |0         |
 |401      |CHARGE   |**2020-12-30**    |324         |Purchase         |Direct Cost         |108031         |JBFREIGHT   |0         |2         |2         |No         |0         |
 
 **Status Item Ledger Entry sale**:  

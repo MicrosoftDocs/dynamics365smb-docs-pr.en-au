@@ -1,25 +1,29 @@
 ---
 title: Addresses in Australia
-description: Use the Postcode feature to improve accuracy for cases in which a single postcode can include multiple cities in the same region.
-ms.custom: en-AU
+description: A single postcode can include multiple cities in the same region.
+services: project-madeira
+ms.custom: en-CA, fr-CA
+documentationcenter: ''
 author: SorenGP
-ms.topic: conceptual
+ms.service: dynamics365-business-central
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 06/16/2021
-ms.author: edupont
-ms.openlocfilehash: 01d8975a769c1b2eb47dd1769336f11120aeaca2
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.date: 04/01/2020
+ms.author: sgroespe
+ms.openlocfilehash: 795e352b9e2218172bf751aabdbec89e5f49d00f
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8148036"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3180806"
 ---
-# <a name="about-addresses-in-the-australian-version"></a>About addresses in the Australian Version
+# <a name="addresses"></a>Addresses
+A single postcode can include multiple cities in the same region.  
 
-A single postcode can include multiple cities in the same region. At the same time, cities with the same name are sometimes located in different states.  
+At the same time, cities with the same name are sometimes located in different states.  
 
 For example, Australian postcode 4069 covers the cities of Chapel Hill and Kenmore in the state of Queensland. However, there is also a city named Chapel Hill in the state of South Australia, located in postcode 5153.  
 
@@ -35,6 +39,3 @@ Contact your Microsoft partner for information on how to obtain AMAS software.
 
 ## <a name="see-also"></a>See Also  
  [Australia Local Functionality](australia-local-functionality.md)
-
-
-[!INCLUDE[footer-include](../../includes/footer-banner.md)]

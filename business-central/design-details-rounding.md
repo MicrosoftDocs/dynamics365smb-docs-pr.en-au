@@ -1,20 +1,21 @@
 ---
-title: Design Details - Rounding
-description: Rounding residuals can occur when you value the cost of an inventory decrease measured in a different quantity than the corresponding inventory increase.
+title: Design Details - Rounding | Microsoft Docs
+description: Rounding residuals can occur when you value the cost of an inventory decrease that is measured in a different quantity than the corresponding inventory increase. Rounding residuals are calculated for all costing methods when you run the **Adjust Cost - Item Entries** batch job.
 author: SorenGP
-ms.topic: conceptual
+ms.service: dynamics365-business-central
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 06/08/2021
-ms.author: edupont
-ms.openlocfilehash: e3d8620c3691ec6fbf6929862a63f79eb46b5477
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.date: 04/01/2020
+ms.author: sgroespe
+ms.openlocfilehash: b5185b7cc70e6b57a4641cbcd3b45cbf9682285d
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8139685"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3184756"
 ---
 # <a name="design-details-rounding"></a>Design Details: Rounding
 Rounding residuals can occur when you value the cost of an inventory decrease that is measured in a different quantity than the corresponding inventory increase. Rounding residuals are calculated for all costing methods when you run the **Adjust Cost - Item Entries** batch job.  
@@ -54,8 +55,8 @@ Rounding residuals can occur when you value the cost of an inventory decrease th
 |------------------|--------------|----------------------------|---------------------------|---------------|  
 |01-01-20|3|10|1|1|  
 |02-01-20|-1|-3.33|2|2|  
-|03-01-20|-1|-3.33|3|3|  
-|04-01-20|-1|-3.33|4|4|  
+|03-01-20|-1|-3.33|2A-2B GST Net Amt. (3)|2A-2B GST Net Amt. (3)|  
+|04-01-20|-1|-3.33|Total Amounts Withheld From All Payments (4)|Total Amounts Withheld From All Payments (4)|  
 |01-01-20|0|-0.01|1|5|  
 
 ## <a name="see-also"></a>See Also  
@@ -63,7 +64,4 @@ Rounding residuals can occur when you value the cost of an inventory decrease th
  [Design Details: Cost Adjustment](design-details-cost-adjustment.md)   
  [Design Details: Costing Methods](design-details-costing-methods.md) [Managing Inventory Costs](finance-manage-inventory-costs.md)  
  [Finance](finance.md)  
- [Working with [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]
+ [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

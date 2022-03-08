@@ -1,20 +1,23 @@
 ---
-title: Service Statistics
-description: Get a quick overview of the contents and statistics of service documents such as orders, quotes, invoices, CR/Adj notes, service lines, and more.
+title: Service Statistics | Microsoft Docs
+description: Get a quick overview of the contents of service documents such as orders, quotes, invoices, or CR/Adj notes, the details on the specific service lines, and the service items.
+services: project-madeira
+documentationcenter: ''
 author: bholtorf
-ms.topic: conceptual
+ms.service: dynamics365-business-central
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 06/23/2021
+ms.date: 04/01/2019
 ms.author: bholtorf
-ms.openlocfilehash: 2d6d9cfd03971a7adec509babff9ad8cd90af4cb
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: b4482727547c80d41f96c31ba3b4a4e0ac7c1682
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8142940"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1250557"
 ---
 # <a name="viewing-service-statistics"></a>Viewing Service Statistics
 You can use statistics to analyse service documents and determine how well you are managing your service processes. You can analyse service contracts, items, quotes, orders, invoices, and CR/Adj notes by choosing the **Statistics** action. For service items and contracts, you can also use the **Service Item Trendscape** or **Contract Trendscape** to view a summary of service ledger entries for a specific service item.   
@@ -83,14 +86,14 @@ A contract gain or loss entry is generated when a contract quote is converted to
 |**Contract Gain/Loss (Reasons)**|To view the contract gain/loss by reason code.|  
 |**Contract Gain/Loss (Resp.Ctr)**|To view the contract gain/loss by responsibility centre.|  
 
-1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter the name of the page to display, and then choose the related link.  
+1. Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter the name of the page to display, and then choose the related link.  
 2. Fill in the filter criteria you want to apply. For example, on the **Contract Gain/Loss (Reasons)** page, choose a value for **Reason Code Filter**.  
 3. Choose the **Show Matrix** action.
 
 ## <a name="viewing-statistics-for-posted-service-documents"></a>Viewing Statistics for Posted Service Documents
 The service statistics feature lets you gain a statistical overview of the contents of posted service documents, such as a posted shipment, posted invoice, and posted CR/Adj Note.  
 
-The statistical information is displayed in the statistics page for the corresponding posted service document. You can open the relevant statistics page from posted service shipment, posted service invoice, or posted service CR/Adj Note documents. For each of these document types, choose the **Statistics** action. For example, from the **Posted Service Invoices** page, choose the **Statistics** action.  
+The statistical information is displayed in the statistics page for the corresponding posted service document. You can open the relevant statistics page from posted service shipment, posted service invoice, or posted service CR/Adj Note documents. For each of these document types, in the **Home** tab, in the **Process** group, choose **Statistics**. For example, from the **Posted Service Invoices** page, on the **Home** tab, in the **Process** group, choose **Statistics**.  
 
 ### <a name="posted-service-shipment-statistics"></a>Posted Service Shipment Statistics  
 The **Service Shipment Statistics** page provides an overview of a posted service shipment. This includes information about the physical contents of the shipment, such as quantity of the shipped items, resource hours or costs, and weight and volume of the shipped items.  
@@ -111,6 +114,3 @@ You can use the **Service CR/Adj Note Statistics** page to get a statistical ove
 [Create Service Orders](service-how-to-create-service-orders.md)   
 [Create Service Items](service-how-to-create-service-items.md)   
 [Planning Service](service-plan-service.md)  
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]

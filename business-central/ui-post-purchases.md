@@ -1,21 +1,21 @@
 ---
-title: Post Purchase Documents
-description: Learn about the different posting functions to post purchase documents, and how to update posted documents.
+title: Understanding How To Post Purchase Documents | Microsoft Docs
+description: Learn about the different posting functions to post purchase documents, and how you can update posted documents.
 author: SorenGP
+ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.reviewer: edupont
-ms.search.form: 9020, 9022, 9026, 9027, 9030, 9000, 9004, 9005, 9018, 9006, 9007, 9010, 9016, 9017
-ms.date: 06/24/2021
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 27cefa04aef99b548a40afdfabbbb1c1ceffb234
-ms.sourcegitcommit: cdb57f14960f58b1d36a1b373fbf35dfed5fad9e
+ms.openlocfilehash: 231985097fbca402d2bce14fed66f1a8736975c4
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 02/23/2022
-ms.locfileid: "8334884"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5783294"
 ---
 # <a name="posting-purchases"></a>Posting Purchases
 On a purchase document, you can choose between the following posting actions:
@@ -26,9 +26,9 @@ On a purchase document, you can choose between the following posting actions:
 * **Test Report**
 * **Post Batch**
 
-When a purchase document is posted, the supplier's account, the general ledger, the item ledger entries, and the resource ledger entries are updated.
+When a purchase document is posted, the vendor's account, the general ledger, the item ledger entries, and the resource ledger entries  are updated.
 
-For each purchase document, a purchase entry is created in the **G/L Entry** table. An entry is also created in the supplier's account in the **Supplier Ledger Entry** table and a G/L entry is created in the relevant payables account. In addition, posting the purchase may result in a GST entry and a G/L entry for the discount amount. Whether an entry for the discount is posted depends on the contents of the **Discount Posting** field on the **Purchases & Payables Setup** page.
+For each purchase document, a purchase entry is created in the **G/L Entry** table. An entry is also created in the vendor's account in the **Vendor Ledger Entry** table and a G/L entry is created in the relevant payables account. In addition, posting the purchase may result in a GST entry and a G/L entry for the discount amount. Whether an entry for the discount is posted depends on the contents of the **Discount Posting** field on the **Purchases & Payables Setup** page.
 
 For each purchase line, the following entries will be created:
 - An entry in the **Item Ledger Entry** table if the purchase line is of type **Item**.
@@ -45,9 +45,9 @@ Before you start to post, you can print a test report that contains all the info
 You can either post or post and print. If you choose to post and print, a report is printed when the order is posted. You can also choose the **Post Batch** function, which lets you post several orders at the same time. For more information, see [Post Multiple Documents at the Same Time](ui-batch-posting.md).
 
 ## <a name="viewing-ledger-entries"></a>Viewing Ledger Entries
-When the posting is completed, the posted purchase lines are removed from the order. A message tells you when the posting is completed. After this, you will be able to see the posted entries in the various pages that contain posted entries, such as the **Supplier Ledger Entries**, **G/L Entries**, **Item Ledger Entries**, **resource ledger entries**, **Purchase Receipts**, and **Posted Purchase Invoices** pages.
+When the posting is completed, the posted purchase lines are removed from the order. A message tells you when the posting is completed. After this, you will be able to see the posted entries in the various pages that contain posted entries, such as the **Vendor Ledger Entries**, **G/L Entries**, **Item Ledger Entries**, **resource ledger entries**, **Purchase Receipts**, and **Posted Purchase Invoices** pages.
 
-In most cases, you can open ledger entries from the affected card or document. For example, on the **Supplier Card** page, choose the **Entries** action.
+In most cases, you can open ledger entries from the affected card or document. For example, on the **Vendor Card** page, choose the **Entries** action.
 
 ## <a name="editing-ledger-entries"></a>Editing Ledger Entries
 You can edit certain fields on posted purchase documents, such as the **Payment Reference** field. For more information, see [Edit Posted Documents](across-edit-posted-document.md). For more critical fields that affect the auditing trail, you must reverse or undo posting. For more information, see [Reverse Journal Postings and Undo Receipts/Shipments](finance-how-reverse-journal-posting.md).

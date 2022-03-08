@@ -1,39 +1,36 @@
 ---
-title: Compliance Overview
-description: Overview of how Business Central functionality is built on a platform that makes it easy for customers to comply with compliance and regulatory legislation.
+title: Compliance | Microsoft Docs
+description: This content contains information about compliance in relation to Business Central.
 author: sorenfriisalexandersen
 documentationcenter: ''
-ms.topic: overview
+ms.service: dynamics365-business-central
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
 ms.reviewer: edupont
-ms.date: 06/14/2021
+ms.date: 07/16/2019
 ms.author: soalex
-ms.openlocfilehash: c771776965a1535d3a16a07f008a017a4a4c8a33
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 4a1d3a9e480ee87d791b68f66b9afa6a2be67535
+ms.sourcegitcommit: 519623f9a5134c9ffa97eeaed0841ae59835f453
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8146834"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "1755151"
 ---
-# <a name="compliance-overview"></a>Compliance Overview
+# <a name="compliance"></a>Compliance
+This content contains information about compliance in relation to [!INCLUDE[d365fin](../includes/d365fin_md.md)].  
 
-This content contains information about compliance in relation to [!INCLUDE[prod_short](../includes/prod_short.md)].  
+Compliance is a topic of increasing interest and throughout the evolution of Business Central we have ensured that the product empowers customers and partners on a broad scale and does not impose blockers in regards to compliance. On the contrary, Business Central contains functionality and is built on a platform that makes it easy for customers to comply with compliance and regulatory legislation.
 
-Compliance is a topic of increasing interest, and throughout the evolution of Business Central we have ensured that the product empowers customers and partners on a broad scale and does not impose blockers in regards to compliance. On the contrary, Business Central contains functionality and is built on a platform that makes it easy for customers to comply with compliance and regulatory legislation.
-
-In this section you can read more about our approach to compliance from the perspective of application, service, and local  requirements.
+In this section you can read more about our approach to compliance from and application, service and country specific perspective.
 
 |**To**|**See**|  
 |------------|-------------|  
-|Learn about compliance from an application perspective, such as GDPR, International Accounting Standards, and more.|[Application Compliance](compliance-application-compliance.md)|  
+|Learn about compliance from an application perspective, like GDPR and International Accounting Standards and more.|[Application Compliance](compliance-application-compliance.md)|  
 |Learn about compliance at the service level and the approaches made at the platform to ensure Business Central a best-in-class service compliance.|[Service Compliance](compliance-service-compliance.md)|  
-|See information about different certifications related to Business Central. Here you will find information about general certifications and country-specific certifications.|[Certifications](compliance-certifications.md)|  
+|See information about different certifications related to Business Central. Here you will find information about general certifications and country specific certifications.|[Certifications](compliance-certifications.md)|  
 |Learn about the service level agreement terms and other terms for the service|[Service Terms](compliance-service-compliance.md#service-terms)|  
 
-## [!INCLUDE[prod_short](../includes/free_trial_md.md)]  
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]
+## [!INCLUDE[d365fin](../includes/free_trial_md.md)]  

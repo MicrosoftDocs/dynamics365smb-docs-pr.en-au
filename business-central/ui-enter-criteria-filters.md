@@ -1,21 +1,21 @@
 ---
-title: Sorting, Searching, and Filtering Lists
+title: Sorting, Searching, and Filtering Lists | Microsoft Docs
 description: Work efficiently in lists by searching across your data, sorting columns, and refining results using filter symbols and keyboard shortcuts.
 author: jswymer
+ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: delimit, FlowFilter, totals, limit, advanced
-ms.search.form: 9020, 9022, 9026, 9027, 9030, 9000, 9004, 9005, 9018, 9006, 9007, 9010, 9016, 9017
-ms.date: 04/01/2021
+ms.date: 11/16/2020
 ms.author: jswymer
-ms.openlocfilehash: 9f5eda0056c4c449a46f9f04064c3f2764087007
-ms.sourcegitcommit: cdb57f14960f58b1d36a1b373fbf35dfed5fad9e
+ms.openlocfilehash: d682f9e66075348785329cd13a12c3e02d0993c4
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 02/23/2022
-ms.locfileid: "8335018"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5385857"
 ---
 # <a name="sorting-searching-and-filtering"></a>Sorting, Searching, and Filtering
 
@@ -24,7 +24,7 @@ There are a few things that you can do that will help you scan, find, and limit 
 For reports and XMLports, as on lists, you can set filters to delimit which data to include in the report or XMLport, but you can't sort and search.
 
 > [!TIP]
-> When viewing your data as tiles, you can search and use filtering. To use the full set of powerful features for sorting, searching, and filtering, choose the ![Show as list.](media/ui_show_as_list_icon.png "Show as list arrow left") icon to view the records as a list.
+> When viewing your data as tiles, you can search and use filtering. To use the full set of powerful features for sorting, searching, and filtering, choose the ![Show as list](media/ui_show_as_list_icon.png "Show as list arrow left") icon to view the records as a list.
 
 <!--
 When you want to search for data, such as customer names, addresses, or product groups, you enter criteria. In search criteria, you can use all the numbers and letters that you normally use in the specific field. In addition, you can use special symbols to further filter the results. There are two ways to search: using the Quick Filter or column filters.
@@ -45,7 +45,7 @@ To sort a list, you can either:
 ## <a name="searching"></a>Searching
 
 <!--## Searching by using the Quick Filter -->
-At the top of each list page, there's a ![Search list.](media/ui-search/search-list.png "Search list icon") **Search** action that provides a quick and easy way to reduce the records in a list and display only those records that contain the data that you're interested in seeing.
+At the top of each list page, there's a ![Search list](media/ui-search/search-list.png "Search list icon") **Search** action that provides a quick and easy way to reduce the records in a list and display only those records that contain the data that you're interested in seeing.
 
 To search, just choose the **Search** action, and then in the box, type the text that you're looking for. You can enter letters, numbers, and other symbols.
 
@@ -144,7 +144,7 @@ Both in the filter pane and on a request page, you enter your filter criteria in
 
 The type of the filter field determines which criteria you can enter. For example, filtering a field that has fixed values will only let you choose from those values. For more information about special filter symbols, see [Filter criteria](#FilterCriteria) and [Filter tokens](#FilterTokens).
 
-Columns that already have filters are indicated by the ![Filter icon.](media/ui-search/filter-icon.png "Filter icon") icon in the column heading. To remove a filter, choose the drop-down arrow, and then choose the **Clear Filter** action.
+Columns that already have filters are indicated by the ![Filter icon](media/ui-search/filter-icon.png "Filter icon") icon in the column heading. To remove a filter, choose the drop-down arrow, and then choose the **Clear Filter** action.
 
 > [!TIP]
 > Accelerate finding and analysing your data by using combinations of keyboard shortcuts. For example, select a field, use **Shift+Alt+F3** to add that field to the filter pane, type the filter criteria, use **Ctrl+Enter** to return to the rows, select another field, and use **Alt+F3** to filter to that value. For more information, see [Keyboard Shortcuts](keyboard-shortcuts.md#KeyboardFilter).
@@ -220,7 +220,6 @@ When you enter criteria, you can use all the numbers and letters that you normal
 |Sample Expression|Records Displayed|  
 |-----------------------|-----------------------|  
 |`'man'`|Text that matches **man** exactly and is case-sensitive.|  
-|`''`|Text that is empty.|  
 
 #### <a name="-case-insensitive"></a>(@) Case insensitive  
 
@@ -260,7 +259,7 @@ There may be cases where field values contain the one of the following symbols:
 - =
 - &#124;
 
-If you want to filter on any of these symbols, place the filter expression in single quotes (`'<expression with symbol>'`). For example, if you wanted to filter on records that start with the text *J & V*, the filter expression would be `'J & V*'`.
+If you want to filter on any of these symbols, place the filter expression in quotation marks (''). For example, if you wanted to filter on records that start with the text *J & V*, the filter expression would be `'J & V*'`.
 
 This requirement isn't necessary for other symbols.
 
@@ -295,17 +294,17 @@ Use `%myitems` in the item **No** field to display all records for items that ar
 |-----------------------|-----------------------|  
 |`%myitems`|Items in the **My Items** on your Role Centre. |  
 
-#### <a name="myvendors-vendors-in-my-vendors"></a>(%mysuppliers) Suppliers in My Suppliers
+#### <a name="myvendors-vendors-in-my-vendors"></a>(%myvendors) Vendors in My Vendors
 
-Use `%myvendors` in the supplier **No** field to display all records for suppliers that are included in the **My Suppliers** list on your Role Centre.
+Use `%myvendors` in the vendor **No** field to display all records for vendors that are included in the **My Vendors** list on your Role Centre.
 
 |Sample Expression|Records Displayed|  
 |-----------------------|-----------------------|  
-|`%myvendors`|Suppliers in the **My Suppliers** on your Role Centre. |  
+|`%myvendors`|Vendors in the **My Vendors** on your Role Centre. |  
 
 ## <a name="see-also"></a>See Also
 
-[Searching and Filtering FAQ](ui-search-filter-faq.yml)  
+[Searching and Filtering FAQ](ui-search-filter-faq.md)  
 [Save and Personalise List Views](ui-views.md)  
 [Working with [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 

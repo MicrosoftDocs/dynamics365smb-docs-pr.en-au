@@ -1,21 +1,22 @@
 ---
-title: Set Up Fixed Assets
+title: Set Up Fixed Assets| Microsoft Docs
 description: Learn about the sequence of tasks you must do to set up fixed assets, such as machinery or buildings.
-author: edupont04
+documentationcenter: ''
+author: SorenGP
+ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: machinery, buildings
-ms.search.form: 5607
-ms.date: 04/01/2021
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 3213dfabc13b9402c794589b6bced5fe3350cf5d
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 3044d878260dbab4e9d2423398b7654386671638
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8136200"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5380085"
 ---
 # <a name="setting-up-fixed-assets"></a>Setting Up Fixed Assets
 Before you can work with Fixed Assets, you need to define a few things:  
@@ -39,13 +40,11 @@ The following table describes a sequence of tasks, with links to the topics that
 | Enable insurance of fixed assets, set up general insurance information, an insurance card per policy, and prepare journals to post insurance costs. |[Set Up Fixed Asset Insurance](fa-how-setup-insurance.md) |
 | Enable maintenance of fixed assets, set up general maintenance information, set up maintenance posting accounts, and define types of maintenance work. |[Set Up Fixed Asset Maintenance](fa-how-setup-maintenance.md) |
 | Learn about different fixed asset depreciation methods. |[Depreciation Methods](fa-depreciation-methods.md) |
-| Learn about how to apply user-defined depreciation methods. |[Set Up User-Defined Depreciation Methods](fa-how-setup-user-defined-depreciation-method.md) |
-
 
 ## <a name="see-also"></a>See Also
 [Fixed Assets](fa-manage.md)  
 [Finance](finance.md)  
-[Getting Ready for Doing Business](ui-get-ready-business.md)  
+[Getting Started](product-get-started.md)  
 [Working with [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
 
 

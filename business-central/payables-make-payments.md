@@ -1,21 +1,21 @@
 ---
-title: Overview of Tasks to Manage Payments to Vendors
+title: Overview of Tasks to Manage Payments to Vendors| Microsoft Docs
 description: Outlines tasks to manage payments to vendors or creditors, including posting payment lines and getting an overview of the balance due.
 author: edupont04
-ms.topic: overview
+ms.service: dynamics365-business-central
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: print check, vendor payment, creditor, debt, balance due, AP
-ms.search.form: 254, 256, 1190, 1191, 1227, 1228, 1229
-ms.date: 04/01/2021
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 6cda8910fdd2f0bdaa3e79a193cae5274d6f9ba8
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 7d063b4b6a78f9a75cdb16050ffe14305df27d95
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8137765"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3916684"
 ---
 # <a name="making-payments"></a>Making Payments
 
@@ -45,7 +45,4 @@ The following table describes a sequence of tasks, with links to the topics that
 [Managing Payables](payables-manage-payables.md)  
 [Purchasing](purchasing-manage-purchasing.md)  
 [Managing Receivables](receivables-manage-receivables.md)  
-[Working with [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  

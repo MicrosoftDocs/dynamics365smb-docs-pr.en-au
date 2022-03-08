@@ -1,31 +1,32 @@
 ---
-title: View Withholding Tax Entries [AU]
-description: You can view entries that have been posted with withholding tax (WHT) for a specified general ledger register in the Australian version.
+title: How to View Withholding Tax Entries
+description: You can view entries that have been posted with withholding tax (WHT) for a specified general ledger register.
+services: project-madeira
+documentationcenter: ''
 author: SorenGP
-ms.topic: conceptual
+ms.service: dynamics365-business-central
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.search.form: 28043
-ms.date: 06/25/2021
-ms.author: edupont
-ms.openlocfilehash: 998b3d3ee8aec33cc8cc2dad3480be5d33b596fb
-ms.sourcegitcommit: 67006b090a7bd70446414a19cc82e531190637dc
+ms.date: 04/01/2020
+ms.author: sgroespe
+ms.openlocfilehash: ac417c2d7a975c2c447be4993ebfcd9fbb0877c3
+ms.sourcegitcommit: 007b331b6974983ee614db0406f00777da359ecb
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 02/16/2022
-ms.locfileid: "8311310"
+ms.lasthandoff: 08/10/2020
+ms.locfileid: "3676686"
 ---
-# <a name="view-withholding-tax-entries-in-the-australian-version"></a>View Withholding Tax Entries in the Australian Version
-
+# <a name="view-withholding-tax-entries"></a>View Withholding Tax Entries
 You can view entries that have been posted with withholding tax (WHT) for a specified general ledger register.  
 
 On the **WHT Entry** page, you can view details about the withholding tax, such as the base amount, the calculated WHT amount, the WHT calculation method, and the unrealised WHT amount.  
 
 ## <a name="to-view-withholding-tax-entries"></a>To view withholding tax entries  
 
-1.  Choose the ![Lightbulb that opens the Tell Me feature.](../../media/ui-search/search_small.png "Tell me what you want to do") icon, enter **G/L Registers**, and then choose the related link.  
+1.  Choose the ![Lightbulb that opens the Tell Me feature](../../media/ui-search/search_small.png "Tell me what you want to do") icon, enter **G/L Registers**, and then choose the related link.  
 2.  Select the general ledger register for which you want to view WHT entries, and then choose the **WHT Entry** action.  
 
 You can view the posted WHT entries on the **WHT Entry** page.  
@@ -35,6 +36,3 @@ You can view the posted WHT entries on the **WHT Entry** page.
  [Set Up Revenue Types for Withholding Tax](how-to-set-up-revenue-types-for-withholding-tax.md)   
  [Set Up Withholding Tax](how-to-set-up-withholding-tax.md)   
  [Calculate and Post Withholding Tax Settlements](how-to-calculate-and-post-withholding-tax-settlements.md)
-
-
-[!INCLUDE[footer-include](../../includes/footer-banner.md)]

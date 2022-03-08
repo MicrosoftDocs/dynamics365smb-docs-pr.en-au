@@ -1,22 +1,23 @@
 ---
-title: Relationship Management
-description: The relationship management features support your sales efforts and let you access information about contacts and prospects to serve customers efficiently.
+title: Relationship Management| Microsoft Docs
+description: The relationship management features in Business Central support your sales efforts and let you access information about contacts and prospects so you can serve customers efficiently.
+services: project-madeira
 documentationcenter: ''
 author: SorenGP
+ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: contact, prospect, client
-ms.search.forms: 9076, 9026
-ms.date: 06/22/2021
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 3dec95b484bce34c2eff2cbc49510e54f871f4ef
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: d53ab4833332ad488c7b1b9c6031515377e5f58c
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8137869"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5377506"
 ---
 # <a name="managing-relationships"></a>Managing Relationships
 The relationship management features of [!INCLUDE[prod_short](includes/prod_short.md)] help you manage and support your sales efforts. With these features, you have access to complete and accurate information so you can focus your interactions on preferred customer/contact segments.
@@ -28,7 +29,7 @@ The following table describes a sequence of tasks, with links to the topics that
 | To | See |
 | --- | --- |
 |Define default settings for the use of contacts and interactions and set up number series.|[Setting Up Relationship Management](marketing-setup-marketing.md)|
-|Define the external entities that you have business relations with, such as customers, prospective customers, suppliers, lawyers, and consultants, either as Person type or Company type.|[Managing Contacts](marketing-contacts.md)|
+|Define the external entities that you have business relations with, such as customers, prospective customers, vendors, lawyers, and consultants, either as Person type or Company type.|[Managing Contacts](marketing-contacts.md)|
 |Manage all types of communications between your company and your contacts, such as by email, letter, telephone, meetings.|[Managing Interactions](marketing-interactions.md)|
 |Define segments to select a group of contacts according to specific criteria, such as the industry that the contacts belong to.|[Managing Segments](marketing-segments.md)|
 |Process incoming leads by creating opportunities and associating them to salespeople so that you can keep track of potential sales.|[Managing Sales Opportunities](marketing-manage-sales-opportunities.md)|

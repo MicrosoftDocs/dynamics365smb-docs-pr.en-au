@@ -1,22 +1,23 @@
 ---
-title: Manage database access intent in Business Central
+title: Manage database access intent in Business Central | Microsoft Docs
 description: Change the database access intent for reports, API pages, and queries.
 author: jswymer
+ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.form: 9880
+ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.author: jswymer
-ms.openlocfilehash: 66473480ac2db86bc35adc7e60d7fcd2cafc7212
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 3a85a8acda1789997639c78c5d6028a14dbb75af
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8142531"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6443951"
 ---
-# <a name="managing-database-access-intent"></a>Managing Database Access Intent
+# <a name="managing-database-access-intent"></a>Managing Database Access Intent 
 
 As a super user or administrator, you can change the database access intent on reports, pages of the type API, and queries to improve performance of the service.
 

@@ -1,20 +1,23 @@
 ---
-title: Design Details - Active versus Historic Item Tracking Entries
-description: When parts of a document line quantity are posted, only that quantity is transferred to the item ledger entries and its item tracking numbers.
+title: Design Details - Active versus Historic Item Tracking Entries | Microsoft Docs
+description: When parts of a document line quantity are posted, only that particular quantity is transferred to the item ledger entries and its item tracking numbers. However, you will want to access all relevant item tracking information directly from the active document line. That is, not only will you want to see the entries that are related to the remaining quantity, you will also want information about the units that have been posted. When you view or modify the **Item Tracking Lines** page, the collective contents of the **Tracking Specification** table (T336) and **Reservation Entry** table (T337) are presented in a temporary version of T336. This ensures that historic and active item tracking data is accessed as one.
+services: project-madeira
+documentationcenter: ''
 author: SorenGP
-ms.topic: conceptual
+ms.service: dynamics365-business-central
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 06/15/2021
-ms.author: edupont
-ms.openlocfilehash: 8e38d258510e35c0cb613191d005affbb3fb8713
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.date: 04/01/2019
+ms.author: sgroespe
+ms.openlocfilehash: 0f99bc9af80f1efa91892fc1ce6f59a8ac987bef
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8146782"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1243235"
 ---
 # <a name="design-details-active-versus-historic-item-tracking-entries"></a>Design Details: Active versus Historic Item Tracking Entries
 When parts of a document line quantity are posted, only that particular quantity is transferred to the item ledger entries and its item tracking numbers. However, you will want to access all relevant item tracking information directly from the active document line. That is, not only will you want to see the entries that are related to the remaining quantity, you will also want information about the units that have been posted. When you view or modify the **Item Tracking Lines** page, the collective contents of the **Tracking Specification** table (T336) and **Reservation Entry** table (T337) are presented in a temporary version of T336. This ensures that historic and active item tracking data is accessed as one.  
@@ -33,14 +36,14 @@ When parts of a document line quantity are posted, only that particular quantity
 ||**Quantity (Base)**|**Qty. to Handle**|**Qty. to Invoice (Base)**|**Quantity Handled (Base)**|**Quantity Invoiced (Base)**|  
 |-|----------------------------------------------|--------------------------------------------|------------------------------------------------------|-------------------------------------------------------|--------------------------------------------------------|  
 |**Item Tracking Lines** page|7|**4**|**0**|0|0|  
-|**T337**|3|0|0|0|0|  
-|**T336**|4|0|0|4|0|  
+|**T337**|2A-2B GST Net Amt. (3)|0|0|0|0|  
+|**T336**|Total Amounts Withheld From All Payments (4)|0|0|Total Amounts Withheld From All Payments (4)|0|  
 
  Step 3: Receive two pieces and invoice two pieces.  
 
 ||**Quantity (Base)**|**Qty. to Handle**|**Qty. to Invoice (Base)**|**Quantity Handled (Base)**|**Quantity Invoiced (Base)**|  
 |-|----------------------------------------------|--------------------------------------------|------------------------------------------------------|-------------------------------------------------------|--------------------------------------------------------|  
-|**Item Tracking Lines** page|7|**2**|**2**|4|0|  
+|**Item Tracking Lines** page|7|**2**|**2**|Total Amounts Withheld From All Payments (4)|0|  
 |**T337**|1|0|0|0|0|  
 |**T336**|6|0|0|6|2|  
 
@@ -61,6 +64,3 @@ When parts of a document line quantity are posted, only that particular quantity
 ## <a name="see-also"></a>See Also  
  [Design Details: Item Tracking](design-details-item-tracking.md)   
  [Design Details: Item Tracking Lines Page](design-details-item-tracking-lines-window.md)
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]

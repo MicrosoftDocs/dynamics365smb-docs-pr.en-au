@@ -1,21 +1,22 @@
 ---
-title: Entering dates and times in Business Central
-description: Learn how to enter dates and times including various productivity tips such as shorthand, expressions and ranges.
+title: Entering dates and times in Business Central  | Microsoft Docs
+description: Learn how to enter dates and times including various productivity tips such as shorthand, expressions and ranges. Filter lists or reports down to specific date or time periods.
+documentationcenter: ''
 author: SorenGP
-ms.topic: conceptual
+ms.service: dynamics365-business-central
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: dates, reporting, filter, calendar, shorthand, range
-ms.search.form: 9020, 9022, 9026, 9027, 9030, 9000, 9004, 9005, 9018, 9006, 9007, 9010, 9016, 9017
-ms.date: 06/23/2021
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 934fcefa552f01a05f95221d57d9a708b9acc26f
-ms.sourcegitcommit: 75a388b1d8917e2bbd49398ef76cf86cf37e6767
+ms.openlocfilehash: 853a45dc32907c2d9b69f7b2e592dc164c20a094
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 02/17/2022
-ms.locfileid: "8323014"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4757375"
 ---
 # <a name="working-with-calendar-dates-and-times"></a>Working with Calendar Dates and Times
 
@@ -47,7 +48,7 @@ To work more productively with dates and times, you can use any of the methods o
 
 Any field displaying a calendar icon can be set using the calendar date picker. To display the calendar date picker, activate the calendar icon or press the Ctrl + Home keyboard shortcut in the field.
 
-![Date fields.](media/ui-date-field.png "Example of a date field")
+![Date fields](media/ui-date-field.png "Example of a date field")
 
 See also [Keyboard Shortcuts in the calendar date picker](keyboard-shortcuts.md#calendarshortcuts).
 
@@ -71,25 +72,27 @@ In a date field you can enter two, four, six, or eight digits:
 
 ### <a name="today"></a>Today
 
-Enter the word for _today_, in the language specified on the **My Settings** page, to set the date on a record to today's date. Instead of entering the entire word, you can enter part of the word, starting from the beginning. For example, in English, you can enter _t_ or _tod_, as long as it is not also the start of another word.
+Enter the word for today, in the language set by **Language** setting, that will set the date to the current date. Instead of entering the entire word, you can enter part of the word, starting from the beginning, such as t or tod, as long as it is not also the start of another word.
 
 ### <a name="period"></a>Period
 
-To filter on a specific accounting period, in a date field enter the letter p, or the word period, followed by a number that identifies the accounting period, like p2 or period4. The accounting period is relative to the financial year of the current work date that set in your Role Centre. For example, if the work date is **03/21/22**, then p1, or just p, filters on the first accounting period of the financial year 2022 (such as 01/01/22..01/31/22). p15 filters on the fifteenth accounting period from the start of financial year 2022 (such as 03/01/23..03/31/23).
+To filter on a specific accounting period, in a date field enter the letter p, or the word period, followed by a number that identifies the accounting period, like p2 or period4. The accounting period is relative to the fiscal year of the current work date that set in your Role Centre. For example, if the work date is **03/21/20**, then p1, or just p, filters on the first accounting period of the fiscal year 2020 (such as 01/01/20..01/31/20). p15 filters on the fifteenth accounting period from the start of fiscal year 2020 (such as 03/01/21..03/31/21).
 
 The accounting periods are defined on the **Accounting Periods** page. To view or change the accounting periods, open the page [here](https://businesscentral.dynamics.com/?page=100).
 
-### <a name="work-date"></a>Work Date
+### <a name="current-work-date"></a>Current work date
 
-Use a work date to specify a date that is not today's date on records. For example, a work date is useful when you need to set a particular date for multiple records. You specify the work date on the **My Settings** page. 
+The work date feature allows you to record transactions using a date that is different from the current date.
 
-A fast way to enter the work date on records is to enter some or all of the word _work_, starting from the beginning of the word, in the language in which you're using [!INCLUDE[prod_short](includes/prod_long.md)]. For example, in English, you can enter _w_ or _work_. The language is also specified on the **My Settings** page.
+The word for 'workdate', in the language set by **Language** setting, will set the date to the currently set work date that is specified on the **My Settings** page. Instead of entering the entire word, you can enter part of the word, starting from the beginning, such as 'w' or 'work'.
 
-If you have not specified a work date, today's date will be used. For more information, see [Change Basic Settings, such as the Work Date](ui-change-basic-settings.md#work-date).
+If you have not defined a work date, the current date will be used as the work date. You may want to use a work date if you have many transactions with a date other than today's date.
+
+See also [Change Basic Settings, such as the Work Date](ui-change-basic-settings.md#work-date).
 
 ### <a name="closing-date"></a>Closing Date
 
-When you close a financial year, you can use closing dates to indicate that an entry is a closing entry. A closing date technically is between two dates, for example between Dec 31 and Jan 1.
+When you close a fiscal year, you can use closing dates to indicate that an entry is a closing entry. A closing date technically is between two dates, for example between Dec 31 and Jan 1.
 
 To specify that a date is a closing date, put C just before the date, such as C123101. This can be used in combination with all the date patterns.
 
@@ -99,12 +102,12 @@ The following table contains examples of dates using all the formats. It assumes
 
 |**Entry**      |**Interpretation**      |
 |---------------|------------------------|
-|2022.12.31.|2022.12.31.|
-|221231|2022.12.31.|
-|22.12.31.|2022.12.31.|
-|22.12.31.|2022.12.31.|
-|20221231|2022.12.31.|
-|22/12,31|2022.12.31.|
+|2018.12.31.|2018.12.31.|
+|181231|2018.12.31.|
+|18.12.31.|2018.12.31.|
+|18.12.31.|2018.12.31.|
+|20181231|2018.12.31.|
+|18/12,31|2018.12.31.|
 |11|work date year.work date month.11.|
 |1112|work date year.11.12.|
 |t or today|today's date|
@@ -191,12 +194,12 @@ The following example shows how you can use a minus sign to indicate a date in t
 |-1Y|1 year ago from today|
 
 > [!IMPORTANT]
-> If the location uses a base calendar, then the date formula that you enter in, for example, the **Shipping Time** field is interpreted according to the calendar working days. For example, 1W  means seven working days.
+>  If the location uses a base calendar, then the date formula that you enter in, for example, the **Shipping Time** field is interpreted according to the calendar working days. For example, 1W  means seven working days.
 <!--
 # Entering Date Ranges
 You can set filters containing a start date and an end date to display only the data contained in that date range or time interval. Special rules apply to the way you set date ranges. Let's take the **Customer Top 10** as an example:
 
-![Setting a date range in the request page for the Customer Top 10 list.](./media/ui-enter-date-ranges/customer-top10-list.png)
+![Setting a date range in the request page for the Customer Top 10 list](./media/ui-enter-date-ranges/customer-top10-list.png)
 
 Here you can limit the report to a date range such as the past 2 weeks, or a total of 6 weeks, or whatever range you want. To set date ranges, you enter dates and then use either **..** or **|** to set the range. In our example, to show the top 10 customers for the first two weeks of May, you would set the date filter to *05 01 17..05 14 17*.
 Here are a couple of other examples:
@@ -311,16 +314,43 @@ You cannot use 24:00 to mean midnight, or use any value greater than 24:00.
 
 The word for 'time' in the language used by [!INCLUDE[prod_short](includes/prod_long.md)] will be evaluated to the current time on your computer or mobile device. You can enter any part of the word, starting from the beginning, such as t or TIM.
 
-## <a name="entering-combined-dates-and-times"></a>Entering Combined Dates and Times
+## <a name="entering-combined-dates-and-times"></a>Entering combined Dates and Times
+When you enter datetimes, which are a date and time combined into one field, you must enter a space between the date and the time. The date part can only contain spaces in the form of the official date separator of your region settings. The time can contain spaces around the AM/PM indicator.
 
-[!INCLUDE [datetimes](includes/datetimes.md)]
+It is also possible to enter only a date in a datetime field, but it is not possible to enter only a time.
+
+The following table lists some examples of date/time combinations. The region settings in the examples displays dates in the day\-month\-year format, using AM/PM designators, English language, and Sunday as the start of the week.
+
+|**Entry**      |**Interpretation**      |
+|---------------|------------------------|
+|08-01-2016 05:48:12 PM|08\-01\-2016 05:48:12 PM|
+|131202 132455|13\-12\-2002 13:24:55|
+|1-12-02 10|01\-12\-2002 10:00:00|
+|1.12.02 5|01\-12\-2002 05:00:00|
+|1.12.02|01\-12\-2002 00:00:00|
+|11 12|11\-work date month\-work date year 12:00:00|
+|1112 12|11\-12\-work date year 12:00:00|
+|t or today|today's date 00:00:00|
+|t 10:30|today's date 10:30:00|
+|t 3:3:3|today's date 03:03:03|
+|w or workdate|the working date 00:00:00|
+|m or Monday|Monday of the work date week 00:00:00|
+|tu or Tuesday|Tuesday of the work date week 00:00:00|
+|sa or Saturday|Saturday of the work date week 00:00:00|
+|s or Sunday|Sunday of the work date week 00:00:00|
+|tu 10:30|Tuesday of the work date week 10:30:00|
+|tu 3:3:3|Tuesday of the work date week 03:03:03|
+|t23 t|Tuesday of week 23 of the work date year, current time of day|
+|t23|Tuesday of week 23 of the work date year|
+|t 23|Today 23:00:00|
+|t-1|Tuesday of week 1 of the work date year|
 
 ## <a name="entering-duration"></a>Entering Duration
-Some fields in the application represent a duration, or amount of elapsed time, instead of a specific date or time. You enter a duration as a number followed by its unit of measurement.
+Some fields in the application represent a duration, or amount of elapsed time, instead of a specific date or time. You enter a duration as a number followed by its unit of measure.
 
 Here are some examples.
 
-|**Duration**|**Unit of measurement**|
+|**Duration**|**Unit of measure**|
 |------------|-------------------|
 |2h|2 hrs|
 |6h 30 m|6 hrs 30 mins|
@@ -329,16 +359,13 @@ Here are some examples.
 |2d 6h 30m|2 days 6 hrs 30 mins|
 |2d 6h 30m 56s 600ms|2 days 6 hrs 30 mins 56 secs 600 msecs|
 
-You can also enter a number, which will be automatically converted to a duration. The number you enter is converted according to the default unit of measurement that has been specified for the duration field.
+You can also enter a number, which will be automatically converted to a duration. The number you enter is converted according to the default unit of measure that has been specified for the duration field.
 
-To see what unit of measurement is being used in a duration field, enter a number and see which unit of measurement it is converted to.
+To see what unit of measure is being used in a duration field, enter a number and see which unit of measure it is converted to.
 
-For example, if the unit of measurement is hours, the number 5 is converted to 5 hrs.
+For example, if the unit of measure is hours, the number 5 is converted to 5 hrs.
 
 ## <a name="see-also"></a>See Also
 [Working with [!INCLUDE[prod_short](includes/prod_long.md)]](ui-work-product.md)  
 [Date Calculation for Purchases](purchasing-date-calculation-for-purchases.md)  
 [Entering Criteria in Filters](ui-enter-criteria-filters.md)  
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]

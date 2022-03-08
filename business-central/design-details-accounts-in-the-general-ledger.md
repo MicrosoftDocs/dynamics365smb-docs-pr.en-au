@@ -2,19 +2,20 @@
 title: Design Details - Accounts in the General Ledger | Microsoft Docs
 description: To reconcile inventory and capacity ledger entries with the general ledger, the related value entries are posted to different accounts in the general ledger.
 author: SorenGP
-ms.topic: conceptual
+ms.service: dynamics365-business-central
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 06/08/2021
+ms.date: 04/01/2020
 ms.author: edupont
-ms.openlocfilehash: b1b3620234901c3b2a1eba5f5af7eb0e79449dc4
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 408a510e311573f6573eee286508b9f05f0088dc
+ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8146808"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "3788329"
 ---
 # <a name="design-details-accounts-in-the-general-ledger"></a>Design Details: Accounts in the General Ledger
 To reconcile inventory and capacity ledger entries with the general ledger, the related value entries are posted to different accounts in the general ledger. For more information, see [Design Details: Reconciliation with the General Ledger](design-details-reconciliation-with-the-general-ledger.md).  
@@ -73,7 +74,7 @@ The following table shows the relationship between different types of inventory 
 |Production|Machine Centre/Work Centre|Indirect Cost|WIP Account|Overhead Applied|  
 
 ## <a name="assembly-costs-are-always-actual"></a>Assembly Costs are Always Actual  
- As shown in the table above, assembly postings are not represented in interim accounts. This is because the concept of work in progress (WIP) does not apply in assembly output posting, unlike in production output posting. Assembly costs are only posted as actual cost, never as expected cost.  
+ As shown in the table above, assembly postings are not represented in interim accounts. This is because the concept of work in process (WIP) does not apply in assembly output posting, unlike in production output posting. Assembly costs are only posted as actual cost, never as expected cost.  
 
  For more information, see [Design Details: Assembly Order Posting](design-details-assembly-order-posting.md).  
 
@@ -98,7 +99,4 @@ The following table shows how the amounts to post to the general ledger are calc
  [Design Details: Expected Cost Posting](design-details-expected-cost-posting.md)  
  [Managing Inventory Costs](finance-manage-inventory-costs.md)  
  [Finance](finance.md)  
- [Working with [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]
+ [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  

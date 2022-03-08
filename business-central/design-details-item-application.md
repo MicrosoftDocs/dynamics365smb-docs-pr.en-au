@@ -2,19 +2,20 @@
 title: Design Details - Item Application | Microsoft Docs
 description: This topic describes where inventory quantity and value are recorded when you post an inventory transaction.
 author: SorenGP
+ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: design, items, ledger entries, posting, inventory
-ms.date: 06/08/2021
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 581ffdce943844d466adc6320fe32aaaa29138b6
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 2d15d37e2c56aa0a4de6189bc01c011f6f4d30cd
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8143564"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5774972"
 ---
 # <a name="design-details-item-application"></a>Design Details: Item Application
 
@@ -177,7 +178,7 @@ The following table shows the value entry resulting from scenario step 4, postin
 
 |Posting Date|Item Ledger Entry Type|Valued Quantity|Cost Amount (Actual)|Appl.-from Item Entry|Item Ledger Entry No.|Entry No.|  
 |-------------------------------------|-----------------------------------------------|-----------------------------------------|------------------------------------------------|------------------------------------------------|-----------------------------------------------|----------------------------------|  
-|04-01-20|(Item Charge)|1|100.00||1|4|  
+|04-01-20|(Item Charge)|1|100.00||1|Total Amounts Withheld From All Payments (4)|  
 
 The following table shows the effect of the exact cost reversal on the item's value entries.  
 
@@ -185,8 +186,8 @@ The following table shows the effect of the exact cost reversal on the item's va
 |-------------------------------------|-----------------------------------------------|-----------------------------------------|------------------------------------------------|------------------------------------------------|-----------------------------------------------|----------------------------------|  
 |01-01-20|Purchase|1|1000.00||1|1|  
 |02-01-20|Sale|-1|1100.00||2|2|  
-|03-01-20|Sale (CR/Adj Note)|1|1100.00|2|3|3|  
-|04-01-20|(Item Charge)|1|100.00||1|4|  
+|03-01-20|Sale (CR/Adj Note)|1|1100.00|2|2A-2B GST Net Amt. (3)|2A-2B GST Net Amt. (3)|  
+|04-01-20|(Item Charge)|1|100.00||1|Total Amounts Withheld From All Payments (4)|  
 
 When you run the **Adjust Cost - Item Entries** batch job, the increased cost of the purchase entry, due to the item charge, is forwarded to the sales entry (entry number 2). The sales entry then forwards this increased cost to the sales credit entry (entry number 3). The final result is that the cost is correctly reversed.  
 
@@ -212,8 +213,8 @@ The following table shows the effect of the transfer on the item's value entries
 |-------------------------------------|-----------------------------------------------|--------------------------------------|-----------------------------------------|------------------------------------------------|----------------------------------|  
 |01-01-20|Purchase|EAST|1|10.00|1|  
 |01-01-20|Purchase|EAST|1|20.00|2|  
-|02-01-20|Transfer|EAST|-1|15.00|3|  
-|02-01-20|Transfer|WEST|1|15.00|4|  
+|02-01-20|Transfer|EAST|-1|15.00|2A-2B GST Net Amt. (3)|  
+|02-01-20|Transfer|WEST|1|15.00|Total Amounts Withheld From All Payments (4)|  
 
 ### <a name="example--standard-costing-method"></a>Example – Standard Costing Method  
 The following example, which illustrates how transfer entries are applied, is based on the following scenario for an item using Standard costing method and an average cost period of Day.  
@@ -227,7 +228,7 @@ The following table shows the effect of the transfer on the item's value entries
 |-------------------------------------|-----------------------------------------------|--------------------------------------|-----------------------------------------|------------------------------------------------|----------------------------------|  
 |01-01-20|Purchase|EAST|1|10.00|1|  
 |02-01-20|Transfer|EAST|-1|10.00|2|  
-|02-01-20|Transfer|WEST|1|10.00|3|  
+|02-01-20|Transfer|WEST|1|10.00|2A-2B GST Net Amt. (3)|  
 
 Since the value of the original inventory increase is LCY 10.00, the transfer is valued at that cost, not at LCY 12.00.  
 

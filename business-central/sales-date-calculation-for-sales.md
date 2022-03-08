@@ -1,23 +1,24 @@
 ---
-title: Date Calculation for Sales
-description: The application automatically calculates the date on which you must order an item to have it in inventory on a certain date and available for picking.
+title: Date Calculation for Sales | Microsoft Docs
+description: The application automatically calculates the date on which you must order an item to have it in inventory on a certain date. This is the date on which you can expect items ordered on a particular date to be available for picking.
 author: SorenGP
-ms.topic: conceptual
+ms.service: dynamics365-business-central
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 06/23/2021
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: bee576ce77411e15710e9f09ccbc6ef457f80728
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: a8f272b73f7cc5940f2e0b845c62fd28395b6923
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8145454"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3926330"
 ---
 # <a name="date-calculation-for-sales"></a>Date Calculation for Sales
-[!INCLUDE[prod_short](includes/prod_short.md)] automatically calculates the earliest possible date that an item on a sales order line can be shipped.
+[!INCLUDE[d365fin](includes/d365fin_md.md)] automatically calculates the earliest possible date that an item on a sales order line can be shipped.
 
 If the customer has requested a specific delivery date, then the date on which the items must be available to pick to meet that delivery date is calculated.
 
@@ -44,7 +45,4 @@ If you do not specify a requested delivery date on the sales order line, or if t
 ## <a name="see-also"></a>See Also  
  [Date Calculation for Purchases](purchasing-date-calculation-for-purchases.md)   
  [Calculate Order Promising Dates](sales-how-to-calculate-order-promising-dates.md)  
- [Working with [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]
+ [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

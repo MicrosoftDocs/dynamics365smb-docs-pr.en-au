@@ -1,30 +1,30 @@
 ---
-title: How to Set Up Stockkeeping Units
+title: How to Set Up Stockkeeping Units | Microsoft Docs
 description: You can use stockkeeping units to record information about your items for a specific location or a specific variant code.
 author: SorenGP
+ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.search.forms: 5704, 5700, 5702, 5701
-ms.date: 04/01/2021
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 92be2a9cf0a3ef176d4f3fe1c51ec5543c30bca5
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 4136cdb7dd89e2998a3fe0e8107dd82b3ab40619
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8131543"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5393057"
 ---
 # <a name="set-up-stockkeeping-units"></a>Set Up Stockkeeping Units
-You can use stockkeeping units to record information about items for a specific location or a variant code.  
+You can use stockkeeping units to record information about your items for a specific location or a specific variant code.  
 
-Stockkeeping units are a supplement to item cards. They do not replace them, although they are related to them. Stockkeeping units allow you to differentiate information about an item for a specific location, such as a warehouse or distribution centre, or a specific variant, such as different shelf numbers and different replenishment information, for the same item.  
+ Stockkeeping units are a supplement to item cards. They do not replace them, although they are related to them. Stockkeeping units allow you to differentiate information about an item for a specific location, such as a warehouse or distribution centre, or a specific variant, such as different shelf numbers and different replenishment information, for the same item.  
 
 ## <a name="to-set-up-a-stockkeeping-unit"></a>To set up a stockkeeping unit  
 
-1.  Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Stockkeeping Units**, and then choose the related link.  
+1.  Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Stockkeeping Units**, and then choose the related link.  
 2.  Choose the **New** action.  
 3.  Fill in the fields on the card. The following fields are required: **Item No.**, **Location Code**, and/or **Variant Code**. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
 

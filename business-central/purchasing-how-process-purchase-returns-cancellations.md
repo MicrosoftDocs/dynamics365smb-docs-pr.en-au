@@ -1,32 +1,32 @@
 ---
-title: Process Returns or Cancellations
-description: Explains how to create and post a purchase CR/Adj note when you want to return items to a supplier or cancel purchased services.
+title: Process Returns or Cancellations | Microsoft Docs
+description: Explains how to create and post a purchase CR/Adj Note when you want to return items to a vendor or cancel purchased services.
 author: SorenGP
+ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: cancel, undo, correct
-ms.search.form: 6640, 6643
-ms.date: 04/01/2021
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: b3e4111870af7d113c9552aa31854a3351c2d63f
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 674d178fca457e7b8b1f73d526245d64fbd6d35a
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8131184"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5383133"
 ---
 # <a name="process-purchase-returns-or-cancellations"></a>Process Purchase Returns or Cancellations
 
-If you want to return items to your supplier or cancel services that you have purchased, then you can create and post a purchase CR/Adj note that specifies the requested change with regard to the original purchase invoice. To include the correct purchase invoice information, you can create the purchase CR/Adj note directly from the posted purchase invoice or you can create a new purchase CR/Adj note with copied invoice information.
+If you want to return items to your vendor or cancel services that you have purchased, then you can create and post a purchase CR/Adj note that specifies the requested change with regard to the original purchase invoice. To include the correct purchase invoice information, you can create the purchase CR/Adj note directly from the posted purchase invoice or you can create a new purchase CR/Adj note with copied invoice information.
 
 If you need more control of the purchase return process, such as warehouse documents for the item handling or better overview when shipping back items from multiple purchase documents with one purchase return, then you can create purchase return orders. A purchase return order automatically issues the related purchase CR/Adj Note. For more information, see [To create a purchase return order based on one or more a posted purchase documents](purchasing-how-process-purchase-returns-cancellations.md#to-create-a-purchase-credit-memo-from-a-posted-purchase-invoice).
 
 > [!NOTE]  
 > If a posted purchase invoice has not yet been paid, then you can use the **Correct** or **Cancel** functions on the posted purchase invoice to automatically reverse the involved transactions. These functions only work for unpaid invoices, and they do not support partial returns or cancellations. You can also not correct or cancel purchase invoices that were posted with with receipts from more than one purchase order. For more information, see [Correct or Cancel Unpaid Purchase Invoices](purchasing-how-correct-cancel-unpaid-purchase-invoices.md).
 
-Typically, you create a purchase CR/Adj note or purchase return order in reaction to a CR/Adj note sent to you by a supplier. The purchase CR/Adj note or purchase return order functions as your internal documentation of the CR/Adj note process for accounting purposes or to control the shipping of the involved items.
+Typically, you create a purchase CR/Adj note or purchase return order in reaction to a CR/Adj note sent to you by a vendor. The purchase CR/Adj note or purchase return order functions as your internal documentation of the CR/Adj note process for accounting purposes or to control the shipping of the involved items.
 
 The change may relate to all the products on the original purchase invoice or only to some of the products. Accordingly, you can partially return received items or demand partial reimbursement of received services. In that case, you must edit the information on the purchase CR/Adj note or purchase return order.
 
@@ -50,30 +50,30 @@ For more information, see [Design Details: Inventory Costing](design-details-inv
 
 ## <a name="to-create-a-purchase-credit-memo-from-a-posted-purchase-invoice"></a>To create a purchase CR/Adj note from a posted purchase invoice
 
-1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Posted Purchase Invoices**, and then choose the related link.  
+1. Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Posted Purchase Invoices**, and then choose the related link.  
 2. On the **Posted Purchase Invoices** page, select the posted purchase invoice that you want to reverse, and then choose the **Create Corrective CR/Adj Note** action.
 
     Most fields on the purchase CR/Adj note header are filled with the information from the posted purchase invoice. You can edit all the fields, for example with new information that reflects the return agreement.
 3. Edit information on the lines according to the agreement, such as the number of items returned or the amount to be reimbursement.
 4. Choose the **Apply Entries** action.
-5. On the **Apply Supplier Entries** page, select the line with the posted purchase document that you want to apply the purchase CR/Adj note to, and then choose the **Applies-to ID** action. The number of the purchase CR/Adj note is inserted in the **Applies-to ID** field.
+5. On the **Apply Vendor Entries** page, select the line with the posted purchase document that you want to apply the purchase CR/Adj Note to, and then choose the **Applies-to ID** action. The number of the purchase CR/Adj note is inserted in the **Applies-to ID** field.
 6. In the **Amount to Apply** field, enter the amount that you want to apply if smaller than the original amount.
 
-    At the bottom of the **Apply Supplier Entries** page, you can see the total amount to apply to reverse all involved entries, namely when the value in the **Balance** field is zero.
+    At the bottom of the **Apply Vendor Entries** page, you can see the total amount to apply to reverse all involved entries, namely when the value in the **Balance** field is zero.
 7. Choose the **OK** button. When you post the purchase CR/Adj note, it will be applied to the specified posted purchase documents.
 
     When you have created or edited the needed purchase CR/Adj note lines and the single or multiple applications are specified, you can proceed to post the purchase CR/Adj note.
 8. Choose the **Post** action.
 
-The posted purchase invoices that you apply the CR/Adj note to are now reversed. If you have already paid the original invoice, the supplier should now refund the payment to you. If the CR/Adj note is only for part of the product on the original invoice, you may only pay the remaining amount on the original purchase invoice to close it.
+The posted purchase invoices that you apply the CR/Adj note to are now reversed. If you have already paid the original invoice, the vendor should now refund the payment to you. If the CR/Adj note is only for part of the product on the original invoice, you may only pay the remaining amount on the original purchase invoice to close it.
 
 The purchase CR/Adj note is removed and replaced with a new document in the list of posted purchase CR/Adj notes.
 
 ## <a name="to-create-a-purchase-credit-memo-by-copying-a-posted-purchase-invoice"></a>To create a purchase CR/Adj note by copying a posted purchase invoice
 
-1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Purchase CR/Adj Notes**, and then choose the related link.
+1. Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Purchase CR/Adj Notes**, and then choose the related link.
 2. Choose the **New** action to open a new empty purchase CR/Adj note.
-3. In the **Supplier** field, enter the name of an existing supplier.
+3. In the **Vendor** field, enter the name of an existing vendor.
 4. Choose the **Copy from Document** action.
 5. On the **Copy Purchase Document** page, in the **Document Type** field, select **Posted Invoice**.
 6. Choose the **Document No.** field to open the **Posted Purchase Invoices** page, and then select the posted purchase invoice that contains lines that you want to reverse.
@@ -83,7 +83,7 @@ The purchase CR/Adj note is removed and replaced with a new document in the list
 
 ## <a name="to-create-a-purchase-return-order-based-on-one-or-more-posted-purchase-documents"></a>To create a purchase return order based on one or more posted purchase documents
 
-1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Purchase Return Orders**, and then choose the related link.  
+1. Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Purchase Return Orders**, and then choose the related link.  
 2. Choose the **New** action.  
 3. Fill in the fields on the **General** FastTab as necessary.
 4. On the **Lines** FastTab, fill the lines manually, or copy information from other documents to fill the lines automatically:
@@ -133,7 +133,7 @@ The purchase CR/Adj note is removed and replaced with a new document in the list
 
 ## <a name="to-create-a-replacement-purchase-order-from-a-purchase-return-order"></a>To create a replacement purchase order from a purchase return order
 
-You may agree with your supplier that they compensate you for a purchased item by replacing the item. The replacement item can be the same or it can be different. This situation could occur if the supplier mistakenly shipped the wrong item.  
+You may agree with your vendor that they compensate you for a purchased item by replacing the item. The replacement item can be the same or it can be different. This situation could occur if the vendor mistakenly shipped the wrong item.  
 
 1.  On the **Purchase Return Order** page for an active return process, on an empty line, make a negative entry for the replacement item by inserting a negative amount in the **Quantity** field.  
 2. Choose the **Move Negative Lines** action.  
@@ -142,13 +142,13 @@ You may agree with your supplier that they compensate you for a purchased item b
 
 ## <a name="to-create-a-purchase-allowance"></a>To create a purchase allowance
 
-If you receive items from your supplier that are not what you wanted, for example, if they are slightly damaged, the wrong colour or the wrong size, the supplier may offer you a purchase allowance.  
+If you receive items from your vendor that are not what you wanted, for example, if they are slightly damaged, the wrong colour or the wrong size, the vendor may offer you a purchase allowance.  
 
 You can post this reduced purchase cost as an item charge on a CR/adj note or return order and link it to the posted receipt. The following describes it for a purchase return order, but the same steps apply to a purchase CR/Adj note.
 
-1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Purchase CR/Adj Notes**, and then choose the related link.
+1. Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Purchase CR/Adj Notes**, and then choose the related link.
 2. Choose the **New** action to open a new empty purchase CR/Adj note.  
-3. Fill in the CR/adj note header with information about the supplier who sent you the purchase allowance.  
+3. Fill in the CR/adj note header with information about the vendor who sent you the purchase allowance.  
 4. On the **Lines** FastTab, in the **Type** field, select **Charge (Item)**.  
 5. In the **No.** field, select the appropriate item charge value.  
 
@@ -161,7 +161,7 @@ When you post the purchase return order, the purchase allowance is added to the 
 
 ## <a name="to-combine-return-shipments"></a>To combine return shipments
 
-If you want to return items covered by different purchase return orders to the same supplier, then you can use the **Combine Return Shipments** function.  
+If you want to return items covered by different purchase return orders to the same vendor, then you can use the **Combine Return Shipments** function.  
 
 When you ship the items, you post the related purchase return orders as shipped and this creates posted purchase return shipments.  
 
@@ -170,9 +170,9 @@ When you are ready to invoice these items, instead of invoicing each purchase re
 When return shipments are combined on a CR/Adj Note and posted, then a posted purchase CR/Adj Note is created for the invoiced lines. The **Quantity Invoiced** field on the originating purchase return order is updated based on the invoiced quantity. However, this original purchase return order is not deleted, even if it has been fully received and invoiced, and you must therefore delete the purchase return order manually.
 
 > [!NOTE]  
-> The following procedure assumes that there are several purchase return orders for the supplier, and that they have been posted as shipped.     
+> The following procedure assumes that there are several purchase return orders for the vendor, and that they have been posted as shipped.     
 
-1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Purchase CR/Adj Notes**, and then choose the related link.  
+1. Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Purchase CR/Adj Notes**, and then choose the related link.  
 2. Choose the **New** action.  
 3. On the **General** FastTab, fill in the fields as necessary.  
 4. Choose the **Get Return Shipment Lines** action.  
@@ -183,7 +183,7 @@ When return shipments are combined on a CR/Adj Note and posted, then a posted pu
 
 ### <a name="to-remove-open-purchase-return-orders-after-combined-return-shipment-posting"></a>To remove open purchase return orders after combined return shipment posting  
 
-1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Delete Invoiced Purchase Return Orders**, and then choose the related link.  
+1. Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Delete Invoiced Purchase Return Orders**, and then choose the related link.  
 2. Fill in the fields as necessary, and then choose the **OK** button.  
 3. Alternatively, delete the individual purchase return orders manually.
 

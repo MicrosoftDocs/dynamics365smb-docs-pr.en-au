@@ -2,19 +2,20 @@
 title: Design Details - Table Structure | Microsoft Docs
 description: To understand how the dimension entry storing and posting is redesigned, it is important to understand the table structure.
 author: SorenGP
+ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 06/08/2021
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 249fb667676dcb91c91b5fd9015c46c0b994da31
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 0423314fa123c931e98db37bcc6939b6fbbddf25
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8142375"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5381525"
 ---
 # <a name="design-details-table-structure"></a>Design Details: Table Structure
 To understand how dimension entries are stored and posted, it is important to understand the table structure.  
@@ -86,7 +87,7 @@ In addition to other dimension fields in the table, these fields are important.
 |---------------|----------------|  
 |17|**G/L Entry**|  
 |21|**Cust. Ledger Entry**|  
-|25|**Supplier Ledger Entry**|  
+|25|**Vendor Ledger Entry**|  
 |32|**Item Ledger Entry**|  
 |110|**Sales Shipment Header**|  
 |111|**Sales Shipment Line**|  
@@ -180,7 +181,11 @@ Field 480 exists in the following buffer tables.
 |5637|**FA G/L Posting Buffer**|  
 |7136|**Item Budget Buffer**|  
 
-## <a name="see-also"></a>See Also
+## <a name="see-also"></a>See Also  
+ [Design Details: Dimension Set Entries](design-details-dimension-set-entries.md)   
+ [Dimension Set Entries Overview](design-details-dimension-set-entries-overview.md)   
+ [Design Details: Searching for Dimension Combinations](design-details-searching-for-dimension-combinations.md)   
+ 
 
-[Dimension Set Entries Overview](design-details-dimension-set-entries-overview.md)  
-[Design Details: Searching for Dimension Combinations](design-details-searching-for-dimension-combinations.md)   
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

@@ -2,19 +2,20 @@
 title: Schedule jobs to run automatically
 description: Scheduled tasks are managed by the job queue. These jobs run reports and codeunits. You can set jobs to run one time, or on a recurring basis.
 author: edupont04
+ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.form: 672, 673, 674, 671
-ms.date: 10/01/2021
+ms.search.keywords: ''
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: b09973b90a2721d83c309d63f42ce72e3d498e40
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 0f586898d65d4e51e48b0c12cf9bf2487d846b1c
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8130730"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5781244"
 ---
 # <a name="use-job-queues-to-schedule-tasks"></a>Use Job Queues to Schedule Tasks
 
@@ -36,10 +37,9 @@ After job queues are set up and running, the status can change as follows within
 
 After a job has finished successfully, it is removed from the list of job queue entries unless it is a recurring job. If it is a recurring job, the **Earliest Start Time** field is adjusted to show the next time that the job is expected to run.  
 
-## <a name="monitor-status-or-errors-in-the-job-queue"></a>Monitor status or errors in the job queue
+## <a name="to-view-status-or-errors-in-the-job-queue"></a>To view status or errors in the job queue
 
 Data that is generated when a job queue is run is stored in the database, so that you can troubleshoot job queue errors.  
-
 For each job queue entry, you can view and change the status. When you create a job queue entry, its status is set to **On Hold**. You can set the status to **Ready** and back to **On Hold**, for example. Otherwise, status information is updated automatically.
 
 The following table describes the values of the **Status** field.
@@ -53,32 +53,21 @@ The following table describes the values of the **Status** field.
 | Finished | Indicates that the job queue entry is complete. |
 
 ### <a name="to-view-status-for-any-job"></a>To view status for any job
-
-1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Job Queue Entries**, and then choose the related link.
+1. Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Job Queue Entries**, and then choose the related link.
 2. On the **Job Queue Entries** page, select a job queue entry, and then choose the **Log Entries** action.  
 
 > [!TIP]
-> You can also view the status of job queue entries by using Application Insights in Microsoft Azure for more in-depth analysis based on telemetry. For more information, see [Monitoring and Analysing Telemetry](/dynamics365/business-central/dev-itpro/administration/telemetry-overview) and [Analysing Job Queue Lifecycle Trace Telemetry](/dynamics365/business-central/dev-itpro/administration/telemetry-job-queue-lifecycle-trace) in the [!INCLUDE [prod_short](includes/prod_short.md)] developer and administration content.
-
-## <a name="view-scheduled-tasks"></a>View scheduled tasks
-
-The **Scheduled Tasks** page in [!INCLUDE [prod_short](includes/prod_short.md)] shows which tasks are ready to run in the job queue. The page also shows information about the company that each task is set up to run in. However, only tasks that are marked as belonging to the current environment can run.  
-
-For example, if the current company is in an environment that is a copy of another environment, all scheduled tasks are automatically stopped. Use the **Scheduled Tasks** page to set tasks as ready to run in the job queue.  
-
-> [!NOTE]
-> Internal administrators and users can schedule tasks to run. Delegated administrators cannot.
+> With [!INCLUDE [prod_short](includes/prod_short.md)] online, you can also view the status of job queue entries by using Application Insights in Microsoft Azure. For more information, see [Analysing Job Queue Lifecycle Trace Telemetry](/dynamics365/business-central/dev-itpro/administration/telemetry-job-queue-lifecycle-trace) in the [!INCLUDE [prod_short](includes/prod_short.md)] Developer and Administration content.
 
 ## <a name="the-my-job-queue-part"></a>The My Job Queue Part
-
 The **My Job Queue** part on your Role Centre shows the job queues entries that you have started, but which are not yet finished. By default, the part is not visible, so you have to add it to your Role Centre. For more information, see [Personalise Your Workspace](ui-personalization-user.md).  
 
 The part shows which documents with your ID in the **Assigned User ID** field are being processed or are queued, including those related to background posting. The part can tell you at a glance whether there has been an error in the posting of a document or if there are errors in a job queue entry. The part also lets you cancel a document posting if it is not running.
 
 ### <a name="to-view-an-error-from-the-my-job-queue-part"></a>To view an error from the My Job Queue part
-
 1. On an entry with the status **Error**, choose the **Show Error** action.
 2. Review the error message and fix the problem.
+
 
 ## <a name="examples-of-what-can-be-scheduled-using-job-queue"></a>Examples of what can be scheduled using job queue
 
@@ -97,10 +86,6 @@ If you have integrated [!INCLUDE[prod_short](includes/prod_short.md)] with [!INC
 Job queues are an effective tool to schedule the running of business processes in the background, such as when multiple users are trying to post sales orders, but only one order can be processed at a time.  
 
 For more information, see [To set up background posting with job queues](ui-batch-posting.md#to-set-up-background-posting-with-job-queues)
-
-## <a name="monitor-the-job-queue-with-telemetry"></a>Monitor the job queue with telemetry
-
-As an administrator, you can use [Application Insights](/azure/azure-monitor/app/app-insights-overview) to gather and analyse telemetry that you can use to identify problems. For more information, see [Monitoring and Analysing Telemetry](/dynamics365/business-central/dev-itpro/administration/telemetry-overview) in the developer and administration content.  
 
 ## <a name="see-also"></a>See Also
 

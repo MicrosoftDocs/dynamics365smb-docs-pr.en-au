@@ -2,19 +2,19 @@
 title: Work with Bills of Material to Manage Components
 description: You create an assembly BOM or production BOM to specify the components or resources required to put together the item that the BOM represents.
 author: SorenGP
+ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.forms: 36, 5872, 5870, 5874, 911, 917, 912
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: acf67b3e75df35cf11f743c63fccd79310d9e0f0
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 3489ef57da691e408553b1703c4deab17622167f
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8141029"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5785631"
 ---
 # <a name="work-with-bills-of-material"></a>Work with Bills of Material
 You use bills of materials (BOMs) to structure parent items that must be assembled or produced by resources or machine centres from components. An assembly BOM can also be used to sell a parent item as a kit consisting of its components.
@@ -56,14 +56,14 @@ There are two parts to creating an assembly BOM:
 ## <a name="to-edit-assembly-boms"></a>To edit assembly BOMs
 You can edit the lines on an assembly BOM at any time. But be aware that the BOM may be in use on ongoing sales or assemblies of the parent, which may be affected by the change. Choose the **Where-Used** action to see in which items it is being used and then whether sales or assembly orders may be affected.
 
-1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Items**, and then choose the related link.
+1. Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Items**, and then choose the related link.
 2. Choose the **Yes** value in the **Assembly BOM** column.
 3. On the **Assembly BOM** page, choose the **Edit List** action, and then change any field as needed.
 
 ## <a name="to-view-components-and-resources-indented-according-to-the-bom-structure"></a>To view components and resources indented according to the BOM structure
 From the **Assembly BOM** page, you can open a separate page that shows the components and any resources indented according to their BOM position under the assembly item.
 
-1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Items**, and then choose the related link.
+1. Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Items**, and then choose the related link.
 2. Open the card for an assembly item. (The **Assembly BOM** field on the **Items** page contains **Yes**.)
 3. On the **Item Card** page, choose the **Assembly** action, and then choose the **Assembly BOM** action.
 4. On the **Assembly BOM** page, choose the **Show BOM** action.
@@ -71,14 +71,14 @@ From the **Assembly BOM** page, you can open a separate page that shows the comp
 ## <a name="to-replace-the-assembly-item-with-its-components-on-document-lines"></a>To replace the assembly item with its components on document lines
 From any sales and purchase document that contains an assembly item, you can use a special function to replace the line for the assembly item with new lines for its components. This function is useful, for example, if you want to sell the components as a kit that represents the assembly item.
 
-The **Explode BOM** action is also available on the **Assembly BOM** page as a way to view sub-assembly items on an assembly BOM.
+The Explode BOM function is also available on the **Assembly BOM** page as a method to view child items on any subassemblies on an assembly BOM.
 
 > [!CAUTION]  
 >  When you have used the **Explode BOM** function, you cannot easily undo it. You must delete the sales order lines representing the components and then reenter a sales order line for the assembly item.
 
 The following procedure is based on a sales invoice. The same steps apply to other sales documents and to all purchase documents.
 
-1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Sales Invoices**, and then choose the related link.
+1. Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Sales Invoices**, and then choose the related link.
 2. Open a sales invoice that contains a line for an assembly item.
 3. Choose the line for an assembly item, and then **Explode BOM** line action.
 

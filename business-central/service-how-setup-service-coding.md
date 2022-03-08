@@ -1,20 +1,21 @@
 ---
-title: Set Up Codes for Standard Services
-description: Learn how to set up codes for regularly performed service activities with a predefined set of service lines.
+title: Set Up Codes for Standard Services | Microsoft Docs
+description: Learn how to set up codes for service activities that you often perform.
 author: SorenGP
-ms.topic: conceptual
+ms.service: dynamics365-business-central
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: service, service item, service order, repairs, maintenance
-ms.date: 06/23/2021
-ms.author: edupont
-ms.openlocfilehash: faf69b2bd3782b63030b87563d57524818a08bdb
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.date: 06/22/2020
+ms.author: sgroespe
+ms.openlocfilehash: 74986edd0098dddc2163029cdfd7e60621664964
+ms.sourcegitcommit: 6200a08e91d507bab01d1d5b805fe8ea3f44a58a
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8139347"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "3496709"
 ---
 # <a name="set-up-standard-service-codes"></a>Set Up Standard Service Codes
 
@@ -25,18 +26,16 @@ When you perform typical service, you often have to create service documents tha
   
 ## <a name="to-set-up-a-standard-service-code"></a>To set up a standard service code
 
-1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Standard Service Codes**, and then choose the related link.  
+1. Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Standard Service Codes**, and then choose the related link.  
 2. Fill in the fields as necessary. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
 3. Fill in the service lines linked to this service code.  
 
 ## <a name="to-assign-a-standard-service-code-to-a-service-item-group"></a>To assign a standard service code to a service item group
 
-1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Service item Groups**, and then choose the related link.  
+1. Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Service item Groups**, and then choose the related link.  
 2. Fill in the fields as necessary. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 3. Fill in the service lines linked to this service code.  
 
 ## <a name="see-also"></a>See Also
 
 [Service Management](service-service.md)
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]

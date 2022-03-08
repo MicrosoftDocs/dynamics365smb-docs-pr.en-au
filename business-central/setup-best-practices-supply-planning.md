@@ -1,20 +1,21 @@
 ---
-title: Setup Best Practices - Supply Planning
-description: When set up and used correctly, supply planning helps a company avoid stock out and reduce both ordering costs and inventory costs.
+title: Setup Best Practices - Supply Planning | Microsoft Docs
+description: Supply planning is a critical business area. When set up and used correctly, supply planning helps a company avoid stock out and reduce both ordering costs and inventory costs.
 author: SorenGP
-ms.topic: conceptual
+ms.service: dynamics365-business-central
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 06/25/2021
-ms.author: edupont
-ms.openlocfilehash: eb2ae1ab65a777ab928d38ee62de56f9995e9554
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.date: 10/01/2019
+ms.author: sgroespe
+ms.openlocfilehash: cbda83a386aa288cb6a845fd16c2c7dfb5c24e5f
+ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8132558"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "2882214"
 ---
 # <a name="setup-best-practices-supply-planning"></a>Setup Best Practices: Supply Planning
 Supply planning is a critical business area. When set up and used correctly, supply planning helps a company avoid stock out and reduce both ordering costs and inventory costs.  
@@ -33,7 +34,4 @@ Supply planning is a critical business area. When set up and used correctly, sup
  [Design Details: Supply Planning](design-details-supply-planning.md)   
  [Design Details: Planning Parameters](design-details-planning-parameters.md)   
  [Set Up Complex Application Areas Using Best Practices](set-up-complex-application-areas-using-best-practices.md)  
- [Working with [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]
+ [Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
