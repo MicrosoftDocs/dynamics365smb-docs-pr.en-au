@@ -1,21 +1,20 @@
 ---
-title: How to Correct Prepayments | Microsoft Docs
-description: You can make a correction to an order after you have posted a prepayment invoice for the order. You can add new lines to an order after issuing a prepayment, and then you can post another prepayment invoice, but you cannot delete a line from an order after a prepayment has been invoiced for the line.
+title: Correct Prepayments
+description: You can make a correction to an order after you have posted a prepayment invoice for the order and add new lines to an order after issuing a prepayment.
 author: SorenGP
-ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.search.form: 44, 48, 42, 50, 52, 9305, 9307
+ms.date: 06/16/2021
 ms.author: edupont
-ms.openlocfilehash: 1be1ba8d59567fdf9ba2adfeceeaa23c9cf63778
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: 47ff4066e41cc225f7d02556b5e30f9f6d9eaa5d
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4750738"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8138552"
 ---
 # <a name="correct-prepayments"></a>Correct Prepayments
 
@@ -28,7 +27,7 @@ You can make a correction to an order after you have posted a prepayment invoice
 
 The following procedure shows how to issue a prepayment CR/Adj note to cancel all invoiced prepayments for a sales order.  
 
-1. Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Sales Orders**, and then choose the related link.  
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Sales Orders**, and then choose the related link.  
 2. Open the relevant sales order.
 3. Choose the **Prepayment** action, and then choose the **Post Prepayment Credit Adjustment Note** action or the **Post and Print Prepmt. CR/Adj Note. Memo** action.  
 4. On the **Sales CR/Adj Note** page, proceed to correct the relevant entries, as for any sales CR/Adj Note. For more information, see [Process Sales Returns or Cancellations](sales-how-process-sales-returns-cancellations.md).  
@@ -45,3 +44,6 @@ The following procedure shows how to issue a prepayment CR/Adj note to cancel al
 [Walkthrough: Setting Up and Invoicing Sales Prepayments](walkthrough-setting-up-and-invoicing-sales-prepayments.md)  
 [Finance](finance.md)  
 [Working with [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

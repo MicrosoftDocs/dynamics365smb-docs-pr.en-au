@@ -1,29 +1,28 @@
 ---
 title: Create New Value Entries for Items in the Inventory| Microsoft Docs
-description: Describes how to appreciate or depreciate the value entries of one or more items in the inventory by posting their current, calculated value.
-services: project-madeira
+description: Describes how to appreciate or depreciate the value entries of one or more items in inventory by posting their current, calculated value.
 documentationcenter: ''
 author: SorenGP
-ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: costing, inventory cost, value entries
-ms.date: 10/01/2020
+ms.search.forms: 5803,
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: b29e93d248e939eb9eb1cea97e53cd1718304e80
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 4abfe521684fd6e0e4d8d519248919b0628dc1fb
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3923803"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8135940"
 ---
 # <a name="revalue-inventory"></a>Revalue Inventory
 If you want to appreciate or depreciate an item or a specific item ledger entry, you must use the revaluation journal.
 
 ## <a name="to-revalue-inventory"></a>To revalue inventory
-1. Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Revaluation Journal**, and then choose the related link.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Revaluation Journal**, and then choose the related link.
 2. Choose the **Calculate Inventory Value** action.
 3. On the **Calculate Inventory Value** page, fill in the fields as necessary. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 4. Choose the **OK** button.
@@ -39,4 +38,7 @@ New value entries are now created to reflect the revaluations that you have post
 [Inventory](inventory-manage-inventory.md)  
 [Sales](sales-manage-sales.md)  
 [Purchasing](purchasing-manage-purchasing.md)  
-[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Working with [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

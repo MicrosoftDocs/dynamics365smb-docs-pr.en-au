@@ -1,19 +1,19 @@
 ---
-title: View Posted Tax Invoices in the Australian version
-description: In the Australian version of Business Central, you can use the Posted Sales Tax Invoice page and the Posted Purchase Tax Invoice page to view the details of posted sales tax invoices and posted purchase tax invoices.
+title: View Posted Tax Invoices [AU]
+description: Use the Posted GST Invoice page and Posted Purchase Tax Invoice page to view the details of posted GST invoices and posted purchase tax invoices.
 author: SorenGP
-ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.search.form: 28071, 28073, 28081, 28082
+ms.date: 06/25/2021
 ms.author: edupont
-ms.openlocfilehash: e298349872c6b94540427b84bab74b0bc909723e
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: 3517acd29502c0adfa0741cb5cfefc460524f264
+ms.sourcegitcommit: 67006b090a7bd70446414a19cc82e531190637dc
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4747561"
+ms.lasthandoff: 02/16/2022
+ms.locfileid: "8311306"
 ---
 # <a name="view-posted-tax-invoices-in-the-australian-version"></a>View Posted Tax Invoices in the Australian Version
 
@@ -23,7 +23,7 @@ The following procedure describes how to view the posted sales tax invoice, but 
 
 ## <a name="to-view-a-posted-sales-tax-invoice"></a>To view a posted sales tax invoice  
 
-1.  Choose the ![Lightbulb that opens the Tell Me feature](../../media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Posted GST Invoice**, and then choose the related link.  
+1.  Choose the ![Lightbulb that opens the Tell Me feature.](../../media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Posted GST Invoice**, and then choose the related link.  
 2.  View the FastTabs as described in the following table.  
 
     |FastTab|Description|  
@@ -38,3 +38,6 @@ The following procedure describes how to view the posted sales tax invoice, but 
 
 ## <a name="see-also"></a>See Also  
  [View Posted Tax CR/Adj Notes](how-to-view-posted-tax-credit-memos.md)
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

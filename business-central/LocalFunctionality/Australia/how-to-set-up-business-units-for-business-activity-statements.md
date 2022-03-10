@@ -2,7 +2,6 @@
 title: Set Up Business Units for Business Activity Statements (AU)
 description: Describes how to consolidate the financial statements of various companies into one financial statement.
 author: bholtorf
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: d742c7aca3c06b0b8d43ee3490b2e93ef0387f1f
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 5e59d6cacec18e53d867b85c862609a1a18bc022
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5774442"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8135638"
 ---
 # <a name="set-up-business-units-for-business-activity-statements-in-the-australian-version"></a>Set Up Business Units for Business Activity Statements in the Australian Version
 
@@ -32,7 +31,7 @@ You can use the **BAS Business Units** page to set up the following:
 You must provide information on the **General Ledger Setup** page before you can set up business units.  
 
 ## <a name="to-set-up-a-general-ledger-for-a-business-activity-statement"></a>To set up a general ledger for a business activity statement  
-1. Choose the ![Lightbulb that opens the Tell Me feature](../../media/ui-search/search_small.png "Tell me what you want to do") icon, enter **General Ledger Setup**, and then choose the related link.  
+1. Choose the ![Lightbulb that opens the Tell Me feature.](../../media/ui-search/search_small.png "Tell me what you want to do") icon, enter **General Ledger Setup**, and then choose the related link.  
 2. Fill in the required fields as described in the following table.  
 
     |Field|Description|  
@@ -43,7 +42,7 @@ You must provide information on the **General Ledger Setup** page before you can
 3.  Choose the **OK** button.  
 
 ## <a name="to-set-a-business-unit-for-a-business-activity-statement"></a>To set a business unit for a business activity statement  
-1. Choose the ![Lightbulb that opens the Tell Me feature](../../media/ui-search/search_small.png "Tell me what you want to do") icon, enter **BAS Business Units**, and then choose the related link.  
+1. Choose the ![Lightbulb that opens the Tell Me feature.](../../media/ui-search/search_small.png "Tell me what you want to do") icon, enter **BAS Business Units**, and then choose the related link.  
 2. Fill in the fields as described in the following table.  
 
     |Field|Description|  

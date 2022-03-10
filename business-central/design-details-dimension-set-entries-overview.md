@@ -1,24 +1,23 @@
 ---
-title: Dimension Set Entries Overview | Microsoft Docs
-description: This topic describes how dimension set entries are stored and posted in Dynamcis 365.
+title: Dimension Set Entries Overview
+description: This article gives you an overview of how dimension set entries are stored as dimension set entries and how they are posted.
 author: SorenGP
-ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: overview
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: dimension
-ms.date: 04/01/2019
-ms.author: sgroespe
-ms.openlocfilehash: 9706b5cc2438c49c143b7ded27447b4d6403e0dc
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.date: 06/14/2021
+ms.author: edupont
+ms.openlocfilehash: 0585c4d266bed92ffb113701650bef5069109fc8
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1246801"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8132037"
 ---
 # <a name="dimension-set-entries-overview"></a>Dimension Set Entries Overview
-This topic describes how dimension set entries are stored and posted in [!INCLUDE[d365fin](includes/d365fin_md.md)].  
+This topic describes how dimension set entries are stored and posted in [!INCLUDE[prod_short](includes/prod_short.md)].  
 
 ## <a name="dimension-sets"></a>Dimension Sets  
 A dimension set is a unique combination of dimension values. It is stored as dimension set entries in the database. Each dimension set entry represents a single dimension value. The dimension set is identified by a common dimension set ID that is assigned to each dimension set entry that belongs to the dimension set.  
@@ -34,18 +33,22 @@ The following example shows a dimension set that has three dimension set entries
 ## <a name="dimension-set-entries"></a>Dimension Set Entries  
 Dimension sets are stored in the **Dimension Set Entry** table as dimension set entries with the same dimension set ID.  
 
-![Flow of dimension set entries](media/dimensionentrynav7.png "Flow of dimension set entries")  
+![Flow of dimension set entries.](media/dimensionentrynav7.png "Flow of dimension set entries")  
 
 When you create a new journal line, document header, or document line, you can specify a combination of dimension values. Instead of explicitly storing each dimension value in the database, a dimension set ID is assigned to the journal line, document header, or document line to specify the dimension set.  
 
-When you edit and close the **Edit Dimension Set Entries** page, a check is performed to see whether the combination of dimension values exists as a dimension set in the table. If the combination occurs in the table, then the corresponding dimension set ID is assigned to the journal line, document header, or document line. Otherwise, a new dimension set is added to the table, and the new dimension set ID is assigned to the journal line, document header, or document line.  
+When you edit and close the **Edit Dimension Set Entries** page, a check is performed to see whether the combination of dimension values exists as a dimension set in the table. If the combination occurs in the table, then the corresponding dimension set ID is assigned to the journal line, document header, or document line. Otherwise, a new dimension set is added to the table, and the new dimension set ID is assigned to the journal line, document header, or document line.
+
+## <a name="codeunit-408-dimension-management"></a>Codeunit 408 Dimension Management
+Codeunit 408, Dimension Management, is a function library that handles common tasks that are related to dimensions, such as copying from one table to another or from one document to another.
 
 ## <a name="performance-improvement"></a>Performance Improvement  
 By storing dimension sets once in the database, database space is preserved and overall performance is improved.  
 
-## <a name="see-also"></a>See Also  
+## <a name="see-also"></a>See Also
 [Design Details: Searching for Dimension Combinations](design-details-searching-for-dimension-combinations.md)   
 [Design Details: Table Structure](design-details-table-structure.md)   
-[Design Details: Codeunit 408 Dimension Management](design-details-codeunit-408-dimension-management.md)   
-[Design Details: Code Examples of Changed Patterns in Modifications](design-details-code-examples-of-changed-patterns-in-modifications.md)   
 [Design Details: Dimension Set Entries](design-details-dimension-set-entries.md)   
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

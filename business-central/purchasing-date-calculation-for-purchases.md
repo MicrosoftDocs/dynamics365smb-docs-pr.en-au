@@ -1,21 +1,20 @@
 ---
-title: Date Calculation for Purchases | Microsoft Docs
-description: The application automatically calculates the date on which you must order an item to have it in inventory on a certain date. This is the date on which you can expect items ordered on a particular date to be available for picking.
+title: Date Calculation for Purchases
+description: The application automatically calculates the date on which you must order an item to have it in inventory on a certain date.
 author: SorenGP
-ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.date: 06/22/2021
 ms.author: edupont
-ms.openlocfilehash: 22153df1e56d274256b53d426e2dff30cad3e4bc
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: 5c9a0c61b2f02e3f3750c3d8c23153df2634299d
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4758600"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8132714"
 ---
 # <a name="date-calculation-for-purchases"></a>Date Calculation for Purchases
 
@@ -44,7 +43,7 @@ If you enter a purchase order line without a requested delivery date, then the *
 - order date + lead time calculation = planned receipt date  
 - planned receipt date + inbound whse. handling time + safety lead time = expected receipt date  
 
-If you change the order date on the line, such as when items are not available at your vendor until a later date, then the relevant dates on the line are automatically recalculated.  
+If you change the order date on the line, such as when items are not available at your supplier until a later date, then the relevant dates on the line are automatically recalculated.  
 
 If you change the order date on the header, then that date is copied to the **Order Date** field on all the lines, and all the related date fields are then recalculated.  
 
@@ -52,11 +51,14 @@ If you change the order date on the header, then that date is copied to the **Or
 
 [!INCLUDE[prod_short](includes/prod_short.md)] uses the value from the **Lead Time Calculation** field on the purchase order line to calculate the order and the expected receipt dates.  
 
-You can manually specify the value on the line or let the program use values that are defined on the vendor card, item card, stockkeeping unit card, or the item vendor catalogue.
-However, the lead time value on the vendor card is used only if a lead time is not specified on the item card, stockkeeping unit card, or the item vendor catalogue for the item. This is also the escalating order of priority for these values. If they are all provided, the lead time from the vendor card has the lowest priority, and the lead time from the item vendor catalogue has the highest priority.  
+You can manually specify the value on the line or let the program use values that are defined on the supplier card, item card, stockkeeping unit card, or the item supplier catalogue.
+However, the lead time value on the supplier card is used only if a lead time is not specified on the item card, stockkeeping unit card, or the item supplier catalogue for the item. This is also the escalating order of priority for these values. If they are all provided, the lead time from the supplier card has the lowest priority, and the lead time from the item supplier catalogue has the highest priority.  
 
 ## <a name="see-also"></a>See Also
 
 [Date Calculation for Sales](sales-date-calculation-for-sales.md)   
 [Calculate Order Promising Dates](sales-how-to-calculate-order-promising-dates.md)  
 [Working with [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

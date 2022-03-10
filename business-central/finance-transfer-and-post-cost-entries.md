@@ -2,20 +2,19 @@
 title: Transferring and Posting Cost Entries
 description: Before you define cost allocations, you must understand the various sources that cost entries come from.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.form: 1100, 1103, 1104, 1113
+ms.search.form: 1100, 1103, 1104, 1108, 1113, 1135
 ms.date: 06/16/2021
 ms.author: edupont
-ms.openlocfilehash: 92a7b0f4878f7cd23f4fc672e9723050ca7bde7e
-ms.sourcegitcommit: 2ab6709741be16ca8029e2afadf19d28cf00fbc7
+ms.openlocfilehash: fcff82e597a47541c5077de47594bb9916a40d67
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 01/14/2022
-ms.locfileid: "7970813"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8136018"
 ---
 # <a name="transferring-and-posting-cost-entries"></a>Transferring and Posting Cost Entries
 

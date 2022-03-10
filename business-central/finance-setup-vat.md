@@ -1,275 +1,224 @@
 ---
-title: About Setting Up Value-Added Tax | Microsoft Docs
-description: Make sure that you correctly calculate, post, and report on GST for sales and purchases.
+title: Set Up Goods and Services Tax
+description: Make sure that you correctly calculate, post, and report on GST for sales and purchases. We recommend that you use the assisted setup guide to set up GST.
 author: bholtorf
-ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: VAT, posting, tax, value-added tax
-ms.date: 11/11/2019
+ms.search.form: 10, 1877, 470, 471, 472
+ms.date: 01/31/2022
 ms.author: bholtorf
-ms.openlocfilehash: 0360396d0379ca325a8563fffbfead971b8ba7f1
-ms.sourcegitcommit: 02f1633213793bfc040ad0d2a96fe76572215aa5
+ms.openlocfilehash: 18087426a99d232a27c053c0e4ffd32440ee704c
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "2798531"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8146522"
 ---
-# <a name="set-up-value-added-tax"></a>Set Up Value-Added Tax
-Consumers and businesses pay value-added tax (VAT) when they purchase goods or services. The amount of GST to pay can vary, depending on several factors. In [!INCLUDE[d365fin](includes/d365fin_md.md)], you set up VAT to specify the rates to use to calculate tax amounts based on the following:
+# <a name="set-up-calculations-and-posting-methods-for-value-added-tax"></a>Set Up Calculations and Posting Methods for Goods and Services Tax
+
+Consumers and businesses pay goods and services tax (GST) when they purchase goods or services. The amount of GST to pay can vary, depending on several factors. In [!INCLUDE[prod_short](includes/prod_short.md)], you set up GST to specify the rates to use to calculate tax amounts based on the following parameters:
 
 * Who you sell to  
 * Who you buy from  
 * What you sell  
 * What you buy  
 
-You can set up GST calculations manually, but that can be tricky and time consuming. To make it easy, we provide an assisted setup guide named **VAT Setup** that will help you with the steps. We recommend that you use the assisted setup guide to set up GST.
+You can set up GST calculations manually, but that can be tricky and time consuming. To make it easy, we provide an assisted setup guide named **GST Setup** that will help you with the steps. We recommend that you use the assisted setup guide to set up GST.
 
 > [!NOTE]  
->   You can use the guide only if you have created a My Company, and have not posted transactions that include GST. Otherwise, it would be very easy to use different GST rates by mistake, and make GST-related reports inaccurate.  
+> You can use the guide only if you have created a My Company, and have not posted transactions that include GST. Otherwise, it would be very easy to use different GST rates by mistake, and make GST-related reports inaccurate.  
 
-If you want to set up GST calculations yourself, or just want to learn about each step, this topic contains descriptions of each step.
+If you want to set up GST calculations yourself, or just want to learn about each step, this topic contains descriptions of each step.  
 
-## <a name="to-use-the-vat-setup-assisted-setup-guide-to-set-up-vat-recommended"></a>To use the GST Setup assisted setup guide to set up GST (recommended)
-We recommend that you use the VAT Setup assisted setup guide to set up VAT in [!INCLUDE[d365fin](includes/d365fin_md.md)].
+[!INCLUDE [finance-vat](includes/finance-vat.md)]
+
+## <a name="use-the-vat-setup-assisted-setup-guide-to-set-up-vat-recommended"></a>Use the GST Setup assisted setup guide to set up GST (recommended)
+
+We recommend that you use the GST Setup assisted setup guide to set up GST in [!INCLUDE[prod_short](includes/prod_short.md)].
 
 To start the assisted setup guide, follow these steps:
-1. Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Assisted Setup**.  
-2. Choose **Set up GST**.
 
-## <a name="to-set-up-vat-registration-numbers-for-your-country-or-region"></a>To set up Exemption Certification numbers for your country or region
-To help ensure that people entre valid Exemption Certification numbers, you can define formats for the Exemption Certification numbers that are used in the countries or regions in which you do business. [!INCLUDE[d365fin](includes/d365fin_md.md)] will display an error message when someone makes a mistake or uses a format that is incorrect for the country or region.
+1. Choose the ![Lightbulb that opens the Tell Me feature 1.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Assisted Setup**.  
+2. Choose **Set up GST** and complete the steps.
+3. When you have completed the assisted setup, visit the **GST Posting Setup** page and check if you have to fill in more fields according to the local requirements in your version of [!INCLUDE [prod_short](includes/prod_short.md)]. For more information, see [Local functionality in Business Central](about-localization.md)  
 
-To setup Exemption Certification numbers, follow these steps:
-1. Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Countries/Regions**.
-2. Choose the country or region, and then choose the **Exempt Cert. No. Formats** action.
+## <a name="set-up-vat-registration-numbers-for-your-country-or-region"></a>Set up Australian business numbers for your country or region
+
+To help ensure that people enter valid VAT registration numbers, you can define formats for the VAT registration numbers that are used in the countries or regions in which you do business. [!INCLUDE[prod_short](includes/prod_short.md)] will display an error message when someone makes a mistake or uses a format that is incorrect for the country or region.
+
+To setup VAT registration numbers, follow these steps:
+
+1. Choose the ![Lightbulb that opens the Tell Me feature 2.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Countries/Regions**.
+2. Choose the country or region, and then choose the **VAT Reg. No. Formats** action.
 3. In the **Formats** field, define the format by entering one or more of the following characters:  
 
 * **#** Requires a single-digit number.  
-* **@** Requires a letter. This is not case-sensitive.  
+* **@** Requires a letter. This format is not case-sensitive.  
 * **?** Allows any character.  
 
     > [!Tip]
     > You can use other characters as long as they are always present in the country or region format. For example, if you need to include a period or a hyphen between sets of numbers, you can define the format as ##.####.### or @@-###-###.  
 
-## <a name="to-set-up-vat-business-posting-groups"></a>To set up VAT business posting groups
-VAT business posting groups should represent the markets in which you do business with customers and vendors, and define how to calculate and post VAT in each market. Examples of VAT business posting groups are **Domestic** and **European Union (EU)**.  
+## <a name="set-up-vat-business-posting-groups"></a>Set up GST business posting groups
+
+GST business posting groups should represent the markets in which you do business with customers and suppliers, and define how to calculate and post GST in each market. Examples of GST business posting groups are **Domestic** and **European Union (EU)**.  
 
 Use codes that are easy to remember and describe the business posting group, such as **EU**, **Non-EU**, or **Domestic**. The code must be unique. You can set up as many codes as you need, but you cannot have the same code more than once in a table.
 
 To set up a GST business posting group, follow these steps:
 
-1. Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **GST Business Posting Group**, and then choose the related link.  
+1. Choose the ![Lightbulb that opens the Tell Me feature 3.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **GST Business Posting Group**, and then choose the related link.  
 2. Fill in the fields as necessary.
 
-You set up default GST business posting groups by linking them to general business posting groups. [!INCLUDE[d365fin](includes/d365fin_md.md)] automatically assigns the VAT business posting group when you assign the business posting group to a customer, vendor, or general ledger account.
+You set up default GST business posting groups by linking them to general business posting groups. [!INCLUDE[prod_short](includes/prod_short.md)] automatically assigns the GST business posting group when you assign the business posting group to a customer, supplier, or general ledger account.
 
-## <a name="to-set-up-vat-product-posting-groups"></a>To set up GST product posting groups
+## <a name="set-up-vat-product-posting-groups"></a>Set up GST product posting groups
+
 GST product posting groups represent the items and resources you buy or sell, and determine how to calculate and post GST according to the type of item or resource that is being bought or sold.  
-It is a good idea to use codes that are easy to remember and describe the rate, such as **NO-VAT** or **Zero**, **VAT10** or **Reduced** for 10% VAT, and **VAT25** or **Standard** for 25%.
+It is a good idea to use codes that are easy to remember and describe the rate, such as **NO-GST** or **Zero**, **GST10** or **Reduced** for 10% GST, and **GST25** or **Standard** for 25%.
 
 To set up a GST business posting group, follow these steps:
 
-1. Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **GST Product Posting Groups**, and then choose the related link.  
+1. Choose the ![Lightbulb that opens the Tell Me feature 4.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **GST Product Posting Groups**, and then choose the related link.  
 2. Fill in the fields as necessary.
 
-## <a name="to-combine-vat-posting-groups-in-vat-posting-setups"></a>To combine GST posting groups in GST posting setups
-[!INCLUDE[d365fin](includes/d365fin_md.md)] calculates VAT amounts on sales and purchases based on VAT posting setups, which are combinations of VAT business and product posting groups. For each combination, you can specify the GST percent, GST calculation type, and general ledger accounts for posting GST for sales, purchases, and reverse charges. You can also specify whether to recalculate GST when a payment discount is applied or received.  
+## <a name="combine-vat-posting-groups-in-vat-posting-setups"></a>Combine GST posting groups in GST posting setups
 
-Set up as many combinations as you need. If you want to group VAT posting setup combinations with similar attributes, you can define a **VAT Identifier** for each group, and assign the identifier to the group members.
+[!INCLUDE[prod_short](includes/prod_short.md)] calculates GST amounts on sales and purchases based on GST posting setups, which are combinations of GST business and product posting groups. For each combination, you can specify the GST percent, GST calculation type, and general ledger accounts for posting GST for sales, purchases, and reverse charges. You can also specify whether to recalculate GST when a payment discount is applied or received.  
+
+Set up as many combinations as you need. If you want to group GST posting setup combinations with similar attributes, you can define a **GST Identifier** for each group, and assign the identifier to the group members.
 
 To combine GST posting setups, follow these steps:
 
-1. Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **GST Posting Setup**, and then choose the related link.
+1. Choose the ![Lightbulb that opens the Tell Me feature 5.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **GST Posting Setup**, and then choose the related link.
 2. Fill in the fields as necessary.
 
-## <a name="to-assign-vat-posting-groups-by-default-to-multiple-entities"></a>To assign GST posting groups by default to multiple entities
-If you want to apply the same VAT posting groups to multiple entities, you can set up [!INCLUDE[d365fin](includes/d365fin_md.md)] to do so by default. There are a couple of ways to do this:
+## <a name="assign-vat-posting-groups-by-default-to-multiple-entities"></a>Assign GST posting groups by default to multiple entities
 
-* You can assign GST business posting groups to general business posting groups, or customer or vendor templates
+If you want to apply the same GST posting groups to multiple entities, you can set up [!INCLUDE[prod_short](includes/prod_short.md)] to do so by default. There are a couple of ways to do this:
+
+* You can assign GST business posting groups to general business posting groups, or customer or supplier templates
 * You can assign GST product posting groups on general product posting groups  
 
-The GST business or product posting group is assigned when you choose a business or product posting group for a customer, vendor, item, or resource.
+The GST business or product posting group is assigned when you choose a business or product posting group for a customer, supplier, item, or resource.
 
-## <a name="assigning-vat-posting-groups-to-accounts-customers-vendors-items-and-resources"></a>Assigning GST Posting Groups to Accounts, Customers, Vendors, Items, and Resources
+## <a name="assign-vat-posting-groups-to-accounts-customers-vendors-items-and-resources"></a>Assign GST posting groups to accounts, customers, vendors, items, and resources
+
 The following sections describe how to assign GST posting groups to individual entities.
 
 ### <a name="to-assign-vat-posting-groups-to-individual-general-ledger-accounts"></a>To assign GST posting groups to individual general ledger accounts
-1. Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Chart of Accounts**, and then choose the related link.  
+
+1. Choose the ![Lightbulb that opens the Tell Me feature 6.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Chart of Accounts**, and then choose the related link.  
 2. Open the **G/L Account** card for the account.  
 3. On the **Posting** FastTab, in the **Gen. Posting Type** field, choose either **Sale** or **Purchase**.  
-5. Choose the GST posting groups to use for the sales or purchase account.  
+4. Choose the GST posting groups to use for the sales or purchase account.  
 
-### <a name="to-assign-vat-business-posting-groups-to-customers-and-vendors"></a>To assign GST business posting groups to customers and vendors  
-1. Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Customer** or **Vendor**, and then choose the related link.  
-2. On the **Customer** or **Vendor** card, expand the **Invoicing** FastTab.  
+### <a name="to-assign-vat-business-posting-groups-to-customers-and-vendors"></a>To assign GST business posting groups to customers and suppliers
+
+1. Choose the ![Lightbulb that opens the Tell Me feature 7.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Customer** or **Supplier**, and then choose the related link.  
+2. On the **Customer** or **Supplier** card, expand the **Invoicing** FastTab.  
 3. Choose the GST business posting group.  
 
-### <a name="to-assign-vat-product-posting-groups-to-individual-items-and-resources"></a>To assign GST product posting groups to individual items and resources  
-1. Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Item** or **Resource**, and then choose the related link.  
+### <a name="to-assign-vat-product-posting-groups-to-individual-items-and-resources"></a>To assign GST product posting groups to individual items and resources
+
+1. Choose the ![Lightbulb that opens the Tell Me feature 8.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Item** or **Resource**, and then choose the related link.  
 2. Do one of the following:  
 
-* On the **Item** card, expand the **Price & Posting** FastTab, and then choose **Show more** to display the **VAT Product Posting Group** field.  
-* On the **Resource** card, expand the **Invoicing** FastTab.  
+    * On the **Item** card, expand the **Price & Posting** FastTab, and then choose **Show more** to display the **GST Product Posting Group** field.  
+    * On the **Resource** card, expand the **Invoicing** FastTab.  
 3. Choose the GST product posting group.  
 
-## <a name="setting-up-vat-statement-templates-and-vat-statement-names"></a>Setting up GST Statement Templates and GST Statement Names
-Tax authorities can, and do, change their requirements for posting GST. GST Statement templates and GST statement names can help you prepare for upcoming changes and make a smooth transition to the new requirements. You can use GST statement templates to define the fields to include in your GST statement, which in turn define the calculations, and you can create a new GST statement template when requirements change. For example, one template might calculate GST for this year based on the current requirements, and another might calculate GST based on requirements for next year. Templates are also a way to keep a history of GST statement formats, for example, so that you can look back to see how you calculated GST in previous years.
+## <a name="set-up-clauses-to-explain-vat-exemption-or-non-standard-vat-rates"></a>Set up clauses to explain GST exemption or non-standard GST rates
 
-## <a name="to-define-a-vat-statements"></a>To define a GST statements
-GST statements let you calculate your GST settlement amount for a certain period, for example, a quarter.
-
-1. Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **GST Statements**, and then choose the related link.  
-2. Choose the **Name** field, and then choose **New** on the **GST Statement Names** page.
-3. Fill in the required fields. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
-
-> [!Tip]
-> You can filter the information that the statement will include, depending on what you choose in the **Type** field. **Account Totalling** is useful when you want the GST from a specific account.
-**GST Entry Totalling** gets GST from the accounts assigned to the selections in the **Gen. Posting Type**, **GST Bus. Posting Group**, and/or the **GST Prod. Posting Group** fields. **Row Totalling** lets you enter a value or quick filter criteria in the **Row Totalling** field. For more information, see [Searching, filtering, and Sorting Data](ui-enter-criteria-filters.md). **Description** is often used to add a note to the statement. For example, you could use it as a heading when you've used row totalling.
-
-## <a name="to-preview-the-vat-statement"></a>To preview the GST statement
-After you define a GST statement, you can preview it to make sure it meets your needs.
-
-1. Choose **Preview**.
-2. Enter a date filter to limit the statement to a specific period. For more information about how to customise the page to show the date filter, see [Searching, filtering, and Sorting Data](ui-enter-criteria-filters.md).
-3. You can select various options to specify the type of GST entries to include in the statement.
-4. On the lines where the **Type** field contains **GST Entry Totalling** you can see a list of GST entries by choosing the amount in the **Column Amount** field.   
-
-## <a name="setting-up-clauses-to-explain-vat-exemption-or-non-standard-vat-rates"></a>Setting Up Clauses to Explain GST Exemption or Non-Standard GST Rates
 You set up a GST clause to describe information about the type of GST that is being applied. The information may be required by government regulation. After you set up a GST clause, and associate it with a GST posting setup, the GST clause is displayed on printed sales documents that use the GST posting setup group.
 
 If needed, you can also specify how to translate GST clauses to other languages. Then, when you create and print a sales document that contains a GST identifier, the document will include the translated GST clause. The language code specified on the customer card determines the language.
 
 When non-standard GST rates are used in different types of documents, such as invoices or CR/Adj notes, companies are usually required to include an exemption text (GST clause) stating why a reduced GST or zero GST rate has been calculated. You can define different GST clauses to be included on business documents per the type of document, such as invoice or CR/Adj note. You do this on the **GST Clauses by Doc. Type** page.
 
-You can modify or delete a GST clause, and your modifications will be reflected in a generated report. However, [!INCLUDE[d365fin](includes/d365fin_md.md)] does not keep a history of the change. On the report, the GST clause descriptions are printed and displayed for all lines in the report alongside the GST amount and the GST base amount. If a GST clause has not been defined for any lines on the sales document, then the whole section is omitted when the report is printed.
+You can modify or delete a GST clause, and your modifications will be reflected in a generated report. However, [!INCLUDE[prod_short](includes/prod_short.md)] does not keep a history of the change. On the report, the GST clause descriptions are printed and displayed for all lines in the report alongside the GST amount and the GST base amount. If a GST clause has not been defined for any lines on the sales document, then the whole section is omitted when the report is printed.
 
 ### <a name="to-set-up-vat-clauses"></a>To set up GST clauses
-1. Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **GST Clauses**, and then choose the related link.  
-2. On the **VAT Clauses** page, create a new line.  
+
+1. Choose the ![Lightbulb that opens the Tell Me feature 9.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **GST Clauses**, and then choose the related link.  
+2. On the **GST Clauses** page, create a new line.  
 3. In the **Code** field, enter an identifier for the clause. You use this code to assign the clause to GST posting groups.  
-4. In the **Description** field, enter the GST exemption text that you want to display on documents that can include GST. In the **Description 2** field, enter additional text, if needed. The text will be displayed on new document lines.
+4. In the **Description** field, enter the GST exemption text that you want to display on documents that can include GST. In the **Description 2** field, enter more text, if needed. The text will be displayed on new document lines.
 5. Choose the **Description by Document Type** action.
 6. On the **GST Clauses by Doc. Type** page, fill in the fields to set up which GST exemption text to display for which document type.  
 7. Optional: To assign the GST clause to a GST posting setup right away, choose **Setup**, and then choose the clause. If you want to wait, you can assign the clause later on the **GST Posting Setup** page.  
-8. Optional: To specify how to translate the VAT clause, choose the **Translations** action.
+8. Optional: To specify how to translate the GST clause, choose the **Translations** action.
 
 ### <a name="to-assign-a-vat-clause-to-a-vat-posting-setup"></a>To assign a GST clause to a GST posting setup
-1. Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **GST Posting Setup**, and then choose the related link.  
-2. In the **VAT Clause** column, choose the clause to use for each VAT posting setup it applies to.  
+
+1. Choose the ![Lightbulb that opens the Tell Me feature 10.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **GST Posting Setup**, and then choose the related link.  
+2. In the **GST Clause** column, choose the clause to use for each GST posting setup it applies to.  
 
 ### <a name="to-specify-translations-for-vat-clauses"></a>To specify translations for GST clauses
-1. Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **GST Clauses**, and then choose the related link.  
+
+1. Choose the ![Lightbulb that opens the Tell Me feature 11.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **GST Clauses**, and then choose the related link.  
 2. Choose the **Translations** action.  
 3. In the **Language Code** field, choose the language you are translating to.  
 4. In the **Description** and **Description 2** fields, enter the translations of the descriptions. This text displays in the translated GST report documents.  
 
-## <a name="to-create-a-vat-posting-setup-to-handle-import-vat"></a>To create a GST posting setup to handle Import GST
-You use the Import GST feature when you need to post a document where the entire amount is GST. You will use this if you receive an invoice from the tax authorities for GST for imported goods.  
+## <a name="create-a-vat-posting-setup-to-handle-import-vat"></a>Create a GST posting setup to handle Import GST
+
+You use the *Import GST* feature when you need to post a document where the entire amount is GST. You will use this if you receive an invoice from the tax authorities for GST for imported goods.  
 
 To set up codes for import GST, follow these steps:  
-1. Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **GST Product Posting Groups**, and then choose the related link.  
+
+1. Choose the ![Lightbulb that opens the Tell Me feature 12.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **GST Product Posting Groups**, and then choose the related link.  
 2. On the GST Product Posting Groups page, set up a new GST product posting group for import GST.  
-3. Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **GST Posting Setup**, and then choose the related link.  
+3. Choose the ![Lightbulb that opens the Tell Me feature 13.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **GST Posting Setup**, and then choose the related link.  
 4. On the GST Posting Setup page, create a new line, or use an existing GST business posting groups in combination with the new GST product posting group for import GST.  
-5. In the **VAT Calculation Type** field, choose **Full VAT**.  
-6. In the **Purchase VAT Account** field, enter the general ledger account to use for posting import VAT. All other accounts are optional.  
+5. In the **GST Calculation Type** field, choose **Full GST**.  
+6. In the **Purchase GST Account** field, enter the general ledger account to use for posting import GST. All other accounts are optional.  
 
-## <a name="to-verify-vat-registration-numbers"></a>To verify Exemption Certification numbers
-It is important that the VAT registration numbers you have for customers, vendors, and contacts are valid. For example, companies sometimes change their tax liability status, and in some countries tax authorities might ask you to provide reports, such as the EC Sales List report, that list the VAT registration numbers you use when you do business.
+## <a name="use-reverse-charge-vat-for-trade-between-eu-countries-or-regions"></a>Use reverse charge GST for trade between EU countries or regions
 
-The European Commission provides the VIES VAT Number Validation service on its website, which is public and free. [!INCLUDE[d365fin](includes/d365fin_md.md)] can save you a step and let you use the VIES service to validate and track VAT numbers for customers, vendors, and contacts straight from the customer, vendor, and contact cards. The service in [!INCLUDE[d365fin](includes/d365fin_md.md)] is named **EU VAT Reg. No. Validation Service**. The service is available on the **Service Connections** page, and you can start using it right away. The service connection is free, and signup is not required.
-
-> [!Note]
-> To enable the EU VAT Reg. No. Validation Service, you must have administrator permissions.
-
-When you use our service connection, we record a history of VAT numbers and verifications for each customer, vendor, or contact, in the **VAT Registration Log**, so you can easily track them. The log is specific to each customer. For example, the log is useful for proving that you have verified that the current GST number is correct. When you verify a VAT number, the **Request Identifier** column in the log will reflect that you have taken action.
-
-You can view the GST Registration log on the Customer, Vendor, or Contact cards, on the **Invoicing** FastTab, by choosing the lookup button in the **Exemption Certification No.** field.  
-
-Our service can also save you time when you create a customer or vendor. If you know the customer's GST number, you can enter it in the **Exemption Certification No.** field on the Customer or Vendor cards, and we will fill out the customer name for you. Some countries also provide company addresses in a structured format. In those countries, we fill in the address too.  
-
-There are a couple of things to note about the VIES VAT Number Validation service:
-
-* The service uses the http protocol, which means that data transferred through the service is not encrypted.  
-* You may experience downtime for this service for which Microsoft is not responsible. The service is part of a broad EU network of national VAT registers.
-
-## <a name="using-reverse-charge-vat-for-trade-between-eu-countries-or-regions"></a>Using Reverse Charge GST for Trade between EU Countries or Regions
-Some companies must use reverse charge GST when trading with other companies. For example this rule applies to purchases from EU countries/regions and sales to EU countries/regions.  
+Some companies must use reverse charge VAT when trading with other companies. For example this rule applies to purchases from EU countries/regions and sales to EU countries/regions.  
 
 > [!NOTE]  
-> This rule applies when trading with companies that are registered as GST liable in another EU country/region. If you do business directly with consumers in other EU countries/regions, then you should contact your tax authority for applicable GST rules.  
+> This rule applies when trading with companies that are registered as VAT liable in another EU country/region. If you do business directly with consumers in other EU countries/regions, then you should contact your tax authority for applicable VAT rules.  
 
 > [!TIP]  
-> You can verify that a company is registered as VAT liable in another EU country by using the EU VAT Registration Number Validation service. The service is available for free in [!INCLUDE[d365fin](includes/d365fin_md.md)]. For more information, see the section titled _Verify VAT registration numbers_ in this topic.
+> You can verify that a company is registered as VAT liable in another EU country by using the EU VAT Registration Number Validation service. The service is available for free in [!INCLUDE[prod_short](includes/prod_short.md)]. For more information, see [Verify VAT registration numbers](finance-how-validate-vat-registration-number.md).
 
-### <a name="sales-to-eu-countries-or-regions"></a>Sales to EU Countries or Regions
-GST is not calculated on sales to GST-liable companies in other EU countries/regions. You must report the value of these sales to EU countries/regions separately on your GST statement.  
+### <a name="sales-to-eu-countries-or-regions"></a>Sales to EU countries or regions
 
-To correctly calculate GST on sales to EU countries/regions, you should:  
+VAT is not calculated on sales to VAT-liable companies in other EU countries/regions. You must report the value of these sales to EU countries/regions separately on your VAT statement.  
+
+To correctly calculate VAT on sales to EU countries/regions, you should:  
 
 * Set up a line for sales with the same information for purchases. If you have already set up lines on the VAT Posting Setup page for purchases from EU countries/regions, then you can also use these lines for sales.  
-* Assign the GST business posting groups in the **GST Bus. Posting Group** field on the **Invoicing** FastTab of the customer card of each EU customer. You should also enter the customer's Exemption Certificate number in the **Exemption Certificate No.** field on the **Foreign Trade** FastTab.  
+* Assign the VAT business posting groups in the **VAT Bus. Posting Group** field on the **Invoicing** FastTab of the customer card of each EU customer. You should also enter the customer's VAT registration number in the **VAT Registration No.** field on the **Foreign Trade** FastTab.  
 
-When you post a sale to a customer in another EU country/region, the GST amount is calculated, and a GST entry is created by using the information about the reverse charge GST and the GST base, which is the amount that is used to calculate the GST amount. No entries are posted to the GST accounts in the general ledger.
+When you post a sale to a customer in another EU country/region, the VAT amount is calculated, and a VAT entry is created by using the information about the reverse charge VAT and the VAT base, which is the amount that is used to calculate the VAT amount. No entries are posted to the VAT accounts in the general ledger.
 
-## <a name="understanding-vat-rounding-for-documents"></a>Understanding GST Rounding for Documents
-Amounts in documents that are not yet posted are rounded and displayed to correspond with the final rounding of amounts that are actually posted. GST is calculated for a complete document, which means that GST is calculated based on the sum of all lines with the same GST identifier in the document.
+## <a name="vat-rounding-for-documents"></a>GST rounding for documents
 
-## <a name="understanding-the-vat-rate-conversion-process"></a>Understanding the GST Rate Conversion Process  
-The GST rate change tool performs GST rate conversions for master data, journals, and orders in different ways. The selected master data and journals will be updated by the new general product posting group or GST product post group. If an order has been fully or partially shipped, the shipped items will keep the current general product posting group or GST product posting group. A new order line will be created for the unshipped items and updated to align current and new GST or general product posting groups. In addition, item charge assignments, reservations, and item tracking information will be updated accordingly.  
+Amounts in documents that are not yet posted are rounded and displayed to correspond with the final rounding of amounts that are actually posted. GST is calculated for a complete document, which means that GST is calculated based on the sum of all lines with the same GST identifier in the document.  
 
-There are, however, a few things that the tool does not convert:
+## <a name="set-up-vat-reporting"></a>Set up GST reporting
 
-* Sales or purchase orders and invoices where shipments have been posted. These documents are posted using the current GST rate.  
-* Documents that have posted prepayment invoices. For example, you have made or received prepayments on invoices that have not been completed before you use the GST rate change tool. In this case, there will be a difference between the GST that is due and the GST that has been paid in the prepayments when the invoice is completed. The GST rate change tool will skip these documents and you will have to manually update them.  
-* Drop shipments or special orders.  
-* Sales or purchase orders with warehouse integration if they are partially shipped or received.  
-* Service contracts.  
+You must set up information about how the tax authorities in your country or region require you to submit GST reports. The following steps illustrate the most commonly used information. However, your country or region may require additional steps. For more information, see the relevant article in the *Local functionality* section in the panel to the left.
 
-### <a name="to-prepare-vat-rate-change-conversions"></a>To prepare GST rate change conversions  
-Before you set up the GST rate change tool, you must make the following preparations.
+[!INCLUDE [vat-report-setup](includes/vat-report-setup.md)]
 
-* If you have transactions that use different rates, then they must be separated into different groups either by creating new general ledger accounts for each rate or by using data filters to group transactions according to rate.  
-* If you create new general ledger accounts, then you must create new general posting groups.  
-* To reduce the number of documents that get converted, post as many documents as possible and reduce unposted documents to a minimum.  
-* Back up data.
+## <a name="see-also"></a>See Also
 
-### <a name="to-set-up-the-vat-rate-change-tool"></a>To set up the GST rate change tool  
-1. Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **GST Rate Change Setup**, and then choose the related link.  
-2. On the **Master Data**, **Journals**, and **Documents** FastTabs, choose a posting group value from the option list for needed fields.  
-
-### <a name="to-set-up-product-posting-group-conversion"></a>To set up product posting group conversion  
-1. Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **GST Rate Change Setup**, and then choose the related link.  
-2. On the **GST Rate Change Setup** page, choose either the **GST Prod. Posting Group Conv.** or **Gen Prod. Posting Group Conv.** action.  
-3. In the **From Code** field, enter the current posting group.  
-4. In the **To Code** field, enter the new posting group.  
-
-### <a name="to-perform-vat-rate-change-conversion"></a>To perform GST rate change conversion  
-You use the GST rate change tool to manage changes in the standard rate of GST. You perform GST and general posting group conversions to change GST rates and maintain accurate GST reporting. Depending on your setup, the following changes are made:  
-
-* GST and general posting groups are converted.  
-* Changes are implemented in general ledger accounts, customers, vendors, open documents, journal lines, and so on.  
-
-> [!IMPORTANT]  
->  Before you perform GST rate change conversion, you can test the conversion. To do so, follow the steps below, but make sure to clear the **Perform Conversion** and **GST Rate Change Tool Completed** check boxes. During test conversion, the **Converted** field in the **GST Rate Change Log Entry** table is cleared and the **Converted Date** field in the **GST Rate Change Log Entry** table is blank. After the conversion is complete, choose **GST Rate Change Log Entries** to view the results of the test conversion. Verify each entry before you perform the conversion. In particular, verify transactions that use an old GST rate.     
-
-1. Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **GST Rate Change**, and then choose the **GST Rate Change Setup** link.  
-2. Verify that you have already set up the GST product posting group conversion or general product posting group conversion.  
-3. Choose the **Perform Conversion** check box.  
-
-    > [!IMPORTANT]  
-    >  Clear the **GST Rate Change Tool Completed** check box. The check box is automatically selected when the GST rate change conversion is completed.  
-
-4. Choose the **Convert** action.  
-5. After the conversion is complete, choose the **GST Rate Change Log Entries** action to view the results of the conversion.  
-
-> [!IMPORTANT]  
->  After the conversion, the **Converted** field in the **GST Rate Change Log Entry** table is chosen and the **Converted Date** field in the **GST Rate Change Log Entry** table displays the conversion date.  
-
-## <a name="see-also"></a>See Also  
-[Setting Up Unrealized Value Added Tax](finance-setup-unrealized-vat.md)  
+[Setting up GST Statement Templates and GST Statement Names](finance-how-setup-vat-statement.md)  
+[Setting Up Unrealised Goods and Services Tax](finance-setup-unrealized-vat.md)  
 [Report GST to a Tax Authority](finance-how-report-vat.md)  
 [Work with GST on Sales and Purchases](finance-work-with-vat.md)  
+[Work with the GST Rate Change Tool](finance-how-use-vat-rate-change-tool.md)  
+[Verify VAT registration numbers](finance-how-validate-vat-registration-number.md)  
+[Local functionality in Business Central](about-localization.md)  
+
+## <a name="see-related-training-at-microsoft-learn"></a>See Related Training at [Microsoft Learn](/learn/paths/process-vat-dynamics-365-business-central/)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

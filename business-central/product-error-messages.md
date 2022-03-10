@@ -1,17 +1,16 @@
 ---
-title: Warnings and Error Messages | Microsoft Docs
+title: Warnings and Error Messages
 description: Learn how you can troubleshoot and find solutions to error messages when you work in Business Central.
 author: edupont04
-ms.service: dynamics365-business-central
-ms.topic: article
-ms.date: 10/01/2020
+ms.topic: conceptual
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 13d5a8228c02a4655d49060d4b398bcacd4bb503
-ms.sourcegitcommit: d80cf8aa0723f9aa2b7e0b3689edf8e2682f49fc
+ms.openlocfilehash: 9b881ee5a4a98e30af3da572600747702a3ebca5
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "4840211"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8137635"
 ---
 # <a name="warnings-and-error-messages-in-dynamics-365-business-central"></a>Warnings and Error Messages in Dynamics 365 Business Central
 
@@ -19,7 +18,7 @@ During your work day, you might see notifications in [!INCLUDE [prod_short](incl
 
 ## <a name="in-product-user-assistance"></a>In-product user assistance
 
-The default version of [!INCLUDE [prod_short](includes/prod_short.md)] includes descriptions for most fields, columns, and actions that can be accessed when you choose the name. In combination with descriptive captions and instructional text, these tooltips, or callouts, are our current implementation of *embedded user assistance*, which is an important principle in today's world of software design.  
+The default version of [!INCLUDE [prod_short](includes/prod_short.md)] includes descriptions for most fields, columns, and actions that can be accessed when you choose the name. In combination with teaching tips for important pages, descriptive captions, and instructional text, these tooltips, or callouts, are our current implementation of *embedded user assistance*, which is an important principle in today's world of software design.  
 
 If you have a question about a field or another element of the user interface, choose the name, and a short description will appear. Choose the *Learn more* link if that is not enough.  
 
@@ -36,9 +35,12 @@ If you are an administrator or superuser, you can help others by looking up erro
 ## <a name="see-also"></a>See Also
 
 [Resources for Help and Support](product-help-and-support.md)  
-[Frequently Asked Questions](across-faq.md)  
+[Frequently Asked Questions](across-faq.yml)  
 [Tell Me FAQ](ui-search-faq.md)  
-[Searching and Filtering FAQ](ui-search-filter-faq.md)  
+[Searching and Filtering FAQ](ui-search-filter-faq.yml)  
 [Copy and Paste FAQ](faq-copy-paste.yml)  
 [Change Basic Settings](ui-change-basic-settings.md)  
-[Getting Started](product-get-started.md)  
+[Getting Ready for Doing Business](ui-get-ready-business.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

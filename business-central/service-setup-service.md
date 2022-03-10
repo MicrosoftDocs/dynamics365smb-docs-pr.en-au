@@ -1,26 +1,23 @@
 ---
 title: Setting Up Service Management | Microsoft Docs
 description: Overview of tasks to set up Service Management to suit the way that your organisations manages its services.
-services: project-madeira
-documentationcenter: ''
 author: SorenGP
-ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: service, service items, repairs, maintenance, fix
-ms.date: 04/01/2019
-ms.author: sgroespe
-ms.openlocfilehash: b89a0e097dd17ed81b66ed795f3257194311e7b2
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.date: 04/01/2021
+ms.author: edupont
+ms.openlocfilehash: 062e74b422f2190feb15d54cea47af90db468d3b
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1250465"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8140561"
 ---
 # <a name="setting-up-service-management"></a>Setting Up Service Management
-Before you can start using Service Management features in [!INCLUDE[d365fin](includes/d365fin_md.md)], there are a few things to set up. For example, you can establish coding for standard services, symptoms, and fault codes, and the service items and service item types that your company's customer service needs require.  
+Before you can start using Service Management features in [!INCLUDE[prod_short](includes/prod_short.md)], there are a few things to set up. For example, you can establish coding for standard services, symptoms, and fault codes, and the service items and service item types that your company's customer service needs require.  
 
 When you set up Service Management, you must decide what services to offer customers and the schedule for those services. A service is a type of work performed by one or more resources and provided to a customer. For example, a service could be a type of computer repair. A service item is the equipment or item needing servicing, for example, the computer needing repair, installed at a specific customer. You can set up services as part of a group of related repair or maintenance items.  
   
@@ -43,6 +40,9 @@ The following table describes a sequence of tasks, with links to the topics that
 | Set up service items and service item components. |[Set Up Service Items](service-how-setup-service-items.md) |
 | Lay the groundwork for creating service contracts and contract quotes. |[Set Up Service Contracts](service-how-setup-service-contracts.md) |
 
-## <a name="see-also"></a>See also 
+## <a name="see-also"></a>See also
 [Service Management](service-service.md)  
-[Getting Started](product-get-started.md)  
+[Getting Ready for Doing Business](ui-get-ready-business.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

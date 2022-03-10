@@ -1,20 +1,20 @@
 ---
-title: Add Extra Lines to Define Extended Descriptions
+title: Add Extended Text
 description: You can add extra lines to extend the standard text that describes an item, a G/L account, and other data.
 author: SorenGP
-ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.date: 07/08/2020
-ms.author: sgroespe
-ms.openlocfilehash: 0b611a4f2bcabec7cda408790ab659c6cf3f8e97
-ms.sourcegitcommit: 8b2f02dd5189c46ecff33c07223ed62b36842d34
+ms.search.form: 391, 30
+ms.date: 06/24/2021
+ms.author: edupont
+ms.openlocfilehash: 25c0701151e3250adb62f781f83e8483178f73e5
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "3542575"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8138292"
 ---
 # <a name="add-extended-text"></a>Add Extended Text
 
@@ -43,4 +43,7 @@ You can now add this extended text to documents. The following procedure explain
 ## <a name="see-also"></a>See Also
 
 [Setting Up Inventory](inventory-setup-inventory.md)  
-[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Working with [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

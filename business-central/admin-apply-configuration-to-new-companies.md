@@ -1,23 +1,20 @@
 ---
-title: Apply Configuration to New Companies | Microsoft Docs
-description: After you have created a configuration package, the next step is to deploy the package to your customer for implementation. You use the configuration with a new empty company.
-services: project-madeira
-documentationcenter: ''
+title: Apply Configuration to New Companies
+description: After you have created a configuration package, deploy the package to your customer for implementation. You use the configuration with a new empty company.
 author: SorenGP
-ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2019
-ms.author: sgroespe
-ms.openlocfilehash: 0ed1e040be212f8f59efb5d4b6a41346e6d9b84e
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.date: 06/14/2021
+ms.author: edupont
+ms.openlocfilehash: 439a717b37d5936c221992bcd7f85bb1d1db42eb
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1239483"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8141497"
 ---
 # <a name="apply-configurations-to-new-companies"></a>Apply Configurations to New Companies
 After you have created a configuration package, the next step is to deploy the package to your customer for implementation. You work with the configuration package within a new empty company.  
@@ -35,3 +32,6 @@ After you have created a configuration package, the next step is to deploy the p
 ## <a name="see-also"></a>See Also  
 [Setting Up a Company With RapidStart Services](admin-set-up-a-company-with-rapidstart.md)  
 [Administration](admin-setup-and-administration.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

@@ -1,19 +1,19 @@
 ---
-title: Create a Job Card for a Job and Specify Tasks| Microsoft Docs'
+title: Create a Job Card for a Job and Specify Tasks
 description: For a new project, you create a job card that contains job tasks and planning lines, to help you manage progress and budgets.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.workload: na
 ms.search.keywords: project management, task
+ms.search.form: 88, 275, 276, 1001, 1002, 1003, 1004, 1005, 1006, 1007, 1020
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 13037a0f984a3e390f194572afc0362360ab7187
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: ebfbdf04b577f60e20da899e0ba3512571ed5189
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6439828"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8140769"
 ---
 # <a name="create-jobs"></a>Create Jobs
 When you start a new project, you must create a job card with integrated job tasks and job planning lines, structured in two layers.  

@@ -1,21 +1,20 @@
 ---
 title: How to Put Items Away with Warehouse Put-aways | Microsoft Docs
-description: When your location is set up to require warehouse put-away processing and warehouse receive processing, you use the warehouse put-away documents function to control the putting away of items.
+description: Learn how the different ways for putting away items in Business Central with the following Warehouse Put-aways tasks.
 author: SorenGP
-ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.date: 06/25/2021
 ms.author: edupont
-ms.openlocfilehash: f158499f0c93e1a991b1f092676f653cf067a46e
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: bf748b94ec2a53eb92464a94c1172dd6971c8389
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3910038"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8134570"
 ---
 # <a name="put-items-away-with-warehouse-put-aways"></a>Put Items Away with Warehouse Put-aways
 When your location is set up to require warehouse put-away processing and warehouse receive processing, you use the warehouse put-away documents function to control the putting away of items.  
@@ -27,7 +26,7 @@ Depending on the warehouse setup, the lines are either made available to the put
 In addition to the standard ways to create warehouse put-aways that are described in this topic, you can create the put-away from the related posted warehouse receipt. This is useful if you have deleted put-away lines, or if you use directed put-away and pick and have decided not to use the put-away worksheet, because you can create or recreate put-away instructions from the posted receipt lines.  
 
 ## <a name="to-put-items-away-without-directed-put-away-and-pick"></a>To put items away without directed put-away and pick  
-1.  Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Put-aways**, and then choose the related link.  
+1.  Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Put-aways**, and then choose the related link.  
 2.  Open the warehouse put-away that is ready to handle.  
 
     You can sort the put-away lines by various criteria, for example, by item, shelf number, or due date, and thereby optimise the put-away process.  
@@ -35,7 +34,7 @@ In addition to the standard ways to create warehouse put-aways that are describe
 4.  After you have completed putting the items away, choose the **Register Put-away** action to record the completion of the activity and make the items available for picking.  
 
 ## <a name="to-put-items-away-with-directed-put-away-and-pick"></a>To put items away with directed put-away and pick  
-1.  Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Put-aways**, and then choose the related link.
+1.  Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Put-aways**, and then choose the related link.
     If put-away instructions have been created, a warehouse put-away is visible.  
 2.  Open the warehouse put-away that you want to work on.  
 3.  If your warehouse requires, enter your user ID on the **General** FastTab when you begin work on a particular put-away.  
@@ -63,7 +62,7 @@ The bin ranking is taken into consideration when more than one bin matches put-a
 ## <a name="to-create-a-put-away-from-a-posted-receipt"></a>To create a put-away from a posted receipt  
  If your location uses both put-away processing and receive processing and you have deleted put-away lines, or if you use directed put-away and pick and have decided not to use the put-away worksheet, you can create or recreate put-away instructions for the posted receipt lines.
 
-1.  Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Posted Whse. Receipts**, and then choose the related link.  
+1.  Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Posted Whse. Receipts**, and then choose the related link.  
 2.  Select a posted receipt that might need to be put away.  
 3.  Choose the **Card** action.  
 
@@ -78,4 +77,7 @@ The bin ranking is taken into consideration when more than one bin matches put-a
 [Setting Up Warehouse Management](warehouse-setup-warehouse.md)     
 [Assembly Management](assembly-assemble-items.md)    
 [Design Details: Warehouse Management](design-details-warehouse-management.md)  
-[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Working with [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

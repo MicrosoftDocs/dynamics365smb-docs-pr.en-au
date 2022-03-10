@@ -1,21 +1,20 @@
 ---
-title: Design Details - Internal Warehouse Flows | Microsoft Docs
-description: The flow of items between bins at a company location centres on picking components and putting away end items for assembly or production orders and ad-hoc movements, such as bin replenishments, without a relation to source documents.
+title: Design Details - Internal Warehouse Flows
+description: Flow between bins centres on picking components and putting away end items for assembly or production orders and ad-hoc movements, without source documents.
 author: SorenGP
-ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.date: 06/15/2021
 ms.author: edupont
-ms.openlocfilehash: d6b59df9677216cfcc3fd7e60ec92b1a17890763
-ms.sourcegitcommit: adf1a87a677b8197c68bb28c44b7a58250d6fc51
+ms.openlocfilehash: b8e38dcf94c4303cdd69f5417a152484f5100e09
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "5035739"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8136382"
 ---
 # <a name="design-details-internal-warehouse-flows"></a>Design Details: Internal Warehouse Flows
 The flow of items between bins at a company location centres on picking components and putting away end items for assembly or production orders and ad-hoc movements, such as bin replenishments, without a relation to source documents. The scope and nature of the involved activities vary between basic and advanced warehousing.  
@@ -114,7 +113,10 @@ The flow of items between bins at a company location centres on picking componen
 
  The following illustration shows when the **Bin Code** field on the component list is filled according to your location or machine/work centre setup.  
 
- ![Overview of when/how the Bin Code field is filled in](media/binflow.png "Overview of when/how the Bin Code field is filled in")  
+ ![Overview of when/how the Bin Code field is filled in.](media/binflow.png "Overview of when/how the Bin Code field is filled in")  
 
 ## <a name="see-also"></a>See Also  
  [Design Details: Warehouse Management](design-details-warehouse-management.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

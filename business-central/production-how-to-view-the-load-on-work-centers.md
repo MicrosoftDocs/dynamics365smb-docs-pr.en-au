@@ -1,35 +1,39 @@
 ---
-title: How to View Load on Work and Machine Centres | Microsoft Docs
-description: From the **Work Centre** card, you can view the load on the work centres as a result of released production orders.
+title: View Load on Work and Machine Centres
+description: From the Work Centre card, you can view the load on the work centres as a result of released production orders.
 author: SorenGP
-ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.search.form: 99000887, 99000888, 99000889, 99000890, 99000891, 99000892, 99000915, 99000916
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 54b32e4befaf510c1c0d1714e580d4e7939be8a5
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: 456347d55a62864877a969ee7997463f37b1b8e7
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4758900"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8140821"
 ---
 # <a name="view-load-on-work-and-machine-centers"></a>View Load on Work and Machine Centres
-In the **Work Centre Card** and **Machine Centre Card** pages, you can view the shop floor load as a result of planned and released production orders.    
 
-## <a name="to-view-the-load-on-work-centers"></a>To view the load on work centres  
-1.  Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Work Centres**, and then choose the related link.  
-2.  Open the relevant **Work Centre** card from the list, and then choose the **Load** action.  
+In the **Work Centre Card** and **Machine Centre Card** pages, you can view the shop floor load as a result of planned and released production orders.  
+
+## <a name="to-view-the-load-on-work-centers"></a>To view the load on work centres
+
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Work Centres**, and then choose the related link.  
+2. Open the relevant **Work Centre** card from the list, and then choose the **Load** action.  
 
 Use the **View by** and **View as** fields on the **Options** FastTab to select the required period.  
 
 ## <a name="see-also"></a>See Also  
-[Manufacturing](production-manage-manufacturing.md)    
+[Manufacturing](production-manage-manufacturing.md)
 [Setting Up Manufacturing](production-configure-production-processes.md)  
-[Planning](production-planning.md)      
+[Planning](production-planning.md)  
 [Inventory](inventory-manage-inventory.md)  
 [Purchasing](purchasing-manage-purchasing.md)  
 [Working with [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

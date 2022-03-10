@@ -2,26 +2,48 @@
 title: Troubleshooting Microsoft Teams Integration
 description: Learn about what you can do as an administrator to control Microsoft Teams integration.
 author: jswymer
-ms.service: dynamics365-business-central
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: Teams, MS Teams, Microsoft Teams, Skype, Link, Microsoft 365, collaborate, collaboration, teamwork, troubleshooting, errors
-ms.date: 01/20/2021
+ms.date: 10/01/2021
 ms.author: jswymer
-ms.openlocfilehash: 7a98b53a34ddf403cf6507da7740b97924d4c81c
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: 7bea8e591b92666c6d92ce34b0849ad774dcc35a
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5385207"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8147016"
 ---
 # <a name="troubleshooting-microsoft-teams-integration-with-prod_short"></a>Troubleshooting Microsoft Teams Integration with [!INCLUDE [prod_short](includes/prod_short.md)]
 
 [!INCLUDE [online_only](includes/online_only.md)]
 
 This article provides information on how to identify and fix problems you may experience when using Microsoft Teams with [!INCLUDE [prod_short](includes/prod_short.md)], as a typical user or administrator.
+
+## <a name="the-sign-in-link-doesnt-work"></a>The sign-in link doesn't work
+
+If you try to sign in to the [!INCLUDE [prod_short.md](includes/prod_short.md)] app for Teams immediately after installing the app, and the sign-in link doesn't react, it may be because the app hasn't fully completed installation. To try to fix the issue, sign out of your Teams client and then sign in again.
+
+## <a name="the-settings-page-is-empty"></a>The Settings page is empty
+
+You must first sign in to reach your settings. To sign into the app, either paste a link to a [!INCLUDE [prod_short.md](includes/prod_short.md)] record, or try to search for contacts. Both of these actions will lead you through a sign-up experience, after which you can use the **Settings** page.
+
+## <a name="i-changed-company-but-it-didnt-seem-to-work"></a>I changed company but it didn't seem to work
+
+After you change the company on the **Settings** page, you might notice that the command box drop-down indicates you're still searching the previous company. This issue happens when you open the **Settings** page directly from the command box. In this case, the company was successfully changed, and you'll in fact search the company you switched to. The problem is that the command box drop-down just hasn't been updated yet. For the drop-down accurately reflect the company you'll search in, close or unpin [!INCLUDE [prod_short.md](includes/prod_short.md)] from the command box, and then open the app again.
+
+
+<!--When you change company from the **Settings** page that you reach from the command box, returning to the command box drop-down continues to show the previous company even though the company was successfully changed. For the drop-down accurately reflect the company you'll search in, you must close or unpin [!INCLUDE [prod_short.md](includes/prod_short.md)] from the command box and then find it again.-->
+
+## <a name="something-went-wrong-error-when-searching-for-contacts"></a>"Something went wrong" error when searching for contacts
+
+You may experience this error when you search in a company that hasn't been initialised or is in an unresponsive state. For example, you can't search in a new trial company that hasn't yet accepted the terms of use. To resolve this issue, try to sign in to the [!INCLUDE [prod_short.md](includes/prod_short.md)] Web client, and act on or dismiss any initial dialogues that appear.
+
+## <a name="cannot-find-the-contactcontact-summary-api-error-when-searching-for-contacts"></a>"Cannot find the contact/contact summary API" error when searching for contacts
+
+This problem can be caused by customisations or industry solutions that affect or modify [!INCLUDE [prod_short.md](includes/prod_short.md)], or they don't provide a contact or contact summary API. If the problem continues, contact your administrator or supporting partner.
 
 ## <a name="none-of-my-links-expand-into-a-card"></a>None of my links expand into a card 
 
@@ -36,7 +58,7 @@ If you're experiencing this problem, here are a few things to try:
 
 2. Next, check that you've signed in with the correct identity.
 
-    In Teams, go to any chat, and under the message compose box, choose the [!INCLUDE [prod_short](includes/prod_short.md)] icon. When the window appears, check whether the user it says that you're connected as matches what you use to connect to [!INCLUDE [prod_short](includes/prod_short.md)].
+    In Teams, go to any chat, and under the message compose box, right-click the [!INCLUDE [prod_short](includes/prod_short.md)] icon, then choose **Settings**. When the window appears, check whether the user it says that you're connected as matches what you use to connect to [!INCLUDE [prod_short](includes/prod_short.md)].
 
 3. Make sure codeunit 2718 **Page Summary Provider** is published as a web service.
 
@@ -48,9 +70,8 @@ If you're experiencing this problem, here are a few things to try:
 
 A link won't expand into a card in the following situations:
 
-- The link targets a page of a type that doesn't represent a record. For example, it could be a link to [!INCLUDE [prod_short](includes/prod_short.md)]’s Role Centre. You can check the page type using the page inspection pane in the Web client in [!INCLUDE [prod_short](includes/prod_short.md)]. For more information about page inspection, see [Inspecting Pages](across-inspect-page.md).
-- The link targets a page that (at a technical level) isn't connected to a source table in [!INCLUDE [prod_short](includes/prod_short.md)]. You can check whether a page has a source table by using the page inspection pane in the Web client in [!INCLUDE [prod_short](includes/prod_short.md)]. For more information about page inspection, see [Inspecting Pages](across-inspect-page.md). 
-- Teams doesn't support link previews in some features. For example, when you pop out a chat, you're in a meeting, or you're a guest to another organisation.
+- The link targets a page that (at a technical level) isn't connected to a source table in [!INCLUDE [prod_short](includes/prod_short.md)]. You can check whether a page has a source table by using the page inspection pane in the Web client in [!INCLUDE [prod_short](includes/prod_short.md)]. For more information about page inspection, see [Inspecting Pages](across-inspect-page.md).
+- Teams doesn't support link previews in some of its features. For example, when you pop out a chat, or you're a guest to another organisation.
 - Teams silently abandons trying to display the card after 15 seconds, for example, because of network issues.
 - Teams may not expand the link if you've already pasted a link into the same message compose box and deleted the card.
 
@@ -66,10 +87,6 @@ For example:
 `https://businesscentral.dynamics.com/?environmentname=Production&company=CRONUS%20USA%2C%20Inc.&page=21&dc=0&bookmark=21%3bEgAAAAJ7BTEAMAAwADAAMA%3d%3d`
 
 For technical details about [!INCLUDE [prod_short](includes/prod_short.md)] URLs, see [Web Client URL](/dynamics365/business-central/dev-itpro/developer/devenv-web-client-urls) in the [!INCLUDE [prod_short](includes/prod_short.md)] Developer and IT Pro Help.
-
-## <a name="the-card-is-displayed-in-the-message-compose-box-but-selecting-the-details-button-does-nothing"></a>The card is displayed in the message compose box, but selecting the Details button does nothing 
-
-After a link gets expanded into a card in the message compose box, you must send the message to the chat before you can use the **Details** button.
 
 ## <a name="the-details-window-opens-but-shows-an-error-before-details-are-shown"></a>The details window opens, but shows an error before details are shown
 
@@ -89,7 +106,7 @@ This problem can be caused by a couple things: lack of permissions in [!INCLUDE 
 
     For more information about minimum browser requirements, see [Minimum Requirements for Using [!INCLUDE [prod_short](includes/prod_short.md)]](product-requirements.md#browsers) 
 
-## <a name="im-having-problems-with-the-camera-or-location-in-teams"></a>I'm having problems with the camera or location in Teams 
+## <a name="im-having-problems-with-the-camera-or-location-in-teams"></a>I'm having problems with the camera or location in Teams
 
 When using [!INCLUDE [prod_short](includes/prod_short.md)] features in the details window that require access to your location or device camera, you must first give your consent for Teams to access these device capabilities.  
 
@@ -131,12 +148,22 @@ As an administrator, who has Azure Active Directory admin permissions, you can h
 > [!NOTE]
 > It will be a while before this change takes effect.
 
+## <a name="duplicate-text-in-the-share-to-teams-window"></a>Duplicate text in the Share to Teams window
+
+When you paste text into the message box in the **Share to Teams** window, the text is duplicated. This problem is known to Microsoft and will be addressed in a later update. 
+
+## <a name="unable-to-sign-into-the-share-to-teams-window"></a>Unable to sign into the Share to Teams window 
+
+This problem can be caused by a various reasons. For example, the identity you are using to sign in must have access to Microsoft Teams, such as through a Microsoft 365 subscription.
 
 ## <a name="see-also"></a>See Also
 
 [[!INCLUDE [prod_short](includes/prod_short.md)] and Microsoft Teams Integration Overview](across-teams-overview.md)  
 [Install the [!INCLUDE [prod_short](includes/prod_short.md)] App for Microsoft Teams](across-install-app-for-teams.md)  
+[Searching for Customers, Suppliers, and Other Contacts from Microsoft Teams](across-search-contacts-teams.md)  
+[Share Records in Microsoft Teams](across-working-with-teams.md)  
 [Teams FAQ](teams-faq.md)  
+[Changing Company and Other Settings in Teams](across-teams-settings.md)  
 [Developing for Teams Integration](/dynamics365/business-central/dev-itpro/developer/devenv-develop-for-teams)  
 
 ## [!INCLUDE[d365fin](includes/free_trial_md.md)]  

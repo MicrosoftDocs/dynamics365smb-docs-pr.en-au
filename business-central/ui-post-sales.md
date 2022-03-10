@@ -1,21 +1,21 @@
 ---
-title: Posting Sales Documents | Microsoft Docs
+title: Posting Sales Documents
 description: Learn about the different posting functions to post sales documents, and how you can update posted documents.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.reviewer: edupont
-ms.date: 12/03/2020
+ms.search.form: 130, 142, 1350, 9020, 9022, 9026, 9027, 9030, 9000, 9004, 9005, 9018, 9006, 9007, 9010, 9016, 9017
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: e0d1bd7770eb3bb44a2e9b3203ffa158a246cfa9
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: 34995eab966a65561c18de8d0e32204ca8bb79cb
+ms.sourcegitcommit: cdb57f14960f58b1d36a1b373fbf35dfed5fad9e
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5392057"
+ms.lasthandoff: 02/23/2022
+ms.locfileid: "8335561"
 ---
 # <a name="posting-sales"></a>Posting Sales
 
@@ -28,7 +28,8 @@ Under the **Posting** menu in a sales document, you can choose between the follo
 * **Post Batch**
 * **Test Report**
 
-> [NOTE!] For sales orders, you can also see options related to the prepayments functionality. For more information, see [Invoicing Prepayments](finance-invoice-prepayments.md). 
+> [!NOTE]
+> For sales orders, you can also see options related to the prepayments functionality. For more information, see [Invoicing Prepayments](finance-invoice-prepayments.md).
 
 When you have completed all the lines and entered all the information on the sales order, you can post it. This creates a shipment and an invoice.
 
@@ -38,8 +39,7 @@ For each sales order, a sales entry is created in the **G/L Entry** table. An en
 
 For each sales order line, an item ledger entry will be created in the **Item Ledger Entry** table (if the sales lines contain item numbers) or a general ledger entry will be created in the **G/L Entry** table (if the sales lines contain a general ledger account). In addition to this, sales orders are always recorded in the **Sales Shipment Header** and **Sales Invoice Header** tables.
 
-> [!IMPORTANT]  
-> When you post an order, you can create both a shipment and an invoice. These can be done at the same time or independently. You can also create a partial shipment and a partial invoice by completing the **Qty. to Ship** and **Qty. to Invoice** fields on the individual sales order lines before you post. Note that you cannot create an invoice for something that is not shipped. That is, before you can invoice, you must have recorded a shipment, or you must choose to ship and invoice at the same time.
+[!INCLUDE [order-ship-invoice](includes/order-ship-invoice.md)]
 
 You can either post, or post and send. If you choose to post and send, a PDF file is generated that you can then send. You can also choose the **Post Batch** function, which lets you post several orders at the same time. For more information, see [Post Multiple Documents at the Same Time](ui-batch-posting.md).
 
@@ -65,5 +65,4 @@ You can edit certain fields on posted purchase documents, such as the **Package 
 [Finding Pages and Information with Tell Me](ui-search.md)  
 [Working with [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
 
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]
+[!INCLUDE[footer-include](includes/footer-banner.md)]  

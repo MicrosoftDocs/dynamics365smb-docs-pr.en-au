@@ -1,26 +1,25 @@
 ---
 title: How to Block Items from Sales or Purchasing
-description: In Business Central, an item can be marked as blocked for sales, blocked for purchase, or blocked for all purposes.
+description: You can block items from being entered on lines in sales or purchase documents, as well as from being posted in a transaction.
 author: SorenGP
-ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: c453a10f30d2a45f6d4641bda8b24ee3659b1a32
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.date: 06/16/2021
+ms.author: edupont
+ms.openlocfilehash: 10f915a264508a105d449b3057c8c713d1eb25a5
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3182308"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8130496"
 ---
 # <a name="block-items-from-sales-or-purchasing"></a>Block Items from Sales or Purchasing
-You can block an item from being entered on sales or purchase lines, and you can block it from being posted in any transaction.  
+You can block an item from being entered on lines in sales or purchase documents, and you can block it from being posted in any transaction. For example, this is useful when an item has a known defect. If someone chooses a blocked item on a sales or purchase document a message will inform them that the item is blocked.
 
-The following table illustrates what occurs when items are blocked.  
+The following table describes what occurs when items are blocked.  
 
 |Option|Description|  
 |--------------------|------------|  
@@ -34,25 +33,20 @@ The following table illustrates what occurs when items are blocked.
 When you use the **Copy from Document** function to create new documents based on existing documents, you are notified if any items on the source document lines are blocked. The blocked document lines are excluded from the new document, and a notification shows an overview of all document lines that are blocked in the source document.
 
 ## <a name="to-block-an-item-from-being-entered-on-sales-lines"></a>To block an item from being entered on sales lines  
-
-1.  Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Items**, and then choose the related link.  
+1.  Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Items**, and then choose the related link.  
 2.  Select the item that you want to block, and then select the **Sales Blocked** check box.  
 
-If you try to enter the item on a sales document or journal line, you will now get an error message that the item is blocked.
-
 ## <a name="to-block-an-item-from-being-entered-on-purchase-lines"></a>To block an item from being entered on purchase lines  
-
-1.  Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Items**, and then choose the related link.  
+1.  Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Items**, and then choose the related link.  
 2.  Select the item that you want to block, and then select the **Purchasing Blocked** check box.  
 
-If you try to enter the item on a purchase document or journal line, you will now get an error message that the item is blocked.
-
 ## <a name="to-block-an-item-from-being-posted"></a>To block an item from being posted
-1. Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Items**, and then choose the related link.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Items**, and then choose the related link.
 2. Select the item that you want to block, and then select the **Blocked** check box.
-
-If you try to post any type of transaction for the item, you will now get an error message that the item is blocked.
 
 ## <a name="see-also"></a>See Also  
 [Register New Items](inventory-how-register-new-items.md)  
 [Inventory](inventory-manage-inventory.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

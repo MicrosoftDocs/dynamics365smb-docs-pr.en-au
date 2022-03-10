@@ -1,92 +1,127 @@
 ---
-title: Assign or Edit User Permissions  | Microsoft Docs
-description: Describes how to add Office 365 users to Business Central, and then assign permissions, access rights, and security settings.
-author: SorenGP
-ms.service: dynamics365-business-central
-ms.topic: article
+title: Create Users According to Licences
+description: Describes how to add users to Business Central online or on-premises based on licences.
+author: edupont04
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: access, right, security
-ms.date: 11/07/2019
-ms.author: sgroespe
-ms.openlocfilehash: c64a14ed66668f8c3cbe09e8db3430a7dc25db5c
-ms.sourcegitcommit: 2a6d629cf290645606356b714a77ef2872bdec64
+ms.search.form: 119, 6300, 6301, 6302, 9800, 9807, 9808, 9830, 9831, 9838, 9818, 9062, 9173
+ms.date: 04/01/2021
+ms.author: edupont
+ms.openlocfilehash: f39067f990c80fad751d251ab4dd7ff038ac0cb2
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 11/07/2019
-ms.locfileid: "2774827"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8148260"
 ---
 # <a name="create-users-according-to-licenses"></a>Create Users According to Licences
-The following describes how you as an administrator create users and define who can sign in to [!INCLUDE[d365fin](includes/d365fin_md.md)], and which fundamental rights different user types have according to the licences.
 
-When users are created in [!INCLUDE[d365fin](includes/d365fin_md.md)], you can proceed to assign specific permissions to users through permission sets and to organise users in user groups for easy permission management. For more information, see [Assign Permissions to Users and Groups](ui-define-granular-permissions.md).  
+This article describes how administrators create users and define who can sign in to [!INCLUDE[prod_short](includes/prod_short.md)], and which permissions are given to different user types according to the licences.
+
+When you create users in [!INCLUDE[prod_short](includes/prod_short.md)] you can assign specific permissions to them through permission sets and organise users in user groups. User groups make it easier to manage permissions for multiple users at the same time. For more information, see [Assign Permissions to Users and Groups](ui-define-granular-permissions.md).  
+
+For more information about the different types of licences and how licensing works in [!INCLUDE[prod_short](includes/prod_short.md)], [download the Dynamics 365 Licensing Guide](https://go.microsoft.com/fwlink/?LinkId=866544).
 
 > [!NOTE]
-> The process of managing users and licences varies depending on whether your solution is deployed online or on-premises. For example, in online deployments, you can only disable and enable a user once added to [!INCLUDE[d365fin](includes/d365fin_md.md)]. In on-premises deployments, you can create, edit, and delete users.  
+> The process of managing users and licences varies depending on whether [!INCLUDE[prod_short](includes/prod_short.md)] is deployed online or on-premises. For [!INCLUDE [prod_short](includes/prod_short.md)] online, you must add users from Microsoft 365. In on-premises deployments, you can create, edit, and delete users directly.  
 
 ## <a name="managing-users-and-licenses-in-online-deployments"></a>Managing Users and Licences in Online Deployments
-In [!INCLUDE[d365fin](includes/d365fin_md.md)] online, the number of users is defined by the subscription and added to your tenant in the Microsoft Partner Centre, typically by your Microsoft partner. For more information, see [Add a new customer](https://docs.microsoft.com/partner-center/add-a-new-customer) and [Create, suspend, or cancel customer subscriptions](https://docs.microsoft.com/partner-center/create-a-new-subscription) in the Microsoft Partner Centre help.
 
-To define who can sign in to [!INCLUDE[d365fin](includes/d365fin_md.md)], the product licences must be assigned to users according to the roles that they will perform in [!INCLUDE[d365fin](includes/d365fin_md.md)]. This can be done in the following ways:
-- Your company's Office 365 administrator can do it in the [Microsoft 365 Admin Centre](https://admin.microsoft.com). For more information, see [Add users individually or in bulk to Office 365](https://aka.ms/CreateOffice365Users).  
-- A Microsoft partner can assign licences in the Microsoft 365 Admin Centre or in the Microsoft Partner Centre. For more information, see [User management tasks for customer accounts](https://docs.microsoft.com/partner-center/assign-licenses-to-users) in the Microsoft Partner Centre help.
+In the online version of [!INCLUDE[prod_short](includes/prod_short.md)], the number of users is defined by the subscription and added to your tenant in the Microsoft Partner Centre, typically by your Microsoft partner. For more information, see [Add a new customer](/partner-center/add-a-new-customer) and [Create, suspend, or cancel customer subscriptions](/partner-center/create-a-new-subscription) in the Microsoft Partner Centre help.
 
-For more information, see [Administration of Business Central Online](/dynamics365/business-central/dev-itpro/administration/tenant-administration) in the Developer and ITPro help.
+To define who can sign in to [!INCLUDE[prod_short](includes/prod_short.md)], you must assign product licences to users according to the roles that they will perform in [!INCLUDE[prod_short](includes/prod_short.md)]. This can be done in the following ways:
 
-When users with a [!INCLUDE[d365fin](includes/d365fin_md.md)] licence are created in Office 365, they can be imported into the **Users** page in [!INCLUDE[d365fin](includes/d365fin_md.md)] by using the **Get Users from Office 365** action.
+- Your company's Microsoft 365 administrator can do it in the [Microsoft 365 Admin Centre](https://admin.microsoft.com). For more information, see [Add users individually or in bulk to Microsoft 365](/microsoft-365/admin/add-users/add-users).  
+- A Microsoft partner can assign licences in the Microsoft 365 Admin Centre or in the Microsoft Partner Centre. For more information, see [User management tasks for customer accounts](/partner-center/assign-licenses-to-users) in the Microsoft Partner Centre Help.
 
-### <a name="to-add-a-user-in-business-central"></a>To add a user in Business Central
-To add users from the Microsoft 365 Admin Centre to [!INCLUDE[d365fin](includes/d365fin_md.md)] online, you use a dedicated import function.  
-1. Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Users**, and then choose the related link.
-2. Choose the **Get Users from Office 365** action.
+For more information, see [Administration of Business Central Online](/dynamics365/business-central/dev-itpro/administration/tenant-administration) in the administration Help.
 
-Any new user that has been created for your Office 365 subscription will be added on the **Users** page. Users are assigned permission sets according to the licence assigned to the user in Office 365. You can then proceed to assign more detailed permissions to users and to organise them in user groups for easy permission management. For more information, see [To assign permission sets to users](ui-define-granular-permissions.md#to-assign-permission-sets-to-users).
+### <a name="to-add-users-or-update-user-information-and-license-assignments-in-business-central"></a><a name="adduser"></a>To add users or update user information and licence assignments in Business Central
+After you add users or change user information in the Microsoft 365 Admin Centre, you can quickly import the user information to [!INCLUDE[prod_short](includes/prod_short.md)]. This includes licence assignments. 
+
+1. Sign in to [!INCLUDE[prod_short](includes/prod_short.md)] using an administrator account.
+2. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Users**, and then choose the related link.  
+3. Choose **Update Users from Microsoft 365**.
+
+If you are adding new users, the next step is to assign user groups and permissions. For more information, see [Assign Permissions to Users and Groups](ui-define-granular-permissions.md). If you are updating user information, and the update includes a licence change, the users will be assigned to the appropriate user group and their permission sets will be updated. For more information, see [To manage permissions through user groups](ui-define-granular-permissions.md).  
+
+> [!NOTE]
+> All users must be assigned to the same licence, either Essential or Premium. For more information, see the Microsoft Dynamics 365 Business Central Licensing Guide. The guide is available for download on the [Business Central](https://dynamics.microsoft.com/business-central/overview/) website.
+
+For more information about synchronising user information with Microsoft 365, see the [Synchronisation with Microsoft 365](#m365) section.
+
+> [!NOTE]
+> If you use an external accountant to manage your books and financial reporting, you can invite them to your Business Central so they can work with you on your fiscal data. For more information, see [Inviting Your External Accountant to Your Business Central](finance-accounting.md#inviteaccountant).
 
 ### <a name="to-remove-a-users-access-to-the-system"></a>To remove a user's access to the system
-In online deployments, you can remove a user's access to the system by setting the **State** field to **Disabled**. All references to the user will be retained, but the user can no longer sign in to the system and active sessions for the user will be terminated.
 
-1. Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Users**, and then choose the related link.
-2. Open the **User Card** page for the relevant user, and then, in the **State** field, select **Disabled**.
-3. To give the user access again, set the **State** field to **Enabled**.
+In online deployments, you can remove a user's access to [!INCLUDE[prod_short](includes/prod_short.md)]. All references to the user are kept, but the user cannot sign in and active sessions for the user are stopped.
 
-In addition to disabling a user, you can unassign the licence from a user in the Office 365 Admin Centre. The user is then unable to sign in. For more information, see [Unassign licences from users](https://docs.microsoft.com/office365/admin/manage/remove-licenses-from-users).
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Users**, and then choose the related link.
+2. Open the **User Card** page for the relevant user, and then, in the **Status** field, select **Disabled**.
+3. To give the user access again, set the **Status** field to **Enabled**.
 
-### <a name="to-change-the-assigned-license-for-a-user"></a>To change the assigned licence for a user
-Sometimes you may need to change the licence that is assigned to a user. For example, if you decide to use the Service Management module and therefore need to upgrade all Essential licences to Premium. Or if a user’s responsibility has changed and you need to replace a Team Member licence to Essential.
+You can also remove the licence from a user in the Microsoft 365 Admin Centre. The user is then unable to sign in. For more information, see [Remove licences from users](/microsoft-365/admin/manage/remove-licenses-from-users).
 
-1. Change the licence in the Office 365 Admin Centre. For more information, see [Add users individually or in bulk to Office 365](https://aka.ms/CreateOffice365Users).
-2. Sign in to [!INCLUDE[d365fin](includes/d365fin_md.md)] as an administrator.
-3. Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Users**, and then choose the related link.
-4. On the **Users** page, choose the **Refresh all User Groups** action.
-The users will be moved to a proper user group and the permission sets will be updated. For more information, see [To manage permissions through user groups](ui-define-granular-permissions.md#to-manage-permissions-through-user-groups).
+### <a name="synchronization-with-microsoft-365"></a><a name="m365"></a>Synchronisation with Microsoft 365
+
+When you assign a licence for [!INCLUDE[prod_short](includes/prod_short.md)] to a user in Microsoft 365, there are two ways to create the user in [!INCLUDE[prod_short](includes/prod_short.md)].  
+
+- The administrator can add the user by choosing the **Update Users from Microsoft 365** action on the **Users** page as described in the [To add a user or update user information in Business Central](#adduser) section.
+- The licence information will update automatically when the user signs in for the first time.
+
+In both cases, a number of settings are made automatically. These are listed in the second and third columns in the table below.
+
+If you change user information in Microsoft 365 you can update [!INCLUDE[prod_short](includes/prod_short.md)] to reflect the change. Depending on what you want to update, use one of the actions on the **Users** page. The actions are described in the last three columns in the table below.
 
 > [!NOTE]
-> All regular users in a solution must be assigned the same licence, Essential or Premium.
-> For information about licensing, see [Microsoft Dynamics 365 Business Central Licensing Guide](https://aka.ms/BusinessCentralLicensing).
+> The actions described in the following table are accurate, however, the only one that you need is **Update Users from Microsoft 365**, which was added to simplify the process. The other actions will be removed in a future version of [!INCLUDE[prod_short](includes/prod_short.md)].
 
-## <a name="managing-users-and-licenses-in-online-deployments"></a>Managing Users and Licences in Online Deployments
-For on-premises deployments, a number of licensed users is specified in the licence file (.flf). When the administrator or Microsoft partner uploads the licence file, the administrator can specify which users can sign in to [!INCLUDE[d365fin](includes/d365fin_md.md)].
+|What happens when:|First user, first sign-in|Get Users from Microsoft 365|Update Users from Microsoft 365|Restore User Default User Groups|Refresh User Groups|Update user information from Microsoft 365|
+|-|-|-|-|-|-|-|
+|Scope:|Current user|New users in Microsoft 365|Multiple selected users|Single selected user (except current)|Multiple selected users|Multiple selected users|
+|Create the new user and assign SUPER permission set.<br /><br /><!--Platform-->|**X**||**X** | | | |
+|Update the user based on information in Microsoft 365: Status, Full Name, Contact Email, Authentication Email.<!--<br /><br />Codeunit "Azure AD   Graph User".UpdateUserFromAzureGraph-->|**X**|**X**|**X**|**X**||**X**|
+|Synchronise user plans (licences) with licences and roles assigned in Microsoft 365.<!--<br /><br />Codeunit "Azure AD   Graph User".UpdateUserPlans-->|**X**|**X**|**X**|**X**|**X**| |
+|Add the user to user groups according to the current user plans. Remove the SUPER permission set for all users other than the first user to sign in and [administrators](/dynamics365/business-central/dev-itpro/administration/tenant-administration). At least one SUPER is required.<!--<br /><br />Codeunit "Permission Manager". AddUserToDefaultUserGroups-->|**X**|**X**|**X**|**X**<br /><br />Removes manually assigned user groups and permissions.|**X**<br /><br />Update user group assignments.| |
+
+<!--
+## The Device License
+This section has been moved to [Licensing in Dynamics 365 Business Central](/dynamics365/business-central/dev-itpro/deployment/licensing).
+-->
+
+## <a name="managing-users-and-licenses-in-on-premises-deployments"></a>Managing Users and Licences in On-premises Deployments
+
+For on-premises deployments, the number of user licences is specified in the licence file (.flf). When an administrator or Microsoft partner uploads the licence file, the administrator can specify which users can sign in to [!INCLUDE[prod_short](includes/prod_short.md)].
 
 For on-premises deployments, the administrator creates, edits, and deletes users directly from the **Users** page.
 
-### <a name="to-edit-or-delete-a-user-on-premises"></a>To edit or delete a user on-premises
-1. Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Users**, and then choose the related link.
+### <a name="to-edit-or-delete-a-user-in-an-on-premises-deployment"></a>To edit or delete a user in an on-premises deployment
+
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Users**, and then choose the related link.
 2. Select the user that you want to edit, and then choose the **Edit** action.
-3. On the **User Card** page, change the information as necessary.    
-4. To delete a user, select the user that you want to delete, and then choose the **delete** action.
+3. On the **User Card** page, change the information as necessary.  
+4. To delete a user, select the user that you want to delete, and then choose the **Delete** action.
 
 > [!NOTE]
-> For on-premises deployments of [!INCLUDE[d365fin](includes/d365fin_md.md)], the administrator can choose between different credential authorisation mechanisms for users. Then, when you create a user, you provide different information depending on the credential type that you are using in the specific [!INCLUDE[server](includes/server.md)] instance.<br /><br />
-> For more information, see the [Authentication and Credential Types](/dynamics365/business-central/dev-itpro/administration/users-credential-types) in the Administration section of the developer and ITPro content for [!INCLUDE[d365fin](includes/d365fin_md.md)].
+> For on-premises deployments an administrator can specify how to authenticate user credentials in the [!INCLUDE[server](includes/server.md)] instance. When you create a user, you provide the credential type that you are using.
+>
+> For more information, see the [Authentication and Credential Types](/dynamics365/business-central/dev-itpro/administration/users-credential-types) in the administration Help for [!INCLUDE[prod_short](includes/prod_short.md)].
 
 ## <a name="see-also"></a>See Also
+
 [Assign Permissions to Users and Groups](ui-define-granular-permissions.md)  
 [Manage Profiles](admin-users-profiles-roles.md)  
 [Change Which Features are Displayed](ui-experiences.md)  
-[Customising [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-customizing-overview.md)  
+[Customising [!INCLUDE[prod_short](includes/prod_short.md)]](ui-customizing-overview.md)  
 [Getting Ready for Doing Business](ui-get-ready-business.md)  
 [Administration](admin-setup-and-administration.md)  
-[Add Users to Office 365 for business](https://aka.ms/CreateOffice365Users)  
-[Microsoft Dynamics 365 Business Central Licensing Guide](https://aka.ms/BusinessCentralLicensing)  
-[Security and Protection in Business Central](/dynamics365/business-central/dev-itpro/security/security-and-protection) in Developer and IT-pro Help
+[Licensing in Dynamics 365 Business Central](/dynamics365/business-central/dev-itpro/deployment/licensing)  
+[Add Users to Microsoft 365 for business](/microsoft-365/admin/add-users/add-users)  
+[Security and Protection in Business Central (administration content)](/dynamics365/business-central/dev-itpro/security/security-and-protection)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

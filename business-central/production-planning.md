@@ -1,21 +1,20 @@
 ---
-title: Supply Planning | Microsoft Docs
+title: Supply Planning
 description: Prepare a detailed executable plan and the final-assembly production schedule for sales and production demand.
 author: SorenGP
-ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.search.for: 291, 292, 293, 295, 517, 9010, 9038
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: a395f13bcd52f718ea9281b5628182a3e0f0ec4d
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: df1489446627b1043f348a2f1cf5e457ae757018
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4758800"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8146418"
 ---
 # <a name="planning"></a>Planning
 
@@ -36,8 +35,7 @@ The following table describes a sequence of tasks, with links to the topics that
 |Understand how all aspects of the planning system work and how to adjust the algorithms to meet planning requirements in different environments.|[Design Details: Supply Planning](design-details-supply-planning.md)|
 |Learn how the planning logic differentiates between demand at locations according to the SKU setup and demand without location codes.|[Planning With or Without Locations](production-planning-with-without-locations.md)|
 |Forecast demand presented by expected sales and production components.|[Create a Demand Forecast](production-how-to-create-a-forecast.md)|  
-|Create one-to-one production orders automatically from a sales order to cover the exact demand of that sales order line.|[Create Production Orders from Sales Orders](production-how-to-create-production-orders-from-sales-orders.md)|
-|Create a project production order directly from a multiline sales order representing a production project.|[Plan Project Orders](production-how-to-plan-project-orders.md)|
+|Create one-to-one or project production orders from a sales order to cover the exact demand of that sales order.|[Create Production Orders from Sales Orders](production-how-to-create-production-orders-from-sales-orders.md)|
 |Use the **Order Planning** page to manually plan for sales or production demand one production BOM level at a time.|[Plan for New Demand Order by Order](production-how-to-plan-for-new-demand.md)|
 |Use the **Planning Worksheet** page to run both the MPS and MRP options to automatically create either a high-level or detailed supply plan at all item levels.|[Run Full Planning, MPS or MRP](production-how-to-run-mps-and-mrp.md)|
 |Use the **Requisition Worksheet** page to automatically create a detailed supply plan to cover demand for items that are replenished by purchase or transfer only.|[Requisition worksheet](production-about-planning-functionality.md#requisition-worksheet)|  
@@ -58,3 +56,6 @@ The following table describes a sequence of tasks, with links to the topics that
 [Working with [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
 
 ## [!INCLUDE[prod_short](includes/free_trial_md.md)]  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

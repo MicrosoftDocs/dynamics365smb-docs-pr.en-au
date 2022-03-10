@@ -1,22 +1,21 @@
 ---
 title: Handling Missing Option Values
-description: Learn how to prevent full synchronisation from failing because the options differ in mapped fields.
+description: Learn how to prevent full synchronisation from failing because the options differ in mapped fields. This processes require the help of a developer.
 author: bholtorf
 ms.author: bholtorf
 ms.custom: na
 ms.reviewer: na
-ms.service: dynamics365-business-central
 ms.topic: conceptual
-ms.date: 04/01/2021
-ms.openlocfilehash: cd2ed879c6ef6022431e273fa9953110ce482567
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.date: 06/14/2021
+ms.openlocfilehash: 34d1583ac7e844a7d7acad82f202c37be0b99c47
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5773212"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8133974"
 ---
 # <a name="handling-missing-option-values"></a>Handling Missing Option Values
-[!INCLUDE[prod_short](includes/cc_data_platform_banner.md)]
+
 
 This topic is intended for a technical audience. The processes it describes require the help of a developer.
 
@@ -28,19 +27,19 @@ The **Integration Table Mapping** page contains three fields that contain one or
 |----------------------------|--------------|----------------------|
 | Payment Terms: NET30       | 1            | Net 30               |
 | Payment Terms: 2%10NET30   | 2            | 2% 10; Net 30        |
-| Payment Terms: NET45       | 2A-2B GST Net Amt. (3)            | Net 45               |
-| Payment Terms: NET60       | Total Amounts Withheld From All Payments (4)            | Net 60               |
+| Payment Terms: NET45       | 3            | Net 45               |
+| Payment Terms: NET60       | 4            | Net 60               |
 | Shipment Method: FOB       | 1            | FOB                  |
 | Shipment Method: NOCHARGE  | 2            | No Charge            |
 | Shipping Agent: AIRBORNE   | 1            | Airborne             |
 | Shipping Agent: DHL        | 2            | DHL                  |
-| Shipping Agent: FEDEX      | 2A-2B GST Net Amt. (3)            | FedEx                |
-| Shipping Agent: UPS        | Total Amounts Withheld From All Payments (4)            | UPS                  |
+| Shipping Agent: FEDEX      | 3            | FedEx                |
+| Shipping Agent: UPS        | 4            | UPS                  |
 | Shipping Agent: POSTALMAIL | 5            | Postal Mail          |
 | Shipping Agent: FULLLOAD   | 6            | Full Load            |
 | Shipping Agent: WILLCALL   | Deferred Company Fund Instalment (7)            | Will Call            |
 
-The content of the **Dataverse Option Mapping** page is based on enum values in the **CRM Account** table. In [!INCLUDE[prod_short](includes/cds_long_md.md)], the following fields on the account table are mapped to fields on the customer and vendor records:
+The content of the **Dataverse Option Mapping** page is based on enum values in the **CRM Account** table. In [!INCLUDE[prod_short](includes/cds_long_md.md)], the following fields on the account table are mapped to fields on the customer and supplier records:
 
 - **Address 1: Freight Terms** of data type Enum, where values are defined as follow:
 
@@ -54,7 +53,7 @@ enum 5335 "CDS Shipment Method Code"
 }
 ```
 
-- **Address 1: Shipping Method** of data type Enum, where values are defined as follows:
+- **Address 1: Delivery Method** of data type Enum, where values are defined as follows:
 
 ```
 enum 5336 "CDS Shipping Agent Code"
@@ -118,8 +117,8 @@ On the **Integration Table Mapping** page, choose the line for the **Payment Ter
 |--------------------------------|----------------|----------------------|
 | Payment Terms: NET30           | 1              | Net 30               |
 | Payment Terms: 2%10NET30       | 2              | 2% 10; Net 30        |
-| Payment Terms: NET45           | 2A-2B GST Net Amt. (3)              | Net 45               |
-| Payment Terms: NET60           | Total Amounts Withheld From All Payments (4)              | Net 60               | 
+| Payment Terms: NET45           | 3              | Net 45               |
+| Payment Terms: NET60           | 4              | Net 60               | 
 | **Payment Terms: CASH PAYME**  | **779800001**  | **Cash Payment**     |
 | **Payment Terms: TRANSFER**    | **779800002**  | **Transfer**         |
 

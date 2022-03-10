@@ -1,19 +1,18 @@
 ---
-title: Workflow Notifications
-description: Many workflow responses are about notifying a user that an event has occurred that they must act on. For example, on one workflow step, the event can be that User 1 requests approval of a new record, and the response is that a notification is sent to User 2, the approver. On the next workflow step, the event can be that User 2 approves the record, and the response is that a notification is sent to User 3 to start a related processing of the approved record. For workflow steps that are about approval, each notification is tied to an approval entry.
+title: Setting up Workflow Notifications
+description: This topic tells you how to set up workflow notifications to alert a user that an event has occurred that they must react to; a workflow response is required.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/14/2020
+ms.date: 06/11/2021
 ms.author: edupont
-ms.openlocfilehash: d11a391a7fd91f6a094dfae9f8908ba4314b357a
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: a41dcc291fb46173533f6552b6c64de35d28bc01
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5378956"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8134026"
 ---
 # <a name="workflow-notifications"></a>Workflow Notifications
 
@@ -40,6 +39,10 @@ You set up different aspects of workflow notifications in the following places:
 * Customise the email notifications
 
     If you want, you can customise the content of the email notification by modifying report 1320, Notification Email. For more information, see [Create and Modify Custom Report Layouts](ui-how-create-custom-report-layout.md).  
+
+    > [!NOTE]
+    > If you want to use email as the notification method, you must set up email for both the sender and the receiver in [!INCLUDE [prod_short](includes/prod_short.md)]. For more information, see [Set up Email](admin-how-setup-email.md).
+
 * Response options
 
     You set up specific content and rules of a workflow notification when you create the workflow in question. You do this by selecting options on the **Workflow Response Options** page for the workflow response that represents the notification. For more information, see step 9 in [Create Workflows](across-how-to-create-workflows.md).  

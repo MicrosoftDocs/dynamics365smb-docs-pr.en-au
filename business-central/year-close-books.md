@@ -1,21 +1,21 @@
 ---
-title: Overview of the Tasks for Closing the Books | Microsoft Docs
+title: Overview of the Tasks for Closing the Books
 description: Learn about the process of closing the books for a fiscal year or period, and what happens after you close at the end of a year.
 author: jswymer
-ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: overview
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: year closing, close accounting period, close fiscal year, bank account detailed trial balance
+m.search.form: 100
 ms.date: 04/01/2021
 ms.author: jswymer
-ms.openlocfilehash: e9cf8a89599c3fa73801bca40720221f05ffaf11
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 242868f88883c6e62a9b43ca949289deb0cdf2fe
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5776625"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8142758"
 ---
 # <a name="closing-the-books"></a>Closing the Books
 After you ensure that all your accounts are up-to-date, and you allocate costs and income, then you can close the books for a fiscal year or period.

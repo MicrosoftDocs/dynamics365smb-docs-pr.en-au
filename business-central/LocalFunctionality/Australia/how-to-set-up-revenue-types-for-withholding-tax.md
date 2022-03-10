@@ -1,21 +1,20 @@
 ---
-title: Set Up Revenue Types for Withholding Tax in the Australian version
+title: Set Up Revenue Types for Withholding Tax [AU]
 description: Revenue types are used to categorise withholding tax (WHT) entries and are used for WHT certificates in the Australian version.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.search.form: 28042
+ms.date: 06/25/2021
 ms.author: edupont
-ms.openlocfilehash: 9d7ca67af0a892c64e4188de8c67f0354160dc97
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: 28cbb382dd57710b99b1924c6c923fb4e5dc3cf1
+ms.sourcegitcommit: 67006b090a7bd70446414a19cc82e531190637dc
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5377246"
+ms.lasthandoff: 02/16/2022
+ms.locfileid: "8311171"
 ---
 # <a name="set-up-revenue-types-for-withholding-tax-in-the-australian-version"></a>Set Up Revenue Types for Withholding Tax in the Australian Version
 

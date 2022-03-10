@@ -1,27 +1,28 @@
 ---
-title: How to View Posted Tax CR/Adj Notes
-description: You can use the Posted Sales Tax CR/Adj Note page and Posted Purch. Tax CR/Adj Note page to view details of sales tax CR/Adj Notes and purchase tax CR/Adj Notes that have been posted.
+title: View Posted Tax CR/Adj Notes [AU]
+description: You use the Posted GST CR/Adj Note page and Posted Purch. Tax CR/Adj Note page to view details of GST CR/Adj Notes and purchase tax CR/Adj Notes.
 author: SorenGP
-ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
-ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: 4d041f61a8f6711794b9602aa8486501ba2fa951
-ms.sourcegitcommit: 007b331b6974983ee614db0406f00777da359ecb
+ms.search.form: 28071, 28073, 28081, 28082
+ms.date: 06/25/2021
+ms.author: edupont
+ms.openlocfilehash: 7f2072301fa8e483a622456258332c00634275eb
+ms.sourcegitcommit: 67006b090a7bd70446414a19cc82e531190637dc
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 08/10/2020
-ms.locfileid: "3676607"
+ms.lasthandoff: 02/16/2022
+ms.locfileid: "8311158"
 ---
-# <a name="view-posted-tax-credit-memos"></a>View Posted Tax CR/Adj Notes
+# <a name="view-posted-tax-credit-memos-in-the-australian-version"></a>View Posted Tax CR/Adj Notes in the Australian Version
+
 You can use the **Posted Sales Tax CR/Adj Note** page and **Posted Purch. Tax CR/Adj Note** page to view details of sales tax CR/Adj Notes and purchase tax CR/Adj Notes that have been posted.  
 
 The following procedure describes how to view posted sales tax CR/Adj Notes, but the same steps also apply for viewing posted purchase tax CR/Adj Notes.  
 
 ## <a name="to-view-a-posted-sales-tax-credit-memo"></a>To view a posted sales tax CR/Adj Note  
 
-1.  Choose the ![Lightbulb that opens the Tell Me feature](../../media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Posted GST CR/Adj Note**, and then choose the related link.  
+1.  Choose the ![Lightbulb that opens the Tell Me feature.](../../media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Posted GST CR/Adj Note**, and then choose the related link.  
 2.  View the FastTabs as described in the following table.  
 
     |FastTab|Description|  
@@ -37,3 +38,6 @@ The following procedure describes how to view posted sales tax CR/Adj Notes, but
 ## <a name="see-also"></a>See Also  
  [View Posted Tax Invoices](how-to-view-posted-tax-invoices.md)   
  [View Withholding Tax Entries](how-to-view-withholding-tax-entries.md)
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]
