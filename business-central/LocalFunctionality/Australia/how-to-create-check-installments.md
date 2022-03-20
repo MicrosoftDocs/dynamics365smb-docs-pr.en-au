@@ -1,7 +1,7 @@
 ---
 title: Create Cheque Instalments [AU]
 description: Describes how to create cheque instalments for postdated cheques, define the number of instalments that a payment will be divided into, the percentage of interest and the period in which the cheques will be created in the Australian version.
-author: bholtorf
+author: brentholtorf
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +10,12 @@ ms.search.keywords: ''
 ms.search.form: 28090,28091,28092,28093
 ms.date: 06/25/2021
 ms.author: bholtorf
-ms.openlocfilehash: 66b4ac41ab490d3233aa4f063cb915d63eb0f879
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 409b759a419f176ac3b678429666d5632ea561f5
+ms.sourcegitcommit: 5a02f8527faecdffcc54f9c5c70cefe8c4b3b3f4
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8148032"
+ms.lasthandoff: 03/04/2022
+ms.locfileid: "8381372"
 ---
 # <a name="create-check-installments-in-the-australian-version"></a>Create Cheque instalments in the Australian Version
 

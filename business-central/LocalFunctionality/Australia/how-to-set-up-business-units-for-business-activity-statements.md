@@ -1,7 +1,7 @@
 ---
 title: Set Up Business Units for Business Activity Statements (AU)
 description: Describes how to consolidate the financial statements of various companies into one financial statement.
-author: bholtorf
+author: brentholtorf
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: 5e59d6cacec18e53d867b85c862609a1a18bc022
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 8d63bb8af9383010be483eb51bcc0509520cc0ea
+ms.sourcegitcommit: 5a02f8527faecdffcc54f9c5c70cefe8c4b3b3f4
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8135638"
+ms.lasthandoff: 03/04/2022
+ms.locfileid: "8381318"
 ---
 # <a name="set-up-business-units-for-business-activity-statements-in-the-australian-version"></a>Set Up Business Units for Business Activity Statements in the Australian Version
 
