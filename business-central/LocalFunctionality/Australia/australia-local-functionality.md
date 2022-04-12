@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.author: soalex
-ms.openlocfilehash: 66aadfa063d45bd9237631a8570965023bd52a00
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: c8601d0640a596d645bbb3dbcc61c8403b8a5d8c
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: en-AU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8134501"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8513229"
 ---
 # <a name="australia-local-functionality"></a>Australia Local Functionality
 The following topics describe local functionality that is unique to the Australian version of [!INCLUDE[prod_short](../../includes/prod_short.md)].  
@@ -57,7 +57,7 @@ The following topics describe local functionality that is unique to the Australi
 
 ## <a name="see-also"></a>See Also
 
-[Working with [!INCLUDE[prod_short](../../includes/prod_short.md)]](../../ui-work-product.md)  
+[Work with [!INCLUDE[prod_short](../../includes/prod_short.md)]](../../ui-work-product.md)  
 [Country/regional availability and supported languages](/dynamics365/business-central/dev-itpro/compliance/apptest-countries-and-translations)  
 
 ## [!INCLUDE[prod_short](../../includes/free_trial_md.md)]
