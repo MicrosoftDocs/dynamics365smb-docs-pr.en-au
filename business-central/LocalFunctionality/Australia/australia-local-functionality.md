@@ -26,7 +26,7 @@ The following topics describe local functionality that is unique to the Australi
     * [Withholding Tax](withholding-tax.md) **Available Now**
     * [Set Up Withholding Tax](how-to-set-up-withholding-tax.md) **Available Now**
     * [Set Up Revenue Types for Withholding Tax](how-to-set-up-revenue-types-for-withholding-tax.md) **Available Now**
-    * [Set Up Suppliers Without ABN for Calculating the Withholding Tax](how-to-set-up-vendors-without-abn-for-calculating-the-withholding-tax.md) **Available Now**
+    * [Set Up Vendors Without ABN for Calculating the Withholding Tax](how-to-set-up-vendors-without-abn-for-calculating-the-withholding-tax.md) **Available Now**
     * [Calculate and Post Withholding Tax Settlements](how-to-calculate-and-post-withholding-tax-settlements.md) **Available Now**
     * [View Withholding Tax Entries](how-to-view-withholding-tax-entries.md) **Available Now**
     * [View Posted Tax Invoices](how-to-view-posted-tax-invoices.md) **Available Now**

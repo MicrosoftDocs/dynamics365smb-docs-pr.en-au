@@ -1,6 +1,6 @@
 ---
 title: Set Up Withholding Tax [AU]
-description: This topic explains how a company sets up withholding tax (WHT) when it makes a payment to a supplier using the General Ledger Setup page.
+description: This topic explains how a company sets up withholding tax (WHT) when it makes a payment to a vendor using the General Ledger Setup page.
 author: edupont04
 ms.topic: conceptual
 ms.devlang: na
@@ -18,7 +18,7 @@ ms.locfileid: "8311312"
 ---
 # <a name="set-up-withholding-tax-in-the-australian-version"></a>Set Up Withholding Tax in the Australian Version
 
-Withholding tax (WHT) is the tax withheld by a company when it makes a payment to a supplier, in which the full amount owed to the supplier is reduced by the tax withheld. The withheld tax is then remitted to the Australian Taxation Office (ATO) when the next Business Activity Statement (BAS) is submitted.  
+Withholding tax (WHT) is the tax withheld by a company when it makes a payment to a vendor, in which the full amount owed to the vendor is reduced by the tax withheld. The withheld tax is then remitted to the Australian Taxation Office (ATO) when the next Business Activity Statement (BAS) is submitted.  
 
 If a supplier without an Australian Business Number (ABN) provides an invoice, a withholding tax amount must be withheld if the total amount of the invoice is more than the threshold amount. To use withholding tax, you must first enable WHT in the **General Ledger Setup** page and set up product posting groups and business posting groups for WHT.  
 

@@ -33,7 +33,7 @@ To use a basic pricing model, you only need to specify a unit price when you set
 
 * Customer
 * Item
-* Unit of measurement
+* Unit of measure
 * Minimum quantity
 * Dates that define the period for which the prices are valid.
 
@@ -110,7 +110,7 @@ If you have many combinations, you'll have many price lists.
 If you've already enabled the New Pricing Experience, you can create default price lists manually or specify an existing price list as the default. To set an existing price list as default, turn on the **Allow Updating Defaults** toggle on the price list. Then, on the **Sales & Receivables Setup**, **Purchase & Payables** or **Jobs Setup** pages, set the price list as the default.
 
 ### <a name="editing-active-price-lists"></a>Editing Active Price Lists
-To allow people to edit prices on active price lists for items, resources, customers, suppliers, or other entities that use pricing, turn on the **Allow Editing Active Price** toggle on the **Sales & Receivables Setup** and **Purchase & Payables Setup** pages.   
+To allow people to edit prices on active price lists for items, resources, customers, vendors, or other entities that use pricing, turn on the **Allow Editing Active Price** toggle on the **Sales & Receivables Setup** and **Purchase & Payables Setup** pages.   
 
 When the **Allow Editing Active Price** toggle is turned off, to update prices in a price list you must change the status of the price list to **Draft**, make your change, and then reactivate the price list.
 
@@ -192,7 +192,7 @@ The best price is the lowest price with the highest line discount allowed on a g
     * Does the customer have a price/discount agreement, or does the customer belong to a group that does?
     * Is the item or the item discount group on the line included in any of these price/discount agreements?
     * Is the order date (or the posting date for the invoice and CR/Adj note) within the starting and ending date of the price/discount agreement?
-    * Is a unit of measurement code specified? If so, [!INCLUDE[prod_short](includes/prod_short.md)] checks for prices/discounts with the same unit of measurement code, and prices/discounts with no unit of measurement code.
+    * Is a unit of measure code specified? If so, [!INCLUDE[prod_short](includes/prod_short.md)] checks for prices/discounts with the same unit of measure code, and prices/discounts with no unit of measure code.
 
 2. [!INCLUDE[prod_short](includes/prod_short.md)] checks whether any price/discount agreements apply to information on the document or journal line. It then inserts the applicable unit price and line discount percentage using the following criteria:
 

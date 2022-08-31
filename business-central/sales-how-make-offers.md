@@ -61,7 +61,7 @@ In most cases, you send sales quotes to prospective customers. You often have a 
 6. In the **Quantity** field, enter how many units of the product, charge, or transaction that the line will record for the customer.
 
     > [!NOTE]  
-    >  If the item is of type **Service**, or the **Type** field contains **Resource**, then the quantity is a time unit, such as hours, as indicated in the **Unit of Measurement Code** field on the line. For more information, see [Set Up Item Units of Measurement](inventory-how-setup-units-of-measure.md)
+    >  If the item is of type **Service**, or the **Type** field contains **Resource**, then the quantity is a time unit, such as hours, as indicated in the **Unit of Measure Code** field on the line. For more information, see [Set Up Item Units of Measurement](inventory-how-setup-units-of-measure.md)
 
     The value in the **Line Amount** field is calculated as *Unit Price* x *Quantity*.  
 
@@ -89,7 +89,7 @@ In most cases, you send sales quotes to prospective customers. You often have a 
     >
     > If you added a contact from a prospective customer in step 2, you'll be asked to take the following steps:
     >
-    >  - Convert the contact or prospect to a customer by choosing one of contact conversion templates. For more information, see [To create a customer, supplier, employee, or bank account from a contact](marketing-create-contact-companies.md#to-create-a-customer-vendor-employee-or-bank-account-from-a-contact).  
+    >  - Convert the contact or prospect to a customer by choosing one of contact conversion templates. For more information, see [To create a customer, vendor, employee, or bank account from a contact](marketing-create-contact-companies.md#to-create-a-customer-vendor-employee-or-bank-account-from-a-contact).  
     > - Confirm the conversion of the quote to an order.
 
 The conversion removes the sales quote from the database. A sales invoice or a sales order is created based on the information in the sales quote so that you can process the sale. In the **Quote No.** field on the sales invoice or sales order, you can see the number of the sales quote that it was made from. For more information, see [Invoice Sales](sales-how-invoice-sales.md) or [Sell Products](sales-how-sell-products.md).  

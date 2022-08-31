@@ -20,7 +20,7 @@ ms.locfileid: "8417527"
 # <a name="work-with-vat-on-sales-and-purchases"></a>Work with GST on Sales and Purchases
 If your country or region requires you to calculate and report value-added tax (VAT) on sales and purchase transactions, you can set up [!INCLUDE[prod_short](includes/prod_short.md)] to calculate VAT. For more information, see [Setting Up to Calculations and Posting Methods for Goods and Services Tax](finance-setup-vat.md).
 
-There are, however, some GST-related tasks that you can do manually. For example, you might need to correct a posted amount if you discover that a supplier uses a different rounding method.  
+There are, however, some GST-related tasks that you can do manually. For example, you might need to correct a posted amount if you discover that a vendor uses a different rounding method.  
 
 > [!TIP]
 > You can let [!INCLUDE[prod_short](includes/prod_short.md)] validate VAT registration numbers and other company information when you create or update documents. For more information, see [Validate VAT Registration Numbers](finance-how-validate-vat-registration-number.md).
@@ -30,7 +30,7 @@ When you choose an item number in the **No.** field on a sales or purchase docum
 
 If you want the unit prices and line amounts to include GST, for example, if you are selling to retail consumers, choose the **Prices Including GST** check box on the document. For more information, see [Including or Excluding GST in Prices and Line Amounts](#including-or-excluding-vat-in-prices-and-line-amounts). 
 
-You can calculate and display GST amounts in sales and purchase documents differently, depending on the type of customer or supplier you're dealing with. You can also change the calculated GST amount manually, for example, so that it matches the GST amount calculated by your supplier on a given transaction.
+You can calculate and display GST amounts in sales and purchase documents differently, depending on the type of customer or vendor you're dealing with. You can also change the calculated GST amount manually, for example, so that it matches the GST amount calculated by your vendor on a given transaction.
 
 ### <a name="including-or-excluding-vat-in-prices-and-line-amounts"></a>Including or Excluding GST in Prices and Line Amounts
 If you choose the **Prices Including GST** check box on a sales document, the **Unit Price** and **Line Amount** fields will include GST. By default, the values in these fields do not include GST. The names of the fields reflect whether prices include GST.  
@@ -63,7 +63,7 @@ Depending on what you want to do, you can assign a GST business posting group to
 Factors such as the country or region you're selling in, or the type of industries you sell to, can impact the amount of GST that you must account for. For example, a restaurant might charge 6% GST for meals that are eaten in-house, and 17% for takeaway. To accomplish that, you create a GST business posting group (price) for in-house and one for takeaway.
 
 ## <a name="correcting-vat-amounts-manually-in-sales-and-purchase-documents"></a>Correcting GST Amounts Manually in Sales and Purchase Documents  
-You can make corrections to posted GST entries so that you can change the total sales or input tax credit amounts without changing the GST base. For example, if you receive an invoice from a supplier with an incorrect GST amount.  
+You can make corrections to posted GST entries so that you can change the total sales or input tax credit amounts without changing the GST base. For example, if you receive an invoice from a vendor with an incorrect GST amount.  
 
 Although you may have set up one or more combinations to handle import GST, you must set up at least one GST product posting group. For example, you can name it **CORRECT** for correction purposes, unless you can use the same general ledger account in the **Input Tax Credit Account** field on the GST posting setup line. For more information, see [Setting Up to Calculations and Posting Methods for Goods and Services Tax](finance-setup-vat.md).
 
@@ -85,7 +85,7 @@ The following describes how to enable manual GST changes on sales documents. The
 > The total GST amount for the invoice, grouped by GST identifier, is displayed in the lines. You can manually adjust the amount in the **GST Amount** field on the lines for each GST identifier. When you modify the **GST Amount** field, application checks to ensure that you have not changed the GST by more than the amount you have specified as the maximum difference allowed. If the amount is outside the range of the **Max. GST Difference Allowed**, a warning will be displayed stating the maximum allowed difference. You will be unable to proceed until the amount is adjusted to within the acceptable parameters. Click **OK** and enter another **GST Amount** that is within the allowed range. If the GST difference is equal to or lower than the maximum allowed, the GST will be divided proportionally among the document lines that have the same GST identifier.  
 
 ## <a name="calculating-vat-manually-using-journals"></a>Calculating GST Manually Using Journals  
-You can also adjust GST amounts in general, sales, and purchase journals. For example, you might need to do this when you enter a supplier invoice in your journal and there is a difference between the GST amount that [!INCLUDE[prod_short](includes/prod_short.md)] calculated and the GST amount on the supplier's invoice.  
+You can also adjust GST amounts in general, sales, and purchase journals. For example, you might need to do this when you enter a vendor invoice in your journal and there is a difference between the GST amount that [!INCLUDE[prod_short](includes/prod_short.md)] calculated and the GST amount on the vendor's invoice.  
 
 ### <a name="to-set-the-system-up-for-manual-vat-entry-in-a-general-journals"></a>To set the system up for manual GST entry in a general journals
 You must perform the following steps before you manually enter GST in a general journal.  
@@ -107,7 +107,7 @@ You must perform the following steps before you manually enter GST in a sales or
 Instead of using journals to post an import GST invoice, you can use a purchase invoice.  
 
 ### <a name="to-set-up-purchasing-for-posting-import-vat-invoices"></a>To set up purchasing for posting import GST invoices  
-1. Set up a supplier card for the import authority that sends you the import GST invoice. The **Gen. Bus. Posting Group** and **GST Bus. Posting Group** must be set up in the same way as the general ledger account for the import GST.  
+1. Set up a vendor card for the import authority that sends you the import GST invoice. The **Gen. Bus. Posting Group** and **GST Bus. Posting Group** must be set up in the same way as the general ledger account for the import GST.  
 2. Create a **Gen. Product Posting Group** for the import GST and set up an import GST **Def. GST Product Posting Group** for the related **Gen. Product Posting Group**.  
 3. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Chart of Accounts**, and then choose the related link.  
 4. Select the import GST general ledger account, and then choose the **Edit** action.  
@@ -115,17 +115,17 @@ Instead of using journals to post an import GST invoice, you can use a purchase 
 6. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **General Posting Setup**, and then choose the related link.  
 7. Create a combination of the **Gen. Bus. Posting Group** for the GST authority and the **Gen. Prod. Posting Group** for import GST. For this new combination, in the **Purchase Account** field, choose the import GST general ledger account.  
 
-### <a name="to-create-a-new-invoice-for-the-import-authority-vendor-once-you-have-completed-the-setup"></a>To create a new invoice for the import authority supplier once you have completed the setup  
+### <a name="to-create-a-new-invoice-for-the-import-authority-vendor-once-you-have-completed-the-setup"></a>To create a new invoice for the import authority vendor once you have completed the setup  
 1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Purchase Invoices**, and then choose the related link.  
 2. Create a new purchase invoice.  
-3. In the **Buy-from Supplier No.** field, choose the import authority supplier, and then choose the **OK** button.  
+3. In the **Buy-from Vendor No.** field, choose the import authority vendor, and then choose the **OK** button.  
 4. In the purchase line, in the **Type** field, choose **G/L Account**, and in the **No.** field, choose the import GST general ledger account.  
 5. In the **Quantity** field, type **1**.  
 6. In the **Direct Unit Cost Excl. GST** field, specify the GST amount.  
 7. Post the invoice.  
 
 ## <a name="processing-certificates-of-supply"></a>Processing Certificates of Supply
-When you sell goods to a customer in another EU country/region, you must send the customer a certificate of supply that the customer must sign and return to you. The following procedures are for processing certificates of supply for sales shipments, but the same steps apply for service shipments of items, and return shipments to suppliers.  
+When you sell goods to a customer in another EU country/region, you must send the customer a certificate of supply that the customer must sign and return to you. The following procedures are for processing certificates of supply for sales shipments, but the same steps apply for service shipments of items, and return shipments to vendors.  
 
 ### <a name="to-view-certificate-of-supply-details"></a>To view certificate of supply details  
 1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Posted Sales Shipments**, and then choose the related link.  

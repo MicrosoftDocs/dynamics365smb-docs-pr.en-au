@@ -12,7 +12,7 @@ ms.locfileid: "8140013"
 ---
 ## <a name="set-up-wht-posting-groups"></a>Set up WHT posting groups
 
-To use withholding tax, you must set up the business posting groups and product posting groups for withholding tax so that the correct WHT calculations are made for each supplier.  
+To use withholding tax, you must set up the business posting groups and product posting groups for withholding tax so that the correct WHT calculations are made for each vendor.  
 
 > [!NOTE]  
 > As a prerequisite, you must have set up source codes for WHT settlement on the **Source Code Setup** page. For more information, see [Setting Up Source Codes and Reason Codes for Audit Trails](../../../finance-setup-trail-codes.md).  

@@ -19,7 +19,7 @@ ms.locfileid: "8133516"
 For information about tax in Australia, see the following topics:  
 
 [Set Up Withholding Tax](how-to-set-up-withholding-tax.md)  
-[Set Up Suppliers Without ABN for Calculating the Withholding Tax](how-to-set-up-vendors-without-abn-for-calculating-the-withholding-tax.md)  
+[Set Up Vendors Without ABN for Calculating the Withholding Tax](how-to-set-up-vendors-without-abn-for-calculating-the-withholding-tax.md)  
 [Set Up Revenue Types for Withholding Tax](how-to-set-up-revenue-types-for-withholding-tax.md)    
 [Calculate and Post Withholding Tax Settlements](how-to-calculate-and-post-withholding-tax-settlements.md)  
 [View Withholding Tax Entries](how-to-view-withholding-tax-entries.md)  

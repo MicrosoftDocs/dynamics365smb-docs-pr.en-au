@@ -72,7 +72,7 @@ To setup VAT registration numbers, follow these steps:
 
 ## <a name="set-up-vat-business-posting-groups"></a>Set up GST business posting groups
 
-GST business posting groups should represent the markets in which you do business with customers and suppliers, and define how to calculate and post GST in each market. Examples of GST business posting groups are **Domestic** and **European Union (EU)**.  
+GST business posting groups should represent the markets in which you do business with customers and vendors, and define how to calculate and post GST in each market. Examples of GST business posting groups are **Domestic** and **European Union (EU)**.  
 
 Use codes that are easy to remember and describe the business posting group, such as **EU**, **Non-EU**, or **Domestic**. The code must be unique. You can set up as many codes as you need, but you cannot have the same code more than once in a table.
 
@@ -81,7 +81,7 @@ To set up a GST business posting group, follow these steps:
 1. Choose the ![Lightbulb that opens the Tell Me feature 3.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **GST Business Posting Group**, and then choose the related link.  
 2. Fill in the fields as necessary.
 
-You set up default GST business posting groups by linking them to general business posting groups. [!INCLUDE[prod_short](includes/prod_short.md)] automatically assigns the GST business posting group when you assign the business posting group to a customer, supplier, or general ledger account.
+You set up default GST business posting groups by linking them to general business posting groups. [!INCLUDE[prod_short](includes/prod_short.md)] automatically assigns the GST business posting group when you assign the business posting group to a customer, vendor, or general ledger account.
 
 ## <a name="set-up-vat-product-posting-groups"></a>Set up GST product posting groups
 
@@ -108,10 +108,10 @@ To combine GST posting setups, follow these steps:
 
 If you want to apply the same GST posting groups to multiple entities, you can set up [!INCLUDE[prod_short](includes/prod_short.md)] to do so by default. There are a couple of ways to do this:
 
-* You can assign GST business posting groups to general business posting groups, or customer or supplier templates
+* You can assign GST business posting groups to general business posting groups, or customer or vendor templates
 * You can assign GST product posting groups on general product posting groups  
 
-The GST business or product posting group is assigned when you choose a business or product posting group for a customer, supplier, item, or resource.
+The GST business or product posting group is assigned when you choose a business or product posting group for a customer, vendor, item, or resource.
 
 ## <a name="assign-vat-posting-groups-to-accounts-customers-vendors-items-and-resources"></a>Assign GST posting groups to accounts, customers, vendors, items, and resources
 
@@ -124,10 +124,10 @@ The following sections describe how to assign GST posting groups to individual e
 3. On the **Posting** FastTab, in the **Gen. Posting Type** field, choose either **Sale** or **Purchase**.  
 4. Choose the GST posting groups to use for the sales or purchase account.  
 
-### <a name="to-assign-vat-business-posting-groups-to-customers-and-vendors"></a>To assign GST business posting groups to customers and suppliers
+### <a name="to-assign-vat-business-posting-groups-to-customers-and-vendors"></a>To assign GST business posting groups to customers and vendors
 
-1. Choose the ![Lightbulb that opens the Tell Me feature 7.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Customer** or **Supplier**, and then choose the related link.  
-2. On the **Customer** or **Supplier** card, expand the **Invoicing** FastTab.  
+1. Choose the ![Lightbulb that opens the Tell Me feature 7.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Customer** or **Vendor**, and then choose the related link.  
+2. On the **Customer** or **Vendor** card, expand the **Invoicing** FastTab.  
 3. Choose the GST business posting group.  
 
 ### <a name="to-assign-vat-product-posting-groups-to-individual-items-and-resources"></a>To assign GST product posting groups to individual items and resources

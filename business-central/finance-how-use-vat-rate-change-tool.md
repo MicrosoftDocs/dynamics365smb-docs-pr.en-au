@@ -18,7 +18,7 @@ ms.locfileid: "9079124"
 ---
 # <a name="managing-vat-rate-changes"></a>Managing GST Rate Changes
 
-GST rates can change depending on local legislation. Any change in GST impacts your data in [!INCLUDE[prod_short](includes/prod_short.md)] whether or not the GST rate is lowered, raised, or removed. GST is connected to many entities in [!INCLUDE[prod_short](includes/prod_short.md)], such as customers, suppliers, items, resources, item charges, and general ledger accounts. Changes in GST rates usually happen at a specific date, from which point you will need to have changed the GST setup, posting groups etc. to make sure new sales orders and purchase orders are created with the new GST rate.
+GST rates can change depending on local legislation. Any change in GST impacts your data in [!INCLUDE[prod_short](includes/prod_short.md)] whether or not the GST rate is lowered, raised, or removed. GST is connected to many entities in [!INCLUDE[prod_short](includes/prod_short.md)], such as customers, vendors, items, resources, item charges, and general ledger accounts. Changes in GST rates usually happen at a specific date, from which point you will need to have changed the GST setup, posting groups etc. to make sure new sales orders and purchase orders are created with the new GST rate.
 
 ## <a name="changing-vat-rates"></a>Changing GST rates
 
@@ -28,7 +28,7 @@ The following approach is suggested to manage a GST rate change
 
 1. Fully post and close open orders, journals and other documents before the switch date. You can wait to after the switch date as long as you do not add new lines and make sure the effective date will be prior the switch date.  
 2. Create the new GST setup.  
-3. Make the GST switch on entities (relevant customers, suppliers, items, and so on).  
+3. Make the GST switch on entities (relevant customers, vendors, items, and so on).  
 4. At the GST rate switch date you create new documents that will use the new rate.  
 
 
@@ -58,7 +58,7 @@ There are a few things that the tool does not convert:
 * Return orders.
 * Prices on Items (master data)
 * Prices on Sales Prices (master data)
-* Business Posting Groups on Customers and Suppliers.
+* Business Posting Groups on Customers and Vendors.
 
 ### <a name="to-prepare-vat-rate-change-conversions"></a>To prepare GST rate change conversions
 
@@ -87,7 +87,7 @@ Before you set up the GST rate change tool, you must make the following preparat
 You use the GST rate change tool to manage changes in the standard rate of GST. You perform GST and general posting group conversions to change GST rates and maintain accurate GST reporting. Depending on your setup, the following changes are made:  
 
 * GST and general posting groups are converted.  
-* Changes are implemented in general ledger accounts, customers, suppliers, open documents, journal lines, and so on.  
+* Changes are implemented in general ledger accounts, customers, vendors, open documents, journal lines, and so on.  
 
 > [!IMPORTANT]  
 > Before you perform GST rate change conversion, you can test the conversion. To do so, follow the steps below, but make sure to clear the **Perform Conversion** and **GST Rate Change Tool Completed** check boxes. During test conversion, the **Converted** field in the **GST Rate Change Log Entry** table is cleared and the **Converted Date** field in the **GST Rate Change Log Entry** table is blank. After the conversion is complete, choose **GST Rate Change Log Entries** to view the results of the test conversion. Verify each entry before you perform the conversion. In particular, verify transactions that use an old GST rate.

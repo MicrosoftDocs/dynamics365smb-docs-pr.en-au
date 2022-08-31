@@ -19,7 +19,7 @@ ms.locfileid: "9077484"
 ---
 # <a name="create-number-series"></a>Create Number Series
 
-For each company that you set up, you need to assign unique identification codes to things such as general ledger accounts, customer and supplier accounts, invoices, and other documents. Numbering is important not only for identification. A well-designed numbering system also makes the company more manageable and easy to analyse, and can reduce the number of errors that occur in data entry.
+For each company that you set up, you need to assign unique identification codes to things such as general ledger accounts, customer and vendor accounts, invoices, and other documents. Numbering is important not only for identification. A well-designed numbering system also makes the company more manageable and easy to analyse, and can reduce the number of errors that occur in data entry.
 
 > [!Important]
 > By default, gaps are not allowed in number series because the exact history of financial transactions must be available for auditing, by law, and therefore must follow an unbroken sequence with no deleted numbers.

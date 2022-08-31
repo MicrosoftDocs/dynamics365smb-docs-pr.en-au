@@ -57,9 +57,9 @@ This way the numbers are automatically transferred through all outbound warehous
 3. Select the relevant document line and on the **Lines** FastTab, choose the **Line** action, and then choose the **Item Tracking Lines** action to open the **Edit - Item Tracking Lines** page.  
 
     You can assign serial or lot numbers in the following ways :  
-    -   Automatically, by selecting **Process** then choosing **Assign Serial No.** or **Assign Lot No.** to assign serial numbers from predefined number series.  
-    -   Automatically, by selecting **Process** then choosing **Create Customised SN** to assign serial numbers based on number series you define specifically for the arrived items.  
-    -   Manually, by entering serial or lot numbers directly, for example, the supplier's numbers.  
+    -   Automatically, by selecting **Process** then choosing **Assign Serial No.** or **Assign Lot No.** to assign serial/lot numbers from predefined number series.  
+    -   Automatically, by selecting **Process** then choosing **Create Customised SN** to assign serial/lot numbers based on number series you define specifically for the arrived items.  
+    -   Manually, by entering serial or lot numbers directly, for example, the vendor's numbers.  
     -   Manually, by assigning a specific number to each item unit.  
 
 4. To assign automatically, choose the **Create Customised SN** action.  

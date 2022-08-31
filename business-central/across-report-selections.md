@@ -67,7 +67,7 @@ For example, in the **Report Selection - Sales** and **Report Selection - Purcha
 [Select a Cheque Layout](finance-how-define-check-layouts.md)  
 [Set Up Reports for VAT and Intrastat (Germany)](LocalFunctionality/Germany/how-to-set-up-reports-for-vat-and-intrastat.md)  
 [Managing Report and Document Layouts](ui-manage-report-layouts.md)  
-[Define Document Layouts for Customers and Suppliers](ui-define-customer-vendor-document-layouts.md)  
+[Define Document Layouts for Customers and Vendors](ui-define-customer-vendor-document-layouts.md)  
 [Set Up Printers](ui-specify-printer-selection-reports.md)  
 [Financial Reports and Analytics in Business Central](finance-reports.md)  
 [Accounts Receivable Reports and Analytics in Business Central](receivables-reports.md) 

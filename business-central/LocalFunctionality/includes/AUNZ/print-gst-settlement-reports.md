@@ -20,7 +20,7 @@ You must submit a periodic report of goods and services tax (GST) settlement. Yo
     |Field|Description|  
     |---------------------------------|---------------------------------------|  
     |**Settlement Account Type**|The settlement account type.|  
-    |**Settlement Account No.**|The general ledger account number or supplier number, based on the type selected in the **Settlement Account Type** field.|  
+    |**Settlement Account No.**|The general ledger account number or vendor number, based on the type selected in the **Settlement Account Type** field.|  
     |**Rounding G/L Account No.**|The account to which the truncated cents will be posted.|  
     |**Posting Date**|The posting date for the settlement entries.|  
     |**Document No.**|The document number of the settlement entries.|  

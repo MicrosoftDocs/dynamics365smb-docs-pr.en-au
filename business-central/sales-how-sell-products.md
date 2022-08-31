@@ -21,7 +21,7 @@ ms.locfileid: "9077848"
 
 This article provides guidance to users on when to use a customer sales order rather than just an invoice. If your sales process requires that you can only ship parts of an order quantity, for example, because the full quantity is not available at once, then sell those products by making a customer sales order.  
 
-If you sell items by delivering directly from your supplier to your customer, as a drop shipment, then you must also use sales orders. For more information, see [Make Drop Shipments](sales-how-drop-shipment.md). In all other aspects, sales orders work the same way as sales invoices. For more information, see [Invoice Sales](sales-how-invoice-sales.md).
+If you sell items by delivering directly from your vendor to your customer, as a drop shipment, then you must also use sales orders. For more information, see [Make Drop Shipments](sales-how-drop-shipment.md). In all other aspects, sales orders work the same way as sales invoices. For more information, see [Invoice Sales](sales-how-invoice-sales.md).
 
 When you deliver the products, either fully or partially, you post the sales order as shipped or as shipped and invoiced to create the related item and customer ledger entries in your system. When you post the sales order, you can also email the document as a PDF attachment. You can have the email body prefilled with a summary of the order and payment information, such as a link to PayPal. For more information, see [Send Documents by Email](ui-how-send-documents-email.md).
 
@@ -59,7 +59,7 @@ You can even create directly-paid orders for non-registered customers by first s
 7. In the **Quantity** field, enter the number of items to be sold.
 
     > [!NOTE]  
-    > For items of type *Resource* or *Service*, the quantity is a time unit, such as hours, as indicated in the **Unit of Measurement Code** field on the line. For more information, see [Set Up Item Units of Measurement](inventory-how-setup-units-of-measure.md).
+    > For items of type *Resource* or *Service*, the quantity is a time unit, such as hours, as indicated in the **Unit of Measure Code** field on the line. For more information, see [Set Up Item Units of Measurement](inventory-how-setup-units-of-measure.md).
 
     The **Line Amount** field is updated to show the value in the **Unit Price** field multiplied by the value in the **Quantity** field.
 

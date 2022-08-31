@@ -32,7 +32,7 @@ You can add new customers manually, by filling out the fields on the **Customer 
 > [!TIP]
 > It can be helpful to personalise the **Customer Template** page when you create a template. For example, you might want to add the **Credit Limit** field to a template. For more information, see [Personalise Your Workspace](/dynamics365/business-central/ui-personalization-user#to-start-personalizing-a-page-through-the-personalizing-banner).
 
-You can also create a customer from a contact. For more information, see [To create a customer, supplier, employee, or bank account from a contact](marketing-create-contact-companies.md#to-create-a-customer-vendor-employee-or-bank-account-from-a-contact).  
+You can also create a customer from a contact. For more information, see [To create a customer, vendor, employee, or bank account from a contact](marketing-create-contact-companies.md#to-create-a-customer-vendor-employee-or-bank-account-from-a-contact).  
 
 ### <a name="to-create-a-new-customer-card"></a>To create a new customer card
 

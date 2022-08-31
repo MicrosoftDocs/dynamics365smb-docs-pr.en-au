@@ -155,7 +155,7 @@ Consider a physical inventory for Item A, which is stored in inventory as ten di
 4. On the **Copy Phys. Invt. Rec. Line** page, enter 9 in the **No. of Copies** field, and then choose the **OK** button.
 5. On the first of the copy lines, select the **Serial No.** field and select the next serial number for the item.
 6. Repeat step 5 for the remaining eight serial numbers, taking care to not select the same one twice.
-7. Choose the **Print** action to prepare the print-out that employees will use to write down the counted items and serial numbers.
+7. Choose the **Print** action to prepare the print-out that employees will use to write down the counted items and serial/lot numbers.
 
 Notice that the **Phys. Invt. Recording** report contains ten lines for Item A, one for each serial number.
 

@@ -24,7 +24,7 @@ The planning functions are contained in a batch job that first selects the relev
 
 The planner of a company, such as a purchaser or a production planner is presumed to be the user of the planning system. The planning system assists the user by performing the extensive but rather straightforward calculations of a plan. The user can then concentrate on solving the more difficult problems, such as when things differ from normal.  
 
-The planning system is driven by anticipated and actual customer demand, such as forecast and sales orders. Running the planning calculation will result in the application suggesting specific actions for the user to take concerning possible supply from suppliers, assembly or production departments, or transfers from other warehouses. These suggested actions could be to create new supply orders, such as purchase or production orders. If supply orders already exist, the suggested actions could be to increase or expedite the orders to meet the changes in demand.  
+The planning system is driven by anticipated and actual customer demand, such as forecast and sales orders. Running the planning calculation will result in the application suggesting specific actions for the user to take concerning possible supply from vendors, assembly or production departments, or transfers from other warehouses. These suggested actions could be to create new supply orders, such as purchase or production orders. If supply orders already exist, the suggested actions could be to increase or expedite the orders to meet the changes in demand.  
 
 Another goal of the planning system is to ensure that the inventory does not grow unnecessarily. If demand decreases, the planning system will suggest that the user postpone, decrease in quantity, or cancel existing supply orders.  
 
@@ -170,7 +170,7 @@ For more information on how the planning system deals with location codes on dem
 
 ## <a name="item-attributes"></a>Item Attributes
 
-Apart from general item dimensions, such as item number, variant code, location code, and type of order, each demand and supply event can carry additional specifications in the form of serial numbers. The planning system plans these attributes in certain ways depending on their level of specification.  
+Apart from general item dimensions, such as item number, variant code, location code, and type of order, each demand and supply event can carry additional specifications in the form of serial/lot numbers. The planning system plans these attributes in certain ways depending on their level of specification.  
 
 An order-to-order link between demand and supply is another type of attribute that affects the planning system.  
 
@@ -178,7 +178,7 @@ An order-to-order link between demand and supply is another type of attribute th
 
 Certain attributes on demand are specific and must be matched exactly by a corresponding supply. The following two specific attributes exist:  
 
--   Demanded serial numbers that require specific application (The **SN Specific Tracking** or **Lot Specific Tracking** check box is selected on the **Item Tracking Code Card** page for the item tracking code that is used by the item.)  
+-   Demanded serial/lot numbers that require specific application (The **SN Specific Tracking** or **Lot Specific Tracking** check box is selected on the **Item Tracking Code Card** page for the item tracking code that is used by the item.)  
 -   Links to supply orders created manually or automatically for a specific demand (order-to-order links).  
 
 For these attributes, the planning system applies the following rules:  
@@ -190,13 +190,13 @@ Accordingly, if a demand for specific attributes cannot be met by inventory or p
 
 ### <a name="non-specific-attributes"></a>Non-Specific Attributes
 
-Serial/lot-numbered items without specific item tracking setup may carry serial numbers that do not need to be applied to the exact same serial number, but can be applied to any serial number. This gives the planning system more freedom to match, for example, a serialised demand with a serialised supply, typically in inventory.  
+Serial/lot-numbered items without specific item tracking setup may carry serial/lot numbers that do not need to be applied to the exact same serial/lot number, but can be applied to any serial/lot number. This gives the planning system more freedom to match, for example, a serialised demand with a serialised supply, typically in inventory.  
 
-Demand-supply with serial numbers, specific or non-specific, are considered high priority and are therefore exempt from the frozen zone, meaning that they will be part of planning even if they are due before the planning starting date.  
+Demand-supply with serial/lot numbers, specific or non-specific, are considered high priority and are therefore exempt from the frozen zone, meaning that they will be part of planning even if they are due before the planning starting date.  
 
-For more information, see [Serial Numbers are Loaded by Specification Level](design-details-balancing-demand-and-supply.md#seriallot-numbers-are-loaded-by-specification-level).
+For more information, see [Serial/Lot Numbers are Loaded by Specification Level](design-details-balancing-demand-and-supply.md#seriallot-numbers-are-loaded-by-specification-level).
 
-For more information about how the planning system balances attributes, see [Serial Numbers and Order-to-Order Links are Exempt from the Frozen Zone](design-details-balancing-demand-and-supply.md#seriallot-numbers-and-order-to-order-links-are-exempt-from-the-frozen-zone).  
+For more information about how the planning system balances attributes, see [Serial/Lot Numbers and Order-to-Order Links are Exempt from the Frozen Zone](design-details-balancing-demand-and-supply.md#seriallot-numbers-and-order-to-order-links-are-exempt-from-the-frozen-zone).  
 
 ## <a name="order-to-order-links"></a>Order-to-Order Links
 

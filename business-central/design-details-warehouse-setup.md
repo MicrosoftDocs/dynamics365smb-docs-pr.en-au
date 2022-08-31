@@ -96,7 +96,7 @@ Bin ranking together with bin content information are the basic properties that 
 ## <a name="bin-setup"></a>Bin Setup  
 In advanced warehousing, bins can be set up with capacity values, such as quantity, total cubage, and weight to control which and how items are stored in the bin.  
 
-On each item card, you can assign a unit of measurement (UOM) for the item, such as pieces, pallets, litres, grams, or boxes. You can also have a base UOM for an item and specify larger UOMs that are based on it. For example, you can define a pallet to equal 16 pieces, the latter being the base UOM.  
+On each item card, you can assign a unit of measure (UOM) for the item, such as pieces, pallets, litres, grams, or boxes. You can also have a base UOM for an item and specify larger UOMs that are based on it. For example, you can define a pallet to equal 16 pieces, the latter being the base UOM.  
 
 If you want to set a maximum quantity of a specific item to be stored in an individual bin and the item has more than one UOM, then you must set the maximum quantity for every UOM that exists on the item card. Accordingly, if an item has been set up to be handled in pieces and pallets, then the **Max. Qty.** field on the **Bin Content** page for that item must also be in pieces and pallets. Otherwise, the allowed quantity for that bin is not calculated correctly.  
 
@@ -128,7 +128,7 @@ A location is a physical structure or place where inventory is received, stored,
 
 If you select the **Pick According to FEFO** check box on the **Bin Policies** FastTab on the location card, then item-tracked items are picked according to their expiration date. The items with the earliest expiration dates are picked first.  
 
-Warehouse activities in all pick and movement documents are sorted according to FEFO, unless the items in question already have serial numbers assigned. If only a part of the quantity on the line already has serial numbers assigned, then the remaining quantity to be picked is sorted according to FEFO.  
+Warehouse activities in all pick and movement documents are sorted according to FEFO, unless the items in question already have serial/lot numbers assigned. If only a part of the quantity on the line already has serial/lot numbers assigned, then the remaining quantity to be picked is sorted according to FEFO.  
 
 When picking by FEFO, the available items that expire first are gathered in a temporary item tracking list based on the expiration date. If two items have the same expiration date, then the item with the lowest lot or serial number is picked first. If the lot or serial numbers are the same, then the item that was registered first is selected first. Standard criteria for selecting items in pick bins, such as Bin Ranking and Break Bulk, are applied to this temporary FEFO item tracking list.  
 

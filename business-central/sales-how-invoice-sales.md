@@ -25,7 +25,7 @@ There are a couple of scenarios where you must use a sales order instead of a sa
 
 * If you need to ship only part of an order quantity, for example, because the full quantity is not on hand.  
 * If you ship products after you post the corresponding sales invoices.
-* If you sell items that your supplier delivers directly to your customer, known as drop shipment. For more information, see [Make Drop Shipments](sales-how-drop-shipment.md).  
+* If you sell items that your vendor delivers directly to your customer, known as drop shipment. For more information, see [Make Drop Shipments](sales-how-drop-shipment.md).  
 
 In all other aspects, sales orders and sales invoices work in the same way. For more information about how to use sales orders, see [Sell Products](sales-how-sell-products.md).
 
@@ -72,7 +72,7 @@ You can fill customer fields on the sales invoice in two ways depending on wheth
 6. In the **Quantity** field, enter how many units of the product, charge, or transaction that the line will record for the customer.  
 
     > [!NOTE]  
-    > If the item is of type **Service**, or the **Type** field contains **Resource**, then the quantity is a time unit, such as hours, as indicated in the **Unit of Measurement Code** field on the line. For more information, see [Set Up Item Units of Measurement](inventory-how-setup-units-of-measure.md)
+    > If the item is of type **Service**, or the **Type** field contains **Resource**, then the quantity is a time unit, such as hours, as indicated in the **Unit of Measure Code** field on the line. For more information, see [Set Up Item Units of Measurement](inventory-how-setup-units-of-measure.md)
 
     The value in the **Line Amount** field is calculated as *Unit Price* x *Quantity*.  
 
@@ -113,7 +113,7 @@ Depending on your business needs, you can get paid and register that payment in 
 
 You can process the payments straight from the customer card. Use the **Register Customer Payments** action to get an overview of unpaid invoices for that customer. Then, mark the invoice as paid partially or in full. This payment reconciliation processes your customer payments by matching amounts received on your bank account with the related unpaid sales invoices, and then posts the payments. For more information, see [To reconcile payments individually](receivables-how-reconcile-customer-payments-list-unpaid-sales-documents.md#to-register-customer-payments-individually).  
 
-In business environments where the customer pays some time after delivery, according to the payment term, a posted sales invoice remains open (unpaid) until the Sales Ledger department verifies that payment is received and applies the payment to the posted sales invoice. This can be done manually or automatically. For more information, see [Reconcile Customer Payments with the Cash Receipt Journal or from Customer Ledger Entries](receivables-how-apply-sales-transactions-manually.md) and [Reconcile Payments Using Automatic Application](receivables-how-reconcile-payments-auto-application.md).  
+In business environments where the customer pays some time after delivery, according to the payment term, a posted sales invoice remains open (unpaid) until the Accounts Receivable department verifies that payment is received and applies the payment to the posted sales invoice. This can be done manually or automatically. For more information, see [Reconcile Customer Payments with the Cash Receipt Journal or from Customer Ledger Entries](receivables-how-apply-sales-transactions-manually.md) and [Reconcile Payments Using Automatic Application](receivables-how-reconcile-payments-auto-application.md).  
 
 In business environments where the customer pays immediately, for example by PayPal or cash, payment is recorded immediately when you post the sales invoice, that is, the posted sales invoice is closed as fully applied. You select the relevant method in the **Payment Method Code** field on the sales order. See under step 8. For electronic payments, such as PayPal, you must also fill in the **Payment Service** field. For more information, see [Enable Customer Payments Through Payment Services](sales-how-enable-payment-service-extensions.md).  
 

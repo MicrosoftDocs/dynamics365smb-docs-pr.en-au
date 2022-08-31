@@ -31,7 +31,7 @@ To create a custom layout, either copy an existing custom layout or add a new cu
 > [!TIP]
 > Use account schedules to get insight into the financial data stored in your chart of accounts. For more information, see [Prepare Financial Reporting with Account Schedules and Account Categories](bi-how-work-account-schedule.md).
 
-After you define custom report layouts, you can select them on the Customer Card and Vendor Card pages. The layouts will be used when you create documents for the customer or vendor. For more information, see [Define Document Layouts for Customers and Suppliers](ui-define-customer-vendor-document-layouts.md).
+After you define custom report layouts, you can select them on the Customer Card and Vendor Card pages. The layouts will be used when you create documents for the customer or vendor. For more information, see [Define Document Layouts for Customers and Vendors](ui-define-customer-vendor-document-layouts.md).
 
 You can also use custom report layouts to add content to email messages. Report layouts can save time and help ensure consistency by reusing the same content when you communicate with your customers. To use custom report layouts with email, the file type for the layout must be Word. You can't use the RDLC file type. For more information, see [Set Up Reusable Email Texts and Layouts](admin-how-setup-email.md#set-up-reusable-email-texts-and-layouts). 
 

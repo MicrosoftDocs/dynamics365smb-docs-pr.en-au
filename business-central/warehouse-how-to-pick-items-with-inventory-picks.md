@@ -88,9 +88,9 @@ The posting process will post the shipment of the source document lines that hav
 If items on the inventory pick are not available, then you can delete those inventory pick lines after posting and then delete the inventory pick document. The source document, such as a sales order or a production order, will have remaining items to be picked, which can be obtained through a new inventory pick later when the items become available.  
 
 > [!WARNING]  
-> This process is not possible if serial numbers are specified on the source document. For example, if a sales order line contains a serial number, then that item tracking specification will be deleted if an inventory pick line for the serial number is deleted.  
+> This process is not possible if serial/lot numbers are specified on the source document. For example, if a sales order line contains a serial/lot number, then that item tracking specification will be deleted if an inventory pick line for the serial/lot number is deleted.  
 >
-> If inventory pick lines have serial numbers that are not available, you must not delete the lines in question. Instead, you must change the **Qty. to Handle** field to zero, post the actual picks, and then delete the inventory pick document. This ensures that the inventory pick lines for those serial numbers can be recreated from the sales order later.  
+> If inventory pick lines have serial/lot numbers that are not available, you must not delete the lines in question. Instead, you must change the **Qty. to Handle** field to zero, post the actual picks, and then delete the inventory pick document. This ensures that the inventory pick lines for those serial/lot numbers can be recreated from the sales order later.  
 
 ## <a name="handling-assemble-to-order-items-with-inventory-picks"></a>Handling Assemble-to-Order Items with Inventory Picks
 

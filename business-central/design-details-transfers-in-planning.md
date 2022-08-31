@@ -151,7 +151,7 @@ When rescheduling an existing transfer line, the planning system must look up th
 Therefore, when changing the due date on a transfer line, the lead time must be calculated in order to update the outbound side of the transfer.  
 
 ## <a name="seriallot-numbers-in-transfer-chains"></a>Serial Numbers in Transfer Chains  
-If the demand carries serial numbers, and the planning engine is run, it will give rise to some directly created transfer orders. For more information about this concept, see Item Attributes. If, however, serial numbers are removed from the demand, the created transfer orders in the chain will still carry the serial numbers and will therefore be ignored by planning (not deleted).  
+If the demand carries serial/lot numbers, and the planning engine is run, it will give rise to some directly created transfer orders. For more information about this concept, see Item Attributes. If, however, serial/lot numbers are removed from the demand, the created transfer orders in the chain will still carry the serial/lot numbers and will therefore be ignored by planning (not deleted).  
 
 ## <a name="order-to-order-links"></a>Order-to-Order Links  
 In this example, BLUE SKU is set up with the Order reordering policy, while PINK and RED use Lot-for-Lot. When a sales order of 27 is created on location RED, it will lead to a chain of transfers with the last joint at location BLUE being reserved with binding. In this example, the reservations are not hard reservations created by the planner at PINK location, but bindings created by the planning system. The important difference is that the planning system can change the latter.  
