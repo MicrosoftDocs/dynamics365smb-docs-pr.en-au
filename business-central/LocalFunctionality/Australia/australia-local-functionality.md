@@ -6,20 +6,14 @@ ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: ''
-ms.date: 04/01/2021
+ms.search.keywords: null
+ms.date: 03/17/2023
 ms.author: soalex
-ms.openlocfilehash: c8601d0640a596d645bbb3dbcc61c8403b8a5d8c
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
-ms.translationtype: HT
-ms.contentlocale: en-AU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8513229"
 ---
-# <a name="australia-local-functionality"></a>Australia Local Functionality
+# Australia Local Functionality
 The following topics describe local functionality that is unique to the Australian version of [!INCLUDE[prod_short](../../includes/prod_short.md)].  
 
-## <a name="feature-availability"></a>Feature Availability
+## Feature Availability
 
 * Tax
     * [Tax](tax.md) **Available Now**
@@ -55,7 +49,11 @@ The following topics describe local functionality that is unique to the Australi
     * [Enter Australian Business Numbers](australian-business-numbers-and-adjustment-notes.md) **Available Now**
     * [Payment Times Reporting](payment-times-reporting.md) **Available Now**
 
-## <a name="see-also"></a>See Also
+## Future legislation requirements being investigated
+
+Currently, there are no upcoming regulatory features or requirements. If you are aware of any upcoming regulatory features, submit a [Regulatory Feature Alert](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbRwkeauYiJKZOpJ0CtKuVmJlURURaMlQ4Rk05UFY4NkVEOTA0MUU5WThXSC4u).
+
+## See Also
 
 [Work with [!INCLUDE[prod_short](../../includes/prod_short.md)]](../../ui-work-product.md)  
 [Country/regional availability and supported languages](/dynamics365/business-central/dev-itpro/compliance/apptest-countries-and-translations)  

@@ -7,17 +7,11 @@ ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: ''
+ms.search.keywords: null
 ms.date: 06/16/2021
 ms.author: edupont
-ms.openlocfilehash: 01d8975a769c1b2eb47dd1769336f11120aeaca2
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
-ms.translationtype: HT
-ms.contentlocale: en-AU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8148036"
 ---
-# <a name="about-addresses-in-the-australian-version"></a>About addresses in the Australian Version
+# About addresses in the Australian Version
 
 A single postcode can include multiple cities in the same region. At the same time, cities with the same name are sometimes located in different states.  
 
@@ -33,7 +27,7 @@ When you print an address that has a DPID, a bar code will be printed together w
 
 Contact your Microsoft partner for information on how to obtain AMAS software.  
 
-## <a name="see-also"></a>See Also  
+## See Also  
  [Australia Local Functionality](australia-local-functionality.md)
 
 

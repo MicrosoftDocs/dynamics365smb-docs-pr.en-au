@@ -1,27 +1,21 @@
 ---
-title: View Posted Tax Invoices [AU]
+title: 'View Posted Tax Invoices [AU]'
 description: Use the Posted GST Invoice page and Posted Purchase Tax Invoice page to view the details of posted GST invoices and posted purchase tax invoices.
 author: SorenGP
 ms.topic: conceptual
 ms.devlang: na
-ms.search.keywords: ''
-ms.search.form: 28071, 28073, 28081, 28082
+ms.search.keywords: null
+ms.search.form: '28071, 28073, 28081, 28082'
 ms.date: 06/25/2021
 ms.author: edupont
-ms.openlocfilehash: 3517acd29502c0adfa0741cb5cfefc460524f264
-ms.sourcegitcommit: 67006b090a7bd70446414a19cc82e531190637dc
-ms.translationtype: HT
-ms.contentlocale: en-AU
-ms.lasthandoff: 02/16/2022
-ms.locfileid: "8311306"
 ---
-# <a name="view-posted-tax-invoices-in-the-australian-version"></a>View Posted Tax Invoices in the Australian Version
+# View Posted Tax Invoices in the Australian Version
 
 In [!INCLUDE[prod_short](../../includes/prod_short.md)], you can use the **Posted Sales Tax Invoice** page and the **Posted Purchase Tax Invoice** page to view the details of posted sales tax invoices and posted purchase tax invoices.  
 
 The following procedure describes how to view the posted sales tax invoice, but the same steps also apply to viewing posted purchase tax invoices.  
 
-## <a name="to-view-a-posted-sales-tax-invoice"></a>To view a posted sales tax invoice  
+## To view a posted sales tax invoice  
 
 1.  Choose the ![Lightbulb that opens the Tell Me feature.](../../media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Posted GST Invoice**, and then choose the related link.  
 2.  View the FastTabs as described in the following table.  
@@ -36,7 +30,7 @@ The following procedure describes how to view the posted sales tax invoice, but 
 
 3.  Choose the **OK** button.  
 
-## <a name="see-also"></a>See Also  
+## See Also  
  [View Posted Tax CR/Adj Notes](how-to-view-posted-tax-credit-memos.md)
 
 

@@ -3,17 +3,11 @@ title: Calculate and Post Withholding Tax Settlements (AU)
 description: Learn how to calculate and post the withholding tax (WHT) in the Australian version of Business Central.
 author: SorenGP
 ms.topic: conceptual
-ms.search.keywords: ''
+ms.search.keywords: null
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 8a82a29bd27b9b0aed850f39846acd9661f34030
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
-ms.translationtype: HT
-ms.contentlocale: en-AU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8148034"
 ---
-# <a name="calculate-and-post-withholding-tax-settlements-in-the-australian-version"></a>Calculate and Post Withholding Tax Settlements in the Australian Version
+# Calculate and Post Withholding Tax Settlements in the Australian Version
 
 You can use the **Calc. and Post WHT Settlement** page to calculate and post the withholding tax (WHT).  
 
@@ -26,7 +20,7 @@ The sum of all withheld amounts is reported as a truncated whole number to the A
 
 [!INCLUDE [calculate-post-wht-settlements](../includes/AUNZ/calculate-post-wht-settlements.md)]
 
-## <a name="see-also"></a>See Also
+## See Also
 
  [Withholding Tax](withholding-tax.md)   
  [Set Up Withholding Tax](how-to-set-up-withholding-tax.md)   
