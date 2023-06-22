@@ -7,11 +7,11 @@ ms.search.keywords: null
 ms.date: 04/01/2021
 ms.author: edupont
 ---
-# Adjust Settlement Exchange Rates for GST Entries in the Australian Version
+# <a name="adjust-settlement-exchange-rates-for-vat-entries-in-the-australian-version" />Adjust Settlement Exchange Rates for GST Entries in the Australian Version
 
 [!INCLUDE [adjust-settlement-exchange-rates-vat-entries](../includes/AUNZ/adjust-settlement-exchange-rates-vat-entries.md)]
 
-## See Also
+## <a name="see-also" />See Also
 
 [Australia Local Functionality](australia-local-functionality.md)  
 

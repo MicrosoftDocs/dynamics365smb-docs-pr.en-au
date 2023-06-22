@@ -7,7 +7,7 @@ ms.search.keywords: null
 ms.date: 04/01/2021
 ms.author: edupont
 ---
-# Calculate and Post Withholding Tax Settlements in the Australian Version
+# <a name="calculate-and-post-withholding-tax-settlements-in-the-australian-version" />Calculate and Post Withholding Tax Settlements in the Australian Version
 
 You can use the **Calc. and Post WHT Settlement** page to calculate and post the withholding tax (WHT).  
 
@@ -20,7 +20,7 @@ The sum of all withheld amounts is reported as a truncated whole number to the A
 
 [!INCLUDE [calculate-post-wht-settlements](../includes/AUNZ/calculate-post-wht-settlements.md)]
 
-## See Also
+## <a name="see-also" />See Also
 
  [Withholding Tax](withholding-tax.md)   
  [Set Up Withholding Tax](how-to-set-up-withholding-tax.md)   

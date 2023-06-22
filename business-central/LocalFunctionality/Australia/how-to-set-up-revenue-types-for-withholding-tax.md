@@ -10,11 +10,11 @@ ms.search.form: 28042
 ms.date: 06/25/2021
 ms.author: edupont
 ---
-# Set Up Revenue Types for Withholding Tax in the Australian Version
+# <a name="set-up-revenue-types-for-withholding-tax-in-the-australian-version" />Set Up Revenue Types for Withholding Tax in the Australian Version
 
 [!INCLUDE [wht-revenue-types-setup](../includes/AUNZ/wht-revenue-types-setup.md)]
 
-## See Also
+## <a name="see-also" />See Also
 
 [Withholding Tax](withholding-tax.md)   
 [Set Up Withholding Tax](how-to-set-up-withholding-tax.md)   

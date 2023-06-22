@@ -10,7 +10,7 @@ ms.search.keywords: null
 ms.date: 06/25/2021
 ms.author: edupont
 ---
-# Set Up Locations to Use Bins
+# <a name="set-up-locations-to-use-bins" />Set Up Locations to Use Bins
 
 Bins represent the basic warehouse structure and are used to make suggestions about the placement of items. When you have created your bins, you can define very specifically the contents that you want to place in each bin, or the bin can function as a floating bin without specified contents.  
 
@@ -19,7 +19,7 @@ To use the bin functionality at a location, you first activate the functionality
 > [!NOTE]  
 >  Before you can specify bin codes on the location card, the bin codes must be created. For more information, see [Create Bins](warehouse-how-to-create-individual-bins.md).  
 
-## To set up a location to use bins
+## <a name="to-set-up-a-location-to-use-bins" />To set up a location to use bins
 
 1.  Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Locations**, and then choose the related link.  
 2.  Select the location where you want to use bins.  
@@ -33,15 +33,15 @@ To use the bin functionality at a location, you first activate the functionality
 10. Fill in the fields on the **Bin Policies** FastTab if they are relevant to your warehouse. The most important fields are **Bin Capacity Policy**, **Allow Breakbulk**, and **Put-away Template Code** fields.  
 11. On the **Warehouse** FastTab, fill in the **Outbound Whse. Handling Time**, **Inbound Whse. Handling Time**, and the **Base Calendar Code** fields. For more information, see [Set Up Base Calendars](across-how-to-assign-base-calendars.md).
 
-## Filling the Consumption Bin
+## <a name="fill-in-the-consumption-bin" />Filling the Consumption Bin
 
 This flow chart shows how the **Bin Code** field on production order component lines is filled according to your location setup.
 
 ![Bin flow chart.](media/binflow.png "BinFlow")  
 
-## See related [Microsoft training](/training/modules/configure-bins-location/)
+## <a name="see-related-microsoft-trainingtrainingmodulesconfigure-bins-location" />See related [Microsoft training](/training/modules/configure-bins-location/)
 
-## See also
+## <a name="see-also" />See also
 
 [Warehouse Management Overview](design-details-warehouse-management.md)
 [Inventory](inventory-manage-inventory.md)  
