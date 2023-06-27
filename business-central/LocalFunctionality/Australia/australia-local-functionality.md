@@ -10,10 +10,10 @@ ms.search.keywords: null
 ms.date: 03/17/2023
 ms.author: soalex
 ---
-# Australia Local Functionality
+# <a name="australia-local-functionality" />Australia Local Functionality
 The following topics describe local functionality that is unique to the Australian version of [!INCLUDE[prod_short](../../includes/prod_short.md)].  
 
-## Feature Availability
+## <a name="feature-availability" />Feature Availability
 
 * Tax
     * [Tax](tax.md) **Available Now**
@@ -49,14 +49,14 @@ The following topics describe local functionality that is unique to the Australi
     * [Enter Australian Business Numbers](australian-business-numbers-and-adjustment-notes.md) **Available Now**
     * [Payment Times Reporting](payment-times-reporting.md) **Available Now**
 
-## Future legislation requirements being investigated
+## <a name="future-legislation-requirements-being-investigated" />Future legislation requirements being investigated
 
 * Payment Times Reporting Bill Compliance **22.3**
 * Taxable payments annual report (TPAR) **Under review**
 
 If you are aware of any upcoming regulatory features, submit a [Regulatory Feature Alert](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbRwkeauYiJKZOpJ0CtKuVmJlURURaMlQ4Rk05UFY4NkVEOTA0MUU5WThXSC4u).
 
-## See Also
+## <a name="see-also" />See Also
 
 [Work with [!INCLUDE[prod_short](../../includes/prod_short.md)]](../../ui-work-product.md)  
 [Country/regional availability and supported languages](/dynamics365/business-central/dev-itpro/compliance/apptest-countries-and-translations)  
