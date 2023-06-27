@@ -10,7 +10,7 @@ ms.search.form: '99000846, 99000850'
 ms.date: 04/01/2021
 ms.author: edupont
 ---
-# <a name="batch-post-production-consumption" />Batch Post Production Consumption
+# <a name="batch-post-production-consumption"></a>Batch Post Production Consumption
 
 If the flushing method is **Manual**, you must post the components manually, using a consumption journal.  
 
@@ -19,7 +19,7 @@ If the flushing method is **Manual**, you must post the components manually, usi
 
 You can also set up [!INCLUDE[prod_short](includes/prod_short.md)] to automatically post (*flush*) components when you start or finish production orders. For more information, see [Enable Flushing of Components According to Operation Output](production-how-to-flush-components-according-to-operation-output.md).
 
-## <a name="to-post-consumption-for-one-or-more-production-order-lines" />To post consumption for one or more production order lines
+## <a name="to-post-consumption-for-one-or-more-production-order-lines"></a>To post consumption for one or more production order lines
 
 1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Consumption Journal**, and then choose the related link.  
 2. Fill in the fields with the production order data and the consumption data. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
@@ -31,7 +31,7 @@ You can also set up [!INCLUDE[prod_short](includes/prod_short.md)] to automatica
 
 3. Choose the **Post** action to post the consumption. The related inventories are reduced.
 
-## <a name="see-also" />See Also
+## <a name="see-also"></a>See Also
 
 [Manufacturing](production-manage-manufacturing.md)  
 [Setting Up Manufacturing](production-configure-production-processes.md)  

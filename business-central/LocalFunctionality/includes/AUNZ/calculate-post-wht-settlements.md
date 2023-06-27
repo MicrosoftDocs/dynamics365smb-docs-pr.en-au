@@ -10,7 +10,7 @@ ms.contentlocale: en-AU
 ms.lasthandoff: 02/15/2022
 ms.locfileid: "8148029"
 ---
-## <a name="to-calculate-and-post-withholding-tax-settlements" /><a name="to-calculate-and-post-withholding-tax-settlements"></a>To calculate and post withholding tax settlements
+## <a name="to-calculate-and-post-withholding-tax-settlements"></a><a name="to-calculate-and-post-withholding-tax-settlements"></a>To calculate and post withholding tax settlements
 
 1.  Choose the ![Lightbulb that opens the Tell Me feature.](../../../media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Calc. and Post WHT Settlement**, and then choose the related link.  
 2.  Fill in the fields as described in the following table.  

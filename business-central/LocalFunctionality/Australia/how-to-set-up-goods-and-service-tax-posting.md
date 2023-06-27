@@ -10,12 +10,12 @@ ms.search.form: 28043
 ms.date: 06/25/2021
 ms.author: edupont
 ---
-# <a name="set-up-goods-and-services-tax-posting-in-the-australian-version" />Set Up Goods and Services Tax Posting in the Australian Version
+# <a name="set-up-goods-and-services-tax-posting-in-the-australian-version"></a>Set Up Goods and Services Tax Posting in the Australian Version
 Goods and services tax (GST) is the tax that is applied on most goods and services. The GST that is paid and received during a period is reported in the Business Activity Statement (BAS) that has to be submitted to the Australian Taxation Office (ATO).  
 
 [!INCLUDE [gst-posting-setup](../includes/AUNZ/gst-posting-setup.md)]
 
-## <a name="see-also" />See Also
+## <a name="see-also"></a>See Also
 
 [Australian Local Functionality](australia-local-functionality.md)  
 [Print Goods and Service Tax Settlement Reports](how-to-print-goods-and-service-tax-settlement-reports.md)  
