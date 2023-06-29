@@ -10,13 +10,13 @@ ms.search.form: '28041, 28042, 28043, 118'
 ms.date: 06/25/2021
 ms.author: edupont
 ---
-# <a name="set-up-withholding-tax-in-the-australian-version"></a>Set Up Withholding Tax in the Australian Version
+# <a name="set-up-withholding-tax-in-the-australian-version"></a><a name="set-up-withholding-tax-in-the-australian-version"></a>Set Up Withholding Tax in the Australian Version
 
 Withholding tax (WHT) is the tax withheld by a company when it makes a payment to a vendor, in which the full amount owed to the vendor is reduced by the tax withheld. The withheld tax is then remitted to the Australian Taxation Office (ATO) when the next Business Activity Statement (BAS) is submitted.  
 
 If a supplier without an Australian Business Number (ABN) provides an invoice, a withholding tax amount must be withheld if the total amount of the invoice is more than the threshold amount. To use withholding tax, you must first enable WHT in the **General Ledger Setup** page and set up product posting groups and business posting groups for WHT.  
 
-## <a name="to-enable-withholding-tax"></a>To enable withholding tax
+## <a name="to-enable-withholding-tax"></a><a name="to-enable-withholding-tax"></a>To enable withholding tax
 
 1. Choose the ![Lightbulb that opens the Tell Me feature.](../../media/ui-search/search_small.png "Tell me what you want to do") icon, enter **General Ledger Setup**, and then choose the related link.  
 
@@ -28,7 +28,7 @@ If a supplier without an Australian Business Number (ABN) provides an invoice, a
 
 [!INCLUDE [wht-posting-group-setup](../includes/AUNZ/wht-posting-group-setup.md)]
 
-## <a name="see-also"></a>See Also
+## <a name="see-also"></a><a name="see-also"></a>See Also
 
 [Set Up Revenue Types for Withholding Tax](how-to-set-up-revenue-types-for-withholding-tax.md)  
 [View Withholding Tax Entries](how-to-view-withholding-tax-entries.md)  

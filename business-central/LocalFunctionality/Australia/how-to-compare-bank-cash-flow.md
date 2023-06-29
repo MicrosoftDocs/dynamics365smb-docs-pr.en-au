@@ -10,12 +10,12 @@ ms.search.keywords: null
 ms.date: 06/25/2021
 ms.author: edupont
 ---
-# <a name="compare-bank-cash-flow-in-the-australian-version"></a>Compare Bank Cash Flow in the Australian Version
+# <a name="compare-bank-cash-flow-in-the-australian-version"></a><a name="compare-bank-cash-flow-in-the-australian-version"></a>Compare Bank Cash Flow in the Australian Version
 
 
 [!INCLUDE [compare-bank-cash-flow](../includes/AUNZ/compare-bank-cash-flow.md)]
 
-## <a name="see-also"></a>See Also
+## <a name="see-also"></a><a name="see-also"></a>See Also
 
 [Create Cheque Instalments](how-to-create-check-installments.md)   
 [Australia Local Functionality](australia-local-functionality.md)
