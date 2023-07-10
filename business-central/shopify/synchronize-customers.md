@@ -1,23 +1,23 @@
 ---
 title: Synchronise customers
 description: Import customers from or export to Shopify
-ms.date: 05/27/2022
+ms.date: 06/06/2023
 ms.topic: article
 ms.service: dynamics365-business-central
 ms.search.form: '30105, 30106, 30107, 30108, 30109,'
-author: edupont04
+author: andreipa
 ms.author: andreipa
-ms.reviewer: solsen
+ms.reviewer: bholtorf
 ---
 
-# <a name="synchronize-customers"></a>Synchronise Customers
+# Synchronise Customers
 
-When an order is imported from Shopify, getting the information about the customer is essential for further processing the document in [!INCLUDE[prod_short](../includes/prod_short.md)]. There are two main options for doing so and their combinations:
+When you import an order from Shopify, getting the information about the customer is essential for further processing the document in [!INCLUDE[prod_short](../includes/prod_short.md)]. There are two main options for doing so, and several combinations:
 
 * Use a special customer for all orders.
 * Import the actual customer information from Shopify. This option is also available when you export customers to Shopify from [!INCLUDE[prod_short](../includes/prod_short.md)] first.
 
-## <a name="important-settings-when-importing-customers-from-shopify"></a>Important settings when importing customers from Shopify
+## Important settings when importing customers from Shopify
 
 Whether you import customers from Shopify in bulk or when you import orders, use the following settings to manage the process:
 
@@ -29,22 +29,21 @@ Whether you import customers from Shopify in bulk or when you import orders, use
 |**Auto Create Unknown Customers**| Select this field if you want the connector to create missing customers when the **By Email/Phone** or **By Bill-to Info** options are selected in the **Customer Mapping Type** field. A new customer will be created using imported data and the **Customer Template Code** defined on the **Shopify Shop Card** or **Shopify Customer Template** pages. Notice that the Shopify customer must have at least one address. Orders created via Shopify POS sales channel are often missing address details. If this option isn't enabled, you'll need to create a customer manually and link it to the Shopify customer.|
 |**Customer Template Code**|This field is used together with **Auto Create Unknown Customers**.<br>- Choose the default template to be used for automatically created customers. Make sure that the selected template contains the mandatory fields, such as the **Gen. Business Posting Group**, **Customer Posting Group**, and goods and services tax (GST)- or tax-related fields.<br>- You can define templates per country/region on the **Shopify Customer Templates** page, which is useful for proper tax calculation. <br>- Learn more at [Set up Taxes](setup-taxes.md).|
 
-### <a name="customer-template-per-countryregion"></a>Customer template per country
+### Customer template per country
 
 Some settings can be defined at the country/regional level or a state/province level. The settings can be configured in [Shipping and Delivery](https://www.shopify.com/admin/settings/shipping) in Shopify.
 
 You can do the following for each customer using the **Shopify Customer Template**:
 
 1. Specify the **Default Customer No.**, which takes priority over the selection in the **Customer Import from Shopify** and **Customer Mapping Type** fields. It's used in the imported sales order.
-2. Define the **Customer Template Code**, which is used to create missing customers if **Auto Create Unknown Customers** is enabled. If the **Customer Template Code** is empty, then the function uses the **Customer Template Code** defined on the **Shopify Shop Card**.
-3. Define whether prices include GST/tax for imported orders.
-4. In some cases, the **Customer Template Code** defined for a country isn't enough to ensure the correct calculation of taxes (for example, for countries with GST). In this case, including **Tax Areas** could be a useful addition.
-5. The **Tax Area** field also contains a **Country Code** and **State Name** pair. This pair is useful when the connector needs to convert a code to a name, or vice versa.
+2. Define the **Customer Template Code**, which is used to create missing customers if **Auto Create Unknown Customers** is enabled. If the **Customer Template Code** is empty, then the function uses the **Customer Template Code** defined on the **Shopify Shop Card**. The system first tries to find a template for the **Contry/Region Code** for the default address. If it doesn't find a template, it uses the first address.
+3. In some cases, the **Customer Template Code** defined for a country isn't enough to ensure correct tax calculations (for example, for countries with sales tax). In this case, including **Tax Area** could be a useful addition.
+4. The **Tax Area** field also contains a **Country Code** and **State Name** pair. This pair is useful when the connector needs to convert a code to a name, or vice versa.
 
 > [!NOTE]  
 > The country codes are ISO 3166-1 alpha-2 country codes. Learn more at [Country Code](https://help.shopify.com/en/api/custom-storefronts/storefront-api/reference/enum/countrycode).
 
-## <a name="export-customers-to-shopify"></a>Export customers to Shopify
+## Export customers to Shopify
 
 You can export existing customers to Shopify in bulk. In each case, a customer and one default address are created. You can manage the process using the following settings:
 
@@ -67,7 +66,7 @@ The following are requirements for exporting a customer:
 
 After you've created the customers in Shopify, you can send them direct invitations to encourage them to activate their accounts.
 
-### <a name="populate-customer-information-in-shopify"></a>Populate customer information in Shopify
+### Populate customer information in Shopify
 
 A customer in Shopify has a first name, family name, email, and/or phone number. You can enter first and family names from the customer card in [!INCLUDE[prod_short](../includes/prod_short.md)].
 
@@ -87,7 +86,7 @@ A customer in Shopify also has a default address. The address might contain a co
 For addresses where the state/province is used, select **Code** or **Name** in the **State Source** field on the **Shopify Shop Card** page. The code or name specifies the type of data stored in [!INCLUDE[prod_short](../includes/prod_short.md)] in the **State** field. Remember to Initialise customer templates per country so that the state code/name mapping is ready. 
 
 
-## <a name="sync-customers"></a>Sync customers
+## Sync customers
 
 1. Choose the ![Lightbulb that opens the Tell Me feature 1.](../media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Shopify shop**, and then choose the related link.
 2. Select the specific shop for which you want to synchronise customers.
@@ -97,6 +96,6 @@ Alternatively, use the **Start Customer Sync** action on the **Shopify Customers
 
 You can schedule the task to be performed in an automated manner. Learn more at [Schedule recurring tasks](background.md#to-schedule-recurring-tasks).
 
-## <a name="see-also"></a>See also
+## See also
 
 [Get Started with the Connector for Shopify](get-started.md)  
