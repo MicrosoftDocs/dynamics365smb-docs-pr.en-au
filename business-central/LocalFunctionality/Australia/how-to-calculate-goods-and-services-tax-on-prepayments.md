@@ -11,11 +11,11 @@ ms.search.form: '28164,28165,28166,28167'
 ms.date: 04/01/2021
 ms.author: edupont
 ---
-# <a name="calculate-goods-and-services-tax-on-prepayments-in-the-australian-version"></a>Calculate Goods and Services Tax on Prepayments in the Australian Version
+# Calculate Goods and Services Tax on Prepayments in the Australian Version
 
 [!INCLUDE [calculate-gst-prepayments](../includes/AUNZ/calculate-gst-prepayments.md)]
 
-## <a name="see-also"></a>See Also
+## See Also
 
 [Invoicing Prepayments](../../finance-invoice-prepayments.md)   
 [Australia Local Functionality](australia-local-functionality.md)
