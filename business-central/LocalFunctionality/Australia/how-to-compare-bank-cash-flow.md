@@ -1,21 +1,21 @@
 ---
 title: 'Compare Bank Cash Flow [AU]'
 description: You can use the Bank Detail Cashflow Compare report to compare the flow of cash in a particular bank for a specified period in the Australian version.
-author: SorenGP
+author: brentholtorf
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: null
 ms.date: 06/25/2021
-ms.author: edupont
+ms.author: bholtorf
 ---
-# <a name="compare-bank-cash-flow-in-the-australian-version"></a>Compare Bank Cash Flow in the Australian Version
+# Compare Bank Cash Flow in the Australian Version
 
 
 [!INCLUDE [compare-bank-cash-flow](../includes/AUNZ/compare-bank-cash-flow.md)]
 
-## <a name="see-also"></a>See Also
+## See Also
 
 [Create Cheque Instalments](how-to-create-check-installments.md)   
 [Australia Local Functionality](australia-local-functionality.md)
