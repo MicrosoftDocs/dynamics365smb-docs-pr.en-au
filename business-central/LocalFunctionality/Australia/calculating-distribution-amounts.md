@@ -8,11 +8,11 @@ ms.search.form: 17101
 ms.date: 06/25/2021
 ms.author: bholtorf
 ---
-# How to Calculate Distribution Amounts in the Australian Version
+# <a name="how-to-calculate-distribution-amounts-in-the-australian-version"></a>How to Calculate Distribution Amounts in the Australian Version
 
 [!INCLUDE [calculating-distribution-amounts](../includes/AUNZ/calculating-distribution-amounts.md)]
 
-## See Also
+## <a name="see-also"></a>See Also
 
 [Australia Local Functionality](australia-local-functionality.md)  
 
