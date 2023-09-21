@@ -8,7 +8,7 @@ ms.search.form: '11600,11601,11602,11603,11604,11605,11606,11607,11608,11609,116
 ms.date: 06/17/2021
 ms.author: bholtorf
 ---
-# <a name="tax-overview"></a>Tax Overview
+# Tax Overview
 
 For information about tax in Australia, see the following topics:  
 
@@ -24,7 +24,7 @@ For information about tax in Australia, see the following topics:
 [View Posted Tax Invoices](how-to-view-posted-tax-invoices.md)  
 [View Posted Tax CR/Adj Notes](how-to-view-posted-tax-credit-memos.md)
 
-## <a name="see-also"></a>See Also
+## See Also
 
 [Australia Local Functionality](australia-local-functionality.md)  
 
