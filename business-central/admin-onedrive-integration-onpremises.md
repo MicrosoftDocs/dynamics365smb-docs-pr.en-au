@@ -22,7 +22,7 @@ There are two tasks that need to be done to configure the OneDrive integration.
 > [!IMPORTANT]
 > [!INCLUDE[prod_short](includes/prod_short.md)] on-premises can only be connected to OneDrive hosted by Microsoft in the cloud. Connecting [!INCLUDE[prod_short](includes/prod_short.md)] on premises to the My Sites repository of SharePoint Server isn't supported.
 
-## <a name="register-an-app-in-azure-ad-for-onedrive-integration"></a><a name="registerapp"></a>Register an app in Azure AD for OneDrive integration
+## <a name="register-an-app-in-microsoft-entra-id-for-onedrive-integration"></a><a name="registerapp"></a>Register an app in Azure AD for OneDrive integration
 
 In this task, you add a registered app for Business Central in the Azure AD tenant of your Microsoft 365 plan. Like other Azure services that work with Business Central, OneDrive requires a registered app in Azure Active Directory (Azure AD). The registered app provides authentication and authorisation services between Business Central and SharePoint, which is used by OneDrive.
 

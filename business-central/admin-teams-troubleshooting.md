@@ -11,7 +11,7 @@ ms.date: 10/01/2021
 ms.author: jswymer
 ---
 
-# <a name="troubleshooting-microsoft-teams-integration-with-"></a>Troubleshooting Microsoft Teams Integration with [!INCLUDE [prod_short](includes/prod_short.md)]
+# <a name="troubleshoot-microsoft-teams-integration-with-"></a>Troubleshooting Microsoft Teams Integration with [!INCLUDE [prod_short](includes/prod_short.md)]
 
 [!INCLUDE [online_only](includes/online_only.md)]
 
@@ -147,7 +147,7 @@ As an administrator, who has Azure Active Directory admin permissions, you can h
 
 When you paste text into the message box in the **Share to Teams** window, the text is duplicated. This problem is known to Microsoft and will be addressed in a later update. 
 
-## <a name="unable-to-sign-into-the-share-to-teams-window"></a>Unable to sign into the Share to Teams window
+## <a name="unable-to-sign-in-to-the-share-to-teams-window"></a>Unable to sign into the Share to Teams window
 
 This problem can be caused by a various reasons. For example, the identity you are using to sign in must have access to Microsoft Teams, such as through a Microsoft 365 subscription.
 
@@ -167,7 +167,7 @@ There are couple reasons for this problem.
 
 This problem is because you don’t have the BC app for Teams installed. Only those with the app installed will see Business Central tabs.
 
-## <a name="others-see-different-sorting-or-column-layout-than-what-the-tab-author-sees"></a>Others see different sorting or column layout than what the tab author sees
+## <a name="others-see-a-different-sorting-or-column-layout-than-what-the-tab-author-sees"></a>Others see different sorting or column layout than what the tab author sees
 
 This problem is likely because you shared a list view that is a personal view. In this case, work with your administrator to create either role-specific list views that covers the different roles in the channel/chat, or create this view for the whole organisation so that everyone can get a consistent view.
 

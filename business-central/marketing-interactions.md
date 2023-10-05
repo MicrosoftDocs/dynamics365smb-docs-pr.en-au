@@ -19,19 +19,19 @@ Setting up your application to record interactions consists of these tasks:
 * Creating interactions on contacts or segments  
 * View and manage recorded interactions  
 
-## <a name="setting-up-interaction-templates"></a>Setting up Interaction Templates
+## <a name="set-up-interaction-templates"></a>Setting up Interaction Templates
 Before you can create and record interactions, you must set up interaction templates. When creating interactions, you must specify the interaction templates they are based on. An interaction template is a model that defines the basic characteristics of an interaction.
 You set up an interaction template on the **Interaction Templates** page.
 
 After you have entered information about the interaction template, you can create an attachment, for example, a Microsoft Word document. Repeat the steps to set up as many interaction templates as you want.  
 
-## <a name="creating-interactions"></a>Creating Interactions
+## <a name="create-interactions"></a>Creating Interactions
 There are two ways of recording interactions:
 
 * You can manually create interactions that are linked to a single contact or to a segment. For more information, see [Create Interactions on Contacts and Segments](marketing-how-create-interactions.md).  
 * You can automatically record interactions when you perform actions in the application, for example, when you print an invoice, or quote. For more information, see [Automatically Record Interactions with Contacts](marketing-auto-record-interactions.md).
 
-## <a name="viewing-and-managing-recorded-interactions"></a>Viewing and Managing Recorded Interactions
+## <a name="view-and-manage-recorded-interactions"></a>Viewing and Managing Recorded Interactions
 You can view all the recorded interactions that have not been deleted on the **Interaction Log Entries** page. You can open this page by:
 
 * Using the **Search for Page or Report** icon to search on **Interaction Log Entries**.

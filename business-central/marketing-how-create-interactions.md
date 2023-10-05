@@ -17,7 +17,7 @@ You can create interactions to record all the interactions and communications yo
 
 Before you create interactions, you must set up interaction templates. For more information, see  [Set Up Interaction Templates](marketing-interactions.md).
 
-## <a name="to-create-an-interaction"></a>To create an interaction
+## <a name="to-create-an-interaction-with-a-contact"></a>To create an interaction
 1. Open the contact, salesperson, or interaction log entry.
 2. Choose the **Create Interaction** action.
 3. Fill in the fields, and then choose the **OK** button.
@@ -25,12 +25,12 @@ Before you create interactions, you must set up interaction templates. For more 
 > [!NOTE]  
 >   If you need to perform another task before finishing the interaction, you can choose **Cancel** and then finish the interaction at a later time. This postpones the interaction.
 
-## <a name="to-finish-and-delete-postponed-interactions"></a>To finish and delete postponed interactions
+## <a name="to-create-an-interaction-on-a-segment"></a>To finish and delete postponed interactions
 1. Open the contact, salesperson, or interaction log entry.
 2. Choose **Postponed Interactions**.
 3. Select the interaction you want to finish, and then choose the **Resume** action.
 
-## <a name="to-create-an-interaction-on-a-segment"></a>To create an interaction on a segment
+## <a name="to-finish-setting-up-a-postponed-interaction"></a>To create an interaction on a segment
 1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Segments**, and then choose the related link.
 2. In the **Segment page**, in the **Interaction** section, fill in the fields to specify which interaction you want to assign to the segment.
 

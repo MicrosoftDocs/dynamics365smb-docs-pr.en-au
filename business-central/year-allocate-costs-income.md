@@ -10,7 +10,7 @@ ms.search.form: '283, 5629'
 ms.date: 04/01/2021
 ms.author: bholtorf
 ---
-# <a name="allocate-costs-and-income"></a>Allocate Costs and Income
+# <a name="allocate-recurring-costs-and-income"></a>Allocate Costs and Income
 
 You can allocate an entry in a general journal to several different accounts when you post the journal. The allocation can be made by three different methods:
 

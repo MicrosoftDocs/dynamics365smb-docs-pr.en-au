@@ -11,7 +11,7 @@ ms.search.form: 461
 ms.date: 09/23/2021
 ms.author: bholtorf
 ---
-# <a name="schedule-jobs-for-adjusting-and-reconciling-inventory-cost-with-the-general-ledger"></a>Schedule Jobs for Adjusting and Reconciling Inventory Cost with the General Ledger
+# <a name="schedule-jobs-to-adjust-and-reconcile-inventory-cost"></a>Schedule Jobs for Adjusting and Reconciling Inventory Cost with the General Ledger
 
 To optimise the experience, automatic cost adjustment and posting to the general ledger are turned on by default. However, as data accumulates over time, that might impact performance. To reduce the load on the application, it is often helpful to use job queue entries to move tasks to run in the background.
 
