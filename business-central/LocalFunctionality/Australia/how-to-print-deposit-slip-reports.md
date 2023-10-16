@@ -10,11 +10,11 @@ ms.search.keywords: null
 ms.date: 06/25/2021
 ms.author: bholtorf
 ---
-# <a name="print-deposit-slip-reports-in-the-australian-version"></a>Print Deposit Slip Reports in the Australian Version
+# Print Deposit Slip Reports in the Australian Version
 
 [!INCLUDE [print-deposit-slip-reports](../includes/AUNZ/print-deposit-slip-reports.md)]
 
-## <a name="see-also"></a>See Also
+## See Also
 
 [Australia Local Functionality](australia-local-functionality.md)
 

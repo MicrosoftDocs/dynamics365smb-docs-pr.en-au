@@ -11,7 +11,7 @@ ms.search.form: '11600, 28040,28041,28042,28043,28044, 28164,28165,28166,28167'
 ms.date: 06/17/2021
 ms.author: bholtorf
 ---
-# <a name="withholding-tax-in-the-australian-version"></a>Withholding Tax in the Australian Version
+# Withholding Tax in the Australian Version
 
 Withholding Tax (WHT) is tax withheld by a company when making a payment to a vendor, in which the full amount owed to that vendor is reduced by the tax withheld. The withheld tax is then remitted to the Australian Taxation Office (ATO) during the next Business Activity Statement (BAS) submission.  
 
@@ -45,15 +45,15 @@ In Australia, WHT is not calculated if the individual invoice amount is less tha
 
 - **Revenue Types** – Drill down to the **WHT Revenue Types** page. These values determine how the combination of **WHT Business Posting Group** and **WHT Product Posting Group** are displayed in reports. You must enter a value in order for this combination to appear in the WHT reports.  
 
-## <a name="wht-for-suppliers-without-an-abn"></a>WHT for Suppliers Without an ABN
+## WHT for Suppliers Without an ABN  
 Ensure that there is a valid combination of **General Business** and **General Product Posting Groups** with the correct threshold. For example, in Australia today the minimum threshold is $75 with a rate of 46.50%.  
 
 The percentage withheld is specified in **WHT Posting Setup**. The amount to be withheld is calculated automatically at the time of payment. The WHT certificate is printed automatically, and then sent to the vendor with payment. The WHT certificate explains the reasons for not sending the full invoiced amount.  
 
-## <a name="wht-for-foreign-suppliers"></a>WHT for Foreign Suppliers
+## WHT for Foreign Suppliers  
 Ensure that a valid combination of **General Business** and **General Product PostingGroups** has been established for vendors for whom you need to withhold tax, other than for non-ABN.  
 
-## <a name="see-also"></a>See Also
+## See Also  
  [Set Up Withholding Tax](how-to-set-up-withholding-tax.md)   
  [Set Up Vendors Without ABN for Calculating the Withholding Tax](how-to-set-up-vendors-without-abn-for-calculating-the-withholding-tax.md)   
  [Set Up Revenue Types for Withholding Tax](how-to-set-up-revenue-types-for-withholding-tax.md)   
