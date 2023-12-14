@@ -6,7 +6,7 @@ ms.author: bholtorf
 ---
 In [!INCLUDE[prod_short](../../../includes/prod_short.md)], you can use purchase delivery reminders to remind vendors about overdue deliveries. To create delivery reminders for vendors, you must set up base data for delivery reminder creation and number series for the delivery reminders on the **Purchases & Payables Setup** page.  
 
-## To set up delivery reminders  
+## <a name="to-set-up-delivery-reminders"></a>To set up delivery reminders
 
 1. Choose the ![Lightbulb that opens the Tell Me feature.](../../../media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Purchases & Payables Setup**, and then choose the related link.  
 2. In the **Default Del. Rem. Date Field** field, specify one of the options described in the following table.  

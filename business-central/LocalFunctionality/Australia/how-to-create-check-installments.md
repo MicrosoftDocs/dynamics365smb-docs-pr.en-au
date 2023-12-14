@@ -11,11 +11,11 @@ ms.search.form: '28090,28091,28092,28093'
 ms.date: 11/24/2023
 ms.author: bholtorf
 ---
-# Create cheque instalments in the Australian version
+# <a name="create-check-installments-in-the-australian-version"></a>Create cheque instalments in the Australian version
 
 [!INCLUDE [create-check-installments](../includes/AUNZ/create-check-installments.md)]
 
-## See also
+## <a name="see-also"></a>See also
 
 [Australia Local Functionality](australia-local-functionality.md)
 
