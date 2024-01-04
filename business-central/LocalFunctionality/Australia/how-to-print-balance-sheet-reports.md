@@ -10,11 +10,11 @@ ms.search.keywords: null
 ms.date: 11/07/2023
 ms.author: bholtorf
 ---
-# Print balance sheet reports in the Australian version
+# <a name="print-balance-sheet-reports-in-the-australian-version"></a>Print balance sheet reports in the Australian version
 
 [!INCLUDE [print-balance-sheet-reports](../includes/AUNZ/print-balance-sheet-reports.md)]
 
-## See also
+## <a name="see-also"></a>See also
 
 [Print Income Statements](how-to-print-income-statements.md)   
 [Print Goods and Service Tax Settlement Reports](how-to-print-goods-and-service-tax-settlement-reports.md)   

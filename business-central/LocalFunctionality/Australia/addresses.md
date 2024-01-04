@@ -11,7 +11,7 @@ ms.search.keywords: null
 ms.date: 11/22/2023
 ms.author: bholtorf
 ---
-# About addresses in the Australian version
+# <a name="about-addresses-in-the-australian-version"></a>About addresses in the Australian version
 
 A single postcode can include multiple cities in the same region. At the same time, cities with the same name are sometimes located in different states.  
 
@@ -27,7 +27,7 @@ When you print an address that has a DPID, a bar code is printed together with t
 
 Contact your Microsoft partner for information on how to obtain AMAS software.  
 
-## See also  
+## <a name="see-also"></a>See also
  [Australia Local Functionality](australia-local-functionality.md)
 
 
