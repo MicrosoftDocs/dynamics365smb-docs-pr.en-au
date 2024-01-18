@@ -9,13 +9,13 @@ ms.date: 11/28/2023
 ms.author: bholtorf
 ---
 
-# View posted tax CR/Adj notes in the Australian version
+# <a name="view-posted-tax-credit-memos-in-the-australian-version"></a>View posted tax CR/Adj notes in the Australian version
 
 You can use the **Posted Sales Tax CR/Adj Note** page and **Posted Purch. Tax CR/Adj Note** page to view details of sales tax CR/Adj notes and purchase tax CR/Adj notes that are posted.  
 
 The following procedure describes how to view posted sales tax CR/Adj Notes, but the same steps also apply for viewing posted purchase tax CR/Adj Notes.  
 
-## To view a posted sales tax CR/Adj Note  
+## <a name="to-view-a-posted-sales-tax-credit-memo"></a>To view a posted sales tax CR/Adj Note
 
 1.  Choose the ![Lightbulb that opens the Tell Me feature.](../../media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Posted GST CR/Adj Note**, and then choose the related link.  
 2.  View the FastTabs as described in the following table.  
@@ -30,7 +30,7 @@ The following procedure describes how to view posted sales tax CR/Adj Notes, but
 
 3.  Choose the **OK** button.  
 
-## See also  
+## <a name="see-also"></a>See also
  [View Posted Tax Invoices](how-to-view-posted-tax-invoices.md)   
  [View Withholding Tax Entries](how-to-view-withholding-tax-entries.md)
 
