@@ -3,20 +3,19 @@ title: 'Print income statements [AU]'
 description: Describes how to view the company's annual income statement in the Australian version.
 author: brentholtorf
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.keywords: null
 ms.date: 11/27/2023
 ms.author: bholtorf
+ms.service: dynamics-365-business-central
 ---
-# <a name="print-income-statements-in-the-australian-version"></a>Print income statements in the Australian version
+# Print income statements in the Australian version
 
 You can use the **Income Statement** report to view the company's annual income statement.  
 
 This is a legal report that is required for auditing accounts. This report displays the details of revenues and expenses for the current year and the previous year.  
 
-## <a name="to-print-the-income-statement-report"></a>To print the income statement report
+## To print the income statement report  
 1. Choose the ![Lightbulb that opens the Tell Me feature.](../../media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Income Statement**, and then choose the relevant link.  
 2. On the **Income Statement** page, fill in the fields as described in the following table.  
 
@@ -27,7 +26,7 @@ This is a legal report that is required for auditing accounts. This report displ
 
 3. Choose the **Print** button to print the report, or choose the **Preview** button to view it on the screen.  
 
-## <a name="see-also"></a>See also
+## See also  
 [Calculate and Post Withholding Tax Settlements](how-to-calculate-and-post-withholding-tax-settlements.md)  
 [View Withholding Tax Entries](how-to-view-withholding-tax-entries.md)   
 [Compare Bank Cash Flow](how-to-compare-bank-cash-flow.md)     

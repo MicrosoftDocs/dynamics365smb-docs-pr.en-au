@@ -3,14 +3,13 @@ title: Set Up Business Units for Business Activity Statements (AU)
 description: Describes how to consolidate the financial statements of various companies into one financial statement.
 author: brentholtorf
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.keywords: null
 ms.date: 04/01/2021
 ms.author: bholtorf
+ms.service: dynamics-365-business-central
 ---
-# <a name="set-up-business-units-for-business-activity-statements-in-the-australian-version"></a>Set Up Business Units for Business Activity Statements in the Australian Version
+# Set Up Business Units for Business Activity Statements in the Australian Version
 
 In [!INCLUDE[prod_short](../../includes/prod_short.md)], you can consolidate the financial statements of various companies into one financial statement.  
 
@@ -24,7 +23,7 @@ You can use the **BAS Business Units** page to set up the following:
 
 You must provide information on the **General Ledger Setup** page before you can set up business units.  
 
-## <a name="to-set-up-a-general-ledger-for-a-business-activity-statement"></a>To set up a general ledger for a business activity statement
+## To set up a general ledger for a business activity statement  
 1. Choose the ![Lightbulb that opens the Tell Me feature.](../../media/ui-search/search_small.png "Tell me what you want to do") icon, enter **General Ledger Setup**, and then choose the related link.  
 2. Fill in the required fields as described in the following table.  
 
@@ -35,7 +34,7 @@ You must provide information on the **General Ledger Setup** page before you can
 
 3.  Choose the **OK** button.  
 
-## <a name="to-set-a-business-unit-for-a-business-activity-statement"></a>To set a business unit for a business activity statement
+## To set a business unit for a business activity statement  
 1. Choose the ![Lightbulb that opens the Tell Me feature.](../../media/ui-search/search_small.png "Tell me what you want to do") icon, enter **BAS Business Units**, and then choose the related link.  
 2. Fill in the fields as described in the following table.  
 
@@ -47,7 +46,7 @@ You must provide information on the **General Ledger Setup** page before you can
 
 3. Choose the **OK** button.  
 
-## <a name="see-also"></a>See Also
+## See Also  
 [Australian Local Functionality](australia-local-functionality.md)   
 
 
