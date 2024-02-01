@@ -3,6 +3,7 @@ author: brentholtorf
 ms.topic: include
 ms.date: 11/21/2023
 ms.author: bholtorf
+ms.service: dynamics-365-business-central
 ---
 
 In [!INCLUDE[prod_short](../../../includes/prod_short.md)], you can create delivery reminders when a purchase isn't delivered as expected. You can create a single delivery reminder manually, or you can generate delivery reminders for all overdue deliveries.  
@@ -10,7 +11,7 @@ In [!INCLUDE[prod_short](../../../includes/prod_short.md)], you can create deliv
 > [!NOTE]
 > To create delivery reminders, you must have set up the delivery reminder terms, levels, and texts.
 
-## <a name="to-create-a-delivery-reminder-manually"></a>To create a delivery reminder manually
+## To create a delivery reminder manually  
 
 1. Choose the ![The lightbulb icon that opens the Tell Me feature.](../../../media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Delivery Reminder**, and then choose the related link.  
 2. Choose the **New** action.  

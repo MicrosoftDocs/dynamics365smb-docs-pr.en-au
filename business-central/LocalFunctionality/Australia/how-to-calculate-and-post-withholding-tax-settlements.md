@@ -6,8 +6,9 @@ ms.topic: conceptual
 ms.search.keywords: null
 ms.date: 04/01/2021
 ms.author: bholtorf
+ms.service: dynamics-365-business-central
 ---
-# <a name="calculate-and-post-withholding-tax-settlements-in-the-australian-version"></a>Calculate and Post Withholding Tax Settlements in the Australian Version
+# Calculate and Post Withholding Tax Settlements in the Australian Version
 
 You can use the **Calc. and Post WHT Settlement** page to calculate and post the withholding tax (WHT).  
 
@@ -20,7 +21,7 @@ The sum of all withheld amounts is reported as a truncated whole number to the A
 
 [!INCLUDE [calculate-post-wht-settlements](../includes/AUNZ/calculate-post-wht-settlements.md)]
 
-## <a name="see-also"></a>See Also
+## See Also
 
  [Withholding Tax](withholding-tax.md)   
  [Set Up Withholding Tax](how-to-set-up-withholding-tax.md)   

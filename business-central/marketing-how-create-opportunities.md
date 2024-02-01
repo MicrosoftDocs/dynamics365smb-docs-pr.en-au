@@ -3,9 +3,7 @@ title: Create Sales Opportunities
 description: This article describes how to create opportunities from a salesperson or a contact in Business Central.
 author: jswymer
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.keywords: 'relationship, prospect'
 ms.date: 06/22/2021
 ms.author: jswymer
