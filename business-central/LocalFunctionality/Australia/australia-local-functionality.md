@@ -9,10 +9,10 @@ ms.date: 02/08/2024
 ms.author: bholtorf
 ms.service: dynamics-365-business-central
 ---
-# Australia local unctionality
+# <a name="australia-local-unctionality"></a>Australia local unctionality
 The following articles describe local functionality that is unique to the Australian version of [!INCLUDE[prod_short](../../includes/prod_short.md)].  
 
-## Feature availability
+## <a name="feature-availability"></a>Feature availability
 
 * Tax
     * [Tax](tax.md) **Available Now**
@@ -48,7 +48,7 @@ The following articles describe local functionality that is unique to the Austra
     * [Enter Australian Business Numbers](australian-business-numbers-and-adjustment-notes.md) **Available Now**
     * [Payment Times Reporting](payment-times-reporting.md) **Available Now**
 
-## Future legislation requirements being investigated
+## <a name="future-legislation-requirements-being-investigated"></a>Future legislation requirements being investigated
 
 * ANZ Peppol format for E-Documents **Planned for 2024 release wave 2**  
 * Payment Times Reporting Bill Compliance **Planned for 2024 release wave 2** 
@@ -56,7 +56,7 @@ The following articles describe local functionality that is unique to the Austra
 
 If you're aware of any upcoming regulatory features, submit a [Regulatory Feature Alert](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbRwkeauYiJKZOpJ0CtKuVmJlURURaMlQ4Rk05UFY4NkVEOTA0MUU5WThXSC4u).
 
-## See also
+## <a name="see-also"></a>See also
 
 [Work with [!INCLUDE[prod_short](../../includes/prod_short.md)]](../../ui-work-product.md)  
 [Country/regional availability and supported languages](/dynamics365/business-central/dev-itpro/compliance/apptest-countries-and-translations)  
