@@ -14,7 +14,7 @@ To create delivery reminders, you must set up the following prerequisites:
 
 Each delivery reminder term has two or more delivery reminder levels, and for each delivery reminder level, you can specify text that is part of the delivery reminder.  
 
-## To set up delivery reminder terms  
+## <a name="to-set-up-delivery-reminder-terms"></a>To set up delivery reminder terms
 
 1. Choose the ![Lightbulb that opens the Tell Me feature.](../../../media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Delivery Reminder Terms**, and then choose the related link.  
 2. Choose the **New** action.  
@@ -28,7 +28,7 @@ Each delivery reminder term has two or more delivery reminder levels, and for ea
 
 4. Choose the **OK** button.  
 
-## To add delivery reminder levels to a delivery reminder term  
+## <a name="to-add-delivery-reminder-levels-to-a-delivery-reminder-term"></a>To add delivery reminder levels to a delivery reminder term
 
 1. On the **Delivery Reminder Terms** page, select the delivery reminder term for which you want to set up levels, and then choose the **Levels** action.  
 2. Choose the **New** action.  
@@ -45,7 +45,7 @@ For each delivery reminder level, you can define text messages that are added to
 
 The following procedure describes how to set up beginning text messages, but the same steps apply for setting up ending text messages.  
 
-## To set up delivery reminder text messages  
+## <a name="to-set-up-delivery-reminder-text-messages"></a>To set up delivery reminder text messages
 
 1. On the **Delivery Reminder Levels** page, select a level, and then choose the **Beginning Text** action.  
 2. Choose the **New** action.  
