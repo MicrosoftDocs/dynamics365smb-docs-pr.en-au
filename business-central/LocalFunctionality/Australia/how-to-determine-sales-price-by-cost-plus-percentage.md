@@ -9,11 +9,11 @@ ms.date: 04/01/2021
 ms.author: bholtorf
 ms.service: dynamics-365-business-central
 ---
-# Determine Sales Price by Cost Plus Percentage in the Australian Version
+# <a name="determine-sales-price-by-cost-plus-percentage-in-the-australian-version"></a>Determine Sales Price by Cost Plus Percentage in the Australian Version
 
 [!INCLUDE [determine-sales-price-cost-percentage](../includes/AUNZ/determine-sales-price-cost-percentage.md)]
 
-## See Also
+## <a name="see-also"></a>See Also
 
 [Australia Local Functionality](australia-local-functionality.md)
 

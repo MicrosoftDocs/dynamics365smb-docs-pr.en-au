@@ -11,7 +11,7 @@ ms.author: altotovi
 ms.service: dynamics-365-business-central
 ---
 
-# GST in the Default Version of Business Central
+# <a name="sales-tax-in-the-default-version-of-business-central"></a>GST in the Default Version of Business Central
 
 A **GST** is a tax that applies to the purchase of goods and services for consumers and to the sale of goods and services for businesses. GST, ideally, should apply to all final consumption with few exemptions. Exemptions in final consumptions depend on local authorities but, generally speaking, business-to-business transactions are exempted from GST.  
 
@@ -22,7 +22,7 @@ Typically, GST applies to the retail sale of goods and services and are a percen
 > [!IMPORTANT]
 > Although GST is available in the default version, Microsoft supports the use of GST in Australia only.
 
-## See also
+## <a name="see-also"></a>See also
 
 [Report GST in Australia](localfunctionality/UnitedStates/us-sales-tax.md)  
 [Report GST in Australia](localfunctionality/canada/ca-sales-tax.md)  
