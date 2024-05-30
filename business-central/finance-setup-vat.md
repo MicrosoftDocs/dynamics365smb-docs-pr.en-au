@@ -142,7 +142,7 @@ To limit postings for the specific user:
 3. In the **Allow Posting From** field, specify the GST date from which you allow posting. Posting a document or journal with a GST date before this date isn't allowed.
 4. In the **Allow Posting To** field, specify the GST date until which you allow posting. Posting a document or journal with a GST date after this date isn't allowed.
 
-## <a name="set-up-vat-registration-numbers-for-your-country-or-region"></a>Set up Australian business numbers for your country or region
+## <a name="set-up-vat-registration-numbers-for-your-countryregion"></a>Set up Australian business numbers for your country or region
 
 To help ensure people enter valid exemption certification numbers, you can define formats for the exemption certification numbers that are used in the countries or regions in which you do business. [!INCLUDE[prod_short](includes/prod_short.md)] displays an error message if someone makes a mistake or uses a format that is incorrect for the country or region.
 
@@ -232,7 +232,7 @@ The following sections describe how to assign GST posting groups to individual e
     * On the **Resource** card, expand the **Invoicing** FastTab.  
 3. Choose the GST product posting group.  
 
-## <a name="set-up-clauses-to-explain-vat-exemption-or-non-standard-vat-rates"></a>Set up clauses to explain GST exemption or non-standard GST rates
+## <a name="set-up-clauses-to-explain-vat-exemption-or-nonstandard-vat-rates"></a>Set up clauses to explain GST exemption or non-standard GST rates
 
 You set up a GST clause to describe information about the type of GST that is being applied. The information may be required by government regulations. After you set up a GST clause, and associate it with a GST posting setup, the GST clause is displayed on printed sales documents that use the GST posting setup group.
 
@@ -293,7 +293,7 @@ To set up codes for import GST, follow these steps:
 5. In the **GST Calculation Type** field, choose **Full GST**.  
 6. In the **Purchase GST Account** field, enter the general ledger account to use for posting import GST. All other accounts are optional.  
 
-## <a name="use-reverse-charge-vat-for-trade-between-eu-countries-or-regions"></a>Use reverse charge GST for trade between EU countries or regions
+## <a name="use-reverse-charge-vat-for-trade-between-eu-countriesregions"></a>Use reverse charge GST for trade between EU countries or regions
 
 Some companies must use reverse charge VAT when trading with other companies. For example, this rule applies to purchases from EU countries/regions and sales to EU countries/regions.  
 
@@ -303,7 +303,7 @@ Some companies must use reverse charge VAT when trading with other companies. Fo
 > [!TIP]  
 > You can verify that a company is registered as VAT liable in another EU country/region by using the EU VAT Registration Number Validation service. The service is available for free in [!INCLUDE[prod_short](includes/prod_short.md)]. For more information, see [Verify VAT registration numbers](finance-how-validate-vat-registration-number.md).
 
-### <a name="sales-to-eu-countries-or-regions"></a>Sales to EU countries or regions
+### <a name="sales-to-eu-countriesregions"></a>Sales to EU countries or regions
 
 VAT isn't calculated on sales to VAT-liable companies in other EU countries/regions. You must report the value of these sales to EU countries/regions separately on your VAT statement.  
 
