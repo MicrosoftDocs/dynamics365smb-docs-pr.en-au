@@ -10,13 +10,13 @@ ms.date: 06/25/2021
 ms.author: bholtorf
 ms.service: dynamics-365-business-central
 ---
-# Electronic Funds Transfer (EFT) in the Australian Version
+# <a name="electronic-funds-transfer-eft-in-the-australian-version"></a>Electronic Funds Transfer (EFT) in the Australian Version
 
 You can pay vendors using the electronic funds transfer (EFT) system in Australia.  
 
 [!INCLUDE [electronic-funds-transfer-eft](../includes/AUNZ/electronic-funds-transfer-eft.md)]
 
-## See Also
+## <a name="see-also"></a>See Also
 
 [Export Payments to a Bank File](../../finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer.md#exporting-payments-to-a-bank-file)  
 [Australia Local Functionality](australia-local-functionality.md)
