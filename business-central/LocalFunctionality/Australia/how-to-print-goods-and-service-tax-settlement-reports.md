@@ -10,11 +10,11 @@ ms.author: bholtorf
 ms.service: dynamics-365-business-central
 ---
 
-# Print goods and service tax settlement reports in the Australian version
+# <a name="print-goods-and-service-tax-settlement-reports-in-the-australian-version"></a>Print goods and service tax settlement reports in the Australian version
 
 [!INCLUDE [print-gst-settlement-reports](../includes/AUNZ/print-gst-settlement-reports.md)]
 
-## See also
+## <a name="see-also"></a>See also
 
 [Set Up Goods and Service Tax Posting](how-to-set-up-goods-and-service-tax-posting.md)   
 [Australian Local Functionality](australia-local-functionality.md)  
