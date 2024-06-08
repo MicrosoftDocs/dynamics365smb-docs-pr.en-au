@@ -9,7 +9,7 @@ ms.date: 06/17/2021
 ms.author: bholtorf
 ms.service: dynamics-365-business-central
 ---
-# <a name="tax-overview"></a>Tax Overview
+# Tax Overview
 
 For information about tax in Australia, see the following topics:  
 
@@ -25,7 +25,7 @@ For information about tax in Australia, see the following topics:
 [View Posted Tax Invoices](how-to-view-posted-tax-invoices.md)  
 [View Posted Tax CR/Adj Notes](how-to-view-posted-tax-credit-memos.md)
 
-## <a name="see-also"></a>See Also
+## See Also
 
 [Australia Local Functionality](australia-local-functionality.md)  
 

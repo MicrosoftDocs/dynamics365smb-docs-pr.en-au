@@ -9,11 +9,11 @@ ms.date: 11/07/2023
 ms.author: bholtorf
 ms.service: dynamics-365-business-central
 ---
-# <a name="set-up-revenue-types-for-withholding-tax-in-the-australian-version"></a>Set up revenue types for withholding tax in the Australian version
+# Set up revenue types for withholding tax in the Australian version
 
 [!INCLUDE [wht-revenue-types-setup](../includes/AUNZ/wht-revenue-types-setup.md)]
 
-## <a name="see-also"></a>See also
+## See also
 
 [Withholding Tax](withholding-tax.md)   
 [Set Up Withholding Tax](how-to-set-up-withholding-tax.md)   
