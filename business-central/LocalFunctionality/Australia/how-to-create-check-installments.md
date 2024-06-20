@@ -9,12 +9,13 @@ ms.search.form: '28090,28091,28092,28093'
 ms.date: 11/24/2023
 ms.author: bholtorf
 ms.service: dynamics-365-business-central
+ms.reviewer: bholtorf
 ---
-# <a name="create-check-installments-in-the-australian-version"></a>Create cheque instalments in the Australian version
+# Create cheque instalments in the Australian version
 
 [!INCLUDE [create-check-installments](../includes/AUNZ/create-check-installments.md)]
 
-## <a name="see-also"></a>See also
+## See also
 
 [Australia Local Functionality](australia-local-functionality.md)
 
