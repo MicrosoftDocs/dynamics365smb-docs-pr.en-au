@@ -10,11 +10,11 @@ ms.author: bholtorf
 ms.service: dynamics-365-business-central
 ms.reviewer: bholtorf
 ---
-# <a name="how-to-calculate-distribution-amounts-in-the-australian-version"></a>How to Calculate Distribution Amounts in the Australian Version
+# How to Calculate Distribution Amounts in the Australian Version
 
 [!INCLUDE [calculating-distribution-amounts](../includes/AUNZ/calculating-distribution-amounts.md)]
 
-## <a name="see-also"></a>See Also
+## See Also
 
 [Australia Local Functionality](australia-local-functionality.md)  
 

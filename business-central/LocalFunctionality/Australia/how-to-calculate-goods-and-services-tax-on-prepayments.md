@@ -11,11 +11,11 @@ ms.author: bholtorf
 ms.service: dynamics-365-business-central
 ms.reviewer: bholtorf
 ---
-# <a name="calculate-goods-and-services-tax-on-prepayments-in-the-australian-version"></a>Calculate goods and services tax on prepayments in the Australian version
+# Calculate goods and services tax on prepayments in the Australian version
 
 [!INCLUDE [calculate-gst-prepayments](../includes/AUNZ/calculate-gst-prepayments.md)]
 
-## <a name="see-also"></a>See also
+## See also
 
 [Invoicing Prepayments](../../finance-invoice-prepayments.md)   
 [Australia Local Functionality](australia-local-functionality.md)

@@ -10,12 +10,12 @@ ms.author: bholtorf
 ms.service: dynamics-365-business-central
 ms.reviewer: bholtorf
 ---
-# <a name="compare-bank-cash-flow-in-the-australian-version"></a>Compare bank cash flow in the Australian version
+# Compare bank cash flow in the Australian version
 
 
 [!INCLUDE [compare-bank-cash-flow](../includes/AUNZ/compare-bank-cash-flow.md)]
 
-## <a name="see-also"></a>See also
+## See also
 
 [Create Cheque Instalments](how-to-create-check-installments.md)   
 [Australia Local Functionality](australia-local-functionality.md)
