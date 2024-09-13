@@ -12,13 +12,13 @@ ms.service: dynamics-365-business-central
 ms.reviewer: bholtorf
 ---
 
-# Sustainability module setup 
+# <a name="sustainability-module-setup"></a>Sustainability module setup
 
 Before the Sustainability module can work correctly, you must set up some basic controls and instructions that are related to the whole functionality.
 
 To set up the Sustainability module, follow the steps:
 
-## Role center  
+## <a name="role-center"></a>Role center
 
 For individuals whose primary responsibilities involve sustainability processes, it's recommended to utilize the *Sustainability Manager* role center. To configure this role center, follow the steps:  
 
@@ -29,7 +29,7 @@ For individuals whose primary responsibilities involve sustainability processes,
 
 The *Sustainability Manager* role center facilitates efficient management of all key areas related to sustainability. It encompasses core sustainability features, as well as finance and procurement processes. Additionally, it provides visibility into the most critical sustainability-related KPIs.
 
-## Sustainability setup  
+## <a name="sustainability-setup"></a>Sustainability setup
 
 1. Select the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Sustainability Setup**, and then select the related link.
 2. On the **General** FastTab, configure the required fields that are related to the Sustainability module.
@@ -72,7 +72,7 @@ The *Sustainability Manager* role center facilitates efficient management of all
     | **Emission Rounding Precision** | Specify the size of the interval that is used during rounding of emission amounts when you report to authorities. |
     | **Emission Rounding Type** | Specify how the program rounds emission amounts when you report to authorities. The following options are available: **Nearest**, **Up**, and **Down**. |
 
-## Emission Fees   
+## <a name="emission-fees"></a>Emission Fees
 
 To track internal carbon fees or calculate your emissions using carbon dioxide (CO2) equivalents, you need to configure the **Emission Fees** page. To set up this information, follow these steps:  
 
@@ -89,7 +89,7 @@ To track internal carbon fees or calculate your emissions using carbon dioxide (
 
 If you didn't configure the **Emission Fees** before posting your sustainability entries, and you want to calculate your carbon fees and CO2e retroactively, you need to run the **Calculate Emission Fees** action to update values on the **Sustainability Ledger Entries**.  
 
-## See also
+## <a name="see-also"></a>See also
 
 [Finance](finance.md)    
 [Sustainability management overview](finance-manage-sustainability.md)    

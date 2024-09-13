@@ -12,13 +12,13 @@ ms.service: dynamics-365-business-central
 ms.reviewer: solsen
 ---
 
-# Work with carbon credit  
+# <a name="work-with-carbon-credit"></a>Work with carbon credit
 
 When companies can't reduce their emissions for various reasons, they can purchase carbon credits to offset their emissions. By buying carbon credits, a company can still emit the equivalent amount of gases while remaining carbon neutral. These credits are purchased from specialized providers, incentivizing emission reductions.  
 
 In general, carbon credits are permits that allow the owner to emit a certain amount of carbon dioxide (CO₂) or other greenhouse gases (GHGs). One carbon credit typically represents the right to emit one metric ton of CO₂ or an equivalent amount of another GHG, so it's important to enable this option for some organizations.  
 
-## Set up the carbon credit  
+## <a name="set-up-the-carbon-credit"></a>Set up the carbon credit
 
 Carbon Credit in [!INCLUDE[prod_short](includes/prod_short.md)] can be set as the **Item**. To set up the **Item** as a carbon credit, follow the steps:
   
@@ -32,9 +32,9 @@ Carbon Credit in [!INCLUDE[prod_short](includes/prod_short.md)] can be set as th
 > [!NOTE]
 > You can set up any type of item, whether it's inventory, service, or non-inventory, as a carbon credit.  
 
-## To purchase carbon credit 
+## <a name="to-purchase-carbon-credit"></a>To purchase carbon credit
 
-### Purchase documents 
+### <a name="purchase-documents"></a>Purchase documents
 
 To work with any purchase-related documents, follow the steps:
 
@@ -49,7 +49,7 @@ To work with any purchase-related documents, follow the steps:
 > [!NOTE]
 > Although carbon credit will decrease the value of entries, you'll see a positive amount of value in the **Emission CO2**. But once you post the document, you'll see a value with a negative sign in the **Sustainability Ledger Entry** with the **GHG Credit** as a **Document Type**.  
 
-### Sustainability journals 
+### <a name="sustainability-journals"></a>Sustainability journals
 
 To work with **Sustainability Journal** follow the steps:  
 
@@ -60,7 +60,7 @@ To work with **Sustainability Journal** follow the steps:
 5. Select **Manual Input** and enter the value you want to post as a carbon credit to the **Emission CO2** field.  
 6. Post the journal.   
 
-## See also
+## <a name="see-also"></a>See also
 
 [Finance](finance.md)    
 [Record sustainability entries](finance-sustainability-journal.md)    

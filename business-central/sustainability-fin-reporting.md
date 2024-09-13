@@ -10,11 +10,11 @@ ms.author: altotovi
 ms.service: dynamics-365-business-central
 ---
 
-# Analyzing sustainability entries with financial reports 
+# <a name="analyzing-sustainability-entries-with-financial-reports"></a>Analyzing sustainability entries with financial reports
 
 The *Financial Reports* feature gives you insights into the financial data shown on your chart of accounts (COA). You can set up financial reports to analyse figures in general ledger (G/L) accounts, and compare general ledger entries with budget entries. But you can also analyze statistical and sustainability data with the same feature, and even combine all three types of data.  
 
-## Prerequisites for financial reporting  
+## <a name="prerequisites-for-financial-reporting"></a>Prerequisites for financial reporting
 
 Setting up financial reports requires an understanding of the structure of the data you want to analyze. There are some key concepts that you likely need to pay attention to before you design your financial reports: 
 
@@ -36,7 +36,7 @@ Setting up financial reports requires an understanding of the structure of the d
 > [!NOTE]
 > More detaials about using Financial reports with financial data and chart of accounts can be found here [Build Financial Reports Using Financial Data and Account Categories](bi-how-work-account-schedule.md).   
 
-## Create a new financial report  
+## <a name="create-a-new-financial-report"></a>Create a new financial report
 
 To quickly create your own financial reports, start by copying an existing one, as described in step 3 below. 
 
@@ -65,7 +65,7 @@ To create or edit a row definition, follow the steps:
 > [!NOTE]
 > Row definitions aren't versioned. When you change a row definition, the old version is replaced and your changes will be saved to the database. 
 
-### Analyzing sustainability data  
+### <a name="analyzing-sustainability-data"></a>Analyzing sustainability data
 
 1. Enter the **Row No.** to identify your raw and add **Description** as a text that will appear on the financial report line. 
 2. In the Totaling Type column, choose the **Sust. Accounts** option.   
@@ -75,14 +75,14 @@ To create or edit a row definition, follow the steps:
    2. **Carbon Fee** if you want to report financial equivalent (carbon fee) from the **Carbon Fee** field on the **Sustainability Ledger Entries**. 
 5. If you choose **Formula** as a **Totaling Type** you can use mathematical formulas in the **Totaling** column.  
 
-### Analyzing statistical data
+### <a name="analyzing-statistical-data"></a>Analyzing statistical data
 
 1. Enter the **Row No.** to identify your row and add **Description** as a text that will appear on the financial report line. 
 2. In the **Totaling Type** column, choose the **Statistical Accounts** option.   
 3. In the **Totaling** field, choose one or more sustainability accounts using all applicable filters. 
 4. If you choose **Formula** as a **Totaling Type**, you can use mathematical formulas in the **Totaling** column.  
 
-## See also
+## <a name="see-also"></a>See also
 
 [Sustainability Management Overview](finance-manage-sustainability.md)    
 [Sustainability reports and analytics in Business Central](sustainability-reports.md)   
