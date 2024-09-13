@@ -6,23 +6,26 @@ ms.topic: conceptual
 ms.devlang: al
 ms.search.keywords: 'Sustainability, ESG, emission, GHG, CSRD, journal'
 ms.search.form: '6216, 6219, 6220'
-ms.date: 05/07/2024
+ms.date: 08/19/2024
 ms.author: altotovi
 ms.service: dynamics-365-business-central
 ms.reviewer: bholtorf
 ---
 
-# <a name="record-sustainability-entries"></a>Record sustainability entries
+# Record sustainability entries
 
-Currently, the only way to record greenhouse gas (GHG) emissions in the sustainability ledger is to use sustainability journals.
+Users can manually record greenhouse gas (GHG) emissions in the sustainability ledger manually using sustainability journals or any kind of purchase-related documents.  
 
-## <a name="sustainability-journals"></a>Sustainability journals
+> [!NOTE]
+> Using any kind of purchase-related documents to record greenhouse gas (GHG) emissions is available starting with the *2024 release wave 2*.  
+
+## Sustainability journals
 
 Sustainability journals are designed to track and record sustainability-related activities by using the same user experience as other journals in Business Central. Users who have the necessary information can manually enter emissions in a journal. Alternatively, if they lack the information, they can use built-in formulas to accurately calculate emissions based on specific known parameters that correspond to various types of sources and accounts.
 
 The information that you enter in a journal is temporary and can be changed while it's in that journal. When you post the journal, the information is transferred to sustainability ledger entries on individual sustainability accounts, where it can't be changed. However, you can post reversing or correcting entries.
 
-### <a name="use-journal-templates-and-batches"></a>Use journal templates and batches
+### Use journal templates and batches
 
 By default, there are two sustainability journal templates: the standard template and the recurring template.
 
@@ -31,15 +34,15 @@ For each journal template, you can set up your own personal journal as a journal
 > [!TIP]
 > If you have many lines, you can help reduce the risk of mistakes by having one journal batch for each emission type. Alternatively, you can use the common batch for all emission types.
 
-### <a name="validate-sustainability-journals"></a>Validate sustainability journals
+### Validate sustainability journals
 
 On the **Sustainability Setup** page, you can turn on a background check to help prevent posting delays. If any mistakes that occur while you work in the sustainability journal, the validation notifies you and prevents you from posting the journal.
 
 When you enable the validation, the **Journal Check** FactBox shows issues on the current line and in the whole batch. Validation occurs when you load a journal batch and when you select another journal line. The **Issues Total** tile in the FactBox shows the total number of issues that [!INCLUDE [prod_short](includes/prod_short.md)] found. You can select the tile to open an overview of the issues.
 
-### <a name="work-with-sustainability-journals"></a>Work with sustainability journals
+### Work with sustainability journals
 
-To start to work with sustainability journals, follow these steps:
+To work with sustainability journals, follow the steps:
 
 1. Select the ![Lightbulb that opens the Tell Me feature 3.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Sustainability Journal**, and then select the related link.
 2. On the **Sustainability Journal** page, enter as many lines as you plan to post in the same batch.
@@ -58,7 +61,7 @@ To start to work with sustainability journals, follow these steps:
 
 If your formula is based on the **Calculate from General Ledger** option in the sustainability account category, you must use the **Collect Amount from G/L Entries** action before you post the journal, to calculate emissions based on this data source. Additionally, if you made changes to the emission factors after the journal lines were populated, you must select the **Recalculate** action to get the proper amount in the journal.
 
-### <a name="recurring-journals"></a>Recurring journals
+### Recurring journals
 
 A recurring journal is a sustainability journal that has specific fields for managing transactions that you often post with few, if any, changes. Examples include sustainability transactions such as electricity or heat, or other similar transactions. You can use recurring journals to post fixed and variable amounts.
 
@@ -70,12 +73,40 @@ The **Recurring Frequency** field is also important and must be set. It's a date
 
 The **Expiration Date** field determines the date when the line will be posted for the last time. The line won't be posted after that date. The advantage of using the **Expiration Date** field is that the line isn't immediately deleted from the journal. You can enter a later date so that you can use the line in the future. If the field is blank, the line will be posted every time, until it's deleted from the journal.
 
-## <a name="see-also"></a>See also
+## Purchase documents  
 
-[Finance](finance.md)  
-[Sustainability management overview](finance-manage-sustainability.md)  
-[Sustainability Setup](finance-sustainability-setup.md)  
-[Chart of Sustainability Accounts and Ledger](finance-sustainability-accounts-ledger.md)  
-[Work with [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
+To enable recording of greenhouse gas (GHG) emissions in any purchase-related documents, you must select the **Use Emissions in Purchase Documents** on the **Sustainability Setup** page.  
+
+To work with any purchase-related documents, follow the steps:
+
+1. Select the ![Lightbulb that opens the Tell Me feature 3.](media/ui-search/search_small.png "Tell me what you want to do") icon and:  
+   1. Enter **Purchase Invoices** if you want invoice as a **Document Type**, and then select the related link.  
+   2. Enter **Purchase Orders** if you want order as a **Document Type**, and then select the related link.  
+2. Populate header and lines based on the following instruction [how to work with purchase invoices and orders](purchasing-how-record-purchases.md).
+3. If you have information about emission on the invoice you have from vendor, choose appropriate **Sustainability Account No.** in the document lines and add emissions values using one of the following fields (based on what you want to track and emission you have on your physical invoice): **Emission CO2**, **Emission CH4**, or **Emission N2O**.
+
+    > [!NOTE]
+    > The values you enter in the emission fields are fixed amounts per line and they will not be multiplied with the **Quantity** field. You can use **Sustainability Account No.** only when the **Type** field (**Option Values**) is **Item** or **G/L Account**. You can't use **Resource** or **Charge (Item)** **Option Values**. 
+
+4. If you want to see total emissions before posting, you can open the statistic page and find total posted emissions and emissions for posting per document (any purchase-related documents) in the **Sustainability** FastTab.   
+5. Post the documents and open new **Posted Purchase Invoice**.
+6. Select **Find Entries** action and you'll see that you have **Sustainability Ledger Entry** as one of the related entries on the **Find entries** page.
+
+> [!NOTE]
+> When you post the document, for each of the purchase lines where you have **Sustanability Account No.** system will create independent **Sustainability Ledger Entry** with the **Invoice** as a **Document Type** and the same **Document No.**
+
+> [!NOTE]
+> You can also create and post **Purchase Credit Memo**. You can do it manually or using some of the following options: **Cancel**, **Correct**, or **Create Corrective Credit Memo** in which case the system will copy the existing values from the posted invoice.  
+
+## See also
+
+[Finance](finance.md)    
+[Sustainability management overview](finance-manage-sustainability.md)    
+[Sustainability Setup](finance-sustainability-setup.md)    
+[Chart of Sustainability Accounts and Ledger](finance-sustainability-accounts-ledger.md)    
+[Ad-hoc analysis of sustainability data](ad-hoc-analysis-sustainability.md)    
+[Sustainability reports and analytics in Business Central](sustainability-reports.md)   
+[Sustainability API](/dynamics365/business-central/dev-itpro/api-sustainability/sustainability-api?toc=/dynamics365/business-central/toc.json)    
+[Work with [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)    
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

@@ -6,13 +6,13 @@ ms.topic: conceptual
 ms.devlang: al
 ms.search.keywords: VAT
 ms.search.form: '118, 472, 737, 743'
-ms.date: 08/12/2024
+ms.date: 08/29/2024
 ms.author: altotovi
 ms.service: dynamics-365-business-central
 ms.reviewer: bholtorf
 ---
 
-# <a name="vat-management-overview"></a>GST management overview
+# GST management overview
 Value Added Tax (VAT) is an indirect tax on the consumption of goods and services. GST is levied at each stage of the supply chain where value is added from initial production to the point of sale. To get started with VAT management, see the following articles.  
 
 |  Article  |  Description  |  
@@ -28,9 +28,10 @@ Value Added Tax (VAT) is an indirect tax on the consumption of goods and service
 | [Set Up a GST Statement](finance-how-setup-vat-statement.md) | This article provides information to ensure that you know how to set up a GST statement template and names to meet changing tax authority requirements.|
 | [Managing GST Rate changes](finance-how-use-vat-rate-change-tool.md) | This article explains how you can use the GST Rate change tool for Dynamics 365 Business Central to change GST rates based on local legislation.|
 | [Validate Exemption Certification numbers](finance-how-validate-vat-registration-number.md) | This article explains how to use Business Central validation for VAT registration numbers for your contacts, customers, and vendors based on the EU VIES VAT Number Validation service.|
+| [Multiple VAT registration numbers](finance-how-use-multiple-vat-registrations.md) | Discover how to set up multiple value-added tax (VAT) registration numbers (as an alternative VAT rate) for your customers who operate in different countries. |
 
 
-## <a name="see-also"></a>See also
+## See also 
 [Finance](finance.md)    
 [Work with [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 
